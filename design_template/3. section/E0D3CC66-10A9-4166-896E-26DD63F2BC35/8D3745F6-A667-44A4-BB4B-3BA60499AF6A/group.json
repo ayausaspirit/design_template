@@ -1,0 +1,84 @@
+{
+  "_class": "group",
+  "do_objectID": "8D3745F6-A667-44A4-BB4B-3BA60499AF6A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7D79F0A5-490A-416A-B363-039BC1879A58",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9A95636C-B8E5-4DF9-9F59-456C8BF63EA9",
+    "height": 111,
+    "width": 1211,
+    "x": 115,
+    "y": 12
+  },
+  "hasClickThrough": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "8FB8ADAA-F794-45D7-8396-65E88D782987"
+    },
+    {
+      "class": "text",
+      "id": "BC4B98E0-9FC6-4719-B148-413E727E1249"
+    },
+    {
+      "class": "bitmap",
+      "id": "BEF2B0CF-AD4A-4524-B383-AA282B413066"
+    },
+    {
+      "class": "text",
+      "id": "066CA8F3-4B84-42BB-88A6-E55D5D603997"
+    }
+  ],
+  "name": "フッター",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5E325E57-21EC-431C-A994-9CC3E08EAA3A",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 0,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

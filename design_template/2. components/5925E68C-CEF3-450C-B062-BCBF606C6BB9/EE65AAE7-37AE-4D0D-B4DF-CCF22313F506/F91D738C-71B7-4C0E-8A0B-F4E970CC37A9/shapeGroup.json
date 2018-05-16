@@ -1,0 +1,106 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "F91D738C-71B7-4C0E-8A0B-F4E970CC37A9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9FB606A8-D4AF-42D1-86DE-FCD6903E323E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8D85B980-5780-437B-95F7-1B31A466B7AB",
+    "height": 50,
+    "width": 200,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "E86A89D1-E856-4792-938E-1855C9A98E18"
+    }
+  ],
+  "name": "Rectangle 9",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.0235294117647059,
+          "green": 0.6078431372549019,
+          "red": 0.215686274509804
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "position": 1,
+        "thickness": 2
+      }
+    ],
+    "do_objectID": "EA1981AA-8A09-4DBE-8A65-612B6E3DE8CF",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.0235294117647059,
+          "green": 0.6078431372549019,
+          "red": 0.215686274509804
+        },
+        "fillType": 0,
+        "isEnabled": false,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "actions": [
+          {
+            "animation": 0,
+            "customAnimationId": "",
+            "delayFromTrigger": 0,
+            "isOverlay": 0,
+            "modelID": "OpenScreen_acdaf611-b7e0-4dfd-a772-cd38005d1f46",
+            "model_class": "ADModelActionPresentScreen",
+            "model_version": 0.1,
+            "name": "untitled",
+            "presentationType": 2,
+            "screenId": "0D482DCE-FAFD-43EF-9ED4-7D4660252BF7",
+            "trigger": 4
+          }
+        ]
+      }
+    }
+  },
+  "windingRule": 1
+}

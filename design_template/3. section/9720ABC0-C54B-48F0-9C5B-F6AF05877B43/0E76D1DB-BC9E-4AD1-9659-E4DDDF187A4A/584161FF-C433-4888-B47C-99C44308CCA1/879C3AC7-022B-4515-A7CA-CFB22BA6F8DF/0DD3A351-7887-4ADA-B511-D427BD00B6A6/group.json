@@ -1,0 +1,60 @@
+{
+  "_class": "group",
+  "do_objectID": "0DD3A351-7887-4ADA-B511-D427BD00B6A6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F6F77C53-250D-4F7C-993C-C2C985938FA5",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F4D3FEC0-1586-4B59-8803-7C780DFFFF4D",
+    "height": 3,
+    "width": 532,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "B0CEBD96-A255-436E-8B70-3391DFAF1666"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2561FD00-B067-4B81-8D5E-EB36328F0DE1"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "73928897-1E84-4FC2-99B6-32CF696BCAB5"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "EBF69763-D34D-4B38-A507-134BB4625A1F"
+    }
+  ],
+  "name": "bottom lid + shadow_left_edge + shadow_right_edge",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5B37C516-23D4-4313-B3FB-5EB31FE83278",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

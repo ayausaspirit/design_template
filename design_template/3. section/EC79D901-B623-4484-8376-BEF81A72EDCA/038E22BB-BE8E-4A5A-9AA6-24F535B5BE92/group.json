@@ -1,0 +1,62 @@
+{
+  "_class": "group",
+  "do_objectID": "038E22BB-BE8E-4A5A-9AA6-24F535B5BE92",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A5739E82-3908-4133-89A7-1D0B2516AA21",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BAF18A0F-7BB7-45BB-8D3F-2820342E117F",
+    "height": 1531,
+    "width": 1995,
+    "x": -278,
+    "y": -199
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "E0D5AD8A-669F-4E95-999E-EAC1BC4DCC8B"
+    },
+    {
+      "class": "text",
+      "id": "659804AC-5CC8-41CE-AEB5-D2EE4CF230C9"
+    },
+    {
+      "class": "text",
+      "id": "2CA0FD9F-41C6-4252-91AB-ED5E3B15D81C"
+    }
+  ],
+  "name": "ノウハウ",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4F9A99B2-B50F-45F9-B622-7C229AE8C81B",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

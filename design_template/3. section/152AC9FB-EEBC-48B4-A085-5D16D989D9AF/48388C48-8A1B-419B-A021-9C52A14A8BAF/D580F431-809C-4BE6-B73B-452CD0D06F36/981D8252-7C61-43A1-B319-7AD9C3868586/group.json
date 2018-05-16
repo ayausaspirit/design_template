@@ -1,0 +1,58 @@
+{
+  "_class": "group",
+  "do_objectID": "981D8252-7C61-43A1-B319-7AD9C3868586",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "90987342-EE24-47BD-ACB3-B773C24C5FC9",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D632162C-7264-432F-BD65-F27516A174EF",
+    "height": 80,
+    "width": 80,
+    "x": 199,
+    "y": 17
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "500B5DF4-3128-4357-A08D-7BA640373714"
+    },
+    {
+      "class": "group",
+      "id": "F7483102-FF11-4DEB-96CB-9A0F5CFF8D2F"
+    }
+  ],
+  "name": "Bitmap Copy 3",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "51339B15-0459-40E3-BEFB-1AA24244B6B3",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

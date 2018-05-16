@@ -1,0 +1,203 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "D6A22108-557A-4125-A676-0DA854BEF698",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 24.01662427325582,
+    "width": 193.2923252422496,
+    "x": 0.971714681685186,
+    "y": 31.32721656976744
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "23B6D20A-0E17-441E-8731-0427B7AB92A4"
+    },
+    {
+      "class": "shapePath",
+      "id": "7B38DFC9-6AF0-45AD-8075-C2ED9C8D51A9"
+    },
+    {
+      "class": "shapePath",
+      "id": "29ECC1AF-CADB-4939-9013-B27E12039956"
+    },
+    {
+      "class": "shapePath",
+      "id": "DE32667A-1BA7-44F9-AFEF-5E9984C82BE9"
+    },
+    {
+      "class": "shapePath",
+      "id": "5D79D02D-0448-4D56-B644-B875F86C6BFC"
+    },
+    {
+      "class": "shapePath",
+      "id": "F7542C08-76F4-4490-81B2-CD54A8090A22"
+    },
+    {
+      "class": "shapePath",
+      "id": "F6BEB662-ADE8-4F79-8EED-9822BB260803"
+    },
+    {
+      "class": "shapePath",
+      "id": "3C9D5984-43E9-47EF-9C9E-38B7A3045C71"
+    },
+    {
+      "class": "shapePath",
+      "id": "C9D75CD9-E661-4EBA-BEA8-25CC9CE67351"
+    },
+    {
+      "class": "shapePath",
+      "id": "F384D181-D0AB-48D3-870B-0D4106F234B8"
+    },
+    {
+      "class": "shapePath",
+      "id": "FB5EB716-91D6-4167-8FF0-1553AFC11B17"
+    },
+    {
+      "class": "shapePath",
+      "id": "4A692C99-0922-449C-A491-339BF7CC4023"
+    },
+    {
+      "class": "shapePath",
+      "id": "F366078C-98A3-42BE-8037-8049F0FAA104"
+    },
+    {
+      "class": "shapePath",
+      "id": "CE0E2095-BF3F-46A3-B3DF-3BEF7B958104"
+    },
+    {
+      "class": "shapePath",
+      "id": "049EE3A8-38C2-40FA-8FDB-02D621591687"
+    },
+    {
+      "class": "shapePath",
+      "id": "3B826E7B-C0EA-4E2E-BD72-B3031BFEA492"
+    },
+    {
+      "class": "shapePath",
+      "id": "6A1F216F-89C4-49E7-B6D6-B54C24498CDA"
+    },
+    {
+      "class": "shapePath",
+      "id": "D648F2FF-B983-40EB-8820-DAD4F57219CC"
+    },
+    {
+      "class": "shapePath",
+      "id": "615AA21F-3BCA-4CE0-8E87-0B906C99B635"
+    },
+    {
+      "class": "shapePath",
+      "id": "F6AD0EE6-D183-419D-8578-953929E75870"
+    },
+    {
+      "class": "shapePath",
+      "id": "5736F764-F52D-425E-BD63-AE4751F77531"
+    },
+    {
+      "class": "shapePath",
+      "id": "842CBA04-A4A0-4DE3-BE74-C9FF331AB51C"
+    },
+    {
+      "class": "shapePath",
+      "id": "E2D47EC0-1249-479E-9D3D-4AD6DDE15750"
+    },
+    {
+      "class": "shapePath",
+      "id": "EA3A5869-4AAE-4343-B181-79F5C00CE80F"
+    },
+    {
+      "class": "shapePath",
+      "id": "A9263EC1-82D1-4846-BF13-78B7EBABE12C"
+    }
+  ],
+  "name": "伊勢原日向病院",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.4,
+          "green": 0.6823529412,
+          "red": 0.05098039216
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.4,
+          "green": 0.6823529412,
+          "red": 0.05098039216
+        },
+        "MSAttributedStringFontAttribute": {
+          "_archive": "YnBsaXN0MDDUAQIDBAUGJidYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKkHCA0XGBkaGyJVJG51bGzSCQoLDFYkY2xhc3NfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AIgALTDg8JEBMWV05TLmtleXNaTlMub2JqZWN0c6IREoADgASiFBWABYAGgAdfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZRAeXxASSG9ub2thLU1hcnUtR290aGlj0hwdHh9aJGNsYXNzbmFtZVgkY2xhc3Nlc18QE05TTXV0YWJsZURpY3Rpb25hcnmjHiAhXE5TRGljdGlvbmFyeVhOU09iamVjdNIcHSMkXxAQTlNGb250RGVzY3JpcHRvcqIlIV8QEE5TRm9udERlc2NyaXB0b3JfEA9OU0tleWVkQXJjaGl2ZXLRKClUcm9vdIABAAgAEQAaACMALQAyADcAQQBHAEwAUwBwAHIAdAB7AIMAjgCRAJMAlQCYAJoAnACeALQAygDMAOEA5gDxAPoBEAEUASEBKgEvAUIBRQFYAWoBbQFyAAAAAAAAAgEAAAAAAAAAKgAAAAAAAAAAAAAAAAAAAXQ="
+        },
+        "kerning": 2.48,
+        "paragraphStyle": {
+          "_archive": "YnBsaXN0MDDUAQIDBAUGJCVYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKYHCBMXHiFVJG51bGzVCQoLDA0ODxARElpOU1RhYlN0b3BzViRjbGFzc1xOU1RleHRCbG9ja3NfEB9OU0FsbG93c1RpZ2h0ZW5pbmdGb3JUcnVuY2F0aW9uW05TVGV4dExpc3RzgACABYACEAGABNIUChUWWk5TLm9iamVjdHOggAPSGBkaG1okY2xhc3NuYW1lWCRjbGFzc2VzXk5TTXV0YWJsZUFycmF5oxocHVdOU0FycmF5WE5TT2JqZWN00hQKHxaggAPSGBkiI18QEE5TUGFyYWdyYXBoU3R5bGWiIh1fEA9OU0tleWVkQXJjaGl2ZXLRJidUcm9vdIABAAgAEQAaACMALQAyADcAPgBEAE8AWgBhAG4AkACcAJ4AoACiAKQApgCrALYAtwC5AL4AyQDSAOEA5QDtAPYA+wD8AP4BAwEWARkBKwEuATMAAAAAAAACAQAAAAAAAAAoAAAAAAAAAAAAAAAAAAABNQ=="
+        }
+      },
+      "verticalAlignment": 0
+    }
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 27.53906,
+            "enabled": 1,
+            "modelID": "constraint_50ff9cb2-3676-4fcd-955c-f4f8c20edc73",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 221.4526
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_4294484c-b35f-423a-8d3f-2d04408be983",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  },
+  "windingRule": 1
+}

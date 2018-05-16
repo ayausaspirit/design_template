@@ -1,0 +1,74 @@
+{
+  "_class": "group",
+  "do_objectID": "C8A5C28D-B530-4A01-8C83-CB541D400B24",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "362A6622-5EA7-44F1-8941-11B970944DC0",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E0ACC426-5DFE-4FFD-BE91-FDE37C884D43",
+    "height": 44,
+    "width": 44,
+    "x": 449,
+    "y": 27
+  },
+  "hasClickThrough": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "E5034AD7-A5C7-4DAF-B260-182EE8034288"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "AEF37C17-DB3E-454D-8DCF-2F07F98D872C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E3EA5D99-698E-4C05-95E9-336925C99B23"
+    }
+  ],
+  "name": "やじるし",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A8AB44A6-E0FB-4770-93E5-647F7C7BA6C6",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 0,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

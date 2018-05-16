@@ -1,0 +1,62 @@
+{
+  "_class": "group",
+  "do_objectID": "CFCD748E-A69B-420E-8040-DB72FAF14D4A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2E3B48AB-BD7F-4892-8891-C079593AE7AF",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "DECB5697-36A2-43ED-BDB6-E40C421FB21C",
+    "height": 129,
+    "width": 128,
+    "x": 88,
+    "y": 2644
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "484D92EF-09BE-4259-8640-82964BDEBE7C"
+    },
+    {
+      "class": "text",
+      "id": "2BE8BD82-77F9-4926-8453-3B4586781361"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9AC5F413-146B-4842-9AD6-95D690C95406"
+    }
+  ],
+  "name": "赤丸",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "26346520-024C-4C3B-8F38-07EC693D4C31",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

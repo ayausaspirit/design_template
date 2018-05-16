@@ -1,0 +1,76 @@
+{
+  "_class": "group",
+  "do_objectID": "694F8A57-CF29-4247-919F-02F8FD06C9C7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4BD8DF2E-A40F-4B13-8964-5F8D91B4EEA7",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1BE803C1-1B43-4E04-ADF7-BACFD45A8386",
+    "height": 90,
+    "width": 107,
+    "x": 441,
+    "y": 0
+  },
+  "hasClickThrough": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "6B3F76FF-4A00-470A-823D-375EDE653E39"
+    },
+    {
+      "class": "group",
+      "id": "37E55A02-1E1E-489A-84EB-4CFC878DCCE8"
+    }
+  ],
+  "name": "長方形 3 のコピー 4",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "97CA2C18-18BF-4225-9180-C21C16339636",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 0,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

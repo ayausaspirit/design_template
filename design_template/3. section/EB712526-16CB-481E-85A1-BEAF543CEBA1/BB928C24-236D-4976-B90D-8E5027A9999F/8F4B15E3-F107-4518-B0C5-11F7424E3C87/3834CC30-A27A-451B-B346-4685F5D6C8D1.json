@@ -1,0 +1,54 @@
+{
+  "_class": "bitmap",
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "3834CC30-A27A-451B-B346-4685F5D6C8D1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "47D5A325-F986-4D37-87C0-547BA70DE39A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "872C99D6-FBAB-4E1B-B4AE-1130EAF4B4AD",
+    "height": 57.62081784386618,
+    "width": 560.4089219330856,
+    "x": 0,
+    "y": 69.70260223048328
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/1c0016c56adabd639686243cb650a2b2c80ebb58",
+    "_ref_class": "MSImageData"
+  },
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Bitmap Copy 3",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "65993536-BEA1-4E32-896A-E6D9D7D4DEB8",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

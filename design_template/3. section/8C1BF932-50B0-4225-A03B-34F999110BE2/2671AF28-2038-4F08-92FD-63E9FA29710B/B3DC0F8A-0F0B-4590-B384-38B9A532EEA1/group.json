@@ -1,0 +1,58 @@
+{
+  "_class": "group",
+  "do_objectID": "B3DC0F8A-0F0B-4590-B384-38B9A532EEA1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "43A5FF95-7443-4E14-B568-3AA0698CDAB1",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "84953C71-0038-43C3-B28F-0C3C614D5461",
+    "height": 125,
+    "width": 250,
+    "x": 460,
+    "y": 212
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "420F105C-BADD-4E29-9AF4-B2427CA394F0"
+    },
+    {
+      "class": "group",
+      "id": "DF603C04-C971-453A-AAD8-543D86AE826B"
+    }
+  ],
+  "name": "Ω Copy 4",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7261E247-515D-417A-8EEE-E97F4EC7862A",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

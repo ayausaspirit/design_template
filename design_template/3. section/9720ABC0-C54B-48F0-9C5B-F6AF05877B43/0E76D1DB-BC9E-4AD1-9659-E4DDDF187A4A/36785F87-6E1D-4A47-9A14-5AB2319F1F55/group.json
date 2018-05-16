@@ -1,0 +1,101 @@
+{
+  "_class": "group",
+  "do_objectID": "36785F87-6E1D-4A47-9A14-5AB2319F1F55",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 194.5430463576159,
+    "width": 99.28295642581355,
+    "x": 500.6756756756757,
+    "y": 109.430463576159
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "B2CC574C-A6D2-4797-A487-AD3A517A755C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "4B82156B-6CB7-46EC-B8C1-8473B8D2FB2E"
+    }
+  ],
+  "name": "PHONE 360",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 10,
+        "color": {
+          "_class": "color",
+          "alpha": 0.3544214221014493,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 5,
+        "offsetY": 6,
+        "spread": 0
+      }
+    ],
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 194.543,
+            "enabled": 1,
+            "modelID": "constraint_121eed7b-8c68-4254-9d8d-d765c7c16bcc",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 99.28296
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_905c06eb-c9f5-4dc7-a114-221a4f45f456",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}

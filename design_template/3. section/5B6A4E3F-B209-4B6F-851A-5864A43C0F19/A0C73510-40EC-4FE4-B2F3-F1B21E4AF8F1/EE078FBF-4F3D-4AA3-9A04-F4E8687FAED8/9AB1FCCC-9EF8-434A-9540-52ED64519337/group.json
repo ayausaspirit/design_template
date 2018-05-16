@@ -1,0 +1,89 @@
+{
+  "_class": "group",
+  "do_objectID": "9AB1FCCC-9EF8-434A-9540-52ED64519337",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "273BF6E0-88CD-45EC-97B9-5DCA730F2164",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "284AF97F-F015-4AE3-B71B-C15E1C5E056A",
+    "height": 240,
+    "width": 300,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "F9E6E448-0CBC-48CF-AC13-E568E034BEA2"
+    }
+  ],
+  "name": "Group 24 Copy 2",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 0.2,
+          "blue": 0.3529411764705882,
+          "green": 0.6470588235294118,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "position": 1,
+        "thickness": 4
+      }
+    ],
+    "do_objectID": "422BDB50-266D-418A-831A-FD51CC8487B0",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 0.05,
+          "blue": 0.3529411764705883,
+          "green": 0.6470588235294118,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "sharedObjectID": "E47A6E3F-11CA-4214-A011-83F8404A56CE",
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

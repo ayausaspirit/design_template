@@ -1,0 +1,78 @@
+{
+  "_class": "bitmap",
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "841E647B-25AC-4FBB-BF25-1A0B56C04687",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "EE4BB597-2CAA-4B2E-8F86-079632A98798",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B30D939C-AB2A-4528-93C3-7D08CCBBD10C",
+    "height": 27,
+    "width": 116,
+    "x": 22,
+    "y": 15
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/c3075f8753e0572c538c041871b22c12ac6f73c7",
+    "_ref_class": "MSImageData"
+  },
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "name": "ロゴ",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 2,
+      "do_objectID": "0EF52406-68A4-4429-82D8-33F9E02CF7AE",
+      "opacity": 1
+    },
+    "do_objectID": "E698735E-BB16-4175-85A8-39BCC7714893",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 0,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGbG1YJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QIAcIDxAeHyAhIiwvNTk9RUZHSElNUV1eX2BhYmNkZWdoVSRudWxs0wkKCwwNDlhOU1N0cmluZ1YkY2xhc3NcTlNBdHRyaWJ1dGVzgAKAH4ADZU66bBcwbooYTovTERIKExgdV05TLmtleXNaTlMub2JqZWN0c6QUFRYXgASABYAGgAekGRobHIAIgAyAFIAegB1fEBBOU1BhcmFncmFwaFN0eWxlXxAfTVNBdHRyaWJ1dGVkU3RyaW5nRm9udEF0dHJpYnV0ZV8QKk1TQXR0cmlidXRlZFN0cmluZ0NvbG9yRGljdGlvbmFyeUF0dHJpYnV0ZVZOU0tlcm7VIyQKJSYnKCkqKl8QEk5TUGFyYWdyYXBoU3BhY2luZ1pOU1RhYlN0b3BzXE5TVGV4dEJsb2Nrc1tOU1RleHRMaXN0cyNAJgAAAAAAAIAAgAuACYAJ0hIKLS6ggArSMDEyM1okY2xhc3NuYW1lWCRjbGFzc2VzV05TQXJyYXmiMjRYTlNPYmplY3TSMDE2N18QF05TTXV0YWJsZVBhcmFncmFwaFN0eWxlozY4NF8QEE5TUGFyYWdyYXBoU3R5bGXSCjo7PF8QGk5TRm9udERlc2NyaXB0b3JBdHRyaWJ1dGVzgBOADdMREgo+QUSiP0CADoAPokJDgBCAEYASXxATTlNGb250U2l6ZUF0dHJpYnV0ZV8QE05TRm9udE5hbWVBdHRyaWJ1dGUjQDIAAAAAAABeSGlyYUtha3VQcm8tVzbSMDFKS18QE05TTXV0YWJsZURpY3Rpb25hcnmjSkw0XE5TRGljdGlvbmFyedIwMU5PXxAQTlNGb250RGVzY3JpcHRvcqJQNF8QEE5TRm9udERlc2NyaXB0b3LTERIKUlcdpFNUVVaAFYAWgBeAGKRYWVpbgBmAGoAbgByAHVNyZWRVYWxwaGFUYmx1ZVVncmVlbiM/yZmZmZmZmiM/8AAAAAAAACM/yZmZmZmZmiM/yZmZmZmZmtIwMUxmokw0I0AAAAAAAAAA0jAxaWpfEBJOU0F0dHJpYnV0ZWRTdHJpbmeiazRfEBJOU0F0dHJpYnV0ZWRTdHJpbmdfEA9OU0tleWVkQXJjaGl2ZXLRbm9Ucm9vdIABAAgAEQAaACMALQAyADcAWgBgAGcAcAB3AIQAhgCIAIoAlQCcAKQArwC0ALYAuAC6ALwAwQDDAMUAxwDJAMsA3gEAAS0BNAE/AVQBXwFsAXgBgQGDAYUBhwGJAY4BjwGRAZYBoQGqAbIBtQG+AcMB3QHhAfQB+QIWAhgCGgIhAiQCJgIoAisCLQIvAjECRwJdAmYCdQJ6ApAClAKhAqYCuQK8As8C1gLbAt0C3wLhAuMC6ALqAuwC7gLwAvIC9gL8AwEDBwMQAxkDIgMrAzADMwM8A0EDVgNZA24DgAODA4gAAAAAAAACAQAAAAAAAABwAAAAAAAAAAAAAAAAAAADig=="
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "3886F235-585E-4A5C-ACA3-CCA93DAD5248",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 18,
+    "width": 266,
+    "x": 17,
+    "y": -39.33333333333333
+  },
+  "glyphBounds": "{{0, 0}, {98, 18}}",
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": false,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "人気の記事",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "A36EE537-1CA9-4906-AB8D-4F03D40628A3"
+  },
+  "textBehaviour": 1,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "isAutoWidth": 0
+      }
+    }
+  }
+}

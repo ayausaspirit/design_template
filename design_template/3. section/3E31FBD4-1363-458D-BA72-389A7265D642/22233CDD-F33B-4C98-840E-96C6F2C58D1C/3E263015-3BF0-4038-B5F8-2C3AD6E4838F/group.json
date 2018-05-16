@@ -1,0 +1,58 @@
+{
+  "_class": "group",
+  "do_objectID": "3E263015-3BF0-4038-B5F8-2C3AD6E4838F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "972D5C6F-0227-410F-B8C2-0C0370000C39",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6B77914C-581B-4DA4-B7EC-300541CB16D0",
+    "height": 162,
+    "width": 625,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "86F69446-12A8-491A-BF2E-44AEEFC6318D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "12449ADB-2BB4-4B46-8BCE-CEB12312F6BC"
+    }
+  ],
+  "name": "Rectangle 3",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "AF1FB9F7-59B6-493B-9FE5-A8A88458C6F9",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

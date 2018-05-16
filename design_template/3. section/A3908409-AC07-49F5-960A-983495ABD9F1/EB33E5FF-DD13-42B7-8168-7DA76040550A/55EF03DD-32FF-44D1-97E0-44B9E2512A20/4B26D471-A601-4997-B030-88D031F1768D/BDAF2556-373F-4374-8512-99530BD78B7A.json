@@ -1,0 +1,135 @@
+{
+  "_class": "rectangle",
+  "booleanOperation": -1,
+  "do_objectID": "BDAF2556-373F-4374-8512-99530BD78B7A",
+  "edited": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5A586342-1E04-4AF3-BBED-5D8C9BE80C76",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fixedRadius": 0,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C93548AC-2517-41D3-B135-67E5F572B4EF",
+    "height": 296,
+    "width": 354,
+    "x": 0,
+    "y": 0
+  },
+  "hasConvertedToNewRoundCorners": true,
+  "isClosed": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Mask Path",
+  "nameIsFixed": false,
+  "path": {
+    "_class": "path",
+    "isClosed": true,
+    "pointRadiusBehaviour": 0,
+    "points": [
+      {
+        "_class": "curvePoint",
+        "cornerRadius": 0,
+        "curveFrom": "{0.0028249999999999998, 0.0044349999999999997}",
+        "curveMode": 1,
+        "curveTo": "{0.0028249999999999998, 0.0044349999999999997}",
+        "hasCurveFrom": false,
+        "hasCurveTo": false,
+        "point": "{0.0028249999999999998, 0.0044349999999999997}"
+      },
+      {
+        "_class": "curvePoint",
+        "cornerRadius": 0,
+        "curveFrom": "{0.99452700000000005, 0.0044349999999999997}",
+        "curveMode": 1,
+        "curveTo": "{0.99452700000000005, 0.0044349999999999997}",
+        "hasCurveFrom": false,
+        "hasCurveTo": false,
+        "point": "{0.99452700000000005, 0.0044349999999999997}"
+      },
+      {
+        "_class": "curvePoint",
+        "cornerRadius": 0,
+        "curveFrom": "{0.99452700000000005, 0.99345499999999998}",
+        "curveMode": 1,
+        "curveTo": "{0.99452700000000005, 0.99345499999999998}",
+        "hasCurveFrom": false,
+        "hasCurveTo": false,
+        "point": "{0.99452700000000005, 0.99345499999999998}"
+      },
+      {
+        "_class": "curvePoint",
+        "cornerRadius": 0,
+        "curveFrom": "{0.0028249999999999998, 0.99345499999999998}",
+        "curveMode": 1,
+        "curveTo": "{0.0028249999999999998, 0.99345499999999998}",
+        "hasCurveFrom": false,
+        "hasCurveTo": false,
+        "point": "{0.0028249999999999998, 0.99345499999999998}"
+      }
+    ]
+  },
+  "pointRadiusBehaviour": 0,
+  "points": [
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.0028249999999999998, 0.0044349999999999997}",
+      "curveMode": 1,
+      "curveTo": "{0.0028249999999999998, 0.0044349999999999997}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{0.0028249999999999998, 0.0044349999999999997}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.99452700000000005, 0.0044349999999999997}",
+      "curveMode": 1,
+      "curveTo": "{0.99452700000000005, 0.0044349999999999997}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{0.99452700000000005, 0.0044349999999999997}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.99452700000000005, 0.99345499999999998}",
+      "curveMode": 1,
+      "curveTo": "{0.99452700000000005, 0.99345499999999998}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{0.99452700000000005, 0.99345499999999998}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.0028249999999999998, 0.99345499999999998}",
+      "curveMode": 1,
+      "curveTo": "{0.0028249999999999998, 0.99345499999999998}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{0.0028249999999999998, 0.99345499999999998}"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "_class": "group",
+  "do_objectID": "454C2EA9-4A74-4CBD-A132-E2688F442CD1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3B76FDD3-41F1-4A06-ACDA-055D3452A39E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "DFAD7B4B-4CFF-454B-840C-734364759C79",
+    "height": 337,
+    "width": 215,
+    "x": 125,
+    "y": 192
+  },
+  "hasClickThrough": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "A93552CA-7E6F-4425-80D4-4A987DC807EC"
+    },
+    {
+      "class": "bitmap",
+      "id": "84EB5DFD-72A7-4542-934D-86BC6D220C22"
+    },
+    {
+      "class": "bitmap",
+      "id": "21DDA423-859A-4904-AB00-DC5372E56017"
+    },
+    {
+      "class": "bitmap",
+      "id": "0EC56E1A-4E45-4DF1-B093-C3B1E16098F0"
+    },
+    {
+      "class": "bitmap",
+      "id": "7707813E-33BB-4493-A977-368854B1875E"
+    }
+  ],
+  "name": "絆アプリロゴ",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "DF8A081A-DE8C-4F33-9E17-8CF0CD7F9DC7",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 0,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

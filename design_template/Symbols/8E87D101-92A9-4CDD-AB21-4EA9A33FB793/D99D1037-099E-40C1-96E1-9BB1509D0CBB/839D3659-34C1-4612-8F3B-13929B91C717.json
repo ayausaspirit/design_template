@@ -1,0 +1,84 @@
+{
+  "_class": "bitmap",
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "839D3659-34C1-4612-8F3B-13929B91C717",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 22,
+    "width": 29,
+    "x": 19,
+    "y": 34
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/3e8d36c786410a625b0644f8ab3f3617d2b25c98",
+    "_ref_class": "MSImageData"
+  },
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "メールの無料アイコン素材 (1)",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.9589710884353742,
+          "green": 0.9589710884353742,
+          "red": 0.9589710884353742
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 21.94595,
+            "enabled": 1,
+            "modelID": "constraint_ab97e0c3-073d-425c-8ffc-eccb71ced297",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 29
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_241fd032-d6b2-4c44-8e39-e5609fec9fd2",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}

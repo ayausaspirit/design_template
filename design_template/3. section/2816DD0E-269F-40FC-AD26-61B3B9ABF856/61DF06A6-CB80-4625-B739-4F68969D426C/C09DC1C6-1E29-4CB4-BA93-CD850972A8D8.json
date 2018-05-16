@@ -1,0 +1,59 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGfX5YJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QJAcIDxAkJSYnKCkqKy83ODk6O0JGR1NUVVZXWFlaW11ucXR4eVUkbnVsbNMJCgsMDQ5YTlNTdHJpbmdWJGNsYXNzXE5TQXR0cmlidXRlc4ACgCOAA2dxIWWZACBPGlThdnuTMtMREgoTGyNXTlMua2V5c1pOUy5vYmplY3RzpxQVFhcYGRqABIAFgAaAB4AIgAmACqccHR0dICEigAuAE4ATgBOAFIAegCKAHV8QH01TQXR0cmlidXRlZFN0cmluZ0ZvbnRBdHRyaWJ1dGVfEA9OU1N0cmlrZXRocm91Z2hbTlNVbmRlcmxpbmVfEChNU0F0dHJpYnV0ZWRTdHJpbmdUZXh0VHJhbnNmb3JtQXR0cmlidXRlXxAqTVNBdHRyaWJ1dGVkU3RyaW5nQ29sb3JEaWN0aW9uYXJ5QXR0cmlidXRlXxAQTlNQYXJhZ3JhcGhTdHlsZVZOU0tlcm7SCiwtLl8QGk5TRm9udERlc2NyaXB0b3JBdHRyaWJ1dGVzgBKADNMREgowMzaiMTKADYAOojQ1gA+AEIARXxATTlNGb250U2l6ZUF0dHJpYnV0ZV8QE05TRm9udE5hbWVBdHRyaWJ1dGUjQCP///////9fEA9IaXJhS2FrdVByb04tVzPSPD0+P1okY2xhc3NuYW1lWCRjbGFzc2VzXxATTlNNdXRhYmxlRGljdGlvbmFyeaM+QEFcTlNEaWN0aW9uYXJ5WE5TT2JqZWN00jw9Q0RfEBBOU0ZvbnREZXNjcmlwdG9yokVBXxAQTlNGb250RGVzY3JpcHRvchAA0xESCkhNI6RJSktMgBWAFoAXgBikTk9QUYAZgBqAG4AcgB1TcmVkVWFscGhhVGJsdWVVZ3JlZW4jP+39/jKgZjwjP/AAAAAAAAAjP+39/jKgZjwjP+39/jKgZjzSPD1AXKJAQdkKXl9gYWJjZGVmZ2hoWGprbG1aTlNUYWJTdG9wc1xOU1RleHRCbG9ja3NbTlNUZXh0TGlzdHNfEBJOU1BhcmFncmFwaFNwYWNpbmdfEA9OU01heExpbmVIZWlnaHRfEB9OU0FsbG93c1RpZ2h0ZW5pbmdGb3JUcnVuY2F0aW9uXxAPTlNNaW5MaW5lSGVpZ2h0W05TQWxpZ25tZW50gCGAAIAfgB8jQD3///////4QASNAPf///////hAC0hIKb3CggCDSPD1yc1dOU0FycmF5onJB0jw9dXZfEBdOU011dGFibGVQYXJhZ3JhcGhTdHlsZaN1d0FfEBBOU1BhcmFncmFwaFN0eWxlIwAAAAAAAAAA0jw9entfEBJOU0F0dHJpYnV0ZWRTdHJpbmeifEFfEBJOU0F0dHJpYnV0ZWRTdHJpbmdfEA9OU0tleWVkQXJjaGl2ZXLRf4BUcm9vdIABAAgAEQAaACMALQAyADcAXgBkAGsAdAB7AIgAigCMAI4AnQCkAKwAtwC/AMEAwwDFAMcAyQDLAM0A1QDXANkA2wDdAN8A4QDjAOUBBwEZASUBUAF9AZABlwGcAbkBuwG9AcQBxwHJAcsBzgHQAdIB1AHqAgACCQIbAiACKwI0AkoCTgJbAmQCaQJ8An8CkgKUApsCoAKiAqQCpgKoAq0CrwKxArMCtQK3ArsCwQLGAswC1QLeAucC8AL1AvgDCwMWAyMDLwNEA1YDeAOKA5YDmAOaA5wDngOnA6kDsgO0A7kDugO8A8EDyQPMA9ED6wPvBAIECwQQBCUEKAQ9BE8EUgRXAAAAAAAAAgEAAAAAAAAAgQAAAAAAAAAAAAAAAAAABFk="
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "C09DC1C6-1E29-4CB4-BA93-CD850972A8D8",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "736FA901-4EA6-47A4-B1EC-2F2446A05A69",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1F879BB6-0ACD-4E32-A8C7-2DF60D01653B",
+    "height": 30,
+    "width": 94,
+    "x": 36,
+    "y": 48
+  },
+  "glyphBounds": "{{0, 0}, {0, 0}}",
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "無料 会員登録",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "80DAB71E-1B8E-49AA-B6BF-DCCD69C1D4AD",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "textBehaviour": 1,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "isAutoWidth": 0
+      }
+    }
+  }
+}

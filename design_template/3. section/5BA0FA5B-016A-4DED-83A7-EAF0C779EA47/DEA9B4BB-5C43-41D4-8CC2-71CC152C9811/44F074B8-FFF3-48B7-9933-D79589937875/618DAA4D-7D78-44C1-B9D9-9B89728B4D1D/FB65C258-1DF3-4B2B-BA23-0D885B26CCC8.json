@@ -1,0 +1,78 @@
+{
+  "_class": "bitmap",
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "FB65C258-1DF3-4B2B-BA23-0D885B26CCC8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B5E81453-242A-4AA7-BC30-E4A41C7734EB",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4000FC81-D71E-4105-83A4-38E004350939",
+    "height": 65,
+    "width": 69,
+    "x": 4,
+    "y": 3
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/1f3e5c206c47eda0f68a7106d70510efc8bf5ce6",
+    "_ref_class": "MSImageData"
+  },
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "name": "絆ロゴ のコピー 3",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 3,
+      "do_objectID": "FBDF385D-C24E-447E-A12B-6C3C007022BD",
+      "opacity": 1
+    },
+    "do_objectID": "85134AE2-03E2-45EE-90BE-C8AE5DA9510A",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 0,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

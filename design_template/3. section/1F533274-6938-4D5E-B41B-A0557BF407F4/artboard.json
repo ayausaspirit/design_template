@@ -1,0 +1,84 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "6730D03F-561C-4698-938C-B6EE5036DC15",
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "1F533274-6938-4D5E-B41B-A0557BF407F4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F6191707-0A37-4235-B307-C1B8828AF4E0",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4671C4B5-1A5D-4D7B-97C7-B6242ACC9037",
+    "height": 9911,
+    "width": 10713,
+    "x": 5895,
+    "y": 292
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "47E75BED-9C3A-4ED8-B2D8-52F95230D805",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "0A4E349B-0D43-4794-8100-C4F4B86D604C"
+    },
+    {
+      "class": "text",
+      "id": "A5AFDB10-0F64-4D07-9902-2B5FE37601AC"
+    }
+  ],
+  "name": "セクション",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4EB8FB98-7E28-4A4D-AAC5-5552AAA37F29",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "io.magicsketch.mirror": {
+      "highestQuality": 1
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "94AC312B-7A82-4D8A-895E-A967B695BA63",
+    "guides": [
+    ]
+  }
+}

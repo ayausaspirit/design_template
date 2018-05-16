@@ -1,0 +1,80 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGbm9YJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QHwcIDxAcHR4fKywtLi8wMTIzOT1FRkdISUxQXF9jZmpVJG51bGzTCQoLDA0OWE5TU3RyaW5nViRjbGFzc1xOU0F0dHJpYnV0ZXOAAoAegANvEIBfw3QGW2YwajBpMJIw2TD8MLkwa23xMIEwZjBNMF9OupWTdAaJ4zBrMIgwijABgeowiTCSUtVqXzBlMFEwizBfMIEwbjDOMKYwzzCmMJJjATBjMGYwRDB+MFkwAgANAApnLGdlgepSBjBMYwEwYzBmMEQwizAMU++A/WAnMA0wa2wXMGUwRDBfMGgwTTABTrowbzAMYxFiJjANMGcwTTCLMG4wZzBZMAIADQAKZbBRZXk+VOF4FE/uMGswSjBEMGYwgjABbfEwRIHqXfF0BonjMJKQGjBXMGYwAYHqUgYwbohMUtUwbm6QbMkwazBfMGkwindAME0wfjBZMAIADQAK0xESChMXG1dOUy5rZXlzWk5TLm9iamVjdHOjFBUWgASABYAGoxgZGoAHgBGAGYAQXxAqTVNBdHRyaWJ1dGVkU3RyaW5nQ29sb3JEaWN0aW9uYXJ5QXR0cmlidXRlXxAfTVNBdHRyaWJ1dGVkU3RyaW5nRm9udEF0dHJpYnV0ZV8QEE5TUGFyYWdyYXBoU3R5bGXTERIKICUbpCEiIySACIAJgAqAC6QmJygpgAyADYAOgA+AEFNyZWRVYWxwaGFUYmx1ZVVncmVlbiM/1ZWVlaBdJSM/8AAAAAAAACM/1ZWVlaBdJSM/1ZWVlaBdJdI0NTY3WiRjbGFzc25hbWVYJGNsYXNzZXNcTlNEaWN0aW9uYXJ5ojY4WE5TT2JqZWN00go6OzxfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AYgBLTERIKPkFEoj9AgBOAFKJCQ4AVgBaAF18QE05TRm9udFNpemVBdHRyaWJ1dGVfEBNOU0ZvbnROYW1lQXR0cmlidXRlEBJbWXVHby1NZWRpdW3SNDVKS18QE05TTXV0YWJsZURpY3Rpb25hcnmjSjY40jQ1TU5fEBBOU0ZvbnREZXNjcmlwdG9yok84XxAQTlNGb250RGVzY3JpcHRvctZRUlNUClVWV1hZWltaTlNUYWJTdG9wc1tOU1RleHRMaXN0c18QD05TTWluTGluZUhlaWdodFxOU1RleHRCbG9ja3NfEA9OU01heExpbmVIZWlnaHSAAIAcI0A8zMzMzMzNgBqAHSNAPMzMzMzMzdISCl1eoIAb0jQ1YGFeTlNNdXRhYmxlQXJyYXmjYGI4V05TQXJyYXnSEgpkXqCAG9I0NWdoXxAXTlNNdXRhYmxlUGFyYWdyYXBoU3R5bGWjZ2k4XxAQTlNQYXJhZ3JhcGhTdHlsZdI0NWtsXxASTlNBdHRyaWJ1dGVkU3RyaW5nom04XxASTlNBdHRyaWJ1dGVkU3RyaW5nXxAPTlNLZXllZEFyY2hpdmVy0XBxVHJvb3SAAQAIABEAGgAjAC0AMgA3AFkAXwBmAG8AdgCDAIUAhwCJAYwBkwGbAaYBqgGsAa4BsAG0AbYBuAG6AbwB6QILAh4CJQIqAiwCLgIwAjICNwI5AjsCPQI/AkECRQJLAlACVgJfAmgCcQJ6An8CigKTAqACowKsArECzgLQAtIC2QLcAt4C4ALjAuUC5wLpAv8DFQMXAyMDKAM+A0IDRwNaA10DcAN9A4gDlAOmA7MDxQPHA8kD0gPUA9YD3wPkA+UD5wPsA/sD/wQHBAwEDQQPBBQELgQyBEUESgRfBGIEdwSJBIwEkQAAAAAAAAIBAAAAAAAAAHIAAAAAAAAAAAAAAAAAAAST"
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "0C9F7873-581F-4099-B983-414889B143CA",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "CF377D79-BDA0-49C7-A0C5-F152993FA568",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E450DE5F-DC2A-4FB0-9C95-42E6CD3A6AB7",
+    "height": 259.2,
+    "width": 350,
+    "x": 25,
+    "y": 111
+  },
+  "glyphBounds": "{{0, 13}, {341, 219}}",
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "心理学などをベースに深めてきた人間理解に",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "40A5D195-91A6-4CF6-8280-557820D3344E",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "sharedObjectID": "003A0B30-AE56-4B53-BC43-BE29460C6E43",
+    "startDecorationType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "do_objectID": "AB0079BF-9412-4319-B99F-F5ACCB81EA78",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.337254902,
+          "green": 0.337254902,
+          "red": 0.337254902
+        },
+        "MSAttributedStringFontAttribute": {
+          "_archive": "YnBsaXN0MDDUAQIDBAUGJidYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKkHCA0XGBkaGyJVJG51bGzSCQoLDFYkY2xhc3NfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AIgALTDg8JEBMWV05TLmtleXNaTlMub2JqZWN0c6IREoADgASiFBWABYAGgAdfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZRASW1l1R28tTWVkaXVt0hwdHh9aJGNsYXNzbmFtZVgkY2xhc3Nlc18QE05TTXV0YWJsZURpY3Rpb25hcnmjHiAhXE5TRGljdGlvbmFyeVhOU09iamVjdNIcHSMkXxAQTlNGb250RGVzY3JpcHRvcqIlIV8QEE5TRm9udERlc2NyaXB0b3JfEA9OU0tleWVkQXJjaGl2ZXLRKClUcm9vdIABAAgAEQAaACMALQAyADcAQQBHAEwAUwBwAHIAdAB7AIMAjgCRAJMAlQCYAJoAnACeALQAygDMANgA3QDoAPEBBwELARgBIQEmATkBPAFPAWEBZAFpAAAAAAAAAgEAAAAAAAAAKgAAAAAAAAAAAAAAAAAAAWs="
+        },
+        "paragraphStyle": {
+          "_archive": "YnBsaXN0MDDUAQIDBAUGJyhYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKYHCBUZICNVJG51bGzWCQoLDA0ODxAREhMUWk5TVGFiU3RvcHNbTlNUZXh0TGlzdHNfEA9OU01pbkxpbmVIZWlnaHRcTlNUZXh0QmxvY2tzViRjbGFzc18QD05TTWF4TGluZUhlaWdodIAAgAQjQDzMzMzMzM2AAoAFI0A8zMzMzMzN0hYNFxhaTlMub2JqZWN0c6CAA9IaGxwdWiRjbGFzc25hbWVYJGNsYXNzZXNeTlNNdXRhYmxlQXJyYXmjHB4fV05TQXJyYXlYTlNPYmplY3TSFg0hGKCAA9IaGyQlXxAXTlNNdXRhYmxlUGFyYWdyYXBoU3R5bGWjJCYfXxAQTlNQYXJhZ3JhcGhTdHlsZV8QD05TS2V5ZWRBcmNoaXZlctEpKlRyb290gAEACAARABoAIwAtADIANwA+AEQAUQBcAGgAegCHAI4AoACiAKQArQCvALEAugC/AMoAywDNANIA3QDmAPUA+QEBAQoBDwEQARIBFwExATUBSAFaAV0BYgAAAAAAAAIBAAAAAAAAACsAAAAAAAAAAAAAAAAAAAFk"
+        }
+      },
+      "verticalAlignment": 0
+    }
+  },
+  "textBehaviour": 1,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "isAutoWidth": 0
+      }
+    }
+  }
+}

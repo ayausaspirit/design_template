@@ -1,0 +1,58 @@
+{
+  "_class": "slice",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "39DFC64D-A1A2-4028-967B-025766A208EE",
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "BDD2A2CE-DF11-4608-81A7-E6A472B2292D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E85F558D-8773-4D33-B1FB-92B6F1ABFE48",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "jpg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "DB0CEE6E-248C-4A20-A876-7FAC651D6BB1",
+    "height": 139,
+    "width": 200,
+    "x": 515,
+    "y": 232
+  },
+  "hasBackgroundColor": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Image 3",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

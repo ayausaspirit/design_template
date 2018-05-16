@@ -1,0 +1,70 @@
+{
+  "_class": "group",
+  "do_objectID": "7BD45495-D3F8-4B25-927F-00D644AF3A53",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 201,
+    "width": 100,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "C3BF303C-3D81-4B06-BE09-BFA17F57096D"
+    },
+    {
+      "class": "group",
+      "id": "9C90AF19-6973-43E7-8C5C-F5B365F9719D"
+    }
+  ],
+  "name": "Mockup / Device / iPhone 7",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 200.6225,
+            "enabled": 1,
+            "modelID": "constraint_9295e488-fc14-4fd3-877e-a349126db0f3",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 99.32433
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_3c9a6d6f-c21f-4bd1-baf7-25567895c0e3",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}

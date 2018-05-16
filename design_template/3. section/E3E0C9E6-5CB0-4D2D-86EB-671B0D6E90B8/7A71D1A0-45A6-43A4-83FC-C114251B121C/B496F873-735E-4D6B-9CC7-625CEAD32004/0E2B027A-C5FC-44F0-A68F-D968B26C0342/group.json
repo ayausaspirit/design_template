@@ -1,0 +1,58 @@
+{
+  "_class": "group",
+  "do_objectID": "0E2B027A-C5FC-44F0-A68F-D968B26C0342",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FED6ED77-B391-4B64-BFEB-7AB1EF2739D8",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "46401E23-8C44-4672-9F6E-44BC3731007F",
+    "height": 479,
+    "width": 366,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "DA10929A-D3B4-49C3-BF11-DBFC437560F8"
+    },
+    {
+      "class": "text",
+      "id": "E1F1D4C9-EA68-4438-BA42-9FB87E3B22CA"
+    }
+  ],
+  "name": "人気の記事",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3FF072D2-CA85-488D-8CD7-ED493857F91F",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "_class": "bitmap",
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "731C6981-1ECC-4421-8EDC-A2E9D0CC142F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "956CB68E-B94F-406B-8C3A-22CD47314A06",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "097FEBE7-0607-43D0-B0BF-46F0B5C6ED41",
+    "height": 98,
+    "width": 98,
+    "x": 37,
+    "y": 48
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/07932b63a077be91b90e9b2fd3d220843aa9f522",
+    "_ref_class": "MSImageData"
+  },
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Bitmap",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "BAB15DD6-F9D6-4CD1-9075-5E309556CDA6",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

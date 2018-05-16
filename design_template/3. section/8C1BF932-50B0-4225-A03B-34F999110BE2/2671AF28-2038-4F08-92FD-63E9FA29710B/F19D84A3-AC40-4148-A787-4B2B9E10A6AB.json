@@ -1,0 +1,58 @@
+{
+  "_class": "slice",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "170134DA-B2F0-4FC9-934C-C6841F01A769",
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "F19D84A3-AC40-4148-A787-4B2B9E10A6AB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1B1E1FE3-1AF1-4D82-86E5-708986F8CF98",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "jpg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2B7F873A-573C-4533-AA2A-64654C45E77E",
+    "height": 125,
+    "width": 250,
+    "x": 460,
+    "y": 212
+  },
+  "hasBackgroundColor": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Ω Copy 4",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

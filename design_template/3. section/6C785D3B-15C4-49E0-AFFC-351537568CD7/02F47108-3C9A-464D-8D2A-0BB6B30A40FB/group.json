@@ -1,0 +1,116 @@
+{
+  "_class": "group",
+  "do_objectID": "02F47108-3C9A-464D-8D2A-0BB6B30A40FB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C08281F9-91B2-4746-AC4C-4F86B9B0B74B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B5AFC069-0DC5-4F06-B565-6CC689B8A588",
+    "height": 372,
+    "width": 762,
+    "x": 339,
+    "y": 20
+  },
+  "hasClickThrough": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "6B144D06-49F2-4FB1-82CB-BAD34199F158"
+    },
+    {
+      "class": "bitmap",
+      "id": "123F1638-420B-4FBB-85BB-1424CDCD2DFD"
+    },
+    {
+      "class": "bitmap",
+      "id": "22CC9132-652B-4B62-BCD0-46A0CE606F50"
+    },
+    {
+      "class": "bitmap",
+      "id": "498B870F-C0BF-40D5-98FE-97E1909D41DD"
+    },
+    {
+      "class": "bitmap",
+      "id": "EF414822-E9C4-4469-9C6A-C1454EACE024"
+    },
+    {
+      "class": "bitmap",
+      "id": "29F3B213-3874-41D0-BE45-64322A5F1DA1"
+    },
+    {
+      "class": "text",
+      "id": "2ED286B0-C7EC-433C-850D-4FD03C7016F0"
+    },
+    {
+      "class": "text",
+      "id": "65C6562A-E03E-4CA0-8EC9-7FAF68E9280E"
+    },
+    {
+      "class": "text",
+      "id": "16C32B7B-CA82-42E3-BBC9-5E986A4B7694"
+    },
+    {
+      "class": "text",
+      "id": "179DC83C-39D4-4BA0-926B-A11A05E3F711"
+    },
+    {
+      "class": "group",
+      "id": "FD349224-7105-4911-95D4-E0F158BF4392"
+    },
+    {
+      "class": "group",
+      "id": "5478466F-922F-4337-B876-D077D624439F"
+    }
+  ],
+  "name": "DL中間",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8EFC5EFE-F368-421A-8304-80223EBD9125",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 0,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

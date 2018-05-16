@@ -1,0 +1,107 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "C5A86C2A-CA1C-425A-A34C-624184DC62D7",
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "9B25A286-B48A-414D-BA6E-5C8288255C07",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E3C81421-90BE-4D8B-8F19-01C25199A8A2",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4ABDA085-E6C6-4D68-A192-4AE40840F20E",
+    "height": 462,
+    "width": 1440,
+    "x": 21538,
+    "y": 2479
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "FBBE7F11-41F7-4790-898D-95597B3BE685",
+    "guides": [
+      305,
+      1135,
+      230,
+      1210,
+      710,
+      412
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "group",
+      "id": "A0374D77-FAB4-4EBD-8943-B95D968AA794"
+    },
+    {
+      "class": "text",
+      "id": "02C5A66F-24B4-41C5-8C0F-1CA2CE5689B2"
+    }
+  ],
+  "name": "content",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "206CE98C-BFD5-4A8C-8240-FCA4A1DF6962",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    },
+    "io.magicsketch.mirror": {
+      "highestQuality": 1
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "F86D4F47-FE56-488F-9B16-B51E863DA224",
+    "guides": [
+      2308,
+      3895,
+      4331,
+      5856
+    ]
+  }
+}

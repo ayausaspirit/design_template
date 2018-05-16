@@ -1,0 +1,59 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGwsNYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QMwcIERIYKywtLi8wMTI2Pj9AQUJJTU5PW1xdXl9gYWJjZXN2eX1+kJObnJ2pqquss7a6vlUkbnVsbNQJCgsMDQ4PEFhOU1N0cmluZ18QD05TQXR0cmlidXRlSW5mb1xOU0F0dHJpYnV0ZXNWJGNsYXNzgAKAMIADgDJvEC0w0TDvMPwwuTDdMMMwyFQNefAgKTCCMFgwgjBYMIIwWDCCMFgwgjBYMIIwWDCCMFgwgjBYMIIwWDCCMFgwgjBYMIIwWDCCMFgwgjBYMFgwgjBYMIIwWDCCMFjSEwwUF1pOUy5vYmplY3RzohUWgASAJYAv0xkTDBoiKldOUy5rZXlzpxscHR4fICGABYAGgAeACIAJgAqAC6cjJCUkJygpgAyAFIAVgBSAFoAggCSAH18QH01TQXR0cmlidXRlZFN0cmluZ0ZvbnRBdHRyaWJ1dGVfEA9OU1N0cmlrZXRocm91Z2hbTlNVbmRlcmxpbmVfEChNU0F0dHJpYnV0ZWRTdHJpbmdUZXh0VHJhbnNmb3JtQXR0cmlidXRlXxAqTVNBdHRyaWJ1dGVkU3RyaW5nQ29sb3JEaWN0aW9uYXJ5QXR0cmlidXRlXxAQTlNQYXJhZ3JhcGhTdHlsZVZOU0tlcm7SDDM0NV8QGk5TRm9udERlc2NyaXB0b3JBdHRyaWJ1dGVzgBOADdMZEww3Oj2iODmADoAPojs8gBCAEYASXxATTlNGb250U2l6ZUF0dHJpYnV0ZV8QE05TRm9udE5hbWVBdHRyaWJ1dGUjQCf9pOZ8zTRfEA9IaXJhS2FrdVByb04tVzbSQ0RFRlokY2xhc3NuYW1lWCRjbGFzc2VzXxATTlNNdXRhYmxlRGljdGlvbmFyeaNFR0hcTlNEaWN0aW9uYXJ5WE5TT2JqZWN00kNESktfEBBOU0ZvbnREZXNjcmlwdG9yokxIXxAQTlNGb250RGVzY3JpcHRvchAAEAHTGRMMUFUqpFFSU1SAF4AYgBmAGqRWV1hZgBuAHIAdgB6AH1NyZWRVYWxwaGFUYmx1ZVVncmVlbiM/7h4dIXj2jCM/8AAAAAAAACM/zh4dIXj2jCM/zh4dIXj2jNJDREdkokdI2AxmZ2hpamtsbW5vb2BOcXJaTlNUYWJTdG9wc1xOU1RleHRCbG9ja3NbTlNUZXh0TGlzdHNfEBJOU1BhcmFncmFwaFNwYWNpbmdfEB9OU0FsbG93c1RpZ2h0ZW5pbmdGb3JUcnVuY2F0aW9uXxAPTlNNYXhMaW5lSGVpZ2h0XxAPTlNNaW5MaW5lSGVpZ2h0gCOAAIAhgCEjQDf9pOZ8zTQjQDf9pOZ8zTTSEwx0daCAItJDRHd4V05TQXJyYXmid0jSQ0R6e18QF05TTXV0YWJsZVBhcmFncmFwaFN0eWxlo3p8SF8QEE5TUGFyYWdyYXBoU3R5bGUjAAAAAAAAAADTGRMMf4cqpxscHR4fICGABYAGgAeACIAJgAqAC6eIJCQkjI0pgCaAFIAUgBSAKoAugCSAH9IMMzSSgBOAJ9MZEwyUlz2iODmADoAPopiZgCiAKYASI0Aj/glqvVWsXxAPSGlyYUtha3VQcm9OLVcz0xkTDJ6jKqRRUlNUgBeAGIAZgBqkpFemp4ArgByALIAtgB8jP7UVFhG6PKcjP7QUDdP+GXYjP7QUDdP+GXbYDGZnaGlqa2xtbm9vYE6xsoAjgACAIYAhI0Av/Nvd+7xGI0Av/Nvd+7xG0kNEtLVeTlNNdXRhYmxlQXJyYXmjtHdI0rcMuLlXTlMuZGF0YUQKACMBgDHSQ0S7vF1OU011dGFibGVEYXRho7u9SFZOU0RhdGHSQ0S/wF8QEk5TQXR0cmlidXRlZFN0cmluZ6LBSF8QEk5TQXR0cmlidXRlZFN0cmluZ18QD05TS2V5ZWRBcmNoaXZlctHExVRyb290gAEACAARABoAIwAtADIANwBtAHMAfACFAJcApACrAK0ArwCxALMBEAEVASABIwElAScBKQEwATgBQAFCAUQBRgFIAUoBTAFOAVYBWAFaAVwBXgFgAWIBZAFmAYgBmgGmAdEB/gIRAhgCHQI6AjwCPgJFAkgCSgJMAk8CUQJTAlUCawKBAooCnAKhAqwCtQLLAs8C3ALlAuoC/QMAAxMDFQMXAx4DIwMlAycDKQMrAzADMgM0AzYDOAM6Az4DRANJA08DWANhA2oDcwN4A3sDjAOXA6QDsAPFA+cD+QQLBA0EDwQRBBMEHAQlBCoEKwQtBDIEOgQ9BEIEXARgBHMEfASDBIsEjQSPBJEEkwSVBJcEmQShBKMEpQSnBKkEqwStBK8EsQS2BLgEugTBBMQExgTIBMsEzQTPBNEE2gTsBPME+AT6BPwE/gUABQUFBwUJBQsFDQUPBRgFIQUqBTsFPQU/BUEFQwVMBVUFWgVpBW0FcgV6BX8FgQWGBZQFmAWfBaQFuQW8BdEF4wXmBesAAAAAAAACAQAAAAAAAADGAAAAAAAAAAAAAAAAAAAF7Q=="
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "72AFD138-701F-464D-9AD3-E73FB8C143DA",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D2524001-53B6-438E-860C-D31465D30650",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8EAE617A-CC14-49DB-BFD7-294601138875",
+    "height": 73,
+    "width": 150,
+    "x": 187,
+    "y": 0
+  },
+  "glyphBounds": "{{0, 13}, {149, 69}}",
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "パワースポット名称 もじもじもじもじもじもじもじもじもじもじもじもじもじもじじもじもじもじ copy",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2F278D28-CCA8-4857-901F-75E3F10D4C99",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "textBehaviour": 1,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "isAutoWidth": 0
+      }
+    }
+  }
+}

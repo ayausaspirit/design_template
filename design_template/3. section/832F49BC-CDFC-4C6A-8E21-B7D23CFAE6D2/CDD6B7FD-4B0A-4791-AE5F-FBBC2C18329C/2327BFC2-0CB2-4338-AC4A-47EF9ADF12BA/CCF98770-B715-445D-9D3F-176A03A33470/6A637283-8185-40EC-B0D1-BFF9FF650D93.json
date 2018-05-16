@@ -1,0 +1,48 @@
+{
+  "_class": "bitmap",
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "6A637283-8185-40EC-B0D1-BFF9FF650D93",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4A99C1B5-3203-4AE9-9D9E-AA919ADFCC93",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "6A3CC538-A0FC-42FC-81CD-64E2FC86B2C3",
+    "height": 584.5730555555555,
+    "width": 254.9999999999998,
+    "x": 0,
+    "y": 0
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/cf6daea69a589d06007e6b88635fba98ae2e647a",
+    "_ref_class": "MSImageData"
+  },
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "FireShot Capture 2 - bagelee（ベーグリー） - デザインと技術のおはなし - https___bagelee.com_",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "327A157F-83E0-4A1B-87FF-4983A4D26BC2",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "_class": "group",
+  "do_objectID": "4E41052B-3160-490C-B548-DB262D2643B3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "957DFDED-F2B5-4B53-965F-EFC5B1E6E90F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "EF2F7304-D94E-4438-8C73-4558F13A1393",
+    "height": 350,
+    "width": 610,
+    "x": 243,
+    "y": 13
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "391BE72A-ECDD-4A40-8372-D9AE1B355C14"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8D190C77-BB91-409D-B258-386803013DD7"
+    },
+    {
+      "class": "text",
+      "id": "5DADB635-E6FD-4EC8-A902-C222B1DCB13D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "56799D6D-066D-4991-9B89-7A0B340D04EF"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "98EE76CF-88D7-404D-B87B-A6B34118D4B3"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F495537B-6CF5-4000-80BB-45761ED7F99F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "985EB223-C59B-4DC3-9AA7-A1D1982F3FEC"
+    },
+    {
+      "class": "text",
+      "id": "2B3D4455-4A77-49E8-97C0-E039F4EFDECF"
+    },
+    {
+      "class": "text",
+      "id": "89CAF828-4070-4814-B8B1-1FCFFFA0E78C"
+    },
+    {
+      "class": "text",
+      "id": "A5784D52-593D-4BA2-B8E8-48C251FEFFCD"
+    },
+    {
+      "class": "text",
+      "id": "A8254B6B-0420-45A7-B777-0228CDFC9852"
+    },
+    {
+      "class": "group",
+      "id": "75360B3F-FC73-43D5-BE34-61E78AA8AF34"
+    },
+    {
+      "class": "group",
+      "id": "97055694-50DE-44D6-B970-9321CC8928E7"
+    },
+    {
+      "class": "group",
+      "id": "1A147B2B-19B0-45D3-8017-6237E928498A"
+    },
+    {
+      "class": "group",
+      "id": "C3671F56-3D63-4F62-B70A-E3995B67D72B"
+    },
+    {
+      "class": "text",
+      "id": "359DBE2D-7DF6-4FEA-B5D1-5356DD44365E"
+    },
+    {
+      "class": "text",
+      "id": "E1D744E8-9C53-4C2F-BD6F-A7E2E18BD002"
+    },
+    {
+      "class": "text",
+      "id": "61D04FAC-024F-44E0-B658-6A452B4DC3D4"
+    },
+    {
+      "class": "text",
+      "id": "54F60CE3-7B5F-47A4-981B-A82E400349A0"
+    },
+    {
+      "class": "group",
+      "id": "AF3AC549-0EFD-4FE9-A1B9-510566DCC112"
+    }
+  ],
+  "name": "クリニックのご案内",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8B14A2F5-D400-491F-95B1-421991CA3059",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

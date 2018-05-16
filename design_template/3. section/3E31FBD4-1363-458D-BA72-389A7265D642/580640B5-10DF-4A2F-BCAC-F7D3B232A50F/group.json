@@ -1,0 +1,58 @@
+{
+  "_class": "group",
+  "do_objectID": "580640B5-10DF-4A2F-BCAC-F7D3B232A50F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "EC02D4EB-E0E2-4756-859E-188057425629",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7D4DC1B1-186F-4F3B-90C5-C098D3FC112C",
+    "height": 94,
+    "width": 140,
+    "x": 677,
+    "y": 387
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "62BF54CA-6460-4624-B862-93FFA603602E"
+    },
+    {
+      "class": "group",
+      "id": "0733A6CC-6DDA-41A9-8DDB-303DAE940A1F"
+    }
+  ],
+  "name": "sakura_kasumi01",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "77F29A5A-3E37-461D-99F1-448ED887C9F9",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

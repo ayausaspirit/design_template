@@ -1,0 +1,62 @@
+{
+  "_class": "group",
+  "do_objectID": "7AA647E4-2C02-465E-A23A-2095297390BB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3FE29CD4-230B-42F8-8257-5B346B57DCB7",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2204E96D-8F62-45C9-ADC7-005DC2A57DF8",
+    "height": 137,
+    "width": 155,
+    "x": 694,
+    "y": 2617
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "624BA8BC-CE3F-4BA4-90FA-185C05F41A92"
+    },
+    {
+      "class": "text",
+      "id": "565CD4AB-CF7D-441F-89DB-4B8D1D783C0D"
+    },
+    {
+      "class": "text",
+      "id": "269181B9-B6F7-4B00-B246-D5BCF3719C95"
+    }
+  ],
+  "name": "吹き出し",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "368D191F-A279-4D1D-9134-FF5F3A22F1CC",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

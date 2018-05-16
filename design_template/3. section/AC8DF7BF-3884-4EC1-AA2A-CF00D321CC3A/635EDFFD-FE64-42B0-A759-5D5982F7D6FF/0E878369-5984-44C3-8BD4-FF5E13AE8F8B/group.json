@@ -1,0 +1,62 @@
+{
+  "_class": "group",
+  "do_objectID": "0E878369-5984-44C3-8BD4-FF5E13AE8F8B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A081B649-DBAE-44B2-AAFA-365388844EE1",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7796D127-CC08-4163-9890-2021FBC41C67",
+    "height": 334,
+    "width": 230,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "9C414A29-D6E6-4C6E-A07D-0A71F6D0222A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "294C338F-B246-4F35-9921-42A1D01DF73E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "AEA774A3-4D74-4805-A2E1-3DD3D723F1CE"
+    }
+  ],
+  "name": "Rectangle 4",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B4EC0325-00B1-41A8-AD81-48933AD52607",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

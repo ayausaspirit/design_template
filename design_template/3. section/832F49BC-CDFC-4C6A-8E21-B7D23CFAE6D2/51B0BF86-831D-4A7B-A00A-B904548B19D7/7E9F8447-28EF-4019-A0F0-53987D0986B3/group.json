@@ -1,0 +1,52 @@
+{
+  "_class": "group",
+  "do_objectID": "7E9F8447-28EF-4019-A0F0-53987D0986B3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1E092744-9D74-4FE0-8AEB-5265CA9BC37D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "2261ED7D-8002-4C55-ACDC-72794D0E212E",
+    "height": 14.14285714285714,
+    "width": 11,
+    "x": 0,
+    "y": 3
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "96C4D137-CEA2-426F-8A52-C7FC3750CE09"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "68723CD2-E552-4038-B21D-3837A8FFC5E6"
+    }
+  ],
+  "name": "apple",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "01EF14AE-CDC8-4007-87B2-19BE7CBFCFE1",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

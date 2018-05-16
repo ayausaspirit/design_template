@@ -1,0 +1,70 @@
+{
+  "_class": "group",
+  "do_objectID": "454FF762-6180-46A4-966B-9B6500ADBEC4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "EAEE4083-30E5-4D7A-BE68-E64E672A3324",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "70A32069-912A-47A8-A923-453E640FD624",
+    "height": 15,
+    "width": 15,
+    "x": 147,
+    "y": 5
+  },
+  "hasClickThrough": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "02CD042D-0E55-4A66-A2C9-FDDA46830FD5"
+    },
+    {
+      "class": "bitmap",
+      "id": "52F0BD2A-3E4D-42C8-BEAF-FC45C7E2A84B"
+    }
+  ],
+  "name": "虫眼鏡のアイコン",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "AAD56953-56A8-4D6F-A9D0-99CF23B4F77B",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 0,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "do_objectID": "AC8AAF70-BBFC-4C2A-A34B-A7A02EE694D0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 530,
+    "width": 260,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "FC5F6405-67A5-4A50-993A-D53B271671D1"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "55F0B2E0-4992-4FC1-B68C-F35E8988DD93"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "28EEBF5D-299D-4506-8AE1-CB656F2C666B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "33DD8804-9C17-4671-A784-7E50E110ABE6"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "DA390B1C-F4E6-44BD-9CBC-421495310296"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "81FA676E-5ED5-46EA-81B2-BA1F712D603E"
+    }
+  ],
+  "name": "iPhone",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

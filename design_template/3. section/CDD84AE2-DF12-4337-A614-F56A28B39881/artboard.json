@@ -1,0 +1,110 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "943F1D24-8FEF-4572-8CC9-9F9AD93D9767",
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "CDD84AE2-DF12-4337-A614-F56A28B39881",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9DC29C81-3A33-4FA3-AA0A-82FE148E6038",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5C772940-CA7F-4BDE-8D0C-731824EC3BC9",
+    "height": 918,
+    "width": 1400,
+    "x": 21548,
+    "y": 714
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "64F12964-CB19-4D5E-8577-25C97F0A6D85",
+    "guides": [
+      210,
+      1190,
+      850,
+      890,
+      820,
+      239
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "454CF0A5-73E0-4867-83D6-4D5C0C8CD9E9"
+    }
+  ],
+  "name": "form2",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Desktop",
+    "offersLandscapeVariant": 0,
+    "width": 1024
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A2FCFF8A-DCB8-47C5-BD2C-5DD117D549AE",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    },
+    "io.magicsketch.mirror": {
+      "highestQuality": 1
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "E362281D-8CF8-4866-836A-11C937506EB5",
+    "guides": [
+      1256,
+      967,
+      1297,
+      733
+    ]
+  }
+}

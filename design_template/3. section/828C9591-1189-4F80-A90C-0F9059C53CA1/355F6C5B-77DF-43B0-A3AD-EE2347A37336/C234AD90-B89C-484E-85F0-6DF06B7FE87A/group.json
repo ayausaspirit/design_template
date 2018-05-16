@@ -1,0 +1,84 @@
+{
+  "_class": "group",
+  "do_objectID": "C234AD90-B89C-484E-85F0-6DF06B7FE87A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E7C859D2-06BE-4CF2-A2AE-A1B3FE638E34",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "AB4F1FB6-02E7-4651-8136-E04E13336943",
+    "height": 320,
+    "width": 454,
+    "x": 0,
+    "y": 67
+  },
+  "hasClickThrough": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "5161E786-7A7E-4602-930F-0F065312BBA5"
+    },
+    {
+      "class": "text",
+      "id": "747DEFDB-0E69-4F41-8092-49DE33BBF862"
+    },
+    {
+      "class": "text",
+      "id": "FD4AD592-0CE0-4E74-AB59-184F06E509CE"
+    },
+    {
+      "class": "group",
+      "id": "69750448-E9A9-4885-909A-D3BFE5949797"
+    }
+  ],
+  "name": "シンガポール",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3E9B7B49-FD43-4663-8F45-936BB9442830",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 0,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

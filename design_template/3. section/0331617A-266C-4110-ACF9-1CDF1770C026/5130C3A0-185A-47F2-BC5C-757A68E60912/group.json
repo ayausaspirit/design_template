@@ -1,0 +1,58 @@
+{
+  "_class": "group",
+  "do_objectID": "5130C3A0-185A-47F2-BC5C-757A68E60912",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B92713EB-AC11-4B42-90F6-20BD051695F3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5291FEB8-3B04-4BAB-90D2-2F31A7D41B27",
+    "height": 846,
+    "width": 809,
+    "x": 159,
+    "y": 35
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "1C2F4874-1B6A-40EB-8FD6-52C2736F19B1"
+    },
+    {
+      "class": "group",
+      "id": "63993F10-D167-4676-8338-03F3F0C21FFA"
+    }
+  ],
+  "name": "メインニュース",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0FE25EC5-8BDF-427A-B4F4-81131AE01F51",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

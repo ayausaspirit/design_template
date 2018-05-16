@@ -1,0 +1,66 @@
+{
+  "_class": "group",
+  "do_objectID": "CA57A326-ACD4-499D-B355-6C6DCAD52C82",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A9859357-A013-40E9-9E98-479AA756FE91",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5CCFAB7D-E5FE-4BC6-B427-D76F58B7C070",
+    "height": 377,
+    "width": 830,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "78145850-237F-4AAD-8987-B619D27DDF17"
+    },
+    {
+      "class": "text",
+      "id": "3F85667B-1832-4941-8EEC-5461DAE974CB"
+    },
+    {
+      "class": "bitmap",
+      "id": "C9EA7B55-68D0-4D0D-9084-60A5CA21D252"
+    },
+    {
+      "class": "group",
+      "id": "944A7640-76BB-44FF-845C-A493ED72863F"
+    }
+  ],
+  "name": "nayami",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "84B72FD5-013C-4AFF-9751-2ACA53F5836C",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

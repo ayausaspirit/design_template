@@ -1,0 +1,62 @@
+{
+  "_class": "group",
+  "do_objectID": "04B9E7AD-6675-41EC-9376-820D810E4B17",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C2BD56E5-3AA8-4F16-9F3C-27A87BCD2039",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5DE60CD5-B2F3-4A87-920A-67EE660A77B8",
+    "height": 600,
+    "width": 982,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "7C6B66B1-E3EB-4B91-825A-610DD8559D0A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F9BD3794-4A54-4065-98B7-86D83398B7F2"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "263A246E-132B-4758-A86C-2E33685F3FFC"
+    }
+  ],
+  "name": "Rectangle 5 Copy",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F4BD5455-94A3-47AC-B998-7CD10E0AFE26",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

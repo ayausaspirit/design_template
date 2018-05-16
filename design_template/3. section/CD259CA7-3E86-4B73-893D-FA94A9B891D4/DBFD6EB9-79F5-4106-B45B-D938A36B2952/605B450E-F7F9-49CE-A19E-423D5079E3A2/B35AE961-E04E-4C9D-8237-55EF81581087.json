@@ -1,0 +1,52 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGe3xYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QJAcIDxAkJSYnKCkqKy83ODk6O0JGR1NUVVZXWFlaW11sb3J2d1UkbnVsbNMJCgsMDQ5YTlNTdHJpbmdWJGNsYXNzXE5TQXR0cmlidXRlc4ACgCOAA2gwuDDjMPMw6zBLMIljojBZ0xESChMbI1dOUy5rZXlzWk5TLm9iamVjdHOnFBUWFxgZGoAEgAWABoAHgAiACYAKpxwdHR0gISKAC4ATgBOAE4AUgB6AIoAdXxAfTVNBdHRyaWJ1dGVkU3RyaW5nRm9udEF0dHJpYnV0ZV8QD05TU3RyaWtldGhyb3VnaFtOU1VuZGVybGluZV8QKE1TQXR0cmlidXRlZFN0cmluZ1RleHRUcmFuc2Zvcm1BdHRyaWJ1dGVfECpNU0F0dHJpYnV0ZWRTdHJpbmdDb2xvckRpY3Rpb25hcnlBdHRyaWJ1dGVfEBBOU1BhcmFncmFwaFN0eWxlVk5TS2VybtIKLC0uXxAaTlNGb250RGVzY3JpcHRvckF0dHJpYnV0ZXOAEoAM0xESCjAzNqIxMoANgA6iNDWAD4AQgBFfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNAKBW0B7w+JF8QD0hpcmFLYWt1UHJvTi1XM9I8PT4/WiRjbGFzc25hbWVYJGNsYXNzZXNfEBNOU011dGFibGVEaWN0aW9uYXJ5oz5AQVxOU0RpY3Rpb25hcnlYTlNPYmplY3TSPD1DRF8QEE5TRm9udERlc2NyaXB0b3KiRUFfEBBOU0ZvbnREZXNjcmlwdG9yEADTERIKSE0jpElKS0yAFYAWgBeAGKROT1BRgBmAGoAbgByAHVNyZWRVYWxwaGFUYmx1ZVVncmVlbiM/7Z2dNFjNISM/8AAAAAAAACM/0BAOavzOHCM/1hYV6/qPftI8PUBcokBB2ApeX2BhYmNkZWZnZ1hpamtaTlNUYWJTdG9wc1xOU1RleHRCbG9ja3NbTlNUZXh0TGlzdHNfEBJOU1BhcmFncmFwaFNwYWNpbmdfEB9OU0FsbG93c1RpZ2h0ZW5pbmdGb3JUcnVuY2F0aW9uXxAPTlNNYXhMaW5lSGVpZ2h0XxAPTlNNaW5MaW5lSGVpZ2h0gCGAAIAfgB8QASNAPhshCatNrCNAPhshCatNrNISCm1uoIAg0jw9cHFXTlNBcnJheaJwQdI8PXN0XxAXTlNNdXRhYmxlUGFyYWdyYXBoU3R5bGWjc3VBXxAQTlNQYXJhZ3JhcGhTdHlsZSMAAAAAAAAAANI8PXh5XxASTlNBdHRyaWJ1dGVkU3RyaW5nonpBXxASTlNBdHRyaWJ1dGVkU3RyaW5nXxAPTlNLZXllZEFyY2hpdmVy0X1+VHJvb3SAAQAIABEAGgAjAC0AMgA3AF4AZABrAHQAewCIAIoAjACOAJ8ApgCuALkAwQDDAMUAxwDJAMsAzQDPANcA2QDbAN0A3wDhAOMA5QDnAQkBGwEnAVIBfwGSAZkBngG7Ab0BvwHGAckBywHNAdAB0gHUAdYB7AICAgsCHQIiAi0CNgJMAlACXQJmAmsCfgKBApQClgKdAqICpAKmAqgCqgKvArECswK1ArcCuQK9AsMCyALOAtcC4ALpAvIC9wL6AwsDFgMjAy8DRANmA3gDigOMA44DkAOSA5QDnQOmA6sDrAOuA7MDuwO+A8MD3QPhA/QD/QQCBBcEGgQvBEEERARJAAAAAAAAAgEAAAAAAAAAfwAAAAAAAAAAAAAAAAAABEs="
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "B35AE961-E04E-4C9D-8237-55EF81581087",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "50B7E681-D651-46A5-AC4F-84965901371B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "EBE833D3-19D3-4AFE-A3B1-9EF10FFE8A9A",
+    "height": 30,
+    "width": 128.1059728663656,
+    "x": 3,
+    "y": 1
+  },
+  "glyphBounds": "{{0, 0}, {0, 0}}",
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "ジャンルから探す",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7AFB20C6-20A5-4141-9CC1-385D56F07642",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "textBehaviour": 1
+}

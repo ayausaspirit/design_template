@@ -1,0 +1,74 @@
+{
+  "_class": "group",
+  "do_objectID": "A7300897-E6BE-423B-A00D-C726AFB5B514",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3183365C-C76B-49DA-AC9D-D32AA7978CB0",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "935055B1-BE0A-46B6-8F2D-840FD3A7F0F4",
+    "height": 493,
+    "width": 793,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "763259FC-5625-41DE-91E7-256F50AECF96"
+    },
+    {
+      "class": "group",
+      "id": "8D34359D-42BF-4BC5-A515-BAA2E1980AC9"
+    },
+    {
+      "class": "text",
+      "id": "B3431437-9AB5-4315-A138-1700F609C77A"
+    },
+    {
+      "class": "group",
+      "id": "15762DC8-01C0-4FD5-BF64-01F100D713F7"
+    },
+    {
+      "class": "group",
+      "id": "900AE961-93EE-4EE5-8376-37631BD5C11F"
+    },
+    {
+      "class": "text",
+      "id": "6E552D64-6255-4C76-8753-B4619A93F5B3"
+    }
+  ],
+  "name": "カード型メイン",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2C8D11AE-EFF3-4BE1-8FE2-0EE09C3A3340",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

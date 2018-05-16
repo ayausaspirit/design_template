@@ -1,0 +1,56 @@
+{
+  "_class": "group",
+  "do_objectID": "879C3AC7-022B-4515-A7CA-CFB22BA6F8DF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "17D94703-B705-4FE7-AAF0-79683C0907C4",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E1111A20-755E-42D7-867B-5CD4A4E49AA8",
+    "height": 11,
+    "width": 533,
+    "x": 0,
+    "y": 295.8675496688742
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "370D11CA-2FC4-497F-A6BC-F38F11F66CCB"
+    },
+    {
+      "class": "group",
+      "id": "0DD3A351-7887-4ADA-B511-D427BD00B6A6"
+    },
+    {
+      "class": "group",
+      "id": "B7B5F6D0-6B01-401B-957A-6E66B3F88A74"
+    }
+  ],
+  "name": "Bottom Panel",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3371C505-9FA0-40D3-85EA-581BEEFDFFFA",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

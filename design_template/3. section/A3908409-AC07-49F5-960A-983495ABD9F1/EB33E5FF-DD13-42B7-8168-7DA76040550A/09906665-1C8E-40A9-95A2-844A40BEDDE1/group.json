@@ -1,0 +1,80 @@
+{
+  "_class": "group",
+  "do_objectID": "09906665-1C8E-40A9-95A2-844A40BEDDE1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "CC696D2E-24D6-45D2-B76C-45F0092D1DF8",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BBE67679-3606-476A-9012-B57AD8E2734F",
+    "height": 66,
+    "width": 334,
+    "x": 449,
+    "y": 273
+  },
+  "hasClickThrough": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "1A0F07E7-A815-4A16-B942-BC59DADF5EF9"
+    },
+    {
+      "class": "text",
+      "id": "FF3498EF-0F16-42AD-A395-FBEC928677CF"
+    },
+    {
+      "class": "bitmap",
+      "id": "E56253C9-3ADF-4617-BD35-3F4950B702EA"
+    }
+  ],
+  "name": "ボタン",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C13A8304-7BD8-4F93-B92A-334617A5737C",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 0,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

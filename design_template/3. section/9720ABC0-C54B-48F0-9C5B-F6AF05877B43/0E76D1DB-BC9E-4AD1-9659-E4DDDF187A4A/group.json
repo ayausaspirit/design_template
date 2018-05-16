@@ -1,0 +1,81 @@
+{
+  "_class": "group",
+  "do_objectID": "0E76D1DB-BC9E-4AD1-9659-E4DDDF187A4A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "96E74CE7-6CAC-47FB-9C7D-68E5FD2283C1",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "0044B663-71DD-4519-B21A-F0DC8C1DDE28",
+    "height": 307,
+    "width": 600,
+    "x": 106,
+    "y": 60
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "584161FF-C433-4888-B47C-99C44308CCA1"
+    },
+    {
+      "class": "group",
+      "id": "36785F87-6E1D-4A47-9A14-5AB2319F1F55"
+    },
+    {
+      "class": "group",
+      "id": "F7F9548C-9BD4-4B15-85D1-774DE503B876"
+    },
+    {
+      "class": "group",
+      "id": "129AF97E-76A6-417E-86F5-33CF642F9BAC"
+    }
+  ],
+  "name": "Device",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "649F323D-E8C5-43C5-BE8F-8FC7E81B813D",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 307,
+            "enabled": 1,
+            "modelID": "constraint_6c5f9041-6c70-4a03-b321-0c49c5c519a4",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 600
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_1e3ff180-c8f7-4a37-9bdb-90f179377809",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}

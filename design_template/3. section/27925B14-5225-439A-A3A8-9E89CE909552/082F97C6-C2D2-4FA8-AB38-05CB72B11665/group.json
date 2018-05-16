@@ -1,0 +1,74 @@
+{
+  "_class": "group",
+  "do_objectID": "082F97C6-C2D2-4FA8-AB38-05CB72B11665",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2F2C4B0A-3B56-4009-9B61-7562F2380B04",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3EAFC38B-A906-461A-AD23-DD83B50BFC7F",
+    "height": 251,
+    "width": 830,
+    "x": 305,
+    "y": 20
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "19715626-F86B-438C-AD1C-3A52DBDA97B9"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "33DE3961-4FBE-4E7A-80C5-D55C2FBB597F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "614B9F81-94AB-4E97-A990-D3FC1AA67404"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3A161F6D-1D38-4C4B-B761-4B69873F3E0E"
+    },
+    {
+      "class": "text",
+      "id": "E447862D-FCEB-426E-9D9D-01FC304D5041"
+    },
+    {
+      "class": "group",
+      "id": "832FAD47-303E-4704-BDA3-62665A587520"
+    }
+  ],
+  "name": "受講者の声",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "119F8022-BF6E-42EA-8FD0-AE7178C5DD2B",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

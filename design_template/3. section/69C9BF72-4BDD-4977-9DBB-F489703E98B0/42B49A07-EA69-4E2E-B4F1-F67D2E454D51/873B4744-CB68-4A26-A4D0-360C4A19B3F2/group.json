@@ -1,0 +1,58 @@
+{
+  "_class": "group",
+  "do_objectID": "873B4744-CB68-4A26-A4D0-360C4A19B3F2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FF23475C-D7F8-464D-BE8D-E2A2335F92B9",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BF6EAE38-6C16-43AD-85C9-7922D494728D",
+    "height": 307,
+    "width": 340,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "31E708BE-854B-45A2-96D8-CD2AE1AFB7EF"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E81498A1-B63A-437A-B955-29D17ED54E1E"
+    }
+  ],
+  "name": "Rectangle 3 Copy 2",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "404B6EA7-D91C-4091-AD4B-79EA4059C9ED",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

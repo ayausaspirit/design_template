@@ -1,0 +1,99 @@
+{
+  "_class": "group",
+  "do_objectID": "584161FF-C433-4888-B47C-99C44308CCA1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A5EDE6B2-977A-4456-B5FE-123200FA7BE1",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "3CC1A4FE-C0F7-4520-A9D7-DC4CE4F249A7",
+    "height": 307,
+    "width": 533,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "7E3E3C76-6461-4D7E-BF41-2DA162FC1EF0"
+    },
+    {
+      "class": "group",
+      "id": "447F0EEC-FC7B-4A21-A339-4F7E24FB24EB"
+    },
+    {
+      "class": "group",
+      "id": "879C3AC7-022B-4515-A7CA-CFB22BA6F8DF"
+    }
+  ],
+  "name": "Macbook-Space Grey",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1E6D74DD-8C60-4684-9E66-C0B24FA818AB",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 10,
+        "color": {
+          "_class": "color",
+          "alpha": 0.3544214221014493,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 5,
+        "offsetY": 6,
+        "spread": 0
+      }
+    ],
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 307,
+            "enabled": 1,
+            "modelID": "constraint_827c4ad6-c9f0-4f46-a633-a6a553e63c54",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 533
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_94e2a364-1b55-40cf-85ff-1080cf93f437",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}

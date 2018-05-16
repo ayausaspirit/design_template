@@ -1,0 +1,58 @@
+{
+  "_class": "group",
+  "do_objectID": "3D65C5ED-59C8-46EE-9AC2-2593A7E90D66",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8A510574-79ED-4E49-A090-D2A4F91B2C57",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FF339CFC-C680-4F62-BE34-C39EA1CC0815",
+    "height": 125,
+    "width": 250,
+    "x": 460,
+    "y": 67
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "39786A0D-B5EC-4CDB-9DBB-A7C785A9EABA"
+    },
+    {
+      "class": "group",
+      "id": "71D8A22A-19E5-4214-A247-ABAA0DA468D3"
+    }
+  ],
+  "name": "Ω Copy 3",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "27693958-D6AF-4C04-822A-20306A5253A2",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

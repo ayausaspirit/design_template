@@ -1,0 +1,84 @@
+{
+  "_class": "bitmap",
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "6E87DA8A-B371-4778-A5D8-EF303687C25E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 27,
+    "width": 27,
+    "x": 1200,
+    "y": 17
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/c661547fcc5a223872355ca6777f9f6f545e7e32",
+    "_ref_class": "MSImageData"
+  },
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "メールの無料アイコン素材",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.9191113945578231,
+          "green": 0.9191113945578231,
+          "red": 0.9191113945578231
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 256,
+            "enabled": 1,
+            "modelID": "constraint_ca222804-34f3-4c2d-98ed-c3dfe4369c75",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 256
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_6968a599-7118-401d-b22b-c1d55f2c56e5",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}

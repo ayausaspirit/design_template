@@ -1,0 +1,58 @@
+{
+  "_class": "group",
+  "do_objectID": "4CBE248D-D6CB-4AD8-9B16-FE7AD3282CA4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "725BF02D-409D-470F-BC16-32C4477241CD",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "129B270E-16C1-4E16-AAFD-53A3B0F7C2DD",
+    "height": 309,
+    "width": 610,
+    "x": 1,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "E98115B3-59B5-48C9-BA7F-82DB5A4ADA3F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "DC5C047E-83A9-4EC1-B348-175AE0DED1B5"
+    }
+  ],
+  "name": "Rectangle 5",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6B584151-C7B6-4436-BD16-5A27F4A01D64",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

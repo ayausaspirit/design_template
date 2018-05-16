@@ -1,0 +1,66 @@
+{
+  "_class": "group",
+  "do_objectID": "9D91C067-6E84-43DE-A738-7AE8F4B6DDBB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FAD3E691-C7D4-4468-A826-C767748D96A5",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9235D962-31A5-4616-A050-7878B86BBE51",
+    "height": 14,
+    "width": 62,
+    "x": 223,
+    "y": 36
+  },
+  "hasClickThrough": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "C50DA16E-E4A7-4E16-8E25-CD7CA1467AB6"
+    }
+  ],
+  "name": "ほしマーク のコピー 3",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F5F3DCD8-4036-4AF3-9EB0-2F32A1B15831",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 0,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

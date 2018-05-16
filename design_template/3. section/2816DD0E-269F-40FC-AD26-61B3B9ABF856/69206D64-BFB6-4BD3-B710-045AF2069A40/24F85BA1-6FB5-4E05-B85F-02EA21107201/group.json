@@ -1,0 +1,76 @@
+{
+  "_class": "group",
+  "do_objectID": "24F85BA1-6FB5-4E05-B85F-02EA21107201",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "68C72EC9-3745-4718-9C5B-CEECCB021331",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "22387FB3-39C3-44FC-A2BF-3B610C21B2D5",
+    "height": 34,
+    "width": 158,
+    "x": 196,
+    "y": 305
+  },
+  "hasClickThrough": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "group",
+      "id": "F0958CB0-407A-409E-B184-8505768EC70D"
+    },
+    {
+      "class": "text",
+      "id": "891E3C49-F4D9-47F6-B4F4-37DFAB08CB8E"
+    }
+  ],
+  "name": "ボタン",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A5F73B9A-3EA5-4CE2-8499-67586C153ED7",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 0,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

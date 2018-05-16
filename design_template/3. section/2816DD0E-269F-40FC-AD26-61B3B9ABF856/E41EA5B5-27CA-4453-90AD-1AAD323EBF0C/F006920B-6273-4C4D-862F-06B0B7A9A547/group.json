@@ -1,0 +1,70 @@
+{
+  "_class": "group",
+  "do_objectID": "F006920B-6273-4C4D-862F-06B0B7A9A547",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "21F14A78-4E2D-493E-96DA-3E6A1783361C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E25A3AC6-5430-4F38-B918-F40A195D49E6",
+    "height": 25,
+    "width": 171,
+    "x": 1,
+    "y": 153
+  },
+  "hasClickThrough": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "841C498F-C050-41BA-839B-F6946780AD35"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F2023FEF-E1B0-4CBE-8606-386E98FE949E"
+    }
+  ],
+  "name": "検索バー",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F3EAB7D8-B147-4376-BAF0-F8F19A787DE0",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 0,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

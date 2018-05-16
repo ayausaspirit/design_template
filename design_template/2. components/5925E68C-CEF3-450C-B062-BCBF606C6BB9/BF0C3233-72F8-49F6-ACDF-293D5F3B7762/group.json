@@ -1,0 +1,62 @@
+{
+  "_class": "group",
+  "do_objectID": "BF0C3233-72F8-49F6-ACDF-293D5F3B7762",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "74654C7B-F24E-41A8-A8A8-A915F91DCCB8",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7CAABC1E-C487-4138-AF1E-20C72E826FD3",
+    "height": 28,
+    "width": 1413,
+    "x": 0,
+    "y": 132
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "8E886A0C-5317-424F-8140-561103531217"
+    },
+    {
+      "class": "group",
+      "id": "EC3E0398-269A-4FF4-BCCF-E2662AAC02C7"
+    },
+    {
+      "class": "text",
+      "id": "EB4D01AA-D75C-4270-B117-53CBEEB6A1BE"
+    }
+  ],
+  "name": "パンくず",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "279F2658-62EA-4236-89BC-B1ADC2361BAD",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGentYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QJAcIDxAkJSYnKCkqKy83ODk6O0JGR1NUVVZXWFlaW11rbnF1dlUkbnVsbNMJCgsMDQ5YTlNTdHJpbmdWJGNsYXNzXE5TQXR0cmlidXRlc4ACgCOAA2v/CE+L/wlncU6sACB5Xnk+ACCR0ZBL0xESChMbI1dOUy5rZXlzWk5TLm9iamVjdHOnFBUWFxgZGoAEgAWABoAHgAiACYAKpxwdHR0gISKAC4ATgBOAE4AUgB6AIoAdXxAfTVNBdHRyaWJ1dGVkU3RyaW5nRm9udEF0dHJpYnV0ZV8QD05TU3RyaWtldGhyb3VnaFtOU1VuZGVybGluZV8QKE1TQXR0cmlidXRlZFN0cmluZ1RleHRUcmFuc2Zvcm1BdHRyaWJ1dGVfECpNU0F0dHJpYnV0ZWRTdHJpbmdDb2xvckRpY3Rpb25hcnlBdHRyaWJ1dGVfEBBOU1BhcmFncmFwaFN0eWxlVk5TS2VybtIKLC0uXxAaTlNGb250RGVzY3JpcHRvckF0dHJpYnV0ZXOAEoAM0xESCjAzNqIxMoANgA6iNDWAD4AQgBFfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNAKAAAAAAAAF8QD0hpcmFLYWt1UHJvTi1XM9I8PT4/WiRjbGFzc25hbWVYJGNsYXNzZXNfEBNOU011dGFibGVEaWN0aW9uYXJ5oz5AQVxOU0RpY3Rpb25hcnlYTlNPYmplY3TSPD1DRF8QEE5TRm9udERlc2NyaXB0b3KiRUFfEBBOU0ZvbnREZXNjcmlwdG9yEADTERIKSE0jpElKS0yAFYAWgBeAGKROT1BRgBmAGoAbgByAHVNyZWRVYWxwaGFUYmx1ZVVncmVlbiM/6BgXuVopQSM/8AAAAAAAACM/6BgXuVopQSM/6BgXuVopQdI8PUBcokBB2ApeX2BhYmNkZWZnZ1hpampaTlNUYWJTdG9wc1xOU1RleHRCbG9ja3NbTlNUZXh0TGlzdHNfEBJOU1BhcmFncmFwaFNwYWNpbmdfEB9OU0FsbG93c1RpZ2h0ZW5pbmdGb3JUcnVuY2F0aW9uXxAPTlNNYXhMaW5lSGVpZ2h0XxAPTlNNaW5MaW5lSGVpZ2h0gCGAAIAfgB8QASNAPgAAAAAAANISCmxtoIAg0jw9b3BXTlNBcnJheaJvQdI8PXJzXxAXTlNNdXRhYmxlUGFyYWdyYXBoU3R5bGWjcnRBXxAQTlNQYXJhZ3JhcGhTdHlsZSMAAAAAAAAAANI8PXd4XxASTlNBdHRyaWJ1dGVkU3RyaW5nonlBXxASTlNBdHRyaWJ1dGVkU3RyaW5nXxAPTlNLZXllZEFyY2hpdmVy0Xx9VHJvb3SAAQAIABEAGgAjAC0AMgA3AF4AZABrAHQAewCIAIoAjACOAKUArAC0AL8AxwDJAMsAzQDPANEA0wDVAN0A3wDhAOMA5QDnAOkA6wDtAQ8BIQEtAVgBhQGYAZ8BpAHBAcMBxQHMAc8B0QHTAdYB2AHaAdwB8gIIAhECIwIoAjMCPAJSAlYCYwJsAnEChAKHApoCnAKjAqgCqgKsAq4CsAK1ArcCuQK7Ar0CvwLDAskCzgLUAt0C5gLvAvgC/QMAAxEDHAMpAzUDSgNsA34DkAOSA5QDlgOYA5oDowOoA6kDqwOwA7gDuwPAA9oD3gPxA/oD/wQUBBcELAQ+BEEERgAAAAAAAAIBAAAAAAAAAH4AAAAAAAAAAAAAAAAAAARI"
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "6AC4BDAF-C11A-48B8-A769-57CA11636525",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4EC97CC8-0D29-4EB0-A887-CF77B901B1DD",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1F44E191-8D77-4FAF-AFE5-627DD4E2855A",
+    "height": 30,
+    "width": 138,
+    "x": 10,
+    "y": 291
+  },
+  "glyphBounds": "{{0, 0}, {0, 0}}",
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "（例）東京 神社 金運",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "EA8EFDA9-2F9D-4C93-8A98-35EAA01A868E",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "textBehaviour": 1,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "isAutoWidth": 0
+      }
+    }
+  }
+}

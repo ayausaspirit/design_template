@@ -1,0 +1,104 @@
+{
+  "_class": "group",
+  "do_objectID": "0626F2F9-E770-468B-9C17-BA3A17882CCF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E2384781-A0C4-45A5-9EE9-5D92EFD30868",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E6A736CF-53AC-4F34-A2DF-9F95CBE0B151",
+    "height": 244,
+    "width": 325,
+    "x": 282,
+    "y": 58
+  },
+  "hasClickThrough": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "042304CD-60D8-4894-8F24-91EE7B4E280C"
+    },
+    {
+      "class": "group",
+      "id": "8BD40AD9-C38A-456B-BF30-66484A023DF3"
+    },
+    {
+      "class": "group",
+      "id": "E66356DE-93C1-461D-A2E5-B3DCF57F1BA1"
+    },
+    {
+      "class": "text",
+      "id": "CAC504A4-0EE3-440C-9033-CA4D1E87880D"
+    },
+    {
+      "class": "text",
+      "id": "C6C7085F-9174-4132-9F38-72E452FE34C4"
+    },
+    {
+      "class": "text",
+      "id": "88D22C01-9BD7-4F8D-9091-DEEE4DCB6825"
+    },
+    {
+      "class": "text",
+      "id": "926C151C-DE9A-4E63-A940-5079711BD45C"
+    },
+    {
+      "class": "text",
+      "id": "E39E5A07-538B-49AB-87B3-8CC8164C45AA"
+    },
+    {
+      "class": "group",
+      "id": "ABA8352F-E2B0-44C5-A807-6C03080A1CF4"
+    }
+  ],
+  "name": "クチコミ　新着B のコピー 2",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6069F823-F966-4B47-B937-9E2984B521CB",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 0,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

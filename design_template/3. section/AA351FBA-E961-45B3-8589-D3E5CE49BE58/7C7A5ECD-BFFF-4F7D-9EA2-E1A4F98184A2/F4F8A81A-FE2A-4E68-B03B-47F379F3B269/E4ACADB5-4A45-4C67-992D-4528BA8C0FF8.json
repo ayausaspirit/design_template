@@ -1,0 +1,59 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGystYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QOAcIERIYKywtLi8wMTI2Pj9AQUJJTU5aW1xdXl9gYWJkdXh7f4CSk5SVmKChoqOksLGys7q7vsLGVSRudWxs1AkKCwwNDg8QWE5TU3RyaW5nXxAPTlNBdHRyaWJ1dGVJbmZvXE5TQXR0cmlidXRlc1YkY2xhc3OAAoA1gAOAN2VyeVF4ICkAMAAz0hMMFBdaTlMub2JqZWN0c6IVFoAEgCSANNMZEwwaIipXTlMua2V5c6cbHB0eHyAhgAWABoAHgAiACYAKgAunIyQkJCcoKYAMgBSAFIAUgBWAH4AjgB5fEB9NU0F0dHJpYnV0ZWRTdHJpbmdGb250QXR0cmlidXRlXxAPTlNTdHJpa2V0aHJvdWdoW05TVW5kZXJsaW5lXxAoTVNBdHRyaWJ1dGVkU3RyaW5nVGV4dFRyYW5zZm9ybUF0dHJpYnV0ZV8QKk1TQXR0cmlidXRlZFN0cmluZ0NvbG9yRGljdGlvbmFyeUF0dHJpYnV0ZV8QEE5TUGFyYWdyYXBoU3R5bGVWTlNLZXJu0gwzNDVfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4ATgA3TGRMMNzo9ojg5gA6AD6I7PIAQgBGAEl8QE05TRm9udFNpemVBdHRyaWJ1dGVfEBNOU0ZvbnROYW1lQXR0cmlidXRlI0Ar33TwujDZXktvekdvUHI2Ti1Cb2xk0kNERUZaJGNsYXNzbmFtZVgkY2xhc3Nlc18QE05TTXV0YWJsZURpY3Rpb25hcnmjRUdIXE5TRGljdGlvbmFyeVhOU09iamVjdNJDREpLXxAQTlNGb250RGVzY3JpcHRvcqJMSF8QEE5TRm9udERlc2NyaXB0b3IQANMZEwxPVCqkUFFSU4AWgBeAGIAZpFVWV1iAGoAbgByAHYAeU3JlZFVhbHBoYVRibHVlVWdyZWVuIz/vHx8UmD15Iz/wAAAAAAAAIz/vHx8UmD15Iz/vHx8UmD150kNER2OiR0jZDGVmZ2hpamtsbW5vb19xcnN0Wk5TVGFiU3RvcHNcTlNUZXh0QmxvY2tzW05TVGV4dExpc3RzXxASTlNQYXJhZ3JhcGhTcGFjaW5nXxAPTlNNYXhMaW5lSGVpZ2h0XxAfTlNBbGxvd3NUaWdodGVuaW5nRm9yVHJ1bmNhdGlvbl8QD05TTWluTGluZUhlaWdodFtOU0FsaWdubWVudIAigACAIIAgI0AwC/t5zXG0EAEjQDAL+3nNcbQQAtITDHZ3oIAh0kNEeXpXTlNBcnJheaJ5SNJDRHx9XxAXTlNNdXRhYmxlUGFyYWdyYXBoU3R5bGWjfH5IXxAQTlNQYXJhZ3JhcGhTdHlsZSM/1kcLjPv8ZdMZEwyBiSqnghwdhYYgIYAlgAaAB4AmgCeACoALp4okJCSOj5CAKIAUgBSAFIAugDKAM4AeXxAfTVNBdHRyaWJ1dGVkU3RyaW5nRm9udEF0dHJpYnV0ZV8QKE1TQXR0cmlidXRlZFN0cmluZ1RleHRUcmFuc2Zvcm1BdHRyaWJ1dGVfECpNU0F0dHJpYnV0ZWRTdHJpbmdDb2xvckRpY3Rpb25hcnlBdHRyaWJ1dGXSDDM0l4ATgCnTGRMMmZw9opqbgCqAK6KdnoAsgC2AEl8QE05TRm9udFNpemVBdHRyaWJ1dGVfEBNOU0ZvbnROYW1lQXR0cmlidXRlI0Az6MEOQRFRXktvekdvUHI2Ti1Cb2xk0xkTDKWqKqRQUVJTgBaAF4AYgBmkq1atroAvgBuAMIAxgB4jP+8fHxSYPXkjP+8fHxSYPXkjP+8fHxSYPXnZDGVmZ2hpamtsbW5vb1+4crl0gCKAAIAggCAjQDAL+3nNcbQjQDAL+3nNcbQjP9/TNMXaakXSQ0S8vV5OU011dGFibGVBcnJheaO8eUjSvwzAwVdOUy5kYXRhRAMAAgGANtJDRMPEXU5TTXV0YWJsZURhdGGjw8VIVk5TRGF0YdJDRMfIXxASTlNBdHRyaWJ1dGVkU3RyaW5noslIXxASTlNBdHRyaWJ1dGVkU3RyaW5nXxAPTlNLZXllZEFyY2hpdmVy0czNVHJvb3SAAQAIABEAGgAjAC0AMgA3AHIAeACBAIoAnACpALAAsgC0ALYAuADDAMgA0wDWANgA2gDcAOMA6wDzAPUA9wD5APsA/QD/AQEBCQELAQ0BDwERARMBFQEXARkBOwFNAVkBhAGxAcQBywHQAe0B7wHxAfgB+wH9Af8CAgIEAgYCCAIeAjQCPQJMAlECXAJlAnsCfwKMApUCmgKtArACwwLFAswC0QLTAtUC1wLZAt4C4ALiAuQC5gLoAuwC8gL3Av0DBgMPAxgDIQMmAykDPANHA1QDYAN1A4cDqQO7A8cDyQPLA80DzwPYA9oD4wPlA+oD6wPtA/ID+gP9BAIEHAQgBDMEPARDBEsETQRPBFEEUwRVBFcEWQRhBGMEZQRnBGkEawRtBG8EcQSTBL4E6wTwBPIE9AT7BP4FAAUCBQUFBwUJBQsFIQU3BUAFTwVWBVsFXQVfBWEFYwVoBWoFbAVuBXAFcgV7BYQFjQWgBaIFpAWmBagFsQW6BcMFyAXXBdsF4AXoBe0F7wX0BgIGBgYNBhIGJwYqBj8GUQZUBlkAAAAAAAACAQAAAAAAAADOAAAAAAAAAAAAAAAAAAAGWw=="
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "E4ACADB5-4A45-4C67-992D-4528BA8C0FF8",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "03C9B459-F54E-4539-8F91-4C3E690D8CAB",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "174A1A70-58D6-4AAD-AE93-BE97B72A6D92",
+    "height": 34,
+    "width": 59.02798672526951,
+    "x": 116.9860066373658,
+    "y": 12.94579999999996
+  },
+  "glyphBounds": "{{0, 0}, {0, 0}}",
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "特典 03",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FE3DEEE0-3275-4E77-B78B-C5A8FA87E83C",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "textBehaviour": 1,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "isAutoWidth": 0
+      }
+    }
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "_class": "group",
+  "do_objectID": "63993F10-D167-4676-8338-03F3F0C21FFA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "14E563DB-4E08-4D44-8901-2806AA6D02C7",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2B295900-42F5-4780-8F84-5E2A3A8645DB",
+    "height": 775,
+    "width": 772,
+    "x": 37,
+    "y": 40.02453987730062
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "7FEC7DCD-7525-40CF-96D2-671A49BB30CB"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D7EE3AE1-B659-4CFA-910D-0EA0142850A4"
+    },
+    {
+      "class": "text",
+      "id": "575FAE0E-566C-4F1F-B98F-AEBE9784D507"
+    },
+    {
+      "class": "group",
+      "id": "741C8FA2-CE33-4FE7-80C2-404717B61D26"
+    },
+    {
+      "class": "text",
+      "id": "62FAE3EF-802E-4D41-B7AB-41F82B57803F"
+    },
+    {
+      "class": "group",
+      "id": "F4D6C8AA-4439-4974-BE71-0404FA7EB727"
+    },
+    {
+      "class": "group",
+      "id": "8B40B76B-5BBA-43EB-B1D9-CAC907891BFE"
+    },
+    {
+      "class": "text",
+      "id": "05DA5C6C-1946-41F2-A76E-A28193A8D54C"
+    }
+  ],
+  "name": "記事のトップ画像",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1DB9C90B-38E3-4DF7-B492-2AF856FDEE19",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

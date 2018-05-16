@@ -1,0 +1,52 @@
+{
+  "_class": "group",
+  "do_objectID": "0DA2AB53-C097-4928-9C9B-7AA59C14D4D1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "28FEAC26-2572-4D9E-8E99-29779CB1811D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B04FD3CC-D520-450A-B4FE-6412C2772C78",
+    "height": 10,
+    "width": 426,
+    "x": 3.892376923284206,
+    "y": 284.5937428636671
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "EF016A6E-42DE-46D8-B277-63A9662B630E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "DDBD035A-1FAF-4CD0-AE40-718B48D9AA15"
+    }
+  ],
+  "name": "screen_plate",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7E8C7B10-C5B3-4947-B0CA-EB2423BFE1B3",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

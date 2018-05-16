@@ -1,0 +1,58 @@
+{
+  "_class": "group",
+  "do_objectID": "6428AACC-0207-477E-861D-4D20A042FAA5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C8E99614-5301-4A3D-BC0B-68E9AAA5DE58",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "710DB4A0-239D-4495-BFAE-66415B13D32B",
+    "height": 184,
+    "width": 276,
+    "x": 42,
+    "y": 71
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "E0DFBB89-13A1-4C85-8228-9BB99FAE6DC4"
+    },
+    {
+      "class": "group",
+      "id": "1552EE24-A9F6-46CB-A7DE-E94424188656"
+    }
+  ],
+  "name": "Bitmap",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "22910BA9-E935-440B-BE7E-4DD6A430D8C2",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

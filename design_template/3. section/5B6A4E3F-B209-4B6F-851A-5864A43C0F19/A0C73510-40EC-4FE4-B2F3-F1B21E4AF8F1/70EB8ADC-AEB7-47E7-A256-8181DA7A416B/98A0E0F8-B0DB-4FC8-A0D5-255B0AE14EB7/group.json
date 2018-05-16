@@ -1,0 +1,58 @@
+{
+  "_class": "group",
+  "do_objectID": "98A0E0F8-B0DB-4FC8-A0D5-255B0AE14EB7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4C2880BD-D2FB-4597-951F-9103EC8DD8D5",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "38243DF8-BD1A-459D-871B-464D79294FF6",
+    "height": 230,
+    "width": 300,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "66AFFF23-80A6-4197-A335-E2CE5EFBB4BE"
+    },
+    {
+      "class": "group",
+      "id": "7131F9FF-3655-4E80-9BEC-FE2BB8058484"
+    }
+  ],
+  "name": "△透析食",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7B7269D8-FE67-48B8-8CB7-C5F8C294CC0B",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGxcZYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QMwcIERIYKywtLi8wMTI2Pj9AQUJJTU5aW1xdXl9gYWJkdXh7f4CSlZ2en6usra61trm9wVUkbnVsbNQJCgsMDQ4PEFhOU1N0cmluZ18QD05TQXR0cmlidXRlSW5mb1xOU0F0dHJpYnV0ZXNWJGNsYXNzgAKAMIADgDJvEBZOAIIsZwllmU8aVOEwDH1GMA0wbiApMEp1MzBXj7wwfzBvMFMwYTCJMEswidITDBQXWk5TLm9iamVjdHOiFRaABIAkgC/TGRMMGiIqV05TLmtleXOnGxwdHh8gIYAFgAaAB4AIgAmACoALpyMkJCQnKCmADIAUgBSAFIAVgB+AI4AeXxAfTVNBdHRyaWJ1dGVkU3RyaW5nRm9udEF0dHJpYnV0ZV8QD05TU3RyaWtldGhyb3VnaFtOU1VuZGVybGluZV8QKE1TQXR0cmlidXRlZFN0cmluZ1RleHRUcmFuc2Zvcm1BdHRyaWJ1dGVfECpNU0F0dHJpYnV0ZWRTdHJpbmdDb2xvckRpY3Rpb25hcnlBdHRyaWJ1dGVfEBBOU1BhcmFncmFwaFN0eWxlVk5TS2VybtIMMzQ1XxAaTlNGb250RGVzY3JpcHRvckF0dHJpYnV0ZXOAE4AN0xkTDDc6PaI4OYAOgA+iOzyAEIARgBJfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNAMgSFieWZz18QEUtvekdvUHI2Ti1SZWd1bGFy0kNERUZaJGNsYXNzbmFtZVgkY2xhc3Nlc18QE05TTXV0YWJsZURpY3Rpb25hcnmjRUdIXE5TRGljdGlvbmFyeVhOU09iamVjdNJDREpLXxAQTlNGb250RGVzY3JpcHRvcqJMSF8QEE5TRm9udERlc2NyaXB0b3IQANMZEwxPVCqkUFFSU4AWgBeAGIAZpFVWV1iAGoAbgByAHYAeU3JlZFVhbHBoYVRibHVlVWdyZWVuIz/u/v4M4LkTIz/wAAAAAAAAIz/u/v4M4LkTIz/u/v4M4LkT0kNER2OiR0jZDGVmZ2hpamtsbW5vb19xcnN0Wk5TVGFiU3RvcHNcTlNUZXh0QmxvY2tzW05TVGV4dExpc3RzXxASTlNQYXJhZ3JhcGhTcGFjaW5nXxAPTlNNYXhMaW5lSGVpZ2h0XxAfTlNBbGxvd3NUaWdodGVuaW5nRm9yVHJ1bmNhdGlvbl8QD05TTWluTGluZUhlaWdodFtOU0FsaWdubWVudIAigACAIIAgI0A8Awy7qgpGEAEjQDwDDLuqCkYQAtITDHZ3oIAh0kNEeXpXTlNBcnJheaJ5SNJDRHx9XxAXTlNNdXRhYmxlUGFyYWdyYXBoU3R5bGWjfH5IXxAQTlNQYXJhZ3JhcGhTdHlsZSM/3NDlYEGJONMZEwyBiSqnGxwdHh8gIYAFgAaAB4AIgAmACoALp4okJCSOj5CAJYAUgBSAFIApgC2ALoAe0gwzNJSAE4Am0xkTDJaZPaI4OYAOgA+impuAJ4AogBIjQDoC1PdnCYpeS296R29QcjZOLUJvbGTTGRMMoKUqpFBRUlOAFoAXgBiAGaSmVqipgCqAG4ArgCyAHiM/7v7+DOC5EyM/7v7+DOC5EyM/7v7+DOC5E9kMZWZnaGlqa2xtbm9vX7NytHSAIoAAgCCAICNAQoID12vGyiNAQoID12vGyiM/5MzMzMzMzdJDRLe4Xk5TTXV0YWJsZUFycmF5o7d5SNK6DLu8V05TLmRhdGFECwALAYAx0kNEvr9dTlNNdXRhYmxlRGF0YaO+wEhWTlNEYXRh0kNEwsNfEBJOU0F0dHJpYnV0ZWRTdHJpbmeixEhfEBJOU0F0dHJpYnV0ZWRTdHJpbmdfEA9OU0tleWVkQXJjaGl2ZXLRx8hUcm9vdIABAAgAEQAaACMALQAyADcAbQBzAHwAhQCXAKQAqwCtAK8AsQCzAOIA5wDyAPUA9wD5APsBAgEKARIBFAEWARgBGgEcAR4BIAEoASoBLAEuATABMgE0ATYBOAFaAWwBeAGjAdAB4wHqAe8CDAIOAhACFwIaAhwCHgIhAiMCJQInAj0CUwJcAnACdQKAAokCnwKjArACuQK+AtEC1ALnAukC8AL1AvcC+QL7Av0DAgMEAwYDCAMKAwwDEAMWAxsDIQMqAzMDPANFA0oDTQNgA2sDeAOEA5kDqwPNA98D6wPtA+8D8QPzA/wD/gQHBAkEDgQPBBEEFgQeBCEEJgRABEQEVwRgBGcEbwRxBHMEdQR3BHkEewR9BIUEhwSJBIsEjQSPBJEEkwSVBJoEnASeBKUEqASqBKwErwSxBLMEtQS+BM0E1ATZBNsE3QTfBOEE5gToBOoE7ATuBPAE+QUCBQsFHgUgBSIFJAUmBS8FOAVBBUYFVQVZBV4FZgVrBW0FcgWABYQFiwWQBaUFqAW9Bc8F0gXXAAAAAAAAAgEAAAAAAAAAyQAAAAAAAAAAAAAAAAAABdk="
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "4764EF73-51EC-40F3-9A79-38AB6BEB154F",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F568E6B0-AD73-46F3-B5BB-2E649338F34F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1F638B33-7C6C-4365-B11D-553C3DE7F18E",
+    "height": 54,
+    "width": 318.012763972637,
+    "x": 119.993618013681,
+    "y": 12
+  },
+  "glyphBounds": "{{0, 0}, {0, 0}}",
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "一般有料会員「絆」の お申し込みはこちらから",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E3B3F888-D964-49B2-94B7-79B29BA62D5E",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "textBehaviour": 1,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "isAutoWidth": 0
+      }
+    }
+  }
+}

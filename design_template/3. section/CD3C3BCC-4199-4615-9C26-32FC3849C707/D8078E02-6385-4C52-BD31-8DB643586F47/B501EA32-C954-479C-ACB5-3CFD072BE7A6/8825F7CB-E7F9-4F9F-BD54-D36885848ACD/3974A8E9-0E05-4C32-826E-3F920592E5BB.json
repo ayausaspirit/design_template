@@ -1,0 +1,84 @@
+{
+  "_class": "bitmap",
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "3974A8E9-0E05-4C32-826E-3F920592E5BB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "039BA08F-DC14-4F0B-8DF5-815B1E972637",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "999F05AC-6E1D-4B1B-B28D-C603F714DED3",
+    "height": 992,
+    "width": 1405,
+    "x": 34,
+    "y": -259
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/37e8127c4e0246c7bb113c583c2cc0bafd17de9c",
+    "_ref_class": "MSImageData"
+  },
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Bitmap",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "5A54BF4A-0543-40F4-947A-9306877B7D7F",
+      "isEnabled": true,
+      "motionAngle": 0,
+      "radius": 4.528459821428572,
+      "type": 0
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "4189E478-8805-473B-B554-B7A9088B51CF",
+      "opacity": 0.5
+    },
+    "do_objectID": "E8B457F9-EDA0-4BA9-B351-05BCA44DB24C",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 992,
+            "enabled": 1,
+            "modelID": "constraint_80d19873-c381-45e8-9fbe-47a174ff942e",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 1404.898
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_b0a1c473-bc3d-4162-82df-17a10434b13c",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}

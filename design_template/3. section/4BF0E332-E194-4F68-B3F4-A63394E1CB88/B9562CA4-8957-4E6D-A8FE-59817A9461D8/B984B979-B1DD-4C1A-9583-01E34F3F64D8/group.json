@@ -1,0 +1,62 @@
+{
+  "_class": "group",
+  "do_objectID": "B984B979-B1DD-4C1A-9583-01E34F3F64D8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4F46AD8B-AF7E-42DB-AEE8-95A351C71EA5",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0472DA89-B597-45D1-8602-2E60047D0352",
+    "height": 179,
+    "width": 1000,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": false,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "008B5F9B-A487-4A44-A3D4-A6FE24AA8686"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "39F264B6-78F2-4B07-BDA8-E97DC53A456E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A508AB11-65C3-4B19-B78C-EF32631D1293"
+    }
+  ],
+  "name": "Rectangle + Rectangle 3 Mask",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "22CBE751-28F0-4695-9E9F-1926926E30C4",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

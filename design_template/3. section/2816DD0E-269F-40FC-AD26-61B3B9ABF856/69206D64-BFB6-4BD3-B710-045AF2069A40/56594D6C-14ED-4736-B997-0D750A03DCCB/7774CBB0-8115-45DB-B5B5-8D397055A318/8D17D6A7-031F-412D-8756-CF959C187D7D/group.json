@@ -1,0 +1,76 @@
+{
+  "_class": "group",
+  "do_objectID": "8D17D6A7-031F-412D-8756-CF959C187D7D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D70CDC5C-80A3-44CD-81D1-8DC49F54BF81",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8818CF80-34E1-4547-AE1C-F996D26EC000",
+    "height": 229,
+    "width": 171,
+    "x": 379,
+    "y": 0
+  },
+  "hasClickThrough": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "A1A5F70E-8E03-4738-9C31-8F40FE0E080A"
+    },
+    {
+      "class": "group",
+      "id": "E088AAAF-C687-4D7A-B862-698AEE4D8293"
+    }
+  ],
+  "name": "角丸長方形 5 のコピー",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4BAAA8F8-48F1-4076-B8B8-CE3C274BC8BC",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 0,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

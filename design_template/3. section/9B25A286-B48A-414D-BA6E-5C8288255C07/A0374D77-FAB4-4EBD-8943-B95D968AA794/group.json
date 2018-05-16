@@ -1,0 +1,70 @@
+{
+  "_class": "group",
+  "do_objectID": "A0374D77-FAB4-4EBD-8943-B95D968AA794",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F111556F-923F-4B37-B1DB-B11013670FA9",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "05D92751-98AF-4B5C-A502-DE8E09C8B136",
+    "height": 432,
+    "width": 830,
+    "x": 305,
+    "y": 20
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "FDCCC496-1CF4-407E-9A1F-9B9FAF9AC760"
+    },
+    {
+      "class": "group",
+      "id": "CA57A326-ACD4-499D-B355-6C6DCAD52C82"
+    },
+    {
+      "class": "bitmap",
+      "id": "7555C6CA-1C42-4C70-B7F6-0CD684F95294"
+    },
+    {
+      "class": "bitmap",
+      "id": "9A0BAC71-04D9-40B2-A4B8-023D5EA2A6B9"
+    },
+    {
+      "class": "bitmap",
+      "id": "4E9B0CB0-FE50-407E-8CEB-4C012C6B854A"
+    }
+  ],
+  "name": "悩み",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "DE80AE4D-519E-4921-AC7C-A0ED90305D31",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

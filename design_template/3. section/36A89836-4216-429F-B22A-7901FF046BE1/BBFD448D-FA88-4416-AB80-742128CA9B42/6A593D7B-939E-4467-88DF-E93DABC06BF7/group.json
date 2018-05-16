@@ -1,0 +1,72 @@
+{
+  "_class": "group",
+  "do_objectID": "6A593D7B-939E-4467-88DF-E93DABC06BF7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 282,
+    "width": 408,
+    "x": 677,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "B9219940-DD0C-466A-8D98-BAB41D415166"
+    },
+    {
+      "class": "group",
+      "id": "5EE60023-C088-45ED-B8A6-81AA5A0C1A0A"
+    },
+    {
+      "class": "text",
+      "id": "0D6FE982-B82F-494B-AB39-E0FCC1AC3B65"
+    },
+    {
+      "class": "group",
+      "id": "284731D3-D323-4F79-9FBC-8647878B4448"
+    },
+    {
+      "class": "group",
+      "id": "7CACC497-7AD0-48B0-BB5B-BC423B5351DC"
+    },
+    {
+      "class": "text",
+      "id": "6FCBD1BE-6706-4337-A5EE-AB407E36BE5A"
+    }
+  ],
+  "name": "カード型1/2",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      },
+      "kViewTypeKey": ""
+    }
+  }
+}

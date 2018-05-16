@@ -1,0 +1,116 @@
+{
+  "_class": "group",
+  "do_objectID": "DA32CBF5-456E-44DF-B241-612EC87D2EA5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6B7EBDFF-FBC8-4720-81CD-46F15BE70CE2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4DA43F07-1EB3-4D89-BDE2-AD66DFBDF8B3",
+    "height": 3214,
+    "width": 917,
+    "x": 262,
+    "y": -2520
+  },
+  "hasClickThrough": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "group",
+      "id": "C9540FDC-89D2-4B86-8B1E-732BE7CC7922"
+    },
+    {
+      "class": "text",
+      "id": "A131FDA0-70AC-4266-A8DA-EA3143772EFE"
+    },
+    {
+      "class": "group",
+      "id": "ACC123D4-CAFC-4420-83D6-C1F2BCD019A5"
+    },
+    {
+      "class": "text",
+      "id": "900E92F4-0051-4127-BD39-969DB1B6D03F"
+    },
+    {
+      "class": "text",
+      "id": "75A0D83F-1931-409F-908C-6923D077F72A"
+    },
+    {
+      "class": "text",
+      "id": "7479D5AD-48E9-41E1-89B7-0B7D9A74C355"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "42818C8A-DDFB-436C-B685-D8C9DE6A1C59"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B2F8CC9F-5ABB-4F11-B652-B545DCB6C615"
+    },
+    {
+      "class": "text",
+      "id": "C03F8E18-5ED3-44CA-9AE5-CAE58E659B9D"
+    },
+    {
+      "class": "group",
+      "id": "7AA647E4-2C02-465E-A23A-2095297390BB"
+    },
+    {
+      "class": "group",
+      "id": "CFCD748E-A69B-420E-8040-DB72FAF14D4A"
+    },
+    {
+      "class": "text",
+      "id": "F7885D14-5E3B-411C-B77C-2F8377949DFF"
+    }
+  ],
+  "name": "機能３",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FA2FFC95-52D6-41A9-A43B-DB25808525DA",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 0,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

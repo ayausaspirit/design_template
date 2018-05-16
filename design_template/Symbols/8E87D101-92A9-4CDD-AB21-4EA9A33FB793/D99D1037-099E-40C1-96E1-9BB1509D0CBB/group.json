@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "do_objectID": "D99D1037-099E-40C1-96E1-9BB1509D0CBB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 87,
+    "width": 302,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "FF11EE58-2AC0-415C-9147-939DE6AE26DE"
+    },
+    {
+      "class": "text",
+      "id": "C11A8639-FA3C-4A3A-9221-12A5746449E3"
+    },
+    {
+      "class": "bitmap",
+      "id": "839D3659-34C1-4612-8F3B-13929B91C717"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "05FCA7BA-489A-4505-BC4B-58173CC3C47A"
+    }
+  ],
+  "name": "問い合わせバナー",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "_class": "group",
+  "do_objectID": "DB8557EA-43BE-4DCC-B401-43BF2B5EAB71",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E565970C-D0FE-4316-A1AD-546071FBF2DB",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "358E8CB9-E562-42DB-B5A8-574C8872684F",
+    "height": 61,
+    "width": 175,
+    "x": 0,
+    "y": 482
+  },
+  "hasClickThrough": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "text",
+      "id": "C95AD818-64AD-4C28-AF7B-C60FE90A1E21"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9DD87ED4-F7BA-489F-A8B1-3D508AC61A1F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "836940EA-F2F7-4CFC-9142-660AF00C8D7C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "49698F18-6CF3-4AD7-AE57-D897D1E6F5E6"
+    },
+    {
+      "class": "text",
+      "id": "BD2ADF89-498E-432B-BEC8-5C4FB44E0371"
+    }
+  ],
+  "name": "ご利益",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "09B03986-A98E-4082-B888-FFC6FF6D00CE",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 0,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "_class": "group",
+  "do_objectID": "B2CC574C-A6D2-4797-A487-AD3A517A755C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 194.5430463576159,
+    "width": 99.28295642581355,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "30CAD610-DEA8-48D2-8A39-36A7AA1B925B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "002704E7-02EE-4FAC-94B3-2B62A4172811"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "AC1E8632-D2F1-4B67-B0AD-1ED28F0ACF05"
+    },
+    {
+      "class": "group",
+      "id": "EB54873C-16FD-4181-95AA-812A6A8BD13B"
+    }
+  ],
+  "name": "phone 3",
+  "nameIsFixed": true,
+  "originalObjectID": "49A65757-0D54-4C1B-B06A-FC83E19495D8",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

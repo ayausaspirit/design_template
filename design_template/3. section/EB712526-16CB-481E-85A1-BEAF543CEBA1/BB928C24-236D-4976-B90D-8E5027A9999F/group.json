@@ -1,0 +1,66 @@
+{
+  "_class": "group",
+  "do_objectID": "BB928C24-236D-4976-B90D-8E5027A9999F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "CBE77F36-CA80-488D-BDC4-D8DEBA4D9E2D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9D83EE16-D419-4FB1-9157-3E028C31E3D8",
+    "height": 200,
+    "width": 830,
+    "x": 305,
+    "y": 17
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "D1E82DBB-5998-4D0D-8644-DE7C93F6B4B1"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D3421C2C-77F3-49E6-AB1A-EE14B68FA10F"
+    },
+    {
+      "class": "group",
+      "id": "8F4B15E3-F107-4518-B0C5-11F7424E3C87"
+    },
+    {
+      "class": "text",
+      "id": "5B3AFD03-712F-4E52-980C-4705D3C56D04"
+    }
+  ],
+  "name": "実績",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "486AD88D-4D78-46E4-A1BE-806A58A6152A",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

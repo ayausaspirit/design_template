@@ -1,0 +1,52 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGfH1YJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QJAcIDxAkJSYnKCkqKy83ODk6O0JGR1NUVVZXWFlaW11tcHN3eFUkbnVsbNMJCgsMDQ5YTlNTdHJpbmdWJGNsYXNzXE5TQXR0cmlidXRlc4ACgCOAA1wgIDIwMTcvMDcvMDHTERIKExsjV05TLmtleXNaTlMub2JqZWN0c6cUFRYXGBkagASABYAGgAeACIAJgAqnHB0dHSAhIoALgBOAE4ATgBSAHoAigB1fEB9NU0F0dHJpYnV0ZWRTdHJpbmdGb250QXR0cmlidXRlXxAPTlNTdHJpa2V0aHJvdWdoW05TVW5kZXJsaW5lXxAoTVNBdHRyaWJ1dGVkU3RyaW5nVGV4dFRyYW5zZm9ybUF0dHJpYnV0ZV8QKk1TQXR0cmlidXRlZFN0cmluZ0NvbG9yRGljdGlvbmFyeUF0dHJpYnV0ZV8QEE5TUGFyYWdyYXBoU3R5bGVWTlNLZXJu0gosLS5fEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4ASgAzTERIKMDM2ojEygA2ADqI0NYAPgBCAEV8QE05TRm9udFNpemVBdHRyaWJ1dGVfEBNOU0ZvbnROYW1lQXR0cmlidXRlI0Aj6n9JpPZAXxAPSGlyYUtha3VQcm9OLVcz0jw9Pj9aJGNsYXNzbmFtZVgkY2xhc3Nlc18QE05TTXV0YWJsZURpY3Rpb25hcnmjPkBBXE5TRGljdGlvbmFyeVhOU09iamVjdNI8PUNEXxAQTlNGb250RGVzY3JpcHRvcqJFQV8QEE5TRm9udERlc2NyaXB0b3IQANMREgpITSOkSUpLTIAVgBaAF4AYpE5PUFGAGYAagBuAHIAdU3JlZFVhbHBoYVRibHVlVWdyZWVuIz/ktLUTcqOMIz/wAAAAAAAAIz/klJQLux8lIz/klJQLux8l0jw9QFyiQEHZCl5fYGFiY2RlZmdoaFhqa2xrWk5TVGFiU3RvcHNcTlNUZXh0QmxvY2tzW05TVGV4dExpc3RzXxASTlNQYXJhZ3JhcGhTcGFjaW5nXxAPTlNNYXhMaW5lSGVpZ2h0XxAfTlNBbGxvd3NUaWdodGVuaW5nRm9yVHJ1bmNhdGlvbl8QD05TTWluTGluZUhlaWdodFtOU0FsaWdubWVudIAhgACAH4AfI0Ar4eVnGiWOEAEjQCvh5WcaJY7SEgpub6CAINI8PXFyV05TQXJyYXmicUHSPD10dV8QF05TTXV0YWJsZVBhcmFncmFwaFN0eWxlo3R2QV8QEE5TUGFyYWdyYXBoU3R5bGUjAAAAAAAAAADSPD15el8QEk5TQXR0cmlidXRlZFN0cmluZ6J7QV8QEk5TQXR0cmlidXRlZFN0cmluZ18QD05TS2V5ZWRBcmNoaXZlctF+f1Ryb290gAEACAARABoAIwAtADIANwBeAGQAawB0AHsAiACKAIwAjgCbAKIAqgC1AL0AvwDBAMMAxQDHAMkAywDTANUA1wDZANsA3QDfAOEA4wEFARcBIwFOAXsBjgGVAZoBtwG5AbsBwgHFAccByQHMAc4B0AHSAegB/gIHAhkCHgIpAjICSAJMAlkCYgJnAnoCfQKQApICmQKeAqACogKkAqYCqwKtAq8CsQKzArUCuQK/AsQCygLTAtwC5QLuAvMC9gMJAxQDIQMtA0IDVAN2A4gDlAOWA5gDmgOcA6UDpwOwA7UDtgO4A70DxQPIA80D5wPrA/4EBwQMBCEEJAQ5BEsETgRTAAAAAAAAAgEAAAAAAAAAgAAAAAAAAAAAAAAAAAAABFU="
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "C39946D9-A356-4C00-BC14-831E774EF5FF",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9BAD7891-A5C7-4593-8E89-8F5059256C13",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "DBBB70A5-99DC-4A6E-A781-D513BD18A7AF",
+    "height": 14,
+    "width": 90,
+    "x": 151,
+    "y": 64
+  },
+  "glyphBounds": "{{0, 0}, {0, 0}}",
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "  2017/07/01",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FAAC87F8-0304-4980-BA1A-B1E377B88572",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "textBehaviour": 1
+}

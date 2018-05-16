@@ -1,0 +1,52 @@
+{
+  "_class": "group",
+  "do_objectID": "C3C37AE4-6DAF-4345-B238-F0CA10702CF8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "53E47622-EEE2-4E7D-A110-F75280553694",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1BCB42D8-0A49-4F01-821B-3E64AA4452D4",
+    "height": 4,
+    "width": 4,
+    "x": 215.1619465926545,
+    "y": 10.84579812742638
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "9EBB226C-7B3B-44F1-ACAE-2674DD200673"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A759E1F5-1C52-4B2E-87AF-850B15FA7E2D"
+    }
+  ],
+  "name": "FaceTime",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "419A1F5B-DE91-4F06-9803-0C5FEE411118",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

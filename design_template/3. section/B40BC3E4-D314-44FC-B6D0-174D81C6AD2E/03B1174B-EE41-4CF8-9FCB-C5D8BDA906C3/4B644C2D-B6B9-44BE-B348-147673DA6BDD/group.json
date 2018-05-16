@@ -1,0 +1,92 @@
+{
+  "_class": "group",
+  "do_objectID": "4B644C2D-B6B9-44BE-B348-147673DA6BDD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "CE10A0D8-07A5-4E23-BDF5-A2BCD032E589",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "41965CA3-DB2A-43AD-BA77-320D30B610CA",
+    "height": 287,
+    "width": 942,
+    "x": 3,
+    "y": 0
+  },
+  "hasClickThrough": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "7508E908-7E29-4C6D-910C-146206907C0B"
+    },
+    {
+      "class": "group",
+      "id": "E3C6C499-2AA2-49E8-A69F-90D600434781"
+    },
+    {
+      "class": "group",
+      "id": "154895CB-45CB-43B7-81E8-DFBB8BBF6E4D"
+    },
+    {
+      "class": "group",
+      "id": "6C064F3E-8F80-4C02-BDDD-C31D46D16907"
+    },
+    {
+      "class": "group",
+      "id": "49500F83-1044-471C-8E23-06205D692310"
+    },
+    {
+      "class": "text",
+      "id": "155D51F5-2FC8-49F5-B65F-704DAD187DDC"
+    }
+  ],
+  "name": "使い方　上",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "BE3E26F5-02DD-4C7A-9656-5DD3B857BB30",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 0,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

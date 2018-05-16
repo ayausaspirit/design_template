@@ -1,0 +1,84 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "A916C489-7F5D-4E6D-A03E-3BBFDC0AA8D5",
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "913342C5-817C-4A4D-9374-89DB524F8D57",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A734C9B7-31DE-4867-BBBA-6509320BD826",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C11ED20F-A68A-4D81-A808-1EC8182C16DE",
+    "height": 817,
+    "width": 1440,
+    "x": 21540,
+    "y": 8894
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "5D5A237C-62C6-4578-8AD7-3809961C0BAA",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "35C75352-9F4F-4643-ADB7-6A482A6CA509"
+    }
+  ],
+  "name": "content",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C32E2D16-C3AC-4871-B6CD-441E6CC29B12",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    },
+    "io.magicsketch.mirror": {
+      "highestQuality": 1
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "DAFABAF8-B82F-4627-83B9-0863246BD765",
+    "guides": [
+    ]
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "_class": "bitmap",
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "A8EE9172-3585-448F-96F1-C5F4F31CC0C7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0986D2C9-AA1A-40A6-A1BB-02DA79091822",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "7E70B57E-4DD1-4CDA-B8CC-E6455042F9EB",
+    "height": 197.8783112582781,
+    "width": 87.16216216216218,
+    "x": 0,
+    "y": 0
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/cf6daea69a589d06007e6b88635fba98ae2e647a",
+    "_ref_class": "MSImageData"
+  },
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "FireShot Capture 2 - bagelee（ベーグリー） - デザインと技術のおはなし - https___bagelee.com_",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6A971664-781E-451D-AF20-9FC37C5C0AC8",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 197.8783,
+            "enabled": 1,
+            "modelID": "constraint_f1aeacfc-a923-4e07-91f6-6e0e8db436f5",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 87.16216
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_bdb1aeb7-1823-437a-bea6-879f655ec469",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}
