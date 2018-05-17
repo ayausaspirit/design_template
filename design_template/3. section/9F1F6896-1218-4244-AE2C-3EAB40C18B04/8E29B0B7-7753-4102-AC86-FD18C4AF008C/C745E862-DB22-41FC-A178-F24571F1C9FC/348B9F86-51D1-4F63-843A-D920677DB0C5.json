@@ -1,10 +1,74 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "MSAttributedString",
-    "archivedAttributedString": {
-      "_archive": "YnBsaXN0MDDUAQIDBAUGxMVYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QMgcIERIYKywtLi8wMTI2Pj9AQUJJTU5aW1xdXl9gYWJkdXh7f4CSlZ2eqqusrbS1uLzAVSRudWxs1AkKCwwNDg8QWE5TU3RyaW5nXxAPTlNBdHRyaWJ1dGVJbmZvXE5TQXR0cmlidXRlc1YkY2xhc3OAAoAvgAOAMWuW+2ziTg2JgTBuICmQf5bjiphcDiAp0hMMFBdaTlMub2JqZWN0c6IVFoAEgCSALtMZEwwaIipXTlMua2V5c6cbHB0eHyAhgAWABoAHgAiACYAKgAunIyQkJCcoKYAMgBSAFIAUgBWAH4AjgB5fEB9NU0F0dHJpYnV0ZWRTdHJpbmdGb250QXR0cmlidXRlXxAPTlNTdHJpa2V0aHJvdWdoW05TVW5kZXJsaW5lXxAoTVNBdHRyaWJ1dGVkU3RyaW5nVGV4dFRyYW5zZm9ybUF0dHJpYnV0ZV8QKk1TQXR0cmlidXRlZFN0cmluZ0NvbG9yRGljdGlvbmFyeUF0dHJpYnV0ZV8QEE5TUGFyYWdyYXBoU3R5bGVWTlNLZXJu0gwzNDVfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4ATgA3TGRMMNzo9ojg5gA6AD6I7PIAQgBGAEl8QE05TRm9udFNpemVBdHRyaWJ1dGVfEBNOU0ZvbnROYW1lQXR0cmlidXRlI0AyBPBtd2edXxARS296R29QcjZOLVJlZ3VsYXLSQ0RFRlokY2xhc3NuYW1lWCRjbGFzc2VzXxATTlNNdXRhYmxlRGljdGlvbmFyeaNFR0hcTlNEaWN0aW9uYXJ5WE5TT2JqZWN00kNESktfEBBOU0ZvbnREZXNjcmlwdG9yokxIXxAQTlNGb250RGVzY3JpcHRvchAA0xkTDE9UKqRQUVJTgBaAF4AYgBmkVVZXWIAagBuAHIAdgB5TcmVkVWFscGhhVGJsdWVVZ3JlZW4jP8mZmZmZmZojP/AAAAAAAAAjP8mZmZmZmZojP8mZmZmZmZrSQ0RHY6JHSNkMZWZnaGlqa2xtbm9vX3Fyc3RaTlNUYWJTdG9wc1xOU1RleHRCbG9ja3NbTlNUZXh0TGlzdHNfEBJOU1BhcmFncmFwaFNwYWNpbmdfEA9OU01heExpbmVIZWlnaHRfEB9OU0FsbG93c1RpZ2h0ZW5pbmdGb3JUcnVuY2F0aW9uXxAPTlNNaW5MaW5lSGVpZ2h0W05TQWxpZ25tZW50gCKAAIAggCAjQDkG3CZCSMsQASNAOQbcJkJIyxAC0hMMdneggCHSQ0R5eldOU0FycmF5onlI0kNEfH1fEBdOU011dGFibGVQYXJhZ3JhcGhTdHlsZaN8fkhfEBBOU1BhcmFncmFwaFN0eWxlIz/czMzMzMzN0xkTDIGJKqcbHB0eHyAhgAWABoAHgAiACYAKgAuniiQkJI6PkIAlgBSAFIAUgCiALIAtgB7SDDM0lIATgCbTGRMMlpk9ojg5gA6AD6KaPIAngBGAEiNAOABdo88/C9MZEwyfpCqkUFFSU4AWgBeAGIAZpKVWp6iAKYAbgCqAK4AeIz/JmZmZmZmaIz/JmZmZmZmaIz/JmZmZmZma2QxlZmdoaWprbG1ub29fsnKzdIAigACAIIAgI0A5BtwmQkjLI0A5BtwmQkjLIz/jLjrAxi5N0kNEtrdeTlNNdXRhYmxlQXJyYXmjtnlI0rkMurtXTlMuZGF0YUQGAAUBgDDSQ0S9vl1OU011dGFibGVEYXRho72/SFZOU0RhdGHSQ0TBwl8QEk5TQXR0cmlidXRlZFN0cmluZ6LDSF8QEk5TQXR0cmlidXRlZFN0cmluZ18QD05TS2V5ZWRBcmNoaXZlctHGx1Ryb290gAEACAARABoAIwAtADIANwBsAHIAewCEAJYAowCqAKwArgCwALIAyQDOANkA3ADeAOAA4gDpAPEA+QD7AP0A/wEBAQMBBQEHAQ8BEQETARUBFwEZARsBHQEfAUEBUwFfAYoBtwHKAdEB1gHzAfUB9wH+AgECAwIFAggCCgIMAg4CJAI6AkMCVwJcAmcCcAKGAooClwKgAqUCuAK7As4C0ALXAtwC3gLgAuIC5ALpAusC7QLvAvEC8wL3Av0DAgMIAxEDGgMjAywDMQM0A0cDUgNfA2sDgAOSA7QDxgPSA9QD1gPYA9oD4wPlA+4D8AP1A/YD+AP9BAUECAQNBCcEKwQ+BEcETgRWBFgEWgRcBF4EYARiBGQEbARuBHAEcgR0BHYEeAR6BHwEgQSDBIUEjASPBJEEkwSWBJgEmgScBKUErASxBLMEtQS3BLkEvgTABMIExATGBMgE0QTaBOME9gT4BPoE/AT+BQcFEAUZBR4FLQUxBTYFPgVDBUUFSgVYBVwFYwVoBX0FgAWVBacFqgWvAAAAAAAAAgEAAAAAAAAAyAAAAAAAAAAAAAAAAAAABbE="
-    }
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.2,
+            "green": 0.2,
+            "red": 0.2
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "KozGoPr6N-Regular",
+              "size": 18.01929363408236
+            }
+          },
+          "MSAttributedStringTextTransformAttribute": 0,
+          "kerning": 0.45,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 2,
+            "maximumLineHeight": 25.02679671400328,
+            "minimumLineHeight": 25.02679671400328,
+            "paragraphSpacing": 1
+          },
+          "strikethroughStyle": 0,
+          "underlineStyle": 0
+        },
+        "length": 6,
+        "location": 0
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.2,
+            "green": 0.2,
+            "red": 0.2
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "KozGoPr6N-Regular",
+              "size": 24.00142883119319
+            }
+          },
+          "MSAttributedStringTextTransformAttribute": 0,
+          "kerning": 0.59939325,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 2,
+            "maximumLineHeight": 25.02679671400328,
+            "minimumLineHeight": 25.02679671400328,
+            "paragraphSpacing": 1
+          },
+          "strikethroughStyle": 0,
+          "underlineStyle": 0
+        },
+        "length": 5,
+        "location": 6
+      }
+    ],
+    "string": "電波不要の 避難誘導 "
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "348B9F86-51D1-4F63-843A-D920677DB0C5",

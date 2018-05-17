@@ -1,10 +1,42 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "MSAttributedString",
-    "archivedAttributedString": {
-      "_archive": "YnBsaXN0MDDUAQIDBAUGfX5YJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QJAcIDxAkJSYnKCkqKy83ODk6O0JGR1NUVVZXWFlaW11ucXR4eVUkbnVsbNMJCgsMDQ5YTlNTdHJpbmdWJGNsYXNzXE5TQXR0cmlidXRlc4ACgCOAA2dtd1kWTuN0Bl6XYMVYMdMREgoTGyNXTlMua2V5c1pOUy5vYmplY3RzpxQVFhcYGRqABIAFgAaAB4AIgAmACqccHR0dICEigAuAE4ATgBOAFIAegCKAHV8QH01TQXR0cmlidXRlZFN0cmluZ0ZvbnRBdHRyaWJ1dGVfEA9OU1N0cmlrZXRocm91Z2hbTlNVbmRlcmxpbmVfEChNU0F0dHJpYnV0ZWRTdHJpbmdUZXh0VHJhbnNmb3JtQXR0cmlidXRlXxAqTVNBdHRyaWJ1dGVkU3RyaW5nQ29sb3JEaWN0aW9uYXJ5QXR0cmlidXRlXxAQTlNQYXJhZ3JhcGhTdHlsZVZOU0tlcm7SCiwtLl8QGk5TRm9udERlc2NyaXB0b3JBdHRyaWJ1dGVzgBKADNMREgowMzaiMTKADYAOojQ1gA+AEIARXxATTlNGb250U2l6ZUF0dHJpYnV0ZV8QE05TRm9udE5hbWVBdHRyaWJ1dGUjQEJ8xrepPnZfEBFLb3pHb1ByNk4tUmVndWxhctI8PT4/WiRjbGFzc25hbWVYJGNsYXNzZXNfEBNOU011dGFibGVEaWN0aW9uYXJ5oz5AQVxOU0RpY3Rpb25hcnlYTlNPYmplY3TSPD1DRF8QEE5TRm9udERlc2NyaXB0b3KiRUFfEBBOU0ZvbnREZXNjcmlwdG9yEADTERIKSE0jpElKS0yAFYAWgBeAGKROT1BRgBmAGoAbgByAHVNyZWRVYWxwaGFUYmx1ZVVncmVlbiM/x5eZ5Rjz7SM/8AAAAAAAACM/4FBQemvW6SM/zJyZKFqSHdI8PUBcokBB2QpeX2BhYmNkZWZnaGhYamtsbVpOU1RhYlN0b3BzXE5TVGV4dEJsb2Nrc1tOU1RleHRMaXN0c18QEk5TUGFyYWdyYXBoU3BhY2luZ18QD05TTWF4TGluZUhlaWdodF8QH05TQWxsb3dzVGlnaHRlbmluZ0ZvclRydW5jYXRpb25fEA9OU01pbkxpbmVIZWlnaHRbTlNBbGlnbm1lbnSAIYAAgB+AHyNASP9jykCiIRABI0BI/2PKQKIhEALSEgpvcKCAINI8PXJzV05TQXJyYXmickHSPD11dl8QF05TTXV0YWJsZVBhcmFncmFwaFN0eWxlo3V3QV8QEE5TUGFyYWdyYXBoU3R5bGUjQBG/5f7M+hrSPD16e18QEk5TQXR0cmlidXRlZFN0cmluZ6J8QV8QEk5TQXR0cmlidXRlZFN0cmluZ18QD05TS2V5ZWRBcmNoaXZlctF/gFRyb290gAEACAARABoAIwAtADIANwBeAGQAawB0AHsAiACKAIwAjgCdAKQArAC3AL8AwQDDAMUAxwDJAMsAzQDVANcA2QDbAN0A3wDhAOMA5QEHARkBJQFQAX0BkAGXAZwBuQG7Ab0BxAHHAckBywHOAdAB0gHUAeoCAAIJAh0CIgItAjYCTAJQAl0CZgJrAn4CgQKUApYCnQKiAqQCpgKoAqoCrwKxArMCtQK3ArkCvQLDAsgCzgLXAuAC6QLyAvcC+gMNAxgDJQMxA0YDWAN6A4wDmAOaA5wDngOgA6kDqwO0A7YDuwO8A74DwwPLA84D0wPtA/EEBAQNBBIEJwQqBD8EUQRUBFkAAAAAAAACAQAAAAAAAACBAAAAAAAAAAAAAAAAAAAEWw=="
-    }
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.509804,
+            "green": 0.223529,
+            "red": 0.184314
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "KozGoPr6N-Regular",
+              "size": 36.97481437457911
+            }
+          },
+          "MSAttributedStringTextTransformAttribute": 0,
+          "kerning": 4.437400800000001,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 2,
+            "maximumLineHeight": 49.9952328506081,
+            "minimumLineHeight": 49.9952328506081,
+            "paragraphSpacing": 1
+          },
+          "strikethroughStyle": 0,
+          "underlineStyle": 0
+        },
+        "length": 7,
+        "location": 0
+      }
+    ],
+    "string": "海外代理店情報"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "BE7EE326-F4B7-4957-BA81-07496965339C",

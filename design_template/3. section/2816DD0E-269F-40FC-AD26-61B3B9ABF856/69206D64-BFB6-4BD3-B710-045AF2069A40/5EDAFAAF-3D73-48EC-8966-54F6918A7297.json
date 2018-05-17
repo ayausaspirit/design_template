@@ -1,10 +1,42 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "MSAttributedString",
-    "archivedAttributedString": {
-      "_archive": "YnBsaXN0MDDUAQIDBAUGe3xYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QJAcIDxAkJSYnKCkqKy83ODk6O0JGR1NUVVZXWFlaW11sb3J2d1UkbnVsbNMJCgsMDQ5YTlNTdHJpbmdWJGNsYXNzXE5TQXR0cmlidXRlc4ACgCOAA2tlsHdAMNEw7zD8MLkw3TDDMMhgxVgx0xESChMbI1dOUy5rZXlzWk5TLm9iamVjdHOnFBUWFxgZGoAEgAWABoAHgAiACYAKpxwdHR0gISKAC4ATgBOAE4AUgB6AIoAdXxAfTVNBdHRyaWJ1dGVkU3RyaW5nRm9udEF0dHJpYnV0ZV8QD05TU3RyaWtldGhyb3VnaFtOU1VuZGVybGluZV8QKE1TQXR0cmlidXRlZFN0cmluZ1RleHRUcmFuc2Zvcm1BdHRyaWJ1dGVfECpNU0F0dHJpYnV0ZWRTdHJpbmdDb2xvckRpY3Rpb25hcnlBdHRyaWJ1dGVfEBBOU1BhcmFncmFwaFN0eWxlVk5TS2VybtIKLC0uXxAaTlNGb250RGVzY3JpcHRvckF0dHJpYnV0ZXOAEoAM0xESCjAzNqIxMoANgA6iNDWAD4AQgBFfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNAMgOlCkYGVl8QD0hpcmFLYWt1UHJvTi1XNtI8PT4/WiRjbGFzc25hbWVYJGNsYXNzZXNfEBNOU011dGFibGVEaWN0aW9uYXJ5oz5AQVxOU0RpY3Rpb25hcnlYTlNPYmplY3TSPD1DRF8QEE5TRm9udERlc2NyaXB0b3KiRUFfEBBOU0ZvbnREZXNjcmlwdG9yEADTERIKSE0jpElKS0yAFYAWgBeAGKROT1BRgBmAGoAbgByAHVNyZWRVYWxwaGFUYmx1ZVVncmVlbiM/7Z2dNFjNISM/8AAAAAAAACM/0BAOavzOHCM/1hYV6/qPftI8PUBcokBB2ApeX2BhYmNkZWZnZ1hpamtaTlNUYWJTdG9wc1xOU1RleHRCbG9ja3NbTlNUZXh0TGlzdHNfEBJOU1BhcmFncmFwaFNwYWNpbmdfEB9OU0FsbG93c1RpZ2h0ZW5pbmdGb3JUcnVuY2F0aW9uXxAPTlNNYXhMaW5lSGVpZ2h0XxAPTlNNaW5MaW5lSGVpZ2h0gCGAAIAfgB8QASNAPgYTER9f5iNAPgYTER9f5tISCm1uoIAg0jw9cHFXTlNBcnJheaJwQdI8PXN0XxAXTlNNdXRhYmxlUGFyYWdyYXBoU3R5bGWjc3VBXxAQTlNQYXJhZ3JhcGhTdHlsZSMAAAAAAAAAANI8PXh5XxASTlNBdHRyaWJ1dGVkU3RyaW5nonpBXxASTlNBdHRyaWJ1dGVkU3RyaW5nXxAPTlNLZXllZEFyY2hpdmVy0X1+VHJvb3SAAQAIABEAGgAjAC0AMgA3AF4AZABrAHQAewCIAIoAjACOAKUArAC0AL8AxwDJAMsAzQDPANEA0wDVAN0A3wDhAOMA5QDnAOkA6wDtAQ8BIQEtAVgBhQGYAZ8BpAHBAcMBxQHMAc8B0QHTAdYB2AHaAdwB8gIIAhECIwIoAjMCPAJSAlYCYwJsAnEChAKHApoCnAKjAqgCqgKsAq4CsAK1ArcCuQK7Ar0CvwLDAskCzgLUAt0C5gLvAvgC/QMAAxEDHAMpAzUDSgNsA34DkAOSA5QDlgOYA5oDowOsA7EDsgO0A7kDwQPEA8kD4wPnA/oEAwQIBB0EIAQ1BEcESgRPAAAAAAAAAgEAAAAAAAAAfwAAAAAAAAAAAAAAAAAABFE="
-    }
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.25098,
+            "green": 0.345098,
+            "red": 0.92549
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "HiraKakuProN-W6",
+              "size": 18.01423706254567
+            }
+          },
+          "MSAttributedStringTextTransformAttribute": 0,
+          "kerning": 0,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "maximumLineHeight": 30.02372843757612,
+            "minimumLineHeight": 30.02372843757612,
+            "paragraphSpacing": 1
+          },
+          "strikethroughStyle": 0,
+          "underlineStyle": 0
+        },
+        "length": 11,
+        "location": 0
+      }
+    ],
+    "string": "新着パワースポット情報"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "5EDAFAAF-3D73-48EC-8966-54F6918A7297",

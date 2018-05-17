@@ -1,10 +1,88 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "MSAttributedString",
-    "archivedAttributedString": {
-      "_archive": "YnBsaXN0MDDUAQIDBAUGq6xYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QKgcIERIYJSYnKCkzNj1AQ0dPUFFSU1dbZ2hpamtsbm97gIOGiZGSnp+jp1UkbnVsbNQJCgsMDQ4PEFhOU1N0cmluZ18QD05TQXR0cmlidXRlSW5mb1xOU0F0dHJpYnV0ZXNWJGNsYXNzgAKAJ4ADgClmX1OWYjBuMFR9OU7L0hMMFBdaTlMub2JqZWN0c6IVFoAEgB6AC9MZEwwaHyRXTlMua2V5c6QbHB0egAWABoAHgAikICEiI4AJgA6AFoAdgBxfEBBOU1BhcmFncmFwaFN0eWxlXxAfTVNBdHRyaWJ1dGVkU3RyaW5nRm9udEF0dHJpYnV0ZV8QKk1TQXR0cmlidXRlZFN0cmluZ0NvbG9yRGljdGlvbmFyeUF0dHJpYnV0ZVZOU0tlcm7VKgwrLC0uLzAxMlpOU1RhYlN0b3BzXE5TVGV4dEJsb2Nrc18QH05TQWxsb3dzVGlnaHRlbmluZ0ZvclRydW5jYXRpb25bTlNUZXh0TGlzdHOAAIANgAoQAYAM0hMMNBeggAvSNzg5OlokY2xhc3NuYW1lWCRjbGFzc2VzXk5TTXV0YWJsZUFycmF5ozk7PFdOU0FycmF5WE5TT2JqZWN00hMMPheggAvSNzhBQl8QEE5TUGFyYWdyYXBoU3R5bGWiQTzSDERFRl8QGk5TRm9udERlc2NyaXB0b3JBdHRyaWJ1dGVzgBWAD9MZEwxIS06iSUqAEIARokxNgBKAE4AUXxATTlNGb250U2l6ZUF0dHJpYnV0ZV8QE05TRm9udE5hbWVBdHRyaWJ1dGUQEl8QD0hpcmFnaW5vU2Fucy1XN9I3OFRVXxATTlNNdXRhYmxlRGljdGlvbmFyeaNUVjxcTlNEaWN0aW9uYXJ50jc4WFlfEBBOU0ZvbnREZXNjcmlwdG9yolo8XxAQTlNGb250RGVzY3JpcHRvctMZEwxcYSSkXV5fYIAXgBiAGYAapGJiYmKAG4AbgBuAG4AcU3JlZFVhbHBoYVRibHVlVWdyZWVuIz/wAAAAAAAA0jc4Vm2iVjwjP9mZmYAAAADTGRMMcHUkpBscHR6ABYAGgAeACKR2d3h5gB+AIoAlgCaAHNUqDCssLS4vfjF/gACADYAggCHSEwyBF6CAC9ITDIQXoIAL0gxERYiAFYAj0xkTDIqNTqJJSoAQgBGijk2AJIATgBQQENMZEwyTmCSkXV5fYIAXgBiAGYAapGJiYmKAG4AbgBuAG4AcIz/ZmZmAAAAA0qAMoaJXTlMuZGF0YUYCAAEBAwCAKNI3OKSlXU5TTXV0YWJsZURhdGGjpKY8Vk5TRGF0YdI3OKipXxASTlNBdHRyaWJ1dGVkU3RyaW5noqo8XxASTlNBdHRyaWJ1dGVkU3RyaW5nXxAPTlNLZXllZEFyY2hpdmVy0a2uVHJvb3SAAQAIABEAGgAjAC0AMgA3AGQAagBzAHwAjgCbAKIApACmAKgAqgC3ALwAxwDKAMwAzgDQANcA3wDkAOYA6ADqAOwA8QDzAPUA9wD5APsBDgEwAV0BZAFvAXoBhwGpAbUBtwG5AbsBvQG/AcQBxQHHAcwB1wHgAe8B8wH7AgQCCQIKAgwCEQIkAicCLAJJAksCTQJUAlcCWQJbAl4CYAJiAmQCegKQApICpAKpAr8CwwLQAtUC6ALrAv4DBQMKAwwDDgMQAxIDFwMZAxsDHQMfAyEDJQMrAzADNgM/A0QDRwNQA1cDXANeA2ADYgNkA2kDawNtA28DcQNzA34DgAOCA4QDhgOLA4wDjgOTA5QDlgObA50DnwOmA6kDqwOtA7ADsgO0A7YDuAO/A8QDxgPIA8oDzAPRA9MD1QPXA9kD2wPkA+kD8QP4A/oD/wQNBBEEGAQdBDIENQRKBFwEXwRkAAAAAAAAAgEAAAAAAAAArwAAAAAAAAAAAAAAAAAABGY="
-    }
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 1,
+            "green": 1,
+            "red": 1
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "HiraginoSans-W7",
+              "size": 18
+            }
+          },
+          "kerning": 0.3999999761581421,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0
+          }
+        },
+        "length": 2,
+        "location": 0
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 1,
+            "green": 1,
+            "red": 1
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "HiraginoSans-W7",
+              "size": 16
+            }
+          },
+          "kerning": 0.3999999761581421,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0
+          }
+        },
+        "length": 1,
+        "location": 2
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 1,
+            "green": 1,
+            "red": 1
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "HiraginoSans-W7",
+              "size": 18
+            }
+          },
+          "kerning": 0.3999999761581421,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0
+          }
+        },
+        "length": 3,
+        "location": 3
+      }
+    ],
+    "string": "当院のご紹介"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "2B3D4455-4A77-49E8-97C0-E039F4EFDECF",
@@ -59,11 +137,16 @@
           "red": 1
         },
         "MSAttributedStringFontAttribute": {
-          "_archive": "YnBsaXN0MDDUAQIDBAUGJidYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKkHCA0XGBkaGyJVJG51bGzSCQoLDFYkY2xhc3NfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AIgALTDg8JEBMWV05TLmtleXNaTlMub2JqZWN0c6IREoADgASiFBWABYAGgAdfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZRASXxAPSGlyYWdpbm9TYW5zLVc30hwdHh9aJGNsYXNzbmFtZVgkY2xhc3Nlc18QE05TTXV0YWJsZURpY3Rpb25hcnmjHiAhXE5TRGljdGlvbmFyeVhOU09iamVjdNIcHSMkXxAQTlNGb250RGVzY3JpcHRvcqIlIV8QEE5TRm9udERlc2NyaXB0b3JfEA9OU0tleWVkQXJjaGl2ZXLRKClUcm9vdIABAAgAEQAaACMALQAyADcAQQBHAEwAUwBwAHIAdAB7AIMAjgCRAJMAlQCYAJoAnACeALQAygDMAN4A4wDuAPcBDQERAR4BJwEsAT8BQgFVAWcBagFvAAAAAAAAAgEAAAAAAAAAKgAAAAAAAAAAAAAAAAAAAXE="
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "HiraginoSans-W7",
+            "size": 18
+          }
         },
         "kerning": 0.3999999761581421,
         "paragraphStyle": {
-          "_archive": "YnBsaXN0MDDUAQIDBAUGJCVYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKYHCBMXHiFVJG51bGzVCQoLDA0ODxARElpOU1RhYlN0b3BzViRjbGFzc1xOU1RleHRCbG9ja3NfEB9OU0FsbG93c1RpZ2h0ZW5pbmdGb3JUcnVuY2F0aW9uW05TVGV4dExpc3RzgACABYACEAGABNIUChUWWk5TLm9iamVjdHOggAPSGBkaG1okY2xhc3NuYW1lWCRjbGFzc2VzXk5TTXV0YWJsZUFycmF5oxocHVdOU0FycmF5WE5TT2JqZWN00hQKHxaggAPSGBkiI18QEE5TUGFyYWdyYXBoU3R5bGWiIh1fEA9OU0tleWVkQXJjaGl2ZXLRJidUcm9vdIABAAgAEQAaACMALQAyADcAPgBEAE8AWgBhAG4AkACcAJ4AoACiAKQApgCrALYAtwC5AL4AyQDSAOEA5QDtAPYA+wD8AP4BAwEWARkBKwEuATMAAAAAAAACAQAAAAAAAAAoAAAAAAAAAAAAAAAAAAABNQ=="
+          "_class": "paragraphStyle",
+          "alignment": 0
         }
       },
       "verticalAlignment": 0

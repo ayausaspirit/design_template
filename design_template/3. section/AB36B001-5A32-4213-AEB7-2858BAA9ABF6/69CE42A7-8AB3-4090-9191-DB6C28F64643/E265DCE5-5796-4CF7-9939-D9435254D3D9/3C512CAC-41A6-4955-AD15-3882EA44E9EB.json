@@ -1,10 +1,42 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "MSAttributedString",
-    "archivedAttributedString": {
-      "_archive": "YnBsaXN0MDDUAQIDBAUGfX5YJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QJQcIDxAkJSYnKCkqKy83ODk6O0JGR0hUVVZXWFlaW1xebnF0eHlVJG51bGzTCQoLDA0OWE5TU3RyaW5nViRjbGFzc1xOU0F0dHJpYnV0ZXOAAoAkgANmT4sAOk4AgiyKZmWZ0xESChMbI1dOUy5rZXlzWk5TLm9iamVjdHOnFBUWFxgZGoAEgAWABoAHgAiACYAKpxwdHh0gISKAC4ATgBSAE4AVgB+AI4AeXxAfTVNBdHRyaWJ1dGVkU3RyaW5nRm9udEF0dHJpYnV0ZV8QD05TU3RyaWtldGhyb3VnaFtOU1VuZGVybGluZV8QKE1TQXR0cmlidXRlZFN0cmluZ1RleHRUcmFuc2Zvcm1BdHRyaWJ1dGVfECpNU0F0dHJpYnV0ZWRTdHJpbmdDb2xvckRpY3Rpb25hcnlBdHRyaWJ1dGVfEBBOU1BhcmFncmFwaFN0eWxlVk5TS2VybtIKLC0uXxAaTlNGb250RGVzY3JpcHRvckF0dHJpYnV0ZXOAEoAM0xESCjAzNqIxMoANgA6iNDWAD4AQgBFfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNAN/5AXuB/Dl8QEUtvekdvUHI2Ti1SZWd1bGFy0jw9Pj9aJGNsYXNzbmFtZVgkY2xhc3Nlc18QE05TTXV0YWJsZURpY3Rpb25hcnmjPkBBXE5TRGljdGlvbmFyeVhOU09iamVjdNI8PUNEXxAQTlNGb250RGVzY3JpcHRvcqJFQV8QEE5TRm9udERlc2NyaXB0b3IQABAB0xESCklOI6RKS0xNgBaAF4AYgBmkT1BRUoAagBuAHIAdgB5TcmVkVWFscGhhVGJsdWVVZ3JlZW4jP78fJV81Gb0jP/AAAAAAAAAjP7UVFhG6PKcjP7gYHgP3BYXSPD1AXaJAQdkKX2BhYmNkZWZnaGlpWWtHbG1aTlNUYWJTdG9wc1xOU1RleHRCbG9ja3NbTlNUZXh0TGlzdHNfEBJOU1BhcmFncmFwaFNwYWNpbmdfEA9OU01heExpbmVIZWlnaHRfEB9OU0FsbG93c1RpZ2h0ZW5pbmdGb3JUcnVuY2F0aW9uXxAPTlNNaW5MaW5lSGVpZ2h0W05TQWxpZ25tZW50gCKAAIAggCAjQD390HaYntIjQD390HaYntIQAtISCm9woIAh0jw9cnNXTlNBcnJheaJyQdI8PXV2XxAXTlNNdXRhYmxlUGFyYWdyYXBoU3R5bGWjdXdBXxAQTlNQYXJhZ3JhcGhTdHlsZSNABwo9cKPXCtI8PXp7XxASTlNBdHRyaWJ1dGVkU3RyaW5nonxBXxASTlNBdHRyaWJ1dGVkU3RyaW5nXxAPTlNLZXllZEFyY2hpdmVy0X+AVHJvb3SAAQAIABEAGgAjAC0AMgA3AF8AZQBsAHUAfACJAIsAjQCPAJwAowCrALYAvgDAAMIAxADGAMgAygDMANQA1gDYANoA3ADeAOAA4gDkAQYBGAEkAU8BfAGPAZYBmwG4AboBvAHDAcYByAHKAc0BzwHRAdMB6QH/AggCHAIhAiwCNQJLAk8CXAJlAmoCfQKAApMClQKXAp4CowKlAqcCqQKrArACsgK0ArYCuAK6Ar4CxALJAs8C2ALhAuoC8wL4AvsDDgMZAyYDMgNHA1kDewONA5kDmwOdA58DoQOqA7MDtQO6A7sDvQPCA8oDzQPSA+wD8AQDBAwEEQQmBCkEPgRQBFMEWAAAAAAAAAIBAAAAAAAAAIEAAAAAAAAAAAAAAAAAAARa"
-    }
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.082353,
+            "green": 0.094118,
+            "red": 0.121569
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "KozGoPr6N-Regular",
+              "size": 23.99316971760623
+            }
+          },
+          "MSAttributedStringTextTransformAttribute": 0,
+          "kerning": 2.88,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 2,
+            "maximumLineHeight": 29.99146214700779,
+            "minimumLineHeight": 29.99146214700779,
+            "paragraphSpacing": 1
+          },
+          "strikethroughStyle": 0,
+          "underlineStyle": 1
+        },
+        "length": 6,
+        "location": 0
+      }
+    ],
+    "string": "例:一般試料"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "3C512CAC-41A6-4955-AD15-3882EA44E9EB",

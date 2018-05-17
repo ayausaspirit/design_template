@@ -1,10 +1,74 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "MSAttributedString",
-    "archivedAttributedString": {
-      "_archive": "YnBsaXN0MDDUAQIDBAUGyMlYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QOAcIERIYKywtLi8wMTI2Pj9AQUJJTU5aW1xdXl9gYWJkc3Z5fX6QkZKTlp6foKGirq+wsbi5vMDEVSRudWxs1AkKCwwNDg8QWE5TU3RyaW5nXxAPTlNBdHRyaWJ1dGVJbmZvXE5TQXR0cmlidXRlc1YkY2xhc3OAAoA1gAOAN2cAUQBSMLMw/DDJMEswidITDBQXWk5TLm9iamVjdHOiFRaABIAkgDTTGRMMGiIqV05TLmtleXOnGxwdHh8gIYAFgAaAB4AIgAmACoALpyMkJCQnKCmADIAUgBSAFIAVgB+AI4AeXxAfTVNBdHRyaWJ1dGVkU3RyaW5nRm9udEF0dHJpYnV0ZV8QD05TU3RyaWtldGhyb3VnaFtOU1VuZGVybGluZV8QKE1TQXR0cmlidXRlZFN0cmluZ1RleHRUcmFuc2Zvcm1BdHRyaWJ1dGVfECpNU0F0dHJpYnV0ZWRTdHJpbmdDb2xvckRpY3Rpb25hcnlBdHRyaWJ1dGVfEBBOU1BhcmFncmFwaFN0eWxlVk5TS2VybtIMMzQ1XxAaTlNGb250RGVzY3JpcHRvckF0dHJpYnV0ZXOAE4AN0xkTDDc6PaI4OYAOgA+iOzyAEIARgBJfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNAL/otdPNT+l8QE1RzdWt1QVJkR290aGljLUJvbGTSQ0RFRlokY2xhc3NuYW1lWCRjbGFzc2VzXxATTlNNdXRhYmxlRGljdGlvbmFyeaNFR0hcTlNEaWN0aW9uYXJ5WE5TT2JqZWN00kNESktfEBBOU0ZvbnREZXNjcmlwdG9yokxIXxAQTlNGb250RGVzY3JpcHRvchAA0xkTDE9UKqRQUVJTgBaAF4AYgBmkVVZXWIAagBuAHIAdgB5TcmVkVWFscGhhVGJsdWVVZ3JlZW4jP8mZmZmZmZojP/AAAAAAAAAjP8mZmZmZmZojP8mZmZmZmZrSQ0RHY6JHSNgMZWZnaGlqa2xtbm5fcHFyWk5TVGFiU3RvcHNcTlNUZXh0QmxvY2tzW05TVGV4dExpc3RzXxASTlNQYXJhZ3JhcGhTcGFjaW5nXxAfTlNBbGxvd3NUaWdodGVuaW5nRm9yVHJ1bmNhdGlvbl8QD05TTWF4TGluZUhlaWdodF8QD05TTWluTGluZUhlaWdodIAigACAIIAgEAEjQEJ8okecrI0jQEJ8okecrI3SEwx0daCAIdJDRHd4V05TQXJyYXmid0jSQ0R6e18QF05TTXV0YWJsZVBhcmFncmFwaFN0eWxlo3p8SF8QEE5TUGFyYWdyYXBoU3R5bGUjP9mZmZmZmZrTGRMMf4cqp4AcHYOEICGAJYAGgAeAJoAngAqAC6eIJCQkjI2OgCiAFIAUgBSALoAygDOAHl8QH01TQXR0cmlidXRlZFN0cmluZ0ZvbnRBdHRyaWJ1dGVfEChNU0F0dHJpYnV0ZWRTdHJpbmdUZXh0VHJhbnNmb3JtQXR0cmlidXRlXxAqTVNBdHRyaWJ1dGVkU3RyaW5nQ29sb3JEaWN0aW9uYXJ5QXR0cmlidXRl0gwzNJWAE4Ap0xkTDJeaPaKYmYAqgCuim5yALIAtgBJfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNAKDaEcovDsF8QE1RzdWt1QVJkR290aGljLUJvbGTTGRMMo6gqpFBRUlOAFoAXgBiAGaSpVqusgC+AG4AwgDGAHiM/yZmZmZmZmiM/yZmZmZmZmiM/yZmZmZmZmtgMZWZnaGlqa2xtbm5fcLa3gCKAAIAggCAjQEJ8okecrI0jQEJ8okecrI0jP9NiV0Lc9GLSQ0S6u15OU011dGFibGVBcnJheaO6d0jSvQy+v1dOUy5kYXRhRAUAAgGANtJDRMHCXU5TTXV0YWJsZURhdGGjwcNIVk5TRGF0YdJDRMXGXxASTlNBdHRyaWJ1dGVkU3RyaW5nosdIXxASTlNBdHRyaWJ1dGVkU3RyaW5nXxAPTlNLZXllZEFyY2hpdmVy0crLVHJvb3SAAQAIABEAGgAjAC0AMgA3AHIAeACBAIoAnACpALAAsgC0ALYAuADHAMwA1wDaANwA3gDgAOcA7wD3APkA+wD9AP8BAQEDAQUBDQEPAREBEwEVARcBGQEbAR0BPwFRAV0BiAG1AcgBzwHUAfEB8wH1AfwB/wIBAgMCBgIIAgoCDAIiAjgCQQJXAlwCZwJwAoYCigKXAqACpQK4ArsCzgLQAtcC3ALeAuAC4gLkAukC6wLtAu8C8QLzAvcC/QMCAwgDEQMaAyMDLAMxAzQDRQNQA10DaQN+A6ADsgPEA8YDyAPKA8wDzgPXA+AD5QPmA+gD7QP1A/gD/QQXBBsELgQ3BD4ERgRIBEoETAROBFAEUgRUBFwEXgRgBGIEZARmBGgEagRsBI4EuQTmBOsE7QTvBPYE+QT7BP0FAAUCBQQFBgUcBTIFOwVRBVgFXQVfBWEFYwVlBWoFbAVuBXAFcgV0BX0FhgWPBaAFogWkBaYFqAWxBboFwwXIBdcF2wXgBegF7QXvBfQGAgYGBg0GEgYnBioGPwZRBlQGWQAAAAAAAAIBAAAAAAAAAMwAAAAAAAAAAAAAAAAAAAZb"
-    }
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.2,
+            "green": 0.2,
+            "red": 0.2
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "TsukuARdGothic-Bold",
+              "size": 15.98862805815041
+            }
+          },
+          "MSAttributedStringTextTransformAttribute": 0,
+          "kerning": 0.4,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "maximumLineHeight": 36.97370238447284,
+            "minimumLineHeight": 36.97370238447284,
+            "paragraphSpacing": 1
+          },
+          "strikethroughStyle": 0,
+          "underlineStyle": 0
+        },
+        "length": 5,
+        "location": 0
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.2,
+            "green": 0.2,
+            "red": 0.2
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "TsukuARdGothic-Bold",
+              "size": 12.1064792438136
+            }
+          },
+          "MSAttributedStringTextTransformAttribute": 0,
+          "kerning": 0.30287725,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "maximumLineHeight": 36.97370238447284,
+            "minimumLineHeight": 36.97370238447284,
+            "paragraphSpacing": 1
+          },
+          "strikethroughStyle": 0,
+          "underlineStyle": 0
+        },
+        "length": 2,
+        "location": 5
+      }
+    ],
+    "string": "QRコードから"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "179DC83C-39D4-4BA0-926B-A11A05E3F711",

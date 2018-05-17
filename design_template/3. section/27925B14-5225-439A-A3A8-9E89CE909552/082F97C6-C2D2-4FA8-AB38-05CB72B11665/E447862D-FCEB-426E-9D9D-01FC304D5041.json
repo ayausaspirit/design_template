@@ -1,10 +1,122 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "MSAttributedString",
-    "archivedAttributedString": {
-      "_archive": "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"
-    }
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.337254902,
+            "green": 0.337254902,
+            "red": 0.337254902
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "YuGo-Medium",
+              "size": 18
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "allowsDefaultTighteningForTruncation": 0,
+            "maximumLineHeight": 25.2,
+            "minimumLineHeight": 25.2
+          }
+        },
+        "length": 36,
+        "location": 0
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.337254902,
+            "green": 0.337254902,
+            "red": 0.337254902
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "YuGo-Bold",
+              "size": 18
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "allowsDefaultTighteningForTruncation": 0,
+            "maximumLineHeight": 25.2,
+            "minimumLineHeight": 25.2
+          }
+        },
+        "length": 45,
+        "location": 36
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.337254902,
+            "green": 0.337254902,
+            "red": 0.337254902
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "YuGo-Medium",
+              "size": 18
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "allowsDefaultTighteningForTruncation": 0,
+            "maximumLineHeight": 25.2,
+            "minimumLineHeight": 25.2
+          }
+        },
+        "length": 62,
+        "location": 81
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.337254902,
+            "green": 0.337254902,
+            "red": 0.337254902
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "YuGo-Bold",
+              "size": 18
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "allowsDefaultTighteningForTruncation": 0,
+            "maximumLineHeight": 25.2,
+            "minimumLineHeight": 25.2
+          }
+        },
+        "length": 18,
+        "location": 143
+      }
+    ],
+    "string": "\r\n何よりも価値を生み出せる人間になること、今回、3日間の研修を通して、自分が仕事に求めているもの、本当に自分の原動力となっているものを見つけることができました。また、チームとして組として、信頼し合える関係が築けたことは、大きな財産となり、これから先も、そのような信頼関係を築けるよう、３日間で学んだ事を実践していきます。"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "E447862D-FCEB-426E-9D9D-01FC304D5041",
@@ -59,10 +171,18 @@
           "red": 0.337254902
         },
         "MSAttributedStringFontAttribute": {
-          "_archive": "YnBsaXN0MDDUAQIDBAUGJidYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKkHCA0XGBkaGyJVJG51bGzSCQoLDFYkY2xhc3NfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AIgALTDg8JEBMWV05TLmtleXNaTlMub2JqZWN0c6IREoADgASiFBWABYAGgAdfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZRASW1l1R28tTWVkaXVt0hwdHh9aJGNsYXNzbmFtZVgkY2xhc3Nlc18QE05TTXV0YWJsZURpY3Rpb25hcnmjHiAhXE5TRGljdGlvbmFyeVhOU09iamVjdNIcHSMkXxAQTlNGb250RGVzY3JpcHRvcqIlIV8QEE5TRm9udERlc2NyaXB0b3JfEA9OU0tleWVkQXJjaGl2ZXLRKClUcm9vdIABAAgAEQAaACMALQAyADcAQQBHAEwAUwBwAHIAdAB7AIMAjgCRAJMAlQCYAJoAnACeALQAygDMANgA3QDoAPEBBwELARgBIQEmATkBPAFPAWEBZAFpAAAAAAAAAgEAAAAAAAAAKgAAAAAAAAAAAAAAAAAAAWs="
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "YuGo-Medium",
+            "size": 18
+          }
         },
         "paragraphStyle": {
-          "_archive": "YnBsaXN0MDDUAQIDBAUGJyhYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKYHCBUZICNVJG51bGzWCQoLDA0ODxAREhMUWk5TVGFiU3RvcHNbTlNUZXh0TGlzdHNfEA9OU01pbkxpbmVIZWlnaHRcTlNUZXh0QmxvY2tzViRjbGFzc18QD05TTWF4TGluZUhlaWdodIAAgAQjQDkzMzMzMzOAAoAFI0A5MzMzMzMz0hYNFxhaTlMub2JqZWN0c6CAA9IaGxwdWiRjbGFzc25hbWVYJGNsYXNzZXNeTlNNdXRhYmxlQXJyYXmjHB4fV05TQXJyYXlYTlNPYmplY3TSFg0hGKCAA9IaGyQlXxAXTlNNdXRhYmxlUGFyYWdyYXBoU3R5bGWjJCYfXxAQTlNQYXJhZ3JhcGhTdHlsZV8QD05TS2V5ZWRBcmNoaXZlctEpKlRyb290gAEACAARABoAIwAtADIANwA+AEQAUQBcAGgAegCHAI4AoACiAKQArQCvALEAugC/AMoAywDNANIA3QDmAPUA+QEBAQoBDwEQARIBFwExATUBSAFaAV0BYgAAAAAAAAIBAAAAAAAAACsAAAAAAAAAAAAAAAAAAAFk"
+          "_class": "paragraphStyle",
+          "alignment": 0,
+          "allowsDefaultTighteningForTruncation": 0,
+          "maximumLineHeight": 25.2,
+          "minimumLineHeight": 25.2
         }
       },
       "verticalAlignment": 0

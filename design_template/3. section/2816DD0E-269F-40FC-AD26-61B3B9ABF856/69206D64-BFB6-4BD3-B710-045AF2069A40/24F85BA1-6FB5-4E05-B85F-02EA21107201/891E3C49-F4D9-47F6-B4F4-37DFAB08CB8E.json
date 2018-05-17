@@ -1,10 +1,42 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "MSAttributedString",
-    "archivedAttributedString": {
-      "_archive": "YnBsaXN0MDDUAQIDBAUGentYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QJAcIDxAkJSYnKCkqKy83ODk6O0JGR1NUVVZXWFlaW11rbnF1dlUkbnVsbNMJCgsMDQ5YTlNTdHJpbmdWJGNsYXNzXE5TQXR0cmlidXRlc4ACgCOAA2YwgjBjMGiJizCLMADTERIKExsjV05TLmtleXNaTlMub2JqZWN0c6cUFRYXGBkagASABYAGgAeACIAJgAqnHB0dHSAhIoALgBOAE4ATgBSAHoAigB1fEB9NU0F0dHJpYnV0ZWRTdHJpbmdGb250QXR0cmlidXRlXxAPTlNTdHJpa2V0aHJvdWdoW05TVW5kZXJsaW5lXxAoTVNBdHRyaWJ1dGVkU3RyaW5nVGV4dFRyYW5zZm9ybUF0dHJpYnV0ZV8QKk1TQXR0cmlidXRlZFN0cmluZ0NvbG9yRGljdGlvbmFyeUF0dHJpYnV0ZV8QEE5TUGFyYWdyYXBoU3R5bGVWTlNLZXJu0gosLS5fEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4ASgAzTERIKMDM2ojEygA2ADqI0NYAPgBCAEV8QE05TRm9udFNpemVBdHRyaWJ1dGVfEBNOU0ZvbnROYW1lQXR0cmlidXRlI0AoAAAAAAAAXxAPSGlyYUtha3VQcm9OLVcz0jw9Pj9aJGNsYXNzbmFtZVgkY2xhc3Nlc18QE05TTXV0YWJsZURpY3Rpb25hcnmjPkBBXE5TRGljdGlvbmFyeVhOU09iamVjdNI8PUNEXxAQTlNGb250RGVzY3JpcHRvcqJFQV8QEE5TRm9udERlc2NyaXB0b3IQANMREgpITSOkSUpLTIAVgBaAF4AYpE5PUFGAGYAagBuAHIAdU3JlZFVhbHBoYVRibHVlVWdyZWVuIz/tPTw2ETQFIz/wAAAAAAAAIz/svLxI8QqaIz/svLxI8Qqa0jw9QFyiQEHYCl5fYGFiY2RlZmdnWGlqalpOU1RhYlN0b3BzXE5TVGV4dEJsb2Nrc1tOU1RleHRMaXN0c18QEk5TUGFyYWdyYXBoU3BhY2luZ18QH05TQWxsb3dzVGlnaHRlbmluZ0ZvclRydW5jYXRpb25fEA9OU01heExpbmVIZWlnaHRfEA9OU01pbkxpbmVIZWlnaHSAIYAAgB+AHxABI0A4AAAAAAAA0hIKbG2ggCDSPD1vcFdOU0FycmF5om9B0jw9cnNfEBdOU011dGFibGVQYXJhZ3JhcGhTdHlsZaNydEFfEBBOU1BhcmFncmFwaFN0eWxlIwAAAAAAAAAA0jw9d3hfEBJOU0F0dHJpYnV0ZWRTdHJpbmeieUFfEBJOU0F0dHJpYnV0ZWRTdHJpbmdfEA9OU0tleWVkQXJjaGl2ZXLRfH1Ucm9vdIABAAgAEQAaACMALQAyADcAXgBkAGsAdAB7AIgAigCMAI4AmwCiAKoAtQC9AL8AwQDDAMUAxwDJAMsA0wDVANcA2QDbAN0A3wDhAOMBBQEXASMBTgF7AY4BlQGaAbcBuQG7AcIBxQHHAckBzAHOAdAB0gHoAf4CBwIZAh4CKQIyAkgCTAJZAmICZwJ6An0CkAKSApkCngKgAqICpAKmAqsCrQKvArECswK1ArkCvwLEAsoC0wLcAuUC7gLzAvYDBwMSAx8DKwNAA2IDdAOGA4gDigOMA44DkAOZA54DnwOhA6YDrgOxA7YD0APUA+cD8AP1BAoEDQQiBDQENwQ8AAAAAAAAAgEAAAAAAAAAfgAAAAAAAAAAAAAAAAAABD4="
-    }
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.898039,
+            "green": 0.898039,
+            "red": 0.913725
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "HiraKakuProN-W3",
+              "size": 12
+            }
+          },
+          "MSAttributedStringTextTransformAttribute": 0,
+          "kerning": 0,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "maximumLineHeight": 24,
+            "minimumLineHeight": 24,
+            "paragraphSpacing": 1
+          },
+          "strikethroughStyle": 0,
+          "underlineStyle": 0
+        },
+        "length": 6,
+        "location": 0
+      }
+    ],
+    "string": "もっと見る　"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "891E3C49-F4D9-47F6-B4F4-37DFAB08CB8E",

@@ -1,10 +1,106 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "MSAttributedString",
-    "archivedAttributedString": {
-      "_archive": "YnBsaXN0MDDUAQIDBAUGwMFYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QMAcIERIYKywtLi8wMTI2Pj9AQUJJTU5aW1xdXl9gYWJkc3Z5fX6Qk5unqKmqsbS4vFUkbnVsbNQJCgsMDQ4PEFhOU1N0cmluZ18QD05TQXR0cmlidXRlSW5mb1xOU0F0dHJpYnV0ZXNWJGNsYXNzgAKALYADgC9vEKwgKTD7ZwllmVNUTxpU4WnYMExQdnE2MGpl5V44dR9tOzBuTotlRTBna3tOoTBXMF9YNFQIMGswATBKiYuCHpHRMJIwSmUvYlUwVzB+MFkwAgAoXDFpbU4tMG9b/oxhWRYAKSApMPtnCWWZU1RPGlThadgwTFb9UYUwblFlTxpmQnZ7kzIwVTCMMF9PT2JAAChbn5abMGswSk9PMEQwbjBoMFMwjQApMGswSjBEMGYwAXB9W7NlUVKpbNUwTJBpdSgwaDBqMItXMJcHMPtWdHBrMFMwjDCJMGswiDCLMABtJWziMG5ZKXB9MGswiDCKMAFwfVuzW/57Vlf6Zyxs1TBriY9bmjBZMIt6y5AAME1S51RKMH4wXzBvYwd5OgAgMJJT1zBRMF9YNFQIMGtZKXB9iYuCHpHRMJIwSmUvYlUwVzB+MFkwAiApICkgKSApICkgKSApICkgKdITDBQXWk5TLm9iamVjdHOiFRaABIAkgCzTGRMMGiIqV05TLmtleXOnGxwdHh8gIYAFgAaAB4AIgAmACoALpyMkJCQnKCmADIAUgBSAFIAVgB+AI4AeXxAfTVNBdHRyaWJ1dGVkU3RyaW5nRm9udEF0dHJpYnV0ZV8QD05TU3RyaWtldGhyb3VnaFtOU1VuZGVybGluZV8QKE1TQXR0cmlidXRlZFN0cmluZ1RleHRUcmFuc2Zvcm1BdHRyaWJ1dGVfECpNU0F0dHJpYnV0ZWRTdHJpbmdDb2xvckRpY3Rpb25hcnlBdHRyaWJ1dGVfEBBOU1BhcmFncmFwaFN0eWxlVk5TS2VybtIMMzQ1XxAaTlNGb250RGVzY3JpcHRvckF0dHJpYnV0ZXOAE4AN0xkTDDc6PaI4OYAOgA+iOzyAEIARgBJfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNAK/xKyMEb7V8QEUtvekdvUHI2Ti1SZWd1bGFy0kNERUZaJGNsYXNzbmFtZVgkY2xhc3Nlc18QE05TTXV0YWJsZURpY3Rpb25hcnmjRUdIXE5TRGljdGlvbmFyeVhOU09iamVjdNJDREpLXxAQTlNGb250RGVzY3JpcHRvcqJMSF8QEE5TRm9udERlc2NyaXB0b3IQANMZEwxPVCqkUFFSU4AWgBeAGIAZpFVWV1iAGoAbgByAHYAeU3JlZFVhbHBoYVRibHVlVWdyZWVuIz/JmZmZmZmaIz/wAAAAAAAAIz/JmZmZmZmaIz/JmZmZmZma0kNER2OiR0jYDGVmZ2hpamtsbW5uX3BxclpOU1RhYlN0b3BzXE5TVGV4dEJsb2Nrc1tOU1RleHRMaXN0c18QEk5TUGFyYWdyYXBoU3BhY2luZ18QH05TQWxsb3dzVGlnaHRlbmluZ0ZvclRydW5jYXRpb25fEA9OU01heExpbmVIZWlnaHRfEA9OU01pbkxpbmVIZWlnaHSAIoAAgCCAIBABI0A9/YjKWdkcI0A9/YjKWdkc0hMMdHWggCHSQ0R3eFdOU0FycmF5ondI0kNEentfEBdOU011dGFibGVQYXJhZ3JhcGhTdHlsZaN6fEhfEBBOU1BhcmFncmFwaFN0eWxlIz/WZmZmZmZm0xkTDH+HKqcbHB0eHyAhgAWABoAHgAiACYAKgAuniCQkJIyNKYAlgBSAFIAUgCeAK4AjgB7SDDM0koATgCbTGRMMlJc9ojg5gA6AD6I7PIAQgBGAEtMZEwycoSqkUFFSU4AWgBeAGIAZpKJWpKWAKIAbgCmAKoAeIz/JmZmZmZmaIz/JmZmZmZmaIz/JmZmZmZma2AxlZmdoaWprbG1ubl9wr7CAIoAAgCCAICNAN/5tvVj2HyNAN/5tvVj2H9JDRLKzXk5TTXV0YWJsZUFycmF5o7J3SNK1DLa3V05TLmRhdGFGMQBzAQgAgC7SQ0S5ul1OU011dGFibGVEYXRho7m7SFZOU0RhdGHSQ0S9vl8QEk5TQXR0cmlidXRlZFN0cmluZ6K/SF8QEk5TQXR0cmlidXRlZFN0cmluZ18QD05TS2V5ZWRBcmNoaXZlctHCw1Ryb290gAEACAARABoAIwAtADIANwBqAHAAeQCCAJQAoQCoAKoArACuALACCwIQAhsCHgIgAiICJAIrAjMCOwI9Aj8CQQJDAkUCRwJJAlECUwJVAlcCWQJbAl0CXwJhAoMClQKhAswC+QMMAxMDGAM1AzcDOQNAA0MDRQNHA0oDTANOA1ADZgN8A4UDmQOeA6kDsgPIA8wD2QPiA+cD+gP9BBAEEgQZBB4EIAQiBCQEJgQrBC0ELwQxBDMENQQ5BD8ERARKBFMEXARlBG4EcwR2BIcEkgSfBKsEwATiBPQFBgUIBQoFDAUOBRAFGQUiBScFKAUqBS8FNwU6BT8FWQVdBXAFeQWABYgFigWMBY4FkAWSBZQFlgWeBaAFogWkBaYFqAWqBawFrgWzBbUFtwW+BcEFwwXFBcgFygXMBc4F1QXaBdwF3gXgBeIF5wXpBesF7QXvBfEF+gYDBgwGHQYfBiEGIwYlBi4GNwY8BksGTwZUBlwGYwZlBmoGeAZ8BoMGiAadBqAGtQbHBsoGzwAAAAAAAAIBAAAAAAAAAMQAAAAAAAAAAAAAAAAAAAbR"
-    }
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.2,
+            "green": 0.2,
+            "red": 0.2
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "KozGoPr6N-Regular",
+              "size": 13.99275805814065
+            }
+          },
+          "MSAttributedStringTextTransformAttribute": 0,
+          "kerning": 0.35,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "maximumLineHeight": 29.99036850637013,
+            "minimumLineHeight": 29.99036850637013,
+            "paragraphSpacing": 1
+          },
+          "strikethroughStyle": 0,
+          "underlineStyle": 0
+        },
+        "length": 49,
+        "location": 0
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.2,
+            "green": 0.2,
+            "red": 0.2
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "KozGoPr6N-Regular",
+              "size": 13.99275805814065
+            }
+          },
+          "MSAttributedStringTextTransformAttribute": 0,
+          "kerning": 0.35,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "maximumLineHeight": 23.99386199399862,
+            "minimumLineHeight": 23.99386199399862,
+            "paragraphSpacing": 1
+          },
+          "strikethroughStyle": 0,
+          "underlineStyle": 0
+        },
+        "length": 115,
+        "location": 49
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.2,
+            "green": 0.2,
+            "red": 0.2
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "KozGoPr6N-Regular",
+              "size": 13.99275805814065
+            }
+          },
+          "MSAttributedStringTextTransformAttribute": 0,
+          "kerning": 0.35,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "maximumLineHeight": 29.99036850637013,
+            "minimumLineHeight": 29.99036850637013,
+            "paragraphSpacing": 1
+          },
+          "strikethroughStyle": 0,
+          "underlineStyle": 0
+        },
+        "length": 8,
+        "location": 164
+      }
+    ],
+    "string": " ・有料協会員様が偶然な日常生活の事故で死亡した場合に、お見舞金をお支払します。(就業中は対象外) ・有料協会員様が国内の入会時登録された住所(実際にお住いのところ)において、災害救助法が適用となる地震・噴火これらによる　津波の天災により、災害対策基本法に規定する立退き勧告または指示 を受けた場合に天災見舞金をお支払します。         "
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "900E92F4-0051-4127-BD39-969DB1B6D03F",

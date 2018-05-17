@@ -1,10 +1,42 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "MSAttributedString",
-    "archivedAttributedString": {
-      "_archive": "YnBsaXN0MDDUAQIDBAUGe3xYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QJAcIDxAkJSYnKCkqKy83ODk6O0JGR1NUVVZXWFlaW11sb3J2d1UkbnVsbNMJCgsMDQ5YTlNTdHJpbmdWJGNsYXNzXE5TQXR0cmlidXRlc4ACgCOAA28QU1W2aW1mQpWT/xoAMAA5ADoAMAAwAC0AMQA2ADoAMAAwIClbmk8RZeX/Gk4NW5pPESApMNsw/DDgMNow/DC4/xoAaAB0AHQAcAA6AC8ALwBrAHUAbQBhAG4AbwBoAGEAeQBhAHQAYQBtAGEALgBqAHAALyApT09iQP8aMBIANgA0ADcAMAAwADgAMQAgVIxrTFxxdwwAIGWwW65eAmWwW64AIAAxICnTERIKExsjV05TLmtleXNaTlMub2JqZWN0c6cUFRYXGBkagASABYAGgAeACIAJgAqnHB0dHSAhIoALgBOAE4ATgBSAHoAigB1fEB9NU0F0dHJpYnV0ZWRTdHJpbmdGb250QXR0cmlidXRlXxAPTlNTdHJpa2V0aHJvdWdoW05TVW5kZXJsaW5lXxAoTVNBdHRyaWJ1dGVkU3RyaW5nVGV4dFRyYW5zZm9ybUF0dHJpYnV0ZV8QKk1TQXR0cmlidXRlZFN0cmluZ0NvbG9yRGljdGlvbmFyeUF0dHJpYnV0ZV8QEE5TUGFyYWdyYXBoU3R5bGVWTlNLZXJu0gosLS5fEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4ASgAzTERIKMDM2ojEygA2ADqI0NYAPgBCAEV8QE05TRm9udFNpemVBdHRyaWJ1dGVfEBNOU0ZvbnROYW1lQXR0cmlidXRlI0An+0EIZUMWXxAPSGlyYUtha3VQcm9OLVcz0jw9Pj9aJGNsYXNzbmFtZVgkY2xhc3Nlc18QE05TTXV0YWJsZURpY3Rpb25hcnmjPkBBXE5TRGljdGlvbmFyeVhOU09iamVjdNI8PUNEXxAQTlNGb250RGVzY3JpcHRvcqJFQV8QEE5TRm9udERlc2NyaXB0b3IQANMREgpITSOkSUpLTIAVgBaAF4AYpE5PUFGAGYAagBuAHIAdU3JlZFVhbHBoYVRibHVlVWdyZWVuIz+1FRYRujynIz/wAAAAAAAAIz+0FA3T/hl2Iz+0FA3T/hl20jw9QFyiQEHYCl5fYGFiY2RlZmdnWGlqa1pOU1RhYlN0b3BzXE5TVGV4dEJsb2Nrc1tOU1RleHRMaXN0c18QEk5TUGFyYWdyYXBoU3BhY2luZ18QH05TQWxsb3dzVGlnaHRlbmluZ0ZvclRydW5jYXRpb25fEA9OU01heExpbmVIZWlnaHRfEA9OU01pbkxpbmVIZWlnaHSAIYAAgB+AHxABI0Az/AuG/w09I0Az/AuG/w090hIKbW6ggCDSPD1wcVdOU0FycmF5onBB0jw9c3RfEBdOU011dGFibGVQYXJhZ3JhcGhTdHlsZaNzdUFfEBBOU1BhcmFncmFwaFN0eWxlIwAAAAAAAAAA0jw9eHlfEBJOU0F0dHJpYnV0ZWRTdHJpbmeiekFfEBJOU0F0dHJpYnV0ZWRTdHJpbmdfEA9OU0tleWVkQXJjaGl2ZXLRfX5Ucm9vdIABAAgAEQAaACMALQAyADcAXgBkAGsAdAB7AIgAigCMAI4BNwE+AUYBUQFZAVsBXQFfAWEBYwFlAWcBbwFxAXMBdQF3AXkBewF9AX8BoQGzAb8B6gIXAioCMQI2AlMCVQJXAl4CYQJjAmUCaAJqAmwCbgKEApoCowK1AroCxQLOAuQC6AL1Av4DAwMWAxkDLAMuAzUDOgM8Az4DQANCA0cDSQNLA00DTwNRA1UDWwNgA2YDbwN4A4EDigOPA5IDowOuA7sDxwPcA/4EEAQiBCQEJgQoBCoELAQ1BD4EQwREBEYESwRTBFYEWwR1BHkEjASVBJoErwSyBMcE2QTcBOEAAAAAAAACAQAAAAAAAAB/AAAAAAAAAAAAAAAAAAAE4w=="
-    }
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.078431,
+            "green": 0.078431,
+            "red": 0.082353
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "HiraKakuProN-W3",
+              "size": 11.99073053585157
+            }
+          },
+          "MSAttributedStringTextTransformAttribute": 0,
+          "kerning": 0,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "maximumLineHeight": 19.98455089308594,
+            "minimumLineHeight": 19.98455089308594,
+            "paragraphSpacing": 1
+          },
+          "strikethroughStyle": 0,
+          "underlineStyle": 0
+        },
+        "length": 83,
+        "location": 0
+      }
+    ],
+    "string": "営業時間：09:00-16:00 定休日：不定休 ホームページ：http://kumanohayatama.jp/ 住所：〒6470081 和歌山県 新宮市新宮 1 "
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "DD53EEC3-338C-4E9D-8B71-48FA6A345099",

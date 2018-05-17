@@ -1,10 +1,106 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "MSAttributedString",
-    "archivedAttributedString": {
-      "_archive": "YnBsaXN0MDDUAQIDBAUG+fpYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QOwcIERIZLC0uLzAxMjM3P0BBQkNKTk9bXF1eX2BhYmNldnl8gIGTlp6fq6ytrrW2yMvT1ODh4unq7fH1VSRudWxs1AkKCwwNDg8QWE5TU3RyaW5nXxAPTlNBdHRyaWJ1dGVJbmZvXE5TQXR0cmlidXRlc1YkY2xhc3OAAoA4gAOAOm8QF04AgixnCWWZTxpU4TAMfUYAKDBNMFowagApMA0waDBv/x8gKQAzMGQwbnJ5UXjSEwwUGFpOUy5vYmplY3RzoxUWF4AEgCSALoA30xoTDBsjK1dOUy5rZXlzpxwdHh8gISKABYAGgAeACIAJgAqAC6ckJSUlKCkqgAyAFIAUgBSAFYAfgCOAHl8QH01TQXR0cmlidXRlZFN0cmluZ0ZvbnRBdHRyaWJ1dGVfEA9OU1N0cmlrZXRocm91Z2hbTlNVbmRlcmxpbmVfEChNU0F0dHJpYnV0ZWRTdHJpbmdUZXh0VHJhbnNmb3JtQXR0cmlidXRlXxAqTVNBdHRyaWJ1dGVkU3RyaW5nQ29sb3JEaWN0aW9uYXJ5QXR0cmlidXRlXxAQTlNQYXJhZ3JhcGhTdHlsZVZOU0tlcm7SDDQ1Nl8QGk5TRm9udERlc2NyaXB0b3JBdHRyaWJ1dGVzgBOADdMaEww4Oz6iOTqADoAPojw9gBCAEYASXxATTlNGb250U2l6ZUF0dHJpYnV0ZV8QE05TRm9udE5hbWVBdHRyaWJ1dGUjQDX9QHc4OfFfEBNUc3VrdUFSZEdvdGhpYy1Cb2xk0kRFRkdaJGNsYXNzbmFtZVgkY2xhc3Nlc18QE05TTXV0YWJsZURpY3Rpb25hcnmjRkhJXE5TRGljdGlvbmFyeVhOU09iamVjdNJERUtMXxAQTlNGb250RGVzY3JpcHRvcqJNSV8QEE5TRm9udERlc2NyaXB0b3IQANMaEwxQVSukUVJTVIAWgBeAGIAZpFZXWFmAGoAbgByAHYAeU3JlZFVhbHBoYVRibHVlVWdyZWVuIz/JmZmZmZmaIz/wAAAAAAAAIz/JmZmZmZmaIz/JmZmZmZma0kRFSGSiSEnZDGZnaGlqa2xtbm9wcGByc3R1Wk5TVGFiU3RvcHNcTlNUZXh0QmxvY2tzW05TVGV4dExpc3RzXxASTlNQYXJhZ3JhcGhTcGFjaW5nXxAPTlNNYXhMaW5lSGVpZ2h0XxAfTlNBbGxvd3NUaWdodGVuaW5nRm9yVHJ1bmNhdGlvbl8QD05TTWluTGluZUhlaWdodFtOU0FsaWdubWVudIAigACAIIAgI0BO+ZGBHnq0EAEjQE75kYEeerQQAtITDHd4oIAh0kRFentXTlNBcnJheaJ6SdJERX1+XxAXTlNNdXRhYmxlUGFyYWdyYXBoU3R5bGWjfX9JXxAQTlNQYXJhZ3JhcGhTdHlsZSM/4Zp4bCJoCdMaEwyCiiunHB0eHyAhIoAFgAaAB4AIgAmACoALp4slJSWPkJGAJYAUgBSAFIAogCyALYAe0gw0NZWAE4Am0xoTDJeaPqI5OoAOgA+imz2AJ4ARgBIjQEH9wDtwc9fTGhMMoKUrpFFSU1SAFoAXgBiAGaSmV6ipgCmAG4AqgCuAHiM/7Z2dNFjNISMAAAAAAAAAACM/3p6dDpkf99kMZmdoaWprbG1ub3BwYLNztHWAIoAAgCCAICNAQnzGVZqGLCNAQnzGVZqGLCM/7M45Lh73PNMaEwy3vyunHB0eHyAhIoAFgAaAB4AIgAmACoALp8AlJSXExcaAL4AUgBSAFIAygDWANoAe0gw0NcqAE4Aw0xoTDMzPPqI5OoAOgA+i0D2AMYARgBIjQDgAEVUyAyTTGhMM1dorpFFSU1SAFoAXgBiAGaTbV6jegDOAG4AqgDSAHiM/7Z2dNFjNISM/3p6dDpkf99kMZmdoaWprbG1ub3BwYOdz6HWAIoAAgCCAICNAQnzGVZqGLCNAQnzGVZqGLCM/4zaakRBeHNJERevsXk5TTXV0YWJsZUFycmF5o+t6SdLuDO/wV05TLmRhdGFGEgABAQQCgDnSREXy811OU011dGFibGVEYXRho/L0SVZOU0RhdGHSREX2918QEk5TQXR0cmlidXRlZFN0cmluZ6L4SV8QEk5TQXR0cmlidXRlZFN0cmluZ18QD05TS2V5ZWRBcmNoaXZlctH7/FRyb290gAEACAARABoAIwAtADIANwB1AHsAhACNAJ8ArACzALUAtwC5ALsA7ADxAPwBAAECAQQBBgEIAQ8BFwEfASEBIwElAScBKQErAS0BNQE3ATkBOwE9AT8BQQFDAUUBZwF5AYUBsAHdAfAB9wH8AhkCGwIdAiQCJwIpAisCLgIwAjICNAJKAmACaQJ/AoQCjwKYAq4CsgK/AsgCzQLgAuMC9gL4Av8DBAMGAwgDCgMMAxEDEwMVAxcDGQMbAx8DJQMqAzADOQNCA0sDVANZA1wDbwN6A4cDkwOoA7oD3APuA/oD/AP+BAAEAgQLBA0EFgQYBB0EHgQgBCUELQQwBDUETwRTBGYEbwR2BH4EgASCBIQEhgSIBIoEjASUBJYEmASaBJwEngSgBKIEpASpBKsErQS0BLcEuQS7BL4EwATCBMQEzQTUBNkE2wTdBN8E4QTmBOgE6gTsBO4E8AT5BQIFCwUeBSAFIgUkBSYFLwU4BUEFSAVQBVIFVAVWBVgFWgVcBV4FZgVoBWoFbAVuBXAFcgV0BXYFewV9BX8FhgWJBYsFjQWQBZIFlAWWBZ8FpgWrBa0FrwWxBbMFuAW6BbwFvgXABcIFywXUBecF6QXrBe0F7wX4BgEGCgYPBh4GIgYnBi8GNgY4Bj0GSwZPBlYGWwZwBnMGiAaaBp0GogAAAAAAAAIBAAAAAAAAAP0AAAAAAAAAAAAAAAAAAAak"
-    }
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.2,
+            "green": 0.2,
+            "red": 0.2
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "TsukuARdGothic-Bold",
+              "size": 21.98926491854394
+            }
+          },
+          "MSAttributedStringTextTransformAttribute": 0,
+          "kerning": 0.5501062499999999,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 2,
+            "maximumLineHeight": 61.94975294101951,
+            "minimumLineHeight": 61.94975294101951,
+            "paragraphSpacing": 1
+          },
+          "strikethroughStyle": 0,
+          "underlineStyle": 0
+        },
+        "length": 18,
+        "location": 0
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0,
+            "green": 0.478431,
+            "red": 0.92549
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "TsukuARdGothic-Bold",
+              "size": 35.98242896071286
+            }
+          },
+          "MSAttributedStringTextTransformAttribute": 0,
+          "kerning": 0.90017375,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 2,
+            "maximumLineHeight": 36.97480268521426,
+            "minimumLineHeight": 36.97480268521426,
+            "paragraphSpacing": 1
+          },
+          "strikethroughStyle": 0,
+          "underlineStyle": 0
+        },
+        "length": 1,
+        "location": 18
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0,
+            "green": 0.478431,
+            "red": 0.92549
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "TsukuARdGothic-Bold",
+              "size": 24.00026447745326
+            }
+          },
+          "MSAttributedStringTextTransformAttribute": 0,
+          "kerning": 0.6004155,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 2,
+            "maximumLineHeight": 36.97480268521426,
+            "minimumLineHeight": 36.97480268521426,
+            "paragraphSpacing": 1
+          },
+          "strikethroughStyle": 0,
+          "underlineStyle": 0
+        },
+        "length": 4,
+        "location": 19
+      }
+    ],
+    "string": "一般有料会員「絆(きずな)」とは？ 3つの特典"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "8589FBE5-F199-4803-B35F-2AEE4C13803B",

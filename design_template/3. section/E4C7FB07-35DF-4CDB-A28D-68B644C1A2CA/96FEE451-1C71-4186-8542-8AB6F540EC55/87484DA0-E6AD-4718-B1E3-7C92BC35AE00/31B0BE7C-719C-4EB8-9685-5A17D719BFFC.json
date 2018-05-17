@@ -1,10 +1,37 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "MSAttributedString",
-    "archivedAttributedString": {
-      "_archive": "YnBsaXN0MDDUAQIDBAUGbG1YJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QIAcIDxAeHyAhIiwvNTk9RUZHSElNUV1eX2BhYmNkZWdoVSRudWxs0wkKCwwNDlhOU1N0cmluZ1YkY2xhc3NcTlNBdHRyaWJ1dGVzgAKAH4ADbxASbXdZFjBuZpdT95AajKhS1VQRMJJ2ek/hMFkwizDhMMcwozCi0xESChMYHVdOUy5rZXlzWk5TLm9iamVjdHOkFBUWF4AEgAWABoAHpBkaGxyACIAMgBSAHoAdXxAQTlNQYXJhZ3JhcGhTdHlsZV8QH01TQXR0cmlidXRlZFN0cmluZ0ZvbnRBdHRyaWJ1dGVfECpNU0F0dHJpYnV0ZWRTdHJpbmdDb2xvckRpY3Rpb25hcnlBdHRyaWJ1dGVWTlNLZXJu1SMkCiUmJygpKipaTlNUYWJTdG9wc1tOU0FsaWdubWVudFxOU1RleHRCbG9ja3NbTlNUZXh0TGlzdHOAABACgAuACYAJ0hIKLS6ggArSMDEyM1okY2xhc3NuYW1lWCRjbGFzc2VzV05TQXJyYXmiMjRYTlNPYmplY3TSMDE2N18QF05TTXV0YWJsZVBhcmFncmFwaFN0eWxlozY4NF8QEE5TUGFyYWdyYXBoU3R5bGXSCjo7PF8QGk5TRm9udERlc2NyaXB0b3JBdHRyaWJ1dGVzgBOADdMREgo+QUSiP0CADoAPokJDgBCAEYASXxATTlNGb250U2l6ZUF0dHJpYnV0ZV8QE05TRm9udE5hbWVBdHRyaWJ1dGUjQDQAAAAAAABZWXVHby1Cb2xk0jAxSktfEBNOU011dGFibGVEaWN0aW9uYXJ5o0pMNFxOU0RpY3Rpb25hcnnSMDFOT18QEE5TRm9udERlc2NyaXB0b3KiUDRfEBBOU0ZvbnREZXNjcmlwdG9y0xESClJXHaRTVFVWgBWAFoAXgBikWFlaW4AZgBqAG4AcgB1TcmVkVWFscGhhVGJsdWVVZ3JlZW4jP+3d3d3ZSQ4jP/AAAAAAAAAjP+3d3d3ZSQ4jP+3d3d3ZSQ7SMDFMZqJMNCI/VVVV0jAxaWpfEBJOU0F0dHJpYnV0ZWRTdHJpbmeiazRfEBJOU0F0dHJpYnV0ZWRTdHJpbmdfEA9OU0tleWVkQXJjaGl2ZXLRbm9Ucm9vdIABAAgAEQAaACMALQAyADcAWgBgAGcAcAB3AIQAhgCIAIoAsQC4AMAAywDQANIA1ADWANgA3QDfAOEA4wDlAOcA+gEcAUkBUAFbAWYBcgF/AYsBjQGPAZEBkwGVAZoBmwGdAaIBrQG2Ab4BwQHKAc8B6QHtAgACBQIiAiQCJgItAjACMgI0AjcCOQI7Aj0CUwJpAnICfAKBApcCmwKoAq0CwALDAtYC3QLiAuQC5gLoAuoC7wLxAvMC9QL3AvkC/QMDAwgDDgMXAyADKQMyAzcDOgM/A0QDWQNcA3EDgwOGA4sAAAAAAAACAQAAAAAAAABwAAAAAAAAAAAAAAAAAAADjQ=="
-    }
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.9333333333,
+            "green": 0.9333333333,
+            "red": 0.9333333333
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "YuGo-Bold",
+              "size": 20
+            }
+          },
+          "kerning": 0.8333333,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 2,
+            "allowsDefaultTighteningForTruncation": 0
+          }
+        },
+        "length": 18,
+        "location": 0
+      }
+    ],
+    "string": "海外の暗号通貨動向を発信するメディア"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "31B0BE7C-719C-4EB8-9685-5A17D719BFFC",
@@ -54,22 +81,22 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.9333333333,
-          "green": 0.9333333333,
-          "red": 0.9333333333
-        },
-        "MSAttributedStringColorDictionaryAttribute": {
-          "alpha": 1,
           "blue": 1,
           "green": 1,
           "red": 1
         },
         "MSAttributedStringFontAttribute": {
-          "_archive": "YnBsaXN0MDDUAQIDBAUGJidYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKkHCA0XGBkaGyJVJG51bGzSCQoLDFYkY2xhc3NfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AIgALTDg8JEBMWV05TLmtleXNaTlMub2JqZWN0c6IREoADgASiFBWABYAGgAdfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNANAAAAAAAAFlZdUdvLUJvbGTSHB0eH1okY2xhc3NuYW1lWCRjbGFzc2VzXxATTlNNdXRhYmxlRGljdGlvbmFyeaMeICFcTlNEaWN0aW9uYXJ5WE5TT2JqZWN00hwdIyRfEBBOU0ZvbnREZXNjcmlwdG9yoiUhXxAQTlNGb250RGVzY3JpcHRvcl8QD05TS2V5ZWRBcmNoaXZlctEoKVRyb290gAEACAARABoAIwAtADIANwBBAEcATABTAHAAcgB0AHsAgwCOAJEAkwCVAJgAmgCcAJ4AtADKANMA3QDiAO0A9gEMARABHQEmASsBPgFBAVQBZgFpAW4AAAAAAAACAQAAAAAAAAAqAAAAAAAAAAAAAAAAAAABcA=="
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "YuGo-Bold",
+            "size": 20
+          }
         },
         "kerning": 0.8333333,
         "paragraphStyle": {
-          "_archive": "YnBsaXN0MDDUAQIDBAUGISJYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKUHCBMXHVUkbnVsbNUJCgsMDQ4PEBERWk5TVGFiU3RvcHNbTlNBbGlnbm1lbnRWJGNsYXNzXE5TVGV4dEJsb2Nrc1tOU1RleHRMaXN0c4AAEAKABIACgALSFAsVFlpOUy5vYmplY3RzoIAD0hgZGhtaJGNsYXNzbmFtZVgkY2xhc3Nlc1dOU0FycmF5ohocWE5TT2JqZWN00hgZHh9fEBdOU011dGFibGVQYXJhZ3JhcGhTdHlsZaMeIBxfEBBOU1BhcmFncmFwaFN0eWxlXxAPTlNLZXllZEFyY2hpdmVy0SMkVHJvb3SAAQAIABEAGgAjAC0AMgA3AD0AQwBOAFkAZQBsAHkAhQCHAIkAiwCNAI8AlACfAKAAogCnALIAuwDDAMYAzwDUAO4A8gEFARcBGgEfAAAAAAAAAgEAAAAAAAAAJQAAAAAAAAAAAAAAAAAAASE="
+          "_class": "paragraphStyle",
+          "alignment": 2,
+          "allowsDefaultTighteningForTruncation": 0
         }
       },
       "verticalAlignment": 0

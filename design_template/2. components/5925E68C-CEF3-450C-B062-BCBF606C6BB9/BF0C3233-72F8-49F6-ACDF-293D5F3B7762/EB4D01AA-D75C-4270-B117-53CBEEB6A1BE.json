@@ -1,10 +1,37 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "MSAttributedString",
-    "archivedAttributedString": {
-      "_archive": "YnBsaXN0MDDUAQIDBAUGbm9YJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QIQcIDxAeHyAhIiotNDc7P0dISUpLT1NfYGFiY2RlZmdoalUkbnVsbNMJCgsMDQ5YTlNTdHJpbmdWJGNsYXNzXE5TQXR0cmlidXRlc4ACgCCAA28QNDDIMMMw1wAgACAAIAAgACAAIAAgACAAIDDsMN0w/DDIACAAIAAgACAAIAAgACD/FgAvADEANTBuMAwwpDDBMLRoPVf5fUxVtlufjfUwszD8MLkwDTBrU8JSoDBXMGYwTTB+MFcwXyZq0xESChMYHVdOUy5rZXlzWk5TLm9iamVjdHOkFBUWF4AEgAWABoAHpBkaGxyACIANgBWAHoAfXxAQTlNQYXJhZ3JhcGhTdHlsZV8QH01TQXR0cmlidXRlZFN0cmluZ0ZvbnRBdHRyaWJ1dGVfECpNU0F0dHJpYnV0ZWRTdHJpbmdDb2xvckRpY3Rpb25hcnlBdHRyaWJ1dGVWTlNLZXJu1CMKJCUmJygpWk5TVGFiU3RvcHNcTlNUZXh0QmxvY2tzW05TVGV4dExpc3RzgACADIAJgAvSEgorLKCACtIuLzAxWiRjbGFzc25hbWVYJGNsYXNzZXNeTlNNdXRhYmxlQXJyYXmjMDIzV05TQXJyYXlYTlNPYmplY3TSEgo1LKCACtIuLzg5XxAXTlNNdXRhYmxlUGFyYWdyYXBoU3R5bGWjODozXxAQTlNQYXJhZ3JhcGhTdHlsZdIKPD0+XxAaTlNGb250RGVzY3JpcHRvckF0dHJpYnV0ZXOAFIAO0xESCkBDRqJBQoAPgBCiREWAEYASgBNfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZRAMW1l1R28tTWVkaXVt0i4vTE1fEBNOU011dGFibGVEaWN0aW9uYXJ5o0xOM1xOU0RpY3Rpb25hcnnSLi9QUV8QEE5TRm9udERlc2NyaXB0b3KiUjNfEBBOU0ZvbnREZXNjcmlwdG9y0xESClRZRqRVVldYgBaAF4AYgBmkWltcXYAagBuAHIAdgBNTcmVkVWFscGhhVGJsdWVVZ3JlZW4jP9WVlZWVlZUQASM/1ZWVlZWVlSM/1ZWVlZWVlSO/xOgbBuyDS9IuL05pok4z0i4va2xfEBJOU0F0dHJpYnV0ZWRTdHJpbmeibTNfEBJOU0F0dHJpYnV0ZWRTdHJpbmdfEA9OU0tleWVkQXJjaGl2ZXLRcHFUcm9vdIABAAgAEQAaACMALQAyADcAWwBhAGgAcQB4AIUAhwCJAIsA9gD9AQUBEAEVARcBGQEbAR0BIgEkASYBKAEqASwBPwFhAY4BlQGeAakBtgHCAcQBxgHIAcoBzwHQAdIB1wHiAesB+gH+AgYCDwIUAhUCFwIcAjYCOgJNAlICbwJxAnMCegJ9An8CgQKEAoYCiAKKAqACtgK4AsQCyQLfAuMC8AL1AwgDCwMeAyUDKgMsAy4DMAMyAzcDOQM7Az0DPwNBA0UDSwNQA1YDXwNhA2oDcwN8A4EDhAOJA54DoQO2A8gDywPQAAAAAAAAAgEAAAAAAAAAcgAAAAAAAAAAAAAAAAAAA9I="
-    }
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.3372549019607843,
+            "green": 0.3372549019607843,
+            "red": 0.3372549019607843
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "YuGo-Medium",
+              "size": 12
+            }
+          },
+          "kerning": -0.1633333,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "allowsDefaultTighteningForTruncation": 0
+          }
+        },
+        "length": 52,
+        "location": 0
+      }
+    ],
+    "string": "トップ         レポート       ６/15の「イチゴ栽培経営実践コース」に参加してきました♪"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "EB4D01AA-D75C-4270-B117-53CBEEB6A1BE",
@@ -52,18 +79,25 @@
       "_class": "textStyle",
       "do_objectID": "3FA31361-A148-4B2D-A620-4B4D831523FF",
       "encodedAttributes": {
-        "MSAttributedStringColorDictionaryAttribute": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
           "alpha": 1,
           "blue": 0.3372549019607843,
           "green": 0.3372549019607843,
           "red": 0.3372549019607843
         },
         "MSAttributedStringFontAttribute": {
-          "_archive": "YnBsaXN0MDDUAQIDBAUGJidYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKkHCA0XGBkaGyJVJG51bGzSCQoLDFYkY2xhc3NfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AIgALTDg8JEBMWV05TLmtleXNaTlMub2JqZWN0c6IREoADgASiFBWABYAGgAdfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZRAMW1l1R28tTWVkaXVt0hwdHh9aJGNsYXNzbmFtZVgkY2xhc3Nlc18QE05TTXV0YWJsZURpY3Rpb25hcnmjHiAhXE5TRGljdGlvbmFyeVhOU09iamVjdNIcHSMkXxAQTlNGb250RGVzY3JpcHRvcqIlIV8QEE5TRm9udERlc2NyaXB0b3JfEA9OU0tleWVkQXJjaGl2ZXLRKClUcm9vdIABAAgAEQAaACMALQAyADcAQQBHAEwAUwBwAHIAdAB7AIMAjgCRAJMAlQCYAJoAnACeALQAygDMANgA3QDoAPEBBwELARgBIQEmATkBPAFPAWEBZAFpAAAAAAAAAgEAAAAAAAAAKgAAAAAAAAAAAAAAAAAAAWs="
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "YuGo-Medium",
+            "size": 12
+          }
         },
         "kerning": -0.1633333,
         "paragraphStyle": {
-          "_archive": "YnBsaXN0MDDUAQIDBAUGIyRYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKYHCBEVHB9VJG51bGzUCQoLDA0ODxBaTlNUYWJTdG9wc1YkY2xhc3NcTlNUZXh0QmxvY2tzW05TVGV4dExpc3RzgACABYACgATSEgoTFFpOUy5vYmplY3RzoIAD0hYXGBlaJGNsYXNzbmFtZVgkY2xhc3Nlc15OU011dGFibGVBcnJheaMYGhtXTlNBcnJheVhOU09iamVjdNISCh0UoIAD0hYXICFfEBdOU011dGFibGVQYXJhZ3JhcGhTdHlsZaMgIhtfEBBOU1BhcmFncmFwaFN0eWxlXxAPTlNLZXllZEFyY2hpdmVy0SUmVHJvb3SAAQAIABEAGgAjAC0AMgA3AD4ARABNAFgAXwBsAHgAegB8AH4AgACFAJAAkQCTAJgAowCsALsAvwDHANAA1QDWANgA3QD3APsBDgEgASMBKAAAAAAAAAIBAAAAAAAAACcAAAAAAAAAAAAAAAAAAAEq"
+          "_class": "paragraphStyle",
+          "alignment": 0,
+          "allowsDefaultTighteningForTruncation": 0
         }
       },
       "verticalAlignment": 0

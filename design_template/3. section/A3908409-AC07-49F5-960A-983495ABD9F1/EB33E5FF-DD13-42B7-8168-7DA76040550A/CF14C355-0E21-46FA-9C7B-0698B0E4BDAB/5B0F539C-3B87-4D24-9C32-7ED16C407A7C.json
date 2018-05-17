@@ -1,10 +1,42 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "MSAttributedString",
-    "archivedAttributedString": {
-      "_archive": "YnBsaXN0MDDUAQIDBAUGfX5YJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QJAcIDxAkJSYnKCkqKy83ODk6O0JGR1NUVVZXWFlaW11ucXR4eVUkbnVsbNMJCgsMDQ5YTlNTdHJpbmdWJGNsYXNzXE5TQXR0cmlidXRlc4ACgCOAA1Ex0xESChMbI1dOUy5rZXlzWk5TLm9iamVjdHOnFBUWFxgZGoAEgAWABoAHgAiACYAKpxwdHR0gISKAC4ATgBOAE4AUgB6AIoAdXxAfTVNBdHRyaWJ1dGVkU3RyaW5nRm9udEF0dHJpYnV0ZV8QD05TU3RyaWtldGhyb3VnaFtOU1VuZGVybGluZV8QKE1TQXR0cmlidXRlZFN0cmluZ1RleHRUcmFuc2Zvcm1BdHRyaWJ1dGVfECpNU0F0dHJpYnV0ZWRTdHJpbmdDb2xvckRpY3Rpb25hcnlBdHRyaWJ1dGVfEBBOU1BhcmFncmFwaFN0eWxlVk5TS2VybtIKLC0uXxAaTlNGb250RGVzY3JpcHRvckF0dHJpYnV0ZXOAEoAM0xESCjAzNqIxMoANgA6iNDWAD4AQgBFfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNAN/k36/GpCF8QEUtvekdvUHI2Ti1SZWd1bGFy0jw9Pj9aJGNsYXNzbmFtZVgkY2xhc3Nlc18QE05TTXV0YWJsZURpY3Rpb25hcnmjPkBBXE5TRGljdGlvbmFyeVhOU09iamVjdNI8PUNEXxAQTlNGb250RGVzY3JpcHRvcqJFQV8QEE5TRm9udERlc2NyaXB0b3IQANMREgpITSOkSUpLTIAVgBaAF4AYpE5PUFGAGYAagBuAHIAdU3JlZFVhbHBoYVRibHVlVWdyZWVuIz/vP0AcT8HfIz/wAAAAAAAAIz/vP0AcT8HfIz/vP0AcT8Hf0jw9QFyiQEHZCl5fYGFiY2RlZmdoaFhqa2xtWk5TVGFiU3RvcHNcTlNUZXh0QmxvY2tzW05TVGV4dExpc3RzXxASTlNQYXJhZ3JhcGhTcGFjaW5nXxAPTlNNYXhMaW5lSGVpZ2h0XxAfTlNBbGxvd3NUaWdodGVuaW5nRm9yVHJ1bmNhdGlvbl8QD05TTWluTGluZUhlaWdodFtOU0FsaWdubWVudIAhgACAH4AfI0A9/qx/dvV9EAEjQD3+rH929X0QAtISCm9woIAg0jw9cnNXTlNBcnJheaJyQdI8PXV2XxAXTlNNdXRhYmxlUGFyYWdyYXBoU3R5bGWjdXdBXxAQTlNQYXJhZ3JhcGhTdHlsZSNABwS/TLGJe9I8PXp7XxASTlNBdHRyaWJ1dGVkU3RyaW5nonxBXxASTlNBdHRyaWJ1dGVkU3RyaW5nXxAPTlNLZXllZEFyY2hpdmVy0X+AVHJvb3SAAQAIABEAGgAjAC0AMgA3AF4AZABrAHQAewCIAIoAjACOAJAAlwCfAKoAsgC0ALYAuAC6ALwAvgDAAMgAygDMAM4A0ADSANQA1gDYAPoBDAEYAUMBcAGDAYoBjwGsAa4BsAG3AboBvAG+AcEBwwHFAccB3QHzAfwCEAIVAiACKQI/AkMCUAJZAl4CcQJ0AocCiQKQApUClwKZApsCnQKiAqQCpgKoAqoCrAKwArYCuwLBAsoC0wLcAuUC6gLtAwADCwMYAyQDOQNLA20DfwOLA40DjwORA5MDnAOeA6cDqQOuA68DsQO2A74DwQPGA+AD5AP3BAAEBQQaBB0EMgREBEcETAAAAAAAAAIBAAAAAAAAAIEAAAAAAAAAAAAAAAAAAARO"
-    }
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.976471,
+            "green": 0.976471,
+            "red": 0.976471
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "KozGoPr6N-Regular",
+              "size": 23.97350954675588
+            }
+          },
+          "MSAttributedStringTextTransformAttribute": 0,
+          "kerning": 2.877318,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 2,
+            "maximumLineHeight": 29.99481960920592,
+            "minimumLineHeight": 29.99481960920592,
+            "paragraphSpacing": 1
+          },
+          "strikethroughStyle": 0,
+          "underlineStyle": 0
+        },
+        "length": 1,
+        "location": 0
+      }
+    ],
+    "string": "1"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "5B0F539C-3B87-4D24-9C32-7ED16C407A7C",

@@ -1,10 +1,38 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "MSAttributedString",
-    "archivedAttributedString": {
-      "_archive": "YnBsaXN0MDDUAQIDBAUGc3RYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QIQcIDxAeHyAhIjAzOj1BRU1OT1BRVVllZmdoaS1qa2xtb1UkbnVsbNMJCgsMDQ5YTlNTdHJpbmdWJGNsYXNzXE5TQXR0cmlidXRlc4ACgCCAA28QU1wPdTBgJX3aTwpS4lOfmcVTF1PjACD/E3VqTlcwilg0MIgwijAMZeVUEYWsXiuITDANMGtOV47KMFcwZjBEMF8wYDBNMAFfU5ZiZwBbxDCKMG4wDG0XbDT/CDBCMI0wRjBa/wkwDTBnTguOyjBXMGYwTzBgMFUwRDACAAoACk8KUuJTn5nFMEswiTBuYkCJgWZClZMwb30E/xL/EFIGMGcwWTACAArTERIKExgdV05TLmtleXNaTlMub2JqZWN0c6QUFRYXgASABYAGgAekGRobHIAIgA2AFYAegB9fEBBOU1BhcmFncmFwaFN0eWxlXxAfTVNBdHRyaWJ1dGVkU3RyaW5nRm9udEF0dHJpYnV0ZV8QKk1TQXR0cmlidXRlZFN0cmluZ0NvbG9yRGljdGlvbmFyeUF0dHJpYnV0ZVZOU0tlcm7XCiMkJSYnKCkqKywtLi9aTlNUYWJTdG9wc1tOU1RleHRMaXN0c1xOU1RleHRCbG9ja3NfEB9OU0FsbG93c1RpZ2h0ZW5pbmdGb3JUcnVuY2F0aW9uXxAPTlNNYXhMaW5lSGVpZ2h0XxAPTlNNaW5MaW5lSGVpZ2h0gAyAAIALgAkQASNANMzMzMzMzSNANMzMzMzMzdISCjEyoIAK0jQ1NjdaJGNsYXNzbmFtZVgkY2xhc3Nlc15OU011dGFibGVBcnJheaM2ODlXTlNBcnJheVhOU09iamVjdNISCjsyoIAK0jQ1Pj9fEBdOU011dGFibGVQYXJhZ3JhcGhTdHlsZaM+QDlfEBBOU1BhcmFncmFwaFN0eWxl0gpCQ0RfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AUgA7TERIKRklMokdIgA+AEKJKS4ARgBKAE18QE05TRm9udFNpemVBdHRyaWJ1dGVfEBNOU0ZvbnROYW1lQXR0cmlidXRlEA5fEA9IaXJhZ2lub1NhbnMtVzPSNDVSU18QE05TTXV0YWJsZURpY3Rpb25hcnmjUlQ5XE5TRGljdGlvbmFyedI0NVZXXxAQTlNGb250RGVzY3JpcHRvcqJYOV8QEE5TRm9udERlc2NyaXB0b3LTERIKWl9MpFtcXV6AFoAXgBiAGaRgYWJjgBqAG4AcgB2AE1NyZWRVYWxwaGFUYmx1ZVVncmVlbiM/wREREP690SM/wREREP690SM/wREREP690SO/gIqlV19Zz9I0NVRuolQ50jQ1cHFfEBJOU0F0dHJpYnV0ZWRTdHJpbmeicjlfEBJOU0F0dHJpYnV0ZWRTdHJpbmdfEA9OU0tleWVkQXJjaGl2ZXLRdXZUcm9vdIABAAgAEQAaACMALQAyADcAWwBhAGgAcQB4AIUAhwCJAIsBNAE7AUMBTgFTAVUBVwFZAVsBYAFiAWQBZgFoAWoBfQGfAcwB0wHiAe0B+QIGAigCOgJMAk4CUAJSAlQCVgJfAmgCbQJuAnACdQKAAokCmAKcAqQCrQKyArMCtQK6AtQC2ALrAvADDQMPAxEDGAMbAx0DHwMiAyQDJgMoAz4DVANWA2gDbQODA4cDlAOZA6wDrwPCA8kDzgPQA9ID1APWA9sD3QPfA+ED4wPlA+kD7wP0A/oEAwQMBBUEHgQjBCYEKwRABEMEWARqBG0EcgAAAAAAAAIBAAAAAAAAAHcAAAAAAAAAAAAAAAAAAAR0"
-    }
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.1333333333,
+            "green": 0.1333333333,
+            "red": 0.1333333333
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "HiraginoSans-W3",
+              "size": 14
+            }
+          },
+          "kerning": -0.008076946,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "maximumLineHeight": 20.8,
+            "minimumLineHeight": 20.8
+          }
+        },
+        "length": 83,
+        "location": 0
+      }
+    ],
+    "string": "小田急線伊勢原駅北口 ３番乗り場より「日向薬師行」に乗車していただき、当院最寄りの「洗水（あろうず）」で下車してください。\n\n伊勢原駅からの所要時間は約２０分です。\n"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "05B38E5D-5D1A-4CED-BE06-83ADC8D3E598",
@@ -59,11 +87,18 @@
           "red": 0.1333333333
         },
         "MSAttributedStringFontAttribute": {
-          "_archive": "YnBsaXN0MDDUAQIDBAUGJidYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKkHCA0XGBkaGyJVJG51bGzSCQoLDFYkY2xhc3NfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AIgALTDg8JEBMWV05TLmtleXNaTlMub2JqZWN0c6IREoADgASiFBWABYAGgAdfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZRAOXxAPSGlyYWdpbm9TYW5zLVcz0hwdHh9aJGNsYXNzbmFtZVgkY2xhc3Nlc18QE05TTXV0YWJsZURpY3Rpb25hcnmjHiAhXE5TRGljdGlvbmFyeVhOU09iamVjdNIcHSMkXxAQTlNGb250RGVzY3JpcHRvcqIlIV8QEE5TRm9udERlc2NyaXB0b3JfEA9OU0tleWVkQXJjaGl2ZXLRKClUcm9vdIABAAgAEQAaACMALQAyADcAQQBHAEwAUwBwAHIAdAB7AIMAjgCRAJMAlQCYAJoAnACeALQAygDMAN4A4wDuAPcBDQERAR4BJwEsAT8BQgFVAWcBagFvAAAAAAAAAgEAAAAAAAAAKgAAAAAAAAAAAAAAAAAAAXE="
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "HiraginoSans-W3",
+            "size": 14
+          }
         },
         "kerning": -0.008076945999999998,
         "paragraphStyle": {
-          "_archive": "YnBsaXN0MDDUAQIDBAUGKSpYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKYHCBcbIiVVJG51bGzXCQoLDA0ODxAREhMUFRZWJGNsYXNzWk5TVGFiU3RvcHNbTlNUZXh0TGlzdHNcTlNUZXh0QmxvY2tzXxAfTlNBbGxvd3NUaWdodGVuaW5nRm9yVHJ1bmNhdGlvbl8QD05TTWF4TGluZUhlaWdodF8QD05TTWluTGluZUhlaWdodIAFgACABIACEAEjQDTMzMzMzM0jQDTMzMzMzM3SGAkZGlpOUy5vYmplY3RzoIAD0hwdHh9aJGNsYXNzbmFtZVgkY2xhc3Nlc15OU011dGFibGVBcnJheaMeICFXTlNBcnJheVhOU09iamVjdNIYCSMaoIAD0hwdJidfEBdOU011dGFibGVQYXJhZ3JhcGhTdHlsZaMmKCFfEBBOU1BhcmFncmFwaFN0eWxlXxAPTlNLZXllZEFyY2hpdmVy0SssVHJvb3SAAQAIABEAGgAjAC0AMgA3AD4ARABTAFoAZQBxAH4AoACyAMQAxgDIAMoAzADOANcA4ADlAPAA8QDzAPgBAwEMARsBHwEnATABNQE2ATgBPQFXAVsBbgGAAYMBiAAAAAAAAAIBAAAAAAAAAC0AAAAAAAAAAAAAAAAAAAGK"
+          "_class": "paragraphStyle",
+          "alignment": 0,
+          "maximumLineHeight": 20.8,
+          "minimumLineHeight": 20.8
         }
       },
       "verticalAlignment": 0

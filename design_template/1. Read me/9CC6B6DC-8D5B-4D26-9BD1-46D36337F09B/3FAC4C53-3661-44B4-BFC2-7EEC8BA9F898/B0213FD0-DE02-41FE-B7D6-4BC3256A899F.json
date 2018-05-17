@@ -1,10 +1,462 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "MSAttributedString",
-    "archivedAttributedString": {
-      "_archive": "YnBsaXN0MDDUAAEAAgADAAQABQAGAUMBRFgkdmVyc2lvblgkb2JqZWN0c1kkYXJjaGl2ZXJUJHRvcBIAAYagrxBJAAcACAARABIAGgAlACYAJwAoADQANQA2ADcAOAA5ADoAOwA8AEIASgBZAF0AYABjAGYAaQBsAG8AcgB1AHgAewB+AIEAhACHAIsAjwCXAJgAmQCaAJsAngCiAKwAuAC5ALoAuwDAAM8A0gDaANsA5QDxAPIA8wD0APcA/wEAAQoBFgEXARgBGQElATQBNwE7AT9VJG51bGzUAAkACgALAAwADQAOAA8AEFhOU1N0cmluZ18QD05TQXR0cmlidXRlSW5mb1xOU0F0dHJpYnV0ZXNWJGNsYXNzgAKARoADgEhvEQFtAFQAZQB4AHQAIABTAHQAeQBsAGUAcwAgIBQAIABVAHMAYQBnAGUACgAKAEEAcABwAGwAeQAgAHQAZQB4AHkAIABzAHQAeQBsAGUAcwAgAHQAbwAgAGEAZABkACAAcAByAGUALQBkAGUAdABlAHIAbQBpAG4AZQBkACAAdABlAHgAdAAgAHMAdAB5AGwAZQBzACAAZgByAG8AbQAgAHQAaABlACAAQwBhAHIAYgBvAG4AIABEAGUAcwBpAGcAbgAgAEsAaQB0ACAAdABlAHgAdAAgAHMAdAB5AGwAZQAgAGwAaQBiAHIAYQByAHkAIAB0AG8AIAB5AG8AdQByACAAZABvAGMAdQBtAGUAbgB0AC4AIABLAGUAZQBwACAAaQBuACAAbQBpAG4AZAAgAHQAaABhAHQAIAB0AGUAeAB0ACAAcwB0AHkAbABlAHMAIABhAHIAZQAgAGsAZQBwAHQAIABpAG4AIABzAHkAbgBjACwAIABzAG8AIAB0AGgAZQAgAHMAdAB5AGwAZQAgAGMAaABhAG4AZwBlAHMAIAB5AG8AdQAgAG0AYQBrAGUAIAB0AG8AIABvAG4AZQAgAHQAZQB4AHQAIABsAGEAeQBlAHIAIABhAHIAZQAgAHAAcgBvAHAAYQBnAGEAdABlAGQAIAB0AG8AIABhAGwAbAAgAGwAYQB5AGUAcgBzACAAdQBzAGkAbgBnACAAdABoAGEAdAAgAHMAdAB5AGwAZQAuACAAVABlAHgAdAAgAHMAdAB5AGwAZQBzACAAYQByAGUAIABiAGEAcwBlAGQAIABv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"
-    }
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.6980392157,
+            "green": 0.4392156863,
+            "red": 0.2392156863
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "IBMPlexSans-SemiBold",
+              "size": 18
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "allowsDefaultTighteningForTruncation": 0,
+            "tabStops": [
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 28,
+                "options": {
+                }
+              },
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 56,
+                "options": {
+                }
+              },
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 84,
+                "options": {
+                }
+              },
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 112,
+                "options": {
+                }
+              },
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 140,
+                "options": {
+                }
+              },
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 168,
+                "options": {
+                }
+              },
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 196,
+                "options": {
+                }
+              },
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 224,
+                "options": {
+                }
+              },
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 252,
+                "options": {
+                }
+              },
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 280,
+                "options": {
+                }
+              },
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 308,
+                "options": {
+                }
+              },
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 336,
+                "options": {
+                }
+              }
+            ]
+          }
+        },
+        "length": 19,
+        "location": 0
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.9019607843,
+            "green": 0.5882352941,
+            "red": 0.3333333333
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "IBMPlexSans-SemiBold",
+              "size": 16
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "allowsDefaultTighteningForTruncation": 0,
+            "tabStops": [
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 28,
+                "options": {
+                }
+              },
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 56,
+                "options": {
+                }
+              },
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 84,
+                "options": {
+                }
+              },
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 112,
+                "options": {
+                }
+              },
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 140,
+                "options": {
+                }
+              },
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 168,
+                "options": {
+                }
+              },
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 196,
+                "options": {
+                }
+              },
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 224,
+                "options": {
+                }
+              },
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 252,
+                "options": {
+                }
+              },
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 280,
+                "options": {
+                }
+              },
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 308,
+                "options": {
+                }
+              },
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 336,
+                "options": {
+                }
+              }
+            ]
+          }
+        },
+        "length": 1,
+        "location": 19
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.2039215686,
+            "green": 0.1607843137,
+            "red": 0.08235294118
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "IBMPlexSans",
+              "size": 16
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "allowsDefaultTighteningForTruncation": 0,
+            "tabStops": [
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 28,
+                "options": {
+                }
+              },
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 56,
+                "options": {
+                }
+              },
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 84,
+                "options": {
+                }
+              },
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 112,
+                "options": {
+                }
+              },
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 140,
+                "options": {
+                }
+              },
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 168,
+                "options": {
+                }
+              },
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 196,
+                "options": {
+                }
+              },
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 224,
+                "options": {
+                }
+              },
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 252,
+                "options": {
+                }
+              },
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 280,
+                "options": {
+                }
+              },
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 308,
+                "options": {
+                }
+              },
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 336,
+                "options": {
+                }
+              }
+            ]
+          }
+        },
+        "length": 1,
+        "location": 20
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.2039215686,
+            "green": 0.1607843137,
+            "red": 0.08235294118
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "IBMPlexSans",
+              "size": 16
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "allowsDefaultTighteningForTruncation": 0,
+            "maximumLineHeight": 24,
+            "minimumLineHeight": 24,
+            "paragraphSpacing": 10,
+            "tabStops": [
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 28,
+                "options": {
+                }
+              },
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 56,
+                "options": {
+                }
+              },
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 84,
+                "options": {
+                }
+              },
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 112,
+                "options": {
+                }
+              },
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 140,
+                "options": {
+                }
+              },
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 168,
+                "options": {
+                }
+              },
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 196,
+                "options": {
+                }
+              },
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 224,
+                "options": {
+                }
+              },
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 252,
+                "options": {
+                }
+              },
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 280,
+                "options": {
+                }
+              },
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 308,
+                "options": {
+                }
+              },
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 336,
+                "options": {
+                }
+              }
+            ],
+            "tighteningFactorForTruncation": 0.05
+          }
+        },
+        "length": 344,
+        "location": 21
+      }
+    ],
+    "string": "Text Styles — Usage\n\nApply texy styles to add pre-determined text styles from the Carbon Design Kit text style library to your document. Keep in mind that text styles are kept in sync, so the style changes you make to one text layer are propagated to all layers using that style. Text styles are based on the typography that is described on page 2 of this document."
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "B0213FD0-DE02-41FE-B7D6-4BC3256A899F",
@@ -59,10 +511,102 @@
           "red": 0.2392156863
         },
         "MSAttributedStringFontAttribute": {
-          "_archive": "YnBsaXN0MDDUAQIDBAUGJidYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKkHCA0XGBkaGyJVJG51bGzSCQoLDFYkY2xhc3NfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AIgALTDg8JEBMWV05TLmtleXNaTlMub2JqZWN0c6IREoADgASiFBWABYAGgAdfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNAMgAAAAAAAF8QFElCTVBsZXhTYW5zLVNlbWlCb2xk0hwdHh9aJGNsYXNzbmFtZVgkY2xhc3Nlc18QE05TTXV0YWJsZURpY3Rpb25hcnmjHiAhXE5TRGljdGlvbmFyeVhOU09iamVjdNIcHSMkXxAQTlNGb250RGVzY3JpcHRvcqIlIV8QEE5TRm9udERlc2NyaXB0b3JfEA9OU0tleWVkQXJjaGl2ZXLRKClUcm9vdIABAAgAEQAaACMALQAyADcAQQBHAEwAUwBwAHIAdAB7AIMAjgCRAJMAlQCYAJoAnACeALQAygDTAOoA7wD6AQMBGQEdASoBMwE4AUsBTgFhAXMBdgF7AAAAAAAAAgEAAAAAAAAAKgAAAAAAAAAAAAAAAAAAAX0="
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "IBMPlexSans-SemiBold",
+            "size": 18
+          }
         },
         "paragraphStyle": {
-          "_archive": "YnBsaXN0MDDUAQIDBAUGVldYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QEwcIESElKy4xNDc6PUBDRklMT1JVJG51bGzUCQoLDA0ODw9aTlNUYWJTdG9wc1YkY2xhc3NcTlNUZXh0QmxvY2tzW05TVGV4dExpc3RzgAKAEoARgBHSEgoTIFpOUy5vYmplY3RzrBQVFhcYGRobHB0eH4ADgAWABoAHgAiACYAKgAuADIANgA6AD4AQ0goiIyRaTlNMb2NhdGlvboAEI0A8AAAAAAAA0iYnKClaJGNsYXNzbmFtZVgkY2xhc3Nlc1lOU1RleHRUYWKiKCpYTlNPYmplY3TSCiIjLYAEI0BMAAAAAAAA0goiIzCABCNAVQAAAAAAANIKIiMzgAQjQFwAAAAAAADSCiIjNoAEI0BhgAAAAAAA0goiIzmABCNAZQAAAAAAANIKIiM8gAQjQGiAAAAAAADSCiIjP4AEI0BsAAAAAAAA0goiI0KABCNAb4AAAAAAANIKIiNFgAQjQHGAAAAAAADSCiIjSIAEI0BzQAAAAAAA0goiI0uABCNAdQAAAAAAANImJ01OV05TQXJyYXmiTSrSEgpQIKCAENImJ1NUXxAXTlNNdXRhYmxlUGFyYWdyYXBoU3R5bGWjU1UqXxAQTlNQYXJhZ3JhcGhTdHlsZV8QD05TS2V5ZWRBcmNoaXZlctFYWVRyb290gAEACAARABoAIwAtADIANwBNAFMAXABnAG4AewCHAIkAiwCNAI8AlACfAKwArgCwALIAtAC2ALgAugC8AL4AwADCAMQAxgDLANYA2ADhAOYA8QD6AQQBBwEQARUBFwEgASUBJwEwATUBNwFAAUUBRwFQAVUBVwFgAWUBZwFwAXUBdwGAAYUBhwGQAZUBlwGgAaUBpwGwAbUBtwHAAcUBzQHQAdUB1gHYAd0B9wH7Ag4CIAIjAigAAAAAAAACAQAAAAAAAABaAAAAAAAAAAAAAAAAAAACKg=="
+          "_class": "paragraphStyle",
+          "alignment": 0,
+          "allowsDefaultTighteningForTruncation": 0,
+          "tabStops": [
+            {
+              "_class": "textTab",
+              "alignment": 0,
+              "location": 28,
+              "options": {
+              }
+            },
+            {
+              "_class": "textTab",
+              "alignment": 0,
+              "location": 56,
+              "options": {
+              }
+            },
+            {
+              "_class": "textTab",
+              "alignment": 0,
+              "location": 84,
+              "options": {
+              }
+            },
+            {
+              "_class": "textTab",
+              "alignment": 0,
+              "location": 112,
+              "options": {
+              }
+            },
+            {
+              "_class": "textTab",
+              "alignment": 0,
+              "location": 140,
+              "options": {
+              }
+            },
+            {
+              "_class": "textTab",
+              "alignment": 0,
+              "location": 168,
+              "options": {
+              }
+            },
+            {
+              "_class": "textTab",
+              "alignment": 0,
+              "location": 196,
+              "options": {
+              }
+            },
+            {
+              "_class": "textTab",
+              "alignment": 0,
+              "location": 224,
+              "options": {
+              }
+            },
+            {
+              "_class": "textTab",
+              "alignment": 0,
+              "location": 252,
+              "options": {
+              }
+            },
+            {
+              "_class": "textTab",
+              "alignment": 0,
+              "location": 280,
+              "options": {
+              }
+            },
+            {
+              "_class": "textTab",
+              "alignment": 0,
+              "location": 308,
+              "options": {
+              }
+            },
+            {
+              "_class": "textTab",
+              "alignment": 0,
+              "location": 336,
+              "options": {
+              }
+            }
+          ]
         }
       },
       "verticalAlignment": 0

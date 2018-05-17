@@ -1,10 +1,36 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "MSAttributedString",
-    "archivedAttributedString": {
-      "_archive": "YnBsaXN0MDDUAQIDBAUGaWpYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QHQcIDxAeHyAhIiwvNjk9RUZHSElNUV1eX2BhYmRlVSRudWxs0wkKCwwNDlhOU1N0cmluZ1YkY2xhc3NcTlNBdHRyaWJ1dGVzgAKAHIADYl/FmAjTERIKExgdV05TLmtleXNaTlMub2JqZWN0c6QUFRYXgASABYAGgAekGRobHIAIgAyAFIAbgBpfEBBOU1BhcmFncmFwaFN0eWxlXxAfTVNBdHRyaWJ1dGVkU3RyaW5nRm9udEF0dHJpYnV0ZV8QKk1TQXR0cmlidXRlZFN0cmluZ0NvbG9yRGljdGlvbmFyeUF0dHJpYnV0ZVZOU0tlcm7VIyQlJgonKCkqK1pOU1RhYlN0b3BzW05TQWxpZ25tZW50XE5TVGV4dEJsb2Nrc18QH05TQWxsb3dzVGlnaHRlbmluZ0ZvclRydW5jYXRpb26AABACgAkQAYAL0hIKLS6ggArSMDEyM1okY2xhc3NuYW1lWCRjbGFzc2VzXk5TTXV0YWJsZUFycmF5ozI0NVdOU0FycmF5WE5TT2JqZWN00jAxNzhfEBBOU1BhcmFncmFwaFN0eWxlojc10go6OzxfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4ATgA3TERIKPkFEoj9AgA6AD6JCQ4AQgBGAEl8QE05TRm9udFNpemVBdHRyaWJ1dGVfEBNOU0ZvbnROYW1lQXR0cmlidXRlEApfEA9IaXJhZ2lub1NhbnMtVzbSMDFKS18QE05TTXV0YWJsZURpY3Rpb25hcnmjSkw1XE5TRGljdGlvbmFyedIwMU5PXxAQTlNGb250RGVzY3JpcHRvcqJQNV8QEE5TRm9udERlc2NyaXB0b3LTERIKUlcdpFNUVVaAFYAWgBeAGKRYWFhYgBmAGYAZgBmAGlNyZWRVYWxwaGFUYmx1ZVVncmVlbiM/8AAAAAAAANIwMUxjokw1Iz/wZmZmZmZi0jAxZmdfEBJOU0F0dHJpYnV0ZWRTdHJpbmeiaDVfEBJOU0F0dHJpYnV0ZWRTdHJpbmdfEA9OU0tleWVkQXJjaGl2ZXLRa2xUcm9vdIABAAgAEQAaACMALQAyADcAVwBdAGQAbQB0AIEAgwCFAIcAjACTAJsApgCrAK0ArwCxALMAuAC6ALwAvgDAAMIA1QD3ASQBKwE2AUEBTQFaAXwBfgGAAYIBhAGGAYsBjAGOAZMBngGnAbYBugHCAcsB0AHjAeYB6wIIAgoCDAITAhYCGAIaAh0CHwIhAiMCOQJPAlECYwJoAn4CggKPApQCpwKqAr0CxALJAssCzQLPAtEC1gLYAtoC3ALeAuAC5ALqAu8C9QL+AwMDBgMPAxQDKQMsA0EDUwNWA1sAAAAAAAACAQAAAAAAAABtAAAAAAAAAAAAAAAAAAADXQ=="
-    }
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 1,
+            "green": 1,
+            "red": 1
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "HiraginoSans-W6",
+              "size": 10
+            }
+          },
+          "kerning": 1.024999999999999,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 2
+          }
+        },
+        "length": 2,
+        "location": 0
+      }
+    ],
+    "string": "必須"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "79D41635-76D3-424F-9E31-6BF98CE44E0F",
@@ -59,11 +85,16 @@
           "red": 1
         },
         "MSAttributedStringFontAttribute": {
-          "_archive": "YnBsaXN0MDDUAQIDBAUGJidYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKkHCA0XGBkaGyJVJG51bGzSCQoLDFYkY2xhc3NfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AIgALTDg8JEBMWV05TLmtleXNaTlMub2JqZWN0c6IREoADgASiFBWABYAGgAdfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZRAKXxAPSGlyYWdpbm9TYW5zLVc20hwdHh9aJGNsYXNzbmFtZVgkY2xhc3Nlc18QE05TTXV0YWJsZURpY3Rpb25hcnmjHiAhXE5TRGljdGlvbmFyeVhOU09iamVjdNIcHSMkXxAQTlNGb250RGVzY3JpcHRvcqIlIV8QEE5TRm9udERlc2NyaXB0b3JfEA9OU0tleWVkQXJjaGl2ZXLRKClUcm9vdIABAAgAEQAaACMALQAyADcAQQBHAEwAUwBwAHIAdAB7AIMAjgCRAJMAlQCYAJoAnACeALQAygDMAN4A4wDuAPcBDQERAR4BJwEsAT8BQgFVAWcBagFvAAAAAAAAAgEAAAAAAAAAKgAAAAAAAAAAAAAAAAAAAXE="
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "HiraginoSans-W6",
+            "size": 10
+          }
         },
         "kerning": 1.024999999999999,
         "paragraphStyle": {
-          "_archive": "YnBsaXN0MDDUAQIDBAUGISJYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKUHCBMXHlUkbnVsbNUJCgsMDQ4PEBESWk5TVGFiU3RvcHNbTlNBbGlnbm1lbnRcTlNUZXh0QmxvY2tzXxAfTlNBbGxvd3NUaWdodGVuaW5nRm9yVHJ1bmNhdGlvblYkY2xhc3OAABACgAIQAYAE0hQNFRZaTlMub2JqZWN0c6CAA9IYGRobWiRjbGFzc25hbWVYJGNsYXNzZXNeTlNNdXRhYmxlQXJyYXmjGhwdV05TQXJyYXlYTlNPYmplY3TSGBkfIF8QEE5TUGFyYWdyYXBoU3R5bGWiHx1fEA9OU0tleWVkQXJjaGl2ZXLRIyRUcm9vdIABAAgAEQAaACMALQAyADcAPQBDAE4AWQBlAHIAlACbAJ0AnwChAKMApQCqALUAtgC4AL0AyADRAOAA5ADsAPUA+gENARABIgElASoAAAAAAAACAQAAAAAAAAAlAAAAAAAAAAAAAAAAAAABLA=="
+          "_class": "paragraphStyle",
+          "alignment": 2
         }
       },
       "verticalAlignment": 0

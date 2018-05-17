@@ -1,10 +1,36 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "MSAttributedString",
-    "archivedAttributedString": {
-      "_archive": "YnBsaXN0MDDUAQIDBAUGb3BYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QIQcIDxAeHyAhIiwvNjk8QEhJSktMUFRgYWJjZGVmZ2hqa1UkbnVsbNMJCgsMDQ5YTlNTdHJpbmdWJGNsYXNzXE5TQXR0cmlidXRlc4ACgCCAA28QE2Xla9RZGjDPMPww4jDLMKswtTD8MK8w6zBrMIgwi28UWU92eoho0xESChMYHVdOUy5rZXlzWk5TLm9iamVjdHOkFBUWF4AEgAWABoAHpBkaGxyACIANgBWAH4AeXxAQTlNQYXJhZ3JhcGhTdHlsZV8QH01TQXR0cmlidXRlZFN0cmluZ0ZvbnRBdHRyaWJ1dGVfECpNU0F0dHJpYnV0ZWRTdHJpbmdDb2xvckRpY3Rpb25hcnlBdHRyaWJ1dGVWTlNLZXJu1SMKJCUmJygpKitaTlNUYWJTdG9wc1xOU1RleHRCbG9ja3NfEB9OU0FsbG93c1RpZ2h0ZW5pbmdGb3JUcnVuY2F0aW9uW05TVGV4dExpc3RzgACADIAJEAGAC9ISCi0uoIAK0jAxMjNaJGNsYXNzbmFtZVgkY2xhc3Nlc15OU011dGFibGVBcnJheaMyNDVXTlNBcnJheVhOU09iamVjdNISCjcuoIAK0jAxOjtfEBBOU1BhcmFncmFwaFN0eWxlojo10go9Pj9fEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AUgA7TERIKQURHokJDgA+AEKJFRoARgBKAE18QE05TRm9udFNpemVBdHRyaWJ1dGVfEBNOU0ZvbnROYW1lQXR0cmlidXRlEA5fEA9IaXJhZ2lub1NhbnMtVzPSMDFNTl8QE05TTXV0YWJsZURpY3Rpb25hcnmjTU81XE5TRGljdGlvbmFyedIwMVFSXxAQTlNGb250RGVzY3JpcHRvcqJTNV8QEE5TRm9udERlc2NyaXB0b3LTERIKVVodpFZXWFmAFoAXgBiAGaRbXF1egBqAG4AcgB2AHlNyZWRVYWxwaGFUYmx1ZVVncmVlbiM/1ZWVlaBdJSM/8AAAAAAAACM/1ZWVlaBdJSM/1ZWVlaBdJdIwMU9pok81Iz/ZmZmAAAAA0jAxbG1fEBJOU0F0dHJpYnV0ZWRTdHJpbmeibjVfEBJOU0F0dHJpYnV0ZWRTdHJpbmdfEA9OU0tleWVkQXJjaGl2ZXLRcXJUcm9vdIABAAgAEQAaACMALQAyADcAWwBhAGgAcQB4AIUAhwCJAIsAtAC7AMMAzgDTANUA1wDZANsA4ADiAOQA5gDoAOoA/QEfAUwBUwFeAWkBdgGYAaQBpgGoAaoBrAGuAbMBtAG2AbsBxgHPAd4B4gHqAfMB+AH5AfsCAAITAhYCGwI4AjoCPAJDAkYCSAJKAk0CTwJRAlMCaQJ/AoECkwKYAq4CsgK/AsQC1wLaAu0C9AL5AvsC/QL/AwEDBgMIAwoDDAMOAxADFAMaAx8DJQMuAzcDQANJA04DUQNaA18DdAN3A4wDngOhA6YAAAAAAAACAQAAAAAAAABzAAAAAAAAAAAAAAAAAAADqA=="
-    }
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.337254902,
+            "green": 0.337254902,
+            "red": 0.337254902
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "HiraginoSans-W3",
+              "size": 14
+            }
+          },
+          "kerning": 0.3999999761581421,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0
+          }
+        },
+        "length": 19,
+        "location": 0
+      }
+    ],
+    "string": "日比多ハーモニカサークルによる演奏発表"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "C342BC90-934E-4F2F-9F70-55E9F817B76B",
@@ -59,11 +85,16 @@
           "red": 0.337254902
         },
         "MSAttributedStringFontAttribute": {
-          "_archive": "YnBsaXN0MDDUAQIDBAUGJidYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKkHCA0XGBkaGyJVJG51bGzSCQoLDFYkY2xhc3NfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AIgALTDg8JEBMWV05TLmtleXNaTlMub2JqZWN0c6IREoADgASiFBWABYAGgAdfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZRAOXxAPSGlyYWdpbm9TYW5zLVcz0hwdHh9aJGNsYXNzbmFtZVgkY2xhc3Nlc18QE05TTXV0YWJsZURpY3Rpb25hcnmjHiAhXE5TRGljdGlvbmFyeVhOU09iamVjdNIcHSMkXxAQTlNGb250RGVzY3JpcHRvcqIlIV8QEE5TRm9udERlc2NyaXB0b3JfEA9OU0tleWVkQXJjaGl2ZXLRKClUcm9vdIABAAgAEQAaACMALQAyADcAQQBHAEwAUwBwAHIAdAB7AIMAjgCRAJMAlQCYAJoAnACeALQAygDMAN4A4wDuAPcBDQERAR4BJwEsAT8BQgFVAWcBagFvAAAAAAAAAgEAAAAAAAAAKgAAAAAAAAAAAAAAAAAAAXE="
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "HiraginoSans-W3",
+            "size": 14
+          }
         },
         "kerning": 0.3999999761581421,
         "paragraphStyle": {
-          "_archive": "YnBsaXN0MDDUAQIDBAUGJCVYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKYHCBMXHiFVJG51bGzVCQoLDA0ODxARElpOU1RhYlN0b3BzViRjbGFzc1xOU1RleHRCbG9ja3NfEB9OU0FsbG93c1RpZ2h0ZW5pbmdGb3JUcnVuY2F0aW9uW05TVGV4dExpc3RzgACABYACEAGABNIUChUWWk5TLm9iamVjdHOggAPSGBkaG1okY2xhc3NuYW1lWCRjbGFzc2VzXk5TTXV0YWJsZUFycmF5oxocHVdOU0FycmF5WE5TT2JqZWN00hQKHxaggAPSGBkiI18QEE5TUGFyYWdyYXBoU3R5bGWiIh1fEA9OU0tleWVkQXJjaGl2ZXLRJidUcm9vdIABAAgAEQAaACMALQAyADcAPgBEAE8AWgBhAG4AkACcAJ4AoACiAKQApgCrALYAtwC5AL4AyQDSAOEA5QDtAPYA+wD8AP4BAwEWARkBKwEuATMAAAAAAAACAQAAAAAAAAAoAAAAAAAAAAAAAAAAAAABNQ=="
+          "_class": "paragraphStyle",
+          "alignment": 0
         }
       },
       "verticalAlignment": 0

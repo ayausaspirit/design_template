@@ -1,10 +1,42 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "MSAttributedString",
-    "archivedAttributedString": {
-      "_archive": "YnBsaXN0MDDUAQIDBAUGe3xYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QJAcIDxAkJSYnKCkqKy83ODk6O0JGR1NUVVZXWFlaW11sb3J2d1UkbnVsbNMJCgsMDQ5YTlNTdHJpbmdWJGNsYXNzXE5TQXR0cmlidXRlc4ACgCOAA28QFnB9W7NZJ1b9ZeVnLDBrMGZRaDBPZbAwVzBEW4lfwzCSY9BoSIH0MFcwfjBZ0xESChMbI1dOUy5rZXlzWk5TLm9iamVjdHOnFBUWFxgZGoAEgAWABoAHgAiACYAKpxwdHR0gISKAC4ATgBOAE4AUgB6AIoAdXxAfTVNBdHRyaWJ1dGVkU3RyaW5nRm9udEF0dHJpYnV0ZV8QD05TU3RyaWtldGhyb3VnaFtOU1VuZGVybGluZV8QKE1TQXR0cmlidXRlZFN0cmluZ1RleHRUcmFuc2Zvcm1BdHRyaWJ1dGVfECpNU0F0dHJpYnV0ZWRTdHJpbmdDb2xvckRpY3Rpb25hcnlBdHRyaWJ1dGVfEBBOU1BhcmFncmFwaFN0eWxlVk5TS2VybtIKLC0uXxAaTlNGb250RGVzY3JpcHRvckF0dHJpYnV0ZXOAEoAM0xESCjAzNqIxMoANgA6iNDWAD4AQgBFfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNAO/sugU1BJV8QE1RzdWt1QVJkR290aGljLUJvbGTSPD0+P1okY2xhc3NuYW1lWCRjbGFzc2VzXxATTlNNdXRhYmxlRGljdGlvbmFyeaM+QEFcTlNEaWN0aW9uYXJ5WE5TT2JqZWN00jw9Q0RfEBBOU0ZvbnREZXNjcmlwdG9yokVBXxAQTlNGb250RGVzY3JpcHRvchAA0xESCkhNI6RJSktMgBWAFoAXgBikTk9QUYAZgBqAG4AcgB1TcmVkVWFscGhhVGJsdWVVZ3JlZW4jP+6+vhZQpF0jP/AAAAAAAAAjP+6+vhZQpF0jP+6+vhZQpF3SPD1AXKJAQdgKXl9gYWJjZGVmZ2dYaWprWk5TVGFiU3RvcHNcTlNUZXh0QmxvY2tzW05TVGV4dExpc3RzXxASTlNQYXJhZ3JhcGhTcGFjaW5nXxAfTlNBbGxvd3NUaWdodGVuaW5nRm9yVHJ1bmNhdGlvbl8QD05TTWF4TGluZUhlaWdodF8QD05TTWluTGluZUhlaWdodIAhgACAH4AfEAEjQEJ9jNbtTd8jQEJ9jNbtTd/SEgptbqCAINI8PXBxV05TQXJyYXmicEHSPD1zdF8QF05TTXV0YWJsZVBhcmFncmFwaFN0eWxlo3N1QV8QEE5TUGFyYWdyYXBoU3R5bGUjP+Zlgtvn8sTSPD14eV8QEk5TQXR0cmlidXRlZFN0cmluZ6J6QV8QEk5TQXR0cmlidXRlZFN0cmluZ18QD05TS2V5ZWRBcmNoaXZlctF9flRyb290gAEACAARABoAIwAtADIANwBeAGQAawB0AHsAiACKAIwAjgC9AMQAzADXAN8A4QDjAOUA5wDpAOsA7QD1APcA+QD7AP0A/wEBAQMBBQEnATkBRQFwAZ0BsAG3AbwB2QHbAd0B5AHnAekB6wHuAfAB8gH0AgoCIAIpAj8CRAJPAlgCbgJyAn8CiAKNAqACowK2ArgCvwLEAsYCyALKAswC0QLTAtUC1wLZAtsC3wLlAuoC8AL5AwIDCwMUAxkDHAMtAzgDRQNRA2YDiAOaA6wDrgOwA7IDtAO2A78DyAPNA84D0APVA90D4APlA/8EAwQWBB8EJAQ5BDwEUQRjBGYEawAAAAAAAAIBAAAAAAAAAH8AAAAAAAAAAAAAAAAAAARt"
-    }
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.960784,
+            "green": 0.960784,
+            "red": 0.960784
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "TsukuARdGothic-Bold",
+              "size": 27.98117836128326
+            }
+          },
+          "MSAttributedStringTextTransformAttribute": 0,
+          "kerning": 0.6998915000000001,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "maximumLineHeight": 36.98086058222884,
+            "minimumLineHeight": 36.98086058222884,
+            "paragraphSpacing": 1
+          },
+          "strikethroughStyle": 0,
+          "underlineStyle": 0
+        },
+        "length": 22,
+        "location": 0
+      }
+    ],
+    "string": "災害大国日本にて全く新しい安心を提案致します"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "A131FDA0-70AC-4266-A8DA-EA3143772EFE",

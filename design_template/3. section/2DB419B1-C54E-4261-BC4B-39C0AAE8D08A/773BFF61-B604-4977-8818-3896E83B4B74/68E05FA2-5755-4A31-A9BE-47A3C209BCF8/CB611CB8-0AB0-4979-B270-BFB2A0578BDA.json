@@ -1,10 +1,38 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "MSAttributedString",
-    "archivedAttributedString": {
-      "_archive": "YnBsaXN0MDDUAQIDBAUGbm9YJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QHwcIDxAcHR4fKywtLi8wMTIzOT1FRkdISUxQXF9jZmpVJG51bGzTCQoLDA0OWE5TU3RyaW5nViRjbGFzc1xOU0F0dHJpYnV0ZXOAAoAegANvEJt5wTBfMGEw7zD8MK8wzzDUMM0wuTBMUWgwZjBuMLUw/DDTMLkwazBKMEQwZmcAMIJZJ1IHMGswVzBmMEQwizBTMGgwbzABMAxhD3+pMG52eomL/whRjXi6io3/CTANMGcwWTACZbBRZXk+VOEwazBoMGMwZjCCVAxp2DBnMAEwDHnBMG8wUzBuTxp5PjBnT1UwTDBXMF8wRDBuMEswDTAMMFMwbk8aeT4wZzBpMJMwajBTMGgwkmIQMFeQQjBSMF8wRDBuMEswDTBoMAFRZXk+ZkIwa08aeT4waIHqUgYwaDBuY6VwuTCSeLqKjTBXMGYwSjBPMFMwaDBnMAFz/lg0MGtR+jBmMEswiWnYMAUwaoRbheQwkmKxMEgwZjCCmBFfNTCMMItSmzBrMGowizBuMGcwWTAC0xESChMXG1dOUy5rZXlzWk5TLm9iamVjdHOjFBUWgASABYAGoxgZGoAHgBGAGYAQXxAqTVNBdHRyaWJ1dGVkU3RyaW5nQ29sb3JEaWN0aW9uYXJ5QXR0cmlidXRlXxAfTVNBdHRyaWJ1dGVkU3RyaW5nRm9udEF0dHJpYnV0ZV8QEE5TUGFyYWdyYXBoU3R5bGXTERIKICUbpCEiIySACIAJgAqAC6QmJygpgAyADYAOgA+AEFNyZWRVYWxwaGFUYmx1ZVVncmVlbiM/1ZWVlaBdJSM/8AAAAAAAACM/1ZWVlaBdJSM/1ZWVlaBdJdI0NTY3WiRjbGFzc25hbWVYJGNsYXNzZXNcTlNEaWN0aW9uYXJ5ojY4WE5TT2JqZWN00go6OzxfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AYgBLTERIKPkFEoj9AgBOAFKJCQ4AVgBaAF18QE05TRm9udFNpemVBdHRyaWJ1dGVfEBNOU0ZvbnROYW1lQXR0cmlidXRlEBJbWXVHby1NZWRpdW3SNDVKS18QE05TTXV0YWJsZURpY3Rpb25hcnmjSjY40jQ1TU5fEBBOU0ZvbnREZXNjcmlwdG9yok84XxAQTlNGb250RGVzY3JpcHRvctZRUlNUClVWV1hZWltaTlNUYWJTdG9wc1tOU1RleHRMaXN0c18QD05TTWluTGluZUhlaWdodFxOU1RleHRCbG9ja3NfEA9OU01heExpbmVIZWlnaHSAAIAcI0A8zMzMzMzNgBqAHSNAPMzMzMzMzdISCl1eoIAb0jQ1YGFeTlNNdXRhYmxlQXJyYXmjYGI4V05TQXJyYXnSEgpkXqCAG9I0NWdoXxAXTlNNdXRhYmxlUGFyYWdyYXBoU3R5bGWjZ2k4XxAQTlNQYXJhZ3JhcGhTdHlsZdI0NWtsXxASTlNBdHRyaWJ1dGVkU3RyaW5nom04XxASTlNBdHRyaWJ1dGVkU3RyaW5nXxAPTlNLZXllZEFyY2hpdmVy0XBxVHJvb3SAAQAIABEAGgAjAC0AMgA3AFkAXwBmAG8AdgCDAIUAhwCJAcIByQHRAdwB4AHiAeQB5gHqAewB7gHwAfICHwJBAlQCWwJgAmICZAJmAmgCbQJvAnECcwJ1AncCewKBAoYCjAKVAp4CpwKwArUCwALJAtYC2QLiAucDBAMGAwgDDwMSAxQDFgMZAxsDHQMfAzUDSwNNA1kDXgN0A3gDfQOQA5MDpgOzA74DygPcA+kD+wP9A/8ECAQKBAwEFQQaBBsEHQQiBDEENQQ9BEIEQwRFBEoEZARoBHsEgASVBJgErQS/BMIExwAAAAAAAAIBAAAAAAAAAHIAAAAAAAAAAAAAAAAAAATJ"
-    }
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.337254902,
+            "green": 0.337254902,
+            "red": 0.337254902
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "YuGo-Medium",
+              "size": 18
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "allowsDefaultTighteningForTruncation": 0,
+            "maximumLineHeight": 28.8,
+            "minimumLineHeight": 28.8
+          }
+        },
+        "length": 155,
+        "location": 0
+      }
+    ],
+    "string": "私たちワークハピネスが全てのサービスにおいて最も大切にしていることは、「意義の発見（再確認）」です。新入社員にとっても同様で、「私はこの会社で何がしたいのか」「この会社でどんなことを成し遂げたいのか」と、入社時に会社と自分との接点を確認しておくことで、現場に出てから様々な葛藤を抱えても頑張れる力になるのです。"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "CB611CB8-0AB0-4979-B270-BFB2A0578BDA",
@@ -60,10 +88,18 @@
           "red": 0.337254902
         },
         "MSAttributedStringFontAttribute": {
-          "_archive": "YnBsaXN0MDDUAQIDBAUGJidYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKkHCA0XGBkaGyJVJG51bGzSCQoLDFYkY2xhc3NfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AIgALTDg8JEBMWV05TLmtleXNaTlMub2JqZWN0c6IREoADgASiFBWABYAGgAdfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZRASW1l1R28tTWVkaXVt0hwdHh9aJGNsYXNzbmFtZVgkY2xhc3Nlc18QE05TTXV0YWJsZURpY3Rpb25hcnmjHiAhXE5TRGljdGlvbmFyeVhOU09iamVjdNIcHSMkXxAQTlNGb250RGVzY3JpcHRvcqIlIV8QEE5TRm9udERlc2NyaXB0b3JfEA9OU0tleWVkQXJjaGl2ZXLRKClUcm9vdIABAAgAEQAaACMALQAyADcAQQBHAEwAUwBwAHIAdAB7AIMAjgCRAJMAlQCYAJoAnACeALQAygDMANgA3QDoAPEBBwELARgBIQEmATkBPAFPAWEBZAFpAAAAAAAAAgEAAAAAAAAAKgAAAAAAAAAAAAAAAAAAAWs="
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "YuGo-Medium",
+            "size": 18
+          }
         },
         "paragraphStyle": {
-          "_archive": "YnBsaXN0MDDUAQIDBAUGJyhYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKYHCBUZICNVJG51bGzWCQoLDA0ODxAREhMUWk5TVGFiU3RvcHNbTlNUZXh0TGlzdHNfEA9OU01pbkxpbmVIZWlnaHRcTlNUZXh0QmxvY2tzViRjbGFzc18QD05TTWF4TGluZUhlaWdodIAAgAQjQDzMzMzMzM2AAoAFI0A8zMzMzMzN0hYNFxhaTlMub2JqZWN0c6CAA9IaGxwdWiRjbGFzc25hbWVYJGNsYXNzZXNeTlNNdXRhYmxlQXJyYXmjHB4fV05TQXJyYXlYTlNPYmplY3TSFg0hGKCAA9IaGyQlXxAXTlNNdXRhYmxlUGFyYWdyYXBoU3R5bGWjJCYfXxAQTlNQYXJhZ3JhcGhTdHlsZV8QD05TS2V5ZWRBcmNoaXZlctEpKlRyb290gAEACAARABoAIwAtADIANwA+AEQAUQBcAGgAegCHAI4AoACiAKQArQCvALEAugC/AMoAywDNANIA3QDmAPUA+QEBAQoBDwEQARIBFwExATUBSAFaAV0BYgAAAAAAAAIBAAAAAAAAACsAAAAAAAAAAAAAAAAAAAFk"
+          "_class": "paragraphStyle",
+          "alignment": 0,
+          "allowsDefaultTighteningForTruncation": 0,
+          "maximumLineHeight": 28.8,
+          "minimumLineHeight": 28.8
         }
       },
       "verticalAlignment": 0

@@ -1,10 +1,62 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "MSAttributedString",
-    "archivedAttributedString": {
-      "_archive": "YnBsaXN0MDDUAQIDBAUGq6xYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QKgcIERIYJSYnKCkzNj1AQ0dPUFFSU1dbZ2hpamtsbm97gIOGiZGSnp+jp1UkbnVsbNQJCgsMDQ4PEFhOU1N0cmluZ18QD05TQXR0cmlidXRlSW5mb1xOU0F0dHJpYnV0ZXNWJGNsYXNzgAKAJ4ADgClvEB8ASQBTAEUASABBAFIAQQAgAEgASQBOAEEAVABBACAASABPAFMAUABJAFQAQQBMACAAqf4OACAAMgAwADEAN9ITDBQXWk5TLm9iamVjdHOiFRaABIAegAvTGRMMGh8kV05TLmtleXOkGxwdHoAFgAaAB4AIpCAhIiOACYAOgBaAHYAcXxAQTlNQYXJhZ3JhcGhTdHlsZV8QH01TQXR0cmlidXRlZFN0cmluZ0ZvbnRBdHRyaWJ1dGVfECpNU0F0dHJpYnV0ZWRTdHJpbmdDb2xvckRpY3Rpb25hcnlBdHRyaWJ1dGVWTlNLZXJu1SoMKywtLi8wMTJaTlNUYWJTdG9wc1xOU1RleHRCbG9ja3NfEB9OU0FsbG93c1RpZ2h0ZW5pbmdGb3JUcnVuY2F0aW9uW05TVGV4dExpc3RzgACADYAKEAGADNITDDQXoIAL0jc4OTpaJGNsYXNzbmFtZVgkY2xhc3Nlc15OU011dGFibGVBcnJheaM5OzxXTlNBcnJheVhOU09iamVjdNITDD4XoIAL0jc4QUJfEBBOU1BhcmFncmFwaFN0eWxlokE80gxERUZfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AVgA/TGRMMSEtOoklKgBCAEaJMTYASgBOAFF8QE05TRm9udFNpemVBdHRyaWJ1dGVfEBNOU0ZvbnROYW1lQXR0cmlidXRlEA5fEA9IaXJhZ2lub1NhbnMtVzbSNzhUVV8QE05TTXV0YWJsZURpY3Rpb25hcnmjVFY8XE5TRGljdGlvbmFyedI3OFhZXxAQTlNGb250RGVzY3JpcHRvcqJaPF8QEE5TRm9udERlc2NyaXB0b3LTGRMMXGEkpF1eX2CAF4AYgBmAGqRiYmJigBuAG4AbgBuAHFNyZWRVYWxwaGFUYmx1ZVVncmVlbiM/8AAAAAAAANI3OFZtolY8Iz/FFRU6+qfR0xkTDHB1JKQbHB0egAWABoAHgAikdnd4eYAfgCKAJYAmgBzVKgwrLC0uL34xf4AAgA2AIIAh0hMMgReggAvSEwyEF6CAC9IMREWIgBWAI9MZEwyKjU6iSUqAEIARokyPgBKAJIAUXxARTHVjaWRhR3JhbmRlLUJvbGTTGRMMk5gkpF1eX2CAF4AYgBmAGqRiYmJigBuAG4AbgBuAHCM/xRUVOvqn0dKgDKGiV05TLmRhdGFEGAAHAYAo0jc4pKVdTlNNdXRhYmxlRGF0YaOkpjxWTlNEYXRh0jc4qKlfEBJOU0F0dHJpYnV0ZWRTdHJpbmeiqjxfEBJOU0F0dHJpYnV0ZWRTdHJpbmdfEA9OU0tleWVkQXJjaGl2ZXLRra5Ucm9vdIABAAgAEQAaACMALQAyADcAZABqAHMAfACOAJsAogCkAKYAqACqAOsA8AD7AP4BAAECAQQBCwETARgBGgEcAR4BIAElAScBKQErAS0BLwFCAWQBkQGYAaMBrgG7Ad0B6QHrAe0B7wHxAfMB+AH5AfsCAAILAhQCIwInAi8COAI9Aj4CQAJFAlgCWwJgAn0CfwKBAogCiwKNAo8CkgKUApYCmAKuAsQCxgLYAt0C8wL3AwQDCQMcAx8DMgM5Az4DQANCA0QDRgNLA00DTwNRA1MDVQNZA18DZANqA3MDeAN7A4QDiwOQA5IDlAOWA5gDnQOfA6EDowOlA6cDsgO0A7YDuAO6A78DwAPCA8cDyAPKA88D0QPTA9oD3QPfA+ED5APmA+gD6gP+BAUECgQMBA4EEAQSBBcEGQQbBB0EHwQhBCoELwQ3BDwEPgRDBFEEVQRcBGEEdgR5BI4EoASjBKgAAAAAAAACAQAAAAAAAACvAAAAAAAAAAAAAAAAAAAEqg=="
-    }
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 1,
+            "green": 1,
+            "red": 1
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "HiraginoSans-W6",
+              "size": 14
+            }
+          },
+          "kerning": 0.1647059,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0
+          }
+        },
+        "length": 24,
+        "location": 0
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 1,
+            "green": 1,
+            "red": 1
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "LucidaGrande-Bold",
+              "size": 14
+            }
+          },
+          "kerning": 0.1647059,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0
+          }
+        },
+        "length": 7,
+        "location": 24
+      }
+    ],
+    "string": "ISEHARA HINATA HOSPITAL ©︎ 2017"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "381304B4-5C5E-4B9E-8BF8-0FF2826D3784",
@@ -59,11 +111,16 @@
           "red": 1
         },
         "MSAttributedStringFontAttribute": {
-          "_archive": "YnBsaXN0MDDUAQIDBAUGJidYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKkHCA0XGBkaGyJVJG51bGzSCQoLDFYkY2xhc3NfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AIgALTDg8JEBMWV05TLmtleXNaTlMub2JqZWN0c6IREoADgASiFBWABYAGgAdfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZRAOXxAPSGlyYWdpbm9TYW5zLVc20hwdHh9aJGNsYXNzbmFtZVgkY2xhc3Nlc18QE05TTXV0YWJsZURpY3Rpb25hcnmjHiAhXE5TRGljdGlvbmFyeVhOU09iamVjdNIcHSMkXxAQTlNGb250RGVzY3JpcHRvcqIlIV8QEE5TRm9udERlc2NyaXB0b3JfEA9OU0tleWVkQXJjaGl2ZXLRKClUcm9vdIABAAgAEQAaACMALQAyADcAQQBHAEwAUwBwAHIAdAB7AIMAjgCRAJMAlQCYAJoAnACeALQAygDMAN4A4wDuAPcBDQERAR4BJwEsAT8BQgFVAWcBagFvAAAAAAAAAgEAAAAAAAAAKgAAAAAAAAAAAAAAAAAAAXE="
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "HiraginoSans-W6",
+            "size": 14
+          }
         },
         "kerning": 0.1647059,
         "paragraphStyle": {
-          "_archive": "YnBsaXN0MDDUAQIDBAUGJCVYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKYHCBMXHiFVJG51bGzVCQoLDA0ODxARElpOU1RhYlN0b3BzViRjbGFzc1xOU1RleHRCbG9ja3NfEB9OU0FsbG93c1RpZ2h0ZW5pbmdGb3JUcnVuY2F0aW9uW05TVGV4dExpc3RzgACABYACEAGABNIUChUWWk5TLm9iamVjdHOggAPSGBkaG1okY2xhc3NuYW1lWCRjbGFzc2VzXk5TTXV0YWJsZUFycmF5oxocHVdOU0FycmF5WE5TT2JqZWN00hQKHxaggAPSGBkiI18QEE5TUGFyYWdyYXBoU3R5bGWiIh1fEA9OU0tleWVkQXJjaGl2ZXLRJidUcm9vdIABAAgAEQAaACMALQAyADcAPgBEAE8AWgBhAG4AkACcAJ4AoACiAKQApgCrALYAtwC5AL4AyQDSAOEA5QDtAPYA+wD8AP4BAwEWARkBKwEuATMAAAAAAAACAQAAAAAAAAAoAAAAAAAAAAAAAAAAAAABNQ=="
+          "_class": "paragraphStyle",
+          "alignment": 0
         }
       },
       "verticalAlignment": 0
