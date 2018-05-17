@@ -1,38 +1,10 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "attributedString",
-    "attributes": [
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0.1333333333,
-            "green": 0.1333333333,
-            "red": 0.1333333333
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "HiraginoSans-W3",
-              "size": 16
-            }
-          },
-          "kerning": 0.4307692,
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "alignment": 0,
-            "maximumLineHeight": 20.8,
-            "minimumLineHeight": 20.8
-          }
-        },
-        "length": 34,
-        "location": 0
-      }
-    ],
-    "string": "伊勢原日向病院院長、副院長、看護師長からのご挨拶を掲載しております。"
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGc3RYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QIQcIDxAeHyAhIjAzOj1BRU1OT1BRVVllZmdoaS1qa2xtb1UkbnVsbNMJCgsMDQ5YTlNTdHJpbmdWJGNsYXNzXE5TQXR0cmlidXRlc4ACgCCAA28QIk8KUuJTn2XlVBF1xZZilmKVdzABUm+WYpV3MAF3C4t3XiuVdzBLMIkwbjBUYyhi9jCSY7KPCTBXMGYwSjCKMH4wWTAC0xESChMYHVdOUy5rZXlzWk5TLm9iamVjdHOkFBUWF4AEgAWABoAHpBkaGxyACIANgBWAHoAfXxAQTlNQYXJhZ3JhcGhTdHlsZV8QH01TQXR0cmlidXRlZFN0cmluZ0ZvbnRBdHRyaWJ1dGVfECpNU0F0dHJpYnV0ZWRTdHJpbmdDb2xvckRpY3Rpb25hcnlBdHRyaWJ1dGVWTlNLZXJu1wojJCUmJygpKissLS4vWk5TVGFiU3RvcHNbTlNUZXh0TGlzdHNcTlNUZXh0QmxvY2tzXxAfTlNBbGxvd3NUaWdodGVuaW5nRm9yVHJ1bmNhdGlvbl8QD05TTWF4TGluZUhlaWdodF8QD05TTWluTGluZUhlaWdodIAMgACAC4AJEAEjQDTMzMzMzM0jQDTMzMzMzM3SEgoxMqCACtI0NTY3WiRjbGFzc25hbWVYJGNsYXNzZXNeTlNNdXRhYmxlQXJyYXmjNjg5V05TQXJyYXlYTlNPYmplY3TSEgo7MqCACtI0NT4/XxAXTlNNdXRhYmxlUGFyYWdyYXBoU3R5bGWjPkA5XxAQTlNQYXJhZ3JhcGhTdHlsZdIKQkNEXxAaTlNGb250RGVzY3JpcHRvckF0dHJpYnV0ZXOAFIAO0xESCkZJTKJHSIAPgBCiSkuAEYASgBNfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZRAQXxAPSGlyYWdpbm9TYW5zLVcz0jQ1UlNfEBNOU011dGFibGVEaWN0aW9uYXJ5o1JUOVxOU0RpY3Rpb25hcnnSNDVWV18QEE5TRm9udERlc2NyaXB0b3KiWDlfEBBOU0ZvbnREZXNjcmlwdG9y0xESClpfTKRbXF1egBaAF4AYgBmkYGFiY4AagBuAHIAdgBNTcmVkVWFscGhhVGJsdWVVZ3JlZW4jP8ERERD+vdEjP8ERERD+vdEjP8ERERD+vdEjP9uRuPqH8PvSNDVUbqJUOdI0NXBxXxASTlNBdHRyaWJ1dGVkU3RyaW5nonI5XxASTlNBdHRyaWJ1dGVkU3RyaW5nXxAPTlNLZXllZEFyY2hpdmVy0XV2VHJvb3SAAQAIABEAGgAjAC0AMgA3AFsAYQBoAHEAeACFAIcAiQCLANIA2QDhAOwA8QDzAPUA9wD5AP4BAAECAQQBBgEIARsBPQFqAXEBgAGLAZcBpAHGAdgB6gHsAe4B8AHyAfQB/QIGAgsCDAIOAhMCHgInAjYCOgJCAksCUAJRAlMCWAJyAnYCiQKOAqsCrQKvArYCuQK7Ar0CwALCAsQCxgLcAvIC9AMGAwsDIQMlAzIDNwNKA00DYANnA2wDbgNwA3IDdAN5A3sDfQN/A4EDgwOHA40DkgOYA6EDqgOzA7wDwQPEA8kD3gPhA/YECAQLBBAAAAAAAAACAQAAAAAAAAB3AAAAAAAAAAAAAAAAAAAEEg=="
+    }
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "AF31DC51-EDA0-4A7F-ACF9-E503AE585944",
@@ -88,18 +60,11 @@
           "red": 0.1333333333
         },
         "MSAttributedStringFontAttribute": {
-          "_class": "fontDescriptor",
-          "attributes": {
-            "name": "HiraginoSans-W3",
-            "size": 16
-          }
+          "_archive": "YnBsaXN0MDDUAQIDBAUGJidYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKkHCA0XGBkaGyJVJG51bGzSCQoLDFYkY2xhc3NfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AIgALTDg8JEBMWV05TLmtleXNaTlMub2JqZWN0c6IREoADgASiFBWABYAGgAdfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZRAQXxAPSGlyYWdpbm9TYW5zLVcz0hwdHh9aJGNsYXNzbmFtZVgkY2xhc3Nlc18QE05TTXV0YWJsZURpY3Rpb25hcnmjHiAhXE5TRGljdGlvbmFyeVhOU09iamVjdNIcHSMkXxAQTlNGb250RGVzY3JpcHRvcqIlIV8QEE5TRm9udERlc2NyaXB0b3JfEA9OU0tleWVkQXJjaGl2ZXLRKClUcm9vdIABAAgAEQAaACMALQAyADcAQQBHAEwAUwBwAHIAdAB7AIMAjgCRAJMAlQCYAJoAnACeALQAygDMAN4A4wDuAPcBDQERAR4BJwEsAT8BQgFVAWcBagFvAAAAAAAAAgEAAAAAAAAAKgAAAAAAAAAAAAAAAAAAAXE="
         },
         "kerning": 0.4307692,
         "paragraphStyle": {
-          "_class": "paragraphStyle",
-          "alignment": 0,
-          "maximumLineHeight": 20.8,
-          "minimumLineHeight": 20.8
+          "_archive": "YnBsaXN0MDDUAQIDBAUGKSpYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKYHCBcbIiVVJG51bGzXCQoLDA0ODxAREhMUFRZWJGNsYXNzWk5TVGFiU3RvcHNbTlNUZXh0TGlzdHNcTlNUZXh0QmxvY2tzXxAfTlNBbGxvd3NUaWdodGVuaW5nRm9yVHJ1bmNhdGlvbl8QD05TTWF4TGluZUhlaWdodF8QD05TTWluTGluZUhlaWdodIAFgACABIACEAEjQDTMzMzMzM0jQDTMzMzMzM3SGAkZGlpOUy5vYmplY3RzoIAD0hwdHh9aJGNsYXNzbmFtZVgkY2xhc3Nlc15OU011dGFibGVBcnJheaMeICFXTlNBcnJheVhOU09iamVjdNIYCSMaoIAD0hwdJidfEBdOU011dGFibGVQYXJhZ3JhcGhTdHlsZaMmKCFfEBBOU1BhcmFncmFwaFN0eWxlXxAPTlNLZXllZEFyY2hpdmVy0SssVHJvb3SAAQAIABEAGgAjAC0AMgA3AD4ARABTAFoAZQBxAH4AoACyAMQAxgDIAMoAzADOANcA4ADlAPAA8QDzAPgBAwEMARsBHwEnATABNQE2ATgBPQFXAVsBbgGAAYMBiAAAAAAAAAIBAAAAAAAAAC0AAAAAAAAAAAAAAAAAAAGK"
         }
       },
       "verticalAlignment": 0

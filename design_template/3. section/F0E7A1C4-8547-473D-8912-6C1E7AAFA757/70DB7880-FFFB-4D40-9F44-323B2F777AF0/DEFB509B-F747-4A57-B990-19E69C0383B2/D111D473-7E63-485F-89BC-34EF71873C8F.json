@@ -1,38 +1,10 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "attributedString",
-    "attributes": [
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0.337254902,
-            "green": 0.337254902,
-            "red": 0.337254902
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "YuGo-Medium",
-              "size": 18
-            }
-          },
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "alignment": 2,
-            "allowsDefaultTighteningForTruncation": 0,
-            "maximumLineHeight": 25.79999923706055,
-            "minimumLineHeight": 25.79999923706055
-          }
-        },
-        "length": 60,
-        "location": 0
-      }
-    ],
-    "string": "ワークハピネスでは、新入社員研修、OJT研修、管理職研修、\n組織変革コンサルティングに関するご相談を無料で承っています。"
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGcHFYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QHwcIDxAcHR4fKywtLi8wMTIzOT1FRkdISUxQXmFlaGxVJG51bGzTCQoLDA0OWE5TU3RyaW5nViRjbGFzc1xOU0F0dHJpYnV0ZXOAAoAegANvEDww7zD8MK8wzzDUMM0wuTBnMG8wAWWwUWV5PlTheBRP7jABAE8ASgBUeBRP7jABe6F0BoB3eBRP7jABAAp9RH5UWQmXaTCzMPMwtTDrMMYwozDzMLAwa5WiMFkwizBUdviKxzCScSFlmTBnYn8wYzBmMEQwfjBZMALTERIKExcbV05TLmtleXNaTlMub2JqZWN0c6MUFRaABIAFgAajGBkagAeAEYAZgBBfECpNU0F0dHJpYnV0ZWRTdHJpbmdDb2xvckRpY3Rpb25hcnlBdHRyaWJ1dGVfEB9NU0F0dHJpYnV0ZWRTdHJpbmdGb250QXR0cmlidXRlXxAQTlNQYXJhZ3JhcGhTdHlsZdMREgogJRukISIjJIAIgAmACoALpCYnKCmADIANgA6AD4AQU3JlZFVhbHBoYVRibHVlVWdyZWVuIz/VlZWVoF0lIz/wAAAAAAAAIz/VlZWVoF0lIz/VlZWVoF0l0jQ1NjdaJGNsYXNzbmFtZVgkY2xhc3Nlc1xOU0RpY3Rpb25hcnmiNjhYTlNPYmplY3TSCjo7PF8QGk5TRm9udERlc2NyaXB0b3JBdHRyaWJ1dGVzgBiAEtMREgo+QUSiP0CAE4AUokJDgBWAFoAXXxATTlNGb250U2l6ZUF0dHJpYnV0ZV8QE05TRm9udE5hbWVBdHRyaWJ1dGUQEltZdUdvLU1lZGl1bdI0NUpLXxATTlNNdXRhYmxlRGljdGlvbmFyeaNKNjjSNDVNTl8QEE5TRm9udERlc2NyaXB0b3KiTzhfEBBOU0ZvbnREZXNjcmlwdG9y1wpRUlNUVVZXWFlaW1xdWk5TVGFiU3RvcHNcTlNUZXh0QmxvY2tzW05TVGV4dExpc3RzXxAPTlNNYXhMaW5lSGVpZ2h0XxAPTlNNaW5MaW5lSGVpZ2h0W05TQWxpZ25tZW50gB2AAIAagBwjQDnMzMAAAAEjQDnMzMAAAAEQAtISCl9goIAb0jQ1YmNeTlNNdXRhYmxlQXJyYXmjYmQ4V05TQXJyYXnSEgpmYKCAG9I0NWlqXxAXTlNNdXRhYmxlUGFyYWdyYXBoU3R5bGWjaWs4XxAQTlNQYXJhZ3JhcGhTdHlsZdI0NW1uXxASTlNBdHRyaWJ1dGVkU3RyaW5nom84XxASTlNBdHRyaWJ1dGVkU3RyaW5nXxAPTlNLZXllZEFyY2hpdmVy0XJzVHJvb3SAAQAIABEAGgAjAC0AMgA3AFkAXwBmAG8AdgCDAIUAhwCJAQQBCwETAR4BIgEkASYBKAEsAS4BMAEyATQBYQGDAZYBnQGiAaQBpgGoAaoBrwGxAbMBtQG3AbkBvQHDAcgBzgHXAeAB6QHyAfcCAgILAhgCGwIkAikCRgJIAkoCUQJUAlYCWAJbAl0CXwJhAncCjQKPApsCoAK2AroCvwLSAtUC6AL3AwIDDwMbAy0DPwNLA00DTwNRA1MDXANlA2cDbANtA28DdAODA4cDjwOUA5UDlwOcA7YDugPNA9ID5wPqA/8EEQQUBBkAAAAAAAACAQAAAAAAAAB0AAAAAAAAAAAAAAAAAAAEGw=="
+    }
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "D111D473-7E63-485F-89BC-34EF71873C8F",
@@ -88,18 +60,10 @@
           "red": 0.337254902
         },
         "MSAttributedStringFontAttribute": {
-          "_class": "fontDescriptor",
-          "attributes": {
-            "name": "YuGo-Medium",
-            "size": 18
-          }
+          "_archive": "YnBsaXN0MDDUAQIDBAUGJidYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKkHCA0XGBkaGyJVJG51bGzSCQoLDFYkY2xhc3NfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AIgALTDg8JEBMWV05TLmtleXNaTlMub2JqZWN0c6IREoADgASiFBWABYAGgAdfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZRASW1l1R28tTWVkaXVt0hwdHh9aJGNsYXNzbmFtZVgkY2xhc3Nlc18QE05TTXV0YWJsZURpY3Rpb25hcnmjHiAhXE5TRGljdGlvbmFyeVhOU09iamVjdNIcHSMkXxAQTlNGb250RGVzY3JpcHRvcqIlIV8QEE5TRm9udERlc2NyaXB0b3JfEA9OU0tleWVkQXJjaGl2ZXLRKClUcm9vdIABAAgAEQAaACMALQAyADcAQQBHAEwAUwBwAHIAdAB7AIMAjgCRAJMAlQCYAJoAnACeALQAygDMANgA3QDoAPEBBwELARgBIQEmATkBPAFPAWEBZAFpAAAAAAAAAgEAAAAAAAAAKgAAAAAAAAAAAAAAAAAAAWs="
         },
         "paragraphStyle": {
-          "_class": "paragraphStyle",
-          "alignment": 2,
-          "allowsDefaultTighteningForTruncation": 0,
-          "maximumLineHeight": 25.79999923706055,
-          "minimumLineHeight": 25.79999923706055
+          "_archive": "YnBsaXN0MDDUAQIDBAUGKSpYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKYHCBcbIiVVJG51bGzXCQoLDA0ODxAREhMUFRZWJGNsYXNzWk5TVGFiU3RvcHNcTlNUZXh0QmxvY2tzW05TVGV4dExpc3RzXxAPTlNNYXhMaW5lSGVpZ2h0XxAPTlNNaW5MaW5lSGVpZ2h0W05TQWxpZ25tZW50gAWAAIACgAQjQDnMzMAAAAEjQDnMzMAAAAEQAtIYCRkaWk5TLm9iamVjdHOggAPSHB0eH1okY2xhc3NuYW1lWCRjbGFzc2VzXk5TTXV0YWJsZUFycmF5ox4gIVdOU0FycmF5WE5TT2JqZWN00hgJIxqggAPSHB0mJ18QF05TTXV0YWJsZVBhcmFncmFwaFN0eWxloyYoIV8QEE5TUGFyYWdyYXBoU3R5bGVfEA9OU0tleWVkQXJjaGl2ZXLRKyxUcm9vdIABAAgAEQAaACMALQAyADcAPgBEAFMAWgBlAHIAfgCQAKIArgCwALIAtAC2AL8AyADKAM8A2gDbAN0A4gDtAPYBBQEJAREBGgEfASABIgEnAUEBRQFYAWoBbQFyAAAAAAAAAgEAAAAAAAAALQAAAAAAAAAAAAAAAAAAAXQ="
         }
       },
       "verticalAlignment": 0

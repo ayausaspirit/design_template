@@ -1,38 +1,10 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "attributedString",
-    "attributes": [
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0.337254902,
-            "green": 0.337254902,
-            "red": 0.337254902
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "HiraginoSans-W3",
-              "size": 12
-            }
-          },
-          "kerning": 0.3999999761581421,
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "alignment": 2,
-            "maximumLineHeight": 15.6,
-            "minimumLineHeight": 15.6
-          }
-        },
-        "length": 21,
-        "location": 0
-      }
-    ],
-    "string": "通院透析の患者様の送迎を行なっております。"
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGdXZYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QIQcIDxAeHyAhIjI1PD9DR09QUVJTV1tnaGlqay5sbW5vcVUkbnVsbNMJCgsMDQ5YTlNTdHJpbmdWJGNsYXNzXE5TQXR0cmlidXRlc4ACgCCAA28QFZAalmKQD2eQMG5go4AFadgwbpABj84wkohMMGowYzBmMEowijB+MFkwAtMREgoTGB1XTlMua2V5c1pOUy5vYmplY3RzpBQVFheABIAFgAaAB6QZGhscgAiADYAVgB6AH18QEE5TUGFyYWdyYXBoU3R5bGVfEB9NU0F0dHJpYnV0ZWRTdHJpbmdGb250QXR0cmlidXRlXxAqTVNBdHRyaWJ1dGVkU3RyaW5nQ29sb3JEaWN0aW9uYXJ5QXR0cmlidXRlVk5TS2VybtgKIyQlJicoKSorLC0uLzAxWk5TVGFiU3RvcHNcTlNUZXh0QmxvY2tzW05TVGV4dExpc3RzXxAfTlNBbGxvd3NUaWdodGVuaW5nRm9yVHJ1bmNhdGlvbl8QD05TTWF4TGluZUhlaWdodF8QD05TTWluTGluZUhlaWdodFtOU0FsaWdubWVudIAMgACACYALEAEjQC8zMzMzMzMjQC8zMzMzMzMQAtISCjM0oIAK0jY3ODlaJGNsYXNzbmFtZVgkY2xhc3Nlc15OU011dGFibGVBcnJheaM4OjtXTlNBcnJheVhOU09iamVjdNISCj00oIAK0jY3QEFfEBdOU011dGFibGVQYXJhZ3JhcGhTdHlsZaNAQjtfEBBOU1BhcmFncmFwaFN0eWxl0gpERUZfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AUgA7TERIKSEtOoklKgA+AEKJMTYARgBKAE18QE05TRm9udFNpemVBdHRyaWJ1dGVfEBNOU0ZvbnROYW1lQXR0cmlidXRlEAxfEA9IaXJhZ2lub1NhbnMtVzPSNjdUVV8QE05TTXV0YWJsZURpY3Rpb25hcnmjVFY7XE5TRGljdGlvbmFyedI2N1hZXxAQTlNGb250RGVzY3JpcHRvcqJaO18QEE5TRm9udERlc2NyaXB0b3LTERIKXGFOpF1eX2CAFoAXgBiAGaRiY2RlgBqAG4AcgB2AE1NyZWRVYWxwaGFUYmx1ZVVncmVlbiM/1ZWVlaBdJSM/1ZWVlaBdJSM/1ZWVlaBdJSM/2ZmZgAAAANI2N1ZwolY70jY3cnNfEBJOU0F0dHJpYnV0ZWRTdHJpbmeidDtfEBJOU0F0dHJpYnV0ZWRTdHJpbmdfEA9OU0tleWVkQXJjaGl2ZXLRd3hUcm9vdIABAAgAEQAaACMALQAyADcAWwBhAGgAcQB4AIUAhwCJAIsAuAC/AMcA0gDXANkA2wDdAN8A5ADmAOgA6gDsAO4BAQEjAVABVwFoAXMBgAGMAa4BwAHSAd4B4AHiAeQB5gHoAfEB+gH8AgECAgIEAgkCFAIdAiwCMAI4AkECRgJHAkkCTgJoAmwCfwKEAqECowKlAqwCrwKxArMCtgK4AroCvALSAugC6gL8AwEDFwMbAygDLQNAA0MDVgNdA2IDZANmA2gDagNvA3EDcwN1A3cDeQN9A4MDiAOOA5cDoAOpA7IDtwO6A78D1APXA+wD/gQBBAYAAAAAAAACAQAAAAAAAAB5AAAAAAAAAAAAAAAAAAAECA=="
+    }
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "074A001E-7C89-40B7-83FA-0EE52A4B399B",
@@ -79,26 +51,18 @@
       "_class": "textStyle",
       "do_objectID": "10A9B642-4378-4C37-AABE-7FEE8A93196C",
       "encodedAttributes": {
-        "MSAttributedStringColorAttribute": {
-          "_class": "color",
+        "MSAttributedStringColorDictionaryAttribute": {
           "alpha": 1,
           "blue": 0.337254902,
           "green": 0.337254902,
           "red": 0.337254902
         },
         "MSAttributedStringFontAttribute": {
-          "_class": "fontDescriptor",
-          "attributes": {
-            "name": "HiraginoSans-W3",
-            "size": 12
-          }
+          "_archive": "YnBsaXN0MDDUAQIDBAUGJidYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKkHCA0XGBkaGyJVJG51bGzSCQoLDFYkY2xhc3NfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AIgALTDg8JEBMWV05TLmtleXNaTlMub2JqZWN0c6IREoADgASiFBWABYAGgAdfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZRAMXxAPSGlyYWdpbm9TYW5zLVcz0hwdHh9aJGNsYXNzbmFtZVgkY2xhc3Nlc18QE05TTXV0YWJsZURpY3Rpb25hcnmjHiAhXE5TRGljdGlvbmFyeVhOU09iamVjdNIcHSMkXxAQTlNGb250RGVzY3JpcHRvcqIlIV8QEE5TRm9udERlc2NyaXB0b3JfEA9OU0tleWVkQXJjaGl2ZXLRKClUcm9vdIABAAgAEQAaACMALQAyADcAQQBHAEwAUwBwAHIAdAB7AIMAjgCRAJMAlQCYAJoAnACeALQAygDMAN4A4wDuAPcBDQERAR4BJwEsAT8BQgFVAWcBagFvAAAAAAAAAgEAAAAAAAAAKgAAAAAAAAAAAAAAAAAAAXE="
         },
         "kerning": 0.3999999761581421,
         "paragraphStyle": {
-          "_class": "paragraphStyle",
-          "alignment": 2,
-          "maximumLineHeight": 15.6,
-          "minimumLineHeight": 15.6
+          "_archive": "YnBsaXN0MDDUAQIDBAUGKyxYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKYHCBkdJCdVJG51bGzYCQoLDA0ODxAREhMUFRYXGFYkY2xhc3NaTlNUYWJTdG9wc1xOU1RleHRCbG9ja3NbTlNUZXh0TGlzdHNfEB9OU0FsbG93c1RpZ2h0ZW5pbmdGb3JUcnVuY2F0aW9uXxAPTlNNYXhMaW5lSGVpZ2h0XxAPTlNNaW5MaW5lSGVpZ2h0W05TQWxpZ25tZW50gAWAAIACgAQQASNALzMzMzMzMyNALzMzMzMzMxAC0hoJGxxaTlMub2JqZWN0c6CAA9IeHyAhWiRjbGFzc25hbWVYJGNsYXNzZXNeTlNNdXRhYmxlQXJyYXmjICIjV05TQXJyYXlYTlNPYmplY3TSGgklHKCAA9IeHygpXxAXTlNNdXRhYmxlUGFyYWdyYXBoU3R5bGWjKCojXxAQTlNQYXJhZ3JhcGhTdHlsZV8QD05TS2V5ZWRBcmNoaXZlctEtLlRyb290gAEACAARABoAIwAtADIANwA+AEQAVQBcAGcAdACAAKIAtADGANIA1ADWANgA2gDcAOUA7gDwAPUBAAEBAQMBCAETARwBKwEvATcBQAFFAUYBSAFNAWcBawF+AZABkwGYAAAAAAAAAgEAAAAAAAAALwAAAAAAAAAAAAAAAAAAAZo="
         }
       },
       "verticalAlignment": 0

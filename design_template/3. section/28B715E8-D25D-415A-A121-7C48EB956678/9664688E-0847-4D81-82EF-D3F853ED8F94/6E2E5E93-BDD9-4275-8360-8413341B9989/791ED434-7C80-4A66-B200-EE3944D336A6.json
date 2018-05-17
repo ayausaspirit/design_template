@@ -1,36 +1,10 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "attributedString",
-    "attributes": [
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 1,
-            "green": 1,
-            "red": 1
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "HiraginoSans-W6",
-              "size": 16
-            }
-          },
-          "kerning": 2.665,
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "alignment": 2
-          }
-        },
-        "length": 9,
-        "location": 0
-      }
-    ],
-    "string": "Webから相談する"
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGbm9YJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QHgcIDxAeHyAhIi4xODs+QkpLTE1OUlZiY2RlZmdpalUkbnVsbNMJCgsMDQ5YTlNTdHJpbmdWJGNsYXNzXE5TQXR0cmlidXRlc4ACgB2AA2kAVwBlAGIwSzCJdviKxzBZMIvTERIKExgdV05TLmtleXNaTlMub2JqZWN0c6QUFRYXgASABYAGgAekGRobHIAIgA2AFYAcgBtfEBBOU1BhcmFncmFwaFN0eWxlXxAfTVNBdHRyaWJ1dGVkU3RyaW5nRm9udEF0dHJpYnV0ZV8QKk1TQXR0cmlidXRlZFN0cmluZ0NvbG9yRGljdGlvbmFyeUF0dHJpYnV0ZVZOU0tlcm7WIyQKJSYnKCkqKywtWk5TVGFiU3RvcHNbTlNBbGlnbm1lbnRcTlNUZXh0QmxvY2tzXxAfTlNBbGxvd3NUaWdodGVuaW5nRm9yVHJ1bmNhdGlvbltOU1RleHRMaXN0c4AAEAKADIAJEAGAC9ISCi8woIAK0jIzNDVaJGNsYXNzbmFtZVgkY2xhc3Nlc15OU011dGFibGVBcnJheaM0NjdXTlNBcnJheVhOU09iamVjdNISCjkwoIAK0jIzPD1fEBBOU1BhcmFncmFwaFN0eWxlojw30go/QEFfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AUgA7TERIKQ0ZJokRFgA+AEKJHSIARgBKAE18QE05TRm9udFNpemVBdHRyaWJ1dGVfEBNOU0ZvbnROYW1lQXR0cmlidXRlEBBfEA9IaXJhZ2lub1NhbnMtVzbSMjNPUF8QE05TTXV0YWJsZURpY3Rpb25hcnmjT1E3XE5TRGljdGlvbmFyedIyM1NUXxAQTlNGb250RGVzY3JpcHRvcqJVN18QEE5TRm9udERlc2NyaXB0b3LTERIKV1wdpFhZWluAFoAXgBiAGaRdXV1dgBqAGoAagBqAG1NyZWRVYWxwaGFUYmx1ZVVncmVlbiM/8AAAAAAAANIyM1FoolE3I0AFUeuFHrhS0jIza2xfEBJOU0F0dHJpYnV0ZWRTdHJpbmeibTdfEBJOU0F0dHJpYnV0ZWRTdHJpbmdfEA9OU0tleWVkQXJjaGl2ZXLRcHFUcm9vdIABAAgAEQAaACMALQAyADcAWABeAGUAbgB1AIIAhACGAIgAmwCiAKoAtQC6ALwAvgDAAMIAxwDJAMsAzQDPANEA5AEGATMBOgFHAVIBXgFrAY0BmQGbAZ0BnwGhAaMBpQGqAasBrQGyAb0BxgHVAdkB4QHqAe8B8AHyAfcCCgINAhICLwIxAjMCOgI9Aj8CQQJEAkYCSAJKAmACdgJ4AooCjwKlAqkCtgK7As4C0QLkAusC8ALyAvQC9gL4Av0C/wMBAwMDBQMHAwsDEQMWAxwDJQMqAy0DNgM7A1ADUwNoA3oDfQOCAAAAAAAAAgEAAAAAAAAAcgAAAAAAAAAAAAAAAAAAA4Q="
+    }
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "791ED434-7C80-4A66-B200-EE3944D336A6",
@@ -85,16 +59,11 @@
           "red": 1
         },
         "MSAttributedStringFontAttribute": {
-          "_class": "fontDescriptor",
-          "attributes": {
-            "name": "HiraginoSans-W6",
-            "size": 16
-          }
+          "_archive": "YnBsaXN0MDDUAQIDBAUGJidYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKkHCA0XGBkaGyJVJG51bGzSCQoLDFYkY2xhc3NfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AIgALTDg8JEBMWV05TLmtleXNaTlMub2JqZWN0c6IREoADgASiFBWABYAGgAdfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZRAQXxAPSGlyYWdpbm9TYW5zLVc20hwdHh9aJGNsYXNzbmFtZVgkY2xhc3Nlc18QE05TTXV0YWJsZURpY3Rpb25hcnmjHiAhXE5TRGljdGlvbmFyeVhOU09iamVjdNIcHSMkXxAQTlNGb250RGVzY3JpcHRvcqIlIV8QEE5TRm9udERlc2NyaXB0b3JfEA9OU0tleWVkQXJjaGl2ZXLRKClUcm9vdIABAAgAEQAaACMALQAyADcAQQBHAEwAUwBwAHIAdAB7AIMAjgCRAJMAlQCYAJoAnACeALQAygDMAN4A4wDuAPcBDQERAR4BJwEsAT8BQgFVAWcBagFvAAAAAAAAAgEAAAAAAAAAKgAAAAAAAAAAAAAAAAAAAXE="
         },
         "kerning": 2.665,
         "paragraphStyle": {
-          "_class": "paragraphStyle",
-          "alignment": 2
+          "_archive": "YnBsaXN0MDDUAQIDBAUGJidYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKYHCBUZICNVJG51bGzWCQoLDA0ODxAREhMUWk5TVGFiU3RvcHNbTlNBbGlnbm1lbnRWJGNsYXNzXE5TVGV4dEJsb2Nrc18QH05TQWxsb3dzVGlnaHRlbmluZ0ZvclRydW5jYXRpb25bTlNUZXh0TGlzdHOAABACgAWAAhABgATSFgsXGFpOUy5vYmplY3RzoIAD0hobHB1aJGNsYXNzbmFtZVgkY2xhc3Nlc15OU011dGFibGVBcnJheaMcHh9XTlNBcnJheVhOU09iamVjdNIWCyEYoIAD0hobJCVfEBBOU1BhcmFncmFwaFN0eWxloiQfXxAPTlNLZXllZEFyY2hpdmVy0SgpVHJvb3SAAQAIABEAGgAjAC0AMgA3AD4ARABRAFwAaABvAHwAngCqAKwArgCwALIAtAC2ALsAxgDHAMkAzgDZAOIA8QD1AP0BBgELAQwBDgETASYBKQE7AT4BQwAAAAAAAAIBAAAAAAAAACoAAAAAAAAAAAAAAAAAAAFF"
         }
       },
       "verticalAlignment": 0

@@ -1,42 +1,10 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "attributedString",
-    "attributes": [
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0.92549,
-            "green": 0.92549,
-            "red": 0.929412
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "HiraKakuProN-W3",
-              "size": 9.997938024827649
-            }
-          },
-          "MSAttributedStringTextTransformAttribute": 0,
-          "kerning": 0,
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "alignment": 2,
-            "maximumLineHeight": 29.99381407448295,
-            "minimumLineHeight": 29.99381407448295,
-            "paragraphSpacing": 1
-          },
-          "strikethroughStyle": 0,
-          "underlineStyle": 0
-        },
-        "length": 29,
-        "location": 0
-      }
-    ],
-    "string": "©️パワースポットを探すなら - パワスポ！ - 2017"
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGfX5YJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QJAcIDxAkJSYnKCkqKy83ODk6O0JGR1NUVVZXWFlaW11ucXR4eVUkbnVsbNMJCgsMDQ5YTlNTdHJpbmdWJGNsYXNzXE5TQXR0cmlidXRlc4ACgCOAA28QHQCp/g8w0TDvMPwwuTDdMMMwyDCSY6IwWTBqMIkAIAAtACAw0TDvMLkw3f8BACAALQAgADIAMAAxADfTERIKExsjV05TLmtleXNaTlMub2JqZWN0c6cUFRYXGBkagASABYAGgAeACIAJgAqnHB0dHSAhIoALgBOAE4ATgBSAHoAigB1fEB9NU0F0dHJpYnV0ZWRTdHJpbmdGb250QXR0cmlidXRlXxAPTlNTdHJpa2V0aHJvdWdoW05TVW5kZXJsaW5lXxAoTVNBdHRyaWJ1dGVkU3RyaW5nVGV4dFRyYW5zZm9ybUF0dHJpYnV0ZV8QKk1TQXR0cmlidXRlZFN0cmluZ0NvbG9yRGljdGlvbmFyeUF0dHJpYnV0ZV8QEE5TUGFyYWdyYXBoU3R5bGVWTlNLZXJu0gosLS5fEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4ASgAzTERIKMDM2ojEygA2ADqI0NYAPgBCAEV8QE05TRm9udFNpemVBdHRyaWJ1dGVfEBNOU0ZvbnROYW1lQXR0cmlidXRlI0Aj/vG7mCOhXxAPSGlyYUtha3VQcm9OLVcz0jw9Pj9aJGNsYXNzbmFtZVgkY2xhc3Nlc18QE05TTXV0YWJsZURpY3Rpb25hcnmjPkBBXE5TRGljdGlvbmFyeVhOU09iamVjdNI8PUNEXxAQTlNGb250RGVzY3JpcHRvcqJFQV8QEE5TRm9udERlc2NyaXB0b3IQANMREgpITSOkSUpLTIAVgBaAF4AYpE5PUFGAGYAagBuAHIAdU3JlZFVhbHBoYVRibHVlVWdyZWVuIz/tvb48EFGHIz/wAAAAAAAAIz/tnZ00WM0hIz/tnZ00WM0h0jw9QFyiQEHZCl5fYGFiY2RlZmdoaFhqa2xtWk5TVGFiU3RvcHNcTlNUZXh0QmxvY2tzW05TVGV4dExpc3RzXxASTlNQYXJhZ3JhcGhTcGFjaW5nXxAPTlNNYXhMaW5lSGVpZ2h0XxAfTlNBbGxvd3NUaWdodGVuaW5nRm9yVHJ1bmNhdGlvbl8QD05TTWluTGluZUhlaWdodFtOU0FsaWdubWVudIAhgACAH4AfI0A9/mqZZDVyEAEjQD3+aplkNXIQAtISCm9woIAg0jw9cnNXTlNBcnJheaJyQdI8PXV2XxAXTlNNdXRhYmxlUGFyYWdyYXBoU3R5bGWjdXdBXxAQTlNQYXJhZ3JhcGhTdHlsZSMAAAAAAAAAANI8PXp7XxASTlNBdHRyaWJ1dGVkU3RyaW5nonxBXxASTlNBdHRyaWJ1dGVkU3RyaW5nXxAPTlNLZXllZEFyY2hpdmVy0X+AVHJvb3SAAQAIABEAGgAjAC0AMgA3AF4AZABrAHQAewCIAIoAjACOAMsA0gDaAOUA7QDvAPEA8wD1APcA+QD7AQMBBQEHAQkBCwENAQ8BEQETATUBRwFTAX4BqwG+AcUBygHnAekB6wHyAfUB9wH5AfwB/gIAAgICGAIuAjcCSQJOAlkCYgJ4AnwCiQKSApcCqgKtAsACwgLJAs4C0ALSAtQC1gLbAt0C3wLhAuMC5QLpAu8C9AL6AwMDDAMVAx4DIwMmAzkDRANRA10DcgOEA6YDuAPEA8YDyAPKA8wD1QPXA+AD4gPnA+gD6gPvA/cD+gP/BBkEHQQwBDkEPgRTBFYEawR9BIAEhQAAAAAAAAIBAAAAAAAAAIEAAAAAAAAAAAAAAAAAAASH"
+    }
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "7BA5B4B7-DA65-488A-B80E-682C7F6A1F1B",

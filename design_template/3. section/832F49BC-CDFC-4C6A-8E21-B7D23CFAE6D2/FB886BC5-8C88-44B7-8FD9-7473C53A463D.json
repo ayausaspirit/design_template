@@ -1,62 +1,10 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "attributedString",
-    "attributes": [
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0.2,
-            "green": 0.2,
-            "red": 0.2
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "NotoSansCJKjp-Bold",
-              "size": 26
-            }
-          },
-          "kerning": 1.200000047683716,
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "alignment": 2
-          }
-        },
-        "length": 10,
-        "location": 0
-      },
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0.2,
-            "green": 0.2,
-            "red": 0.2
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "NotoSansCJKjp-Bold",
-              "size": 26
-            }
-          },
-          "kerning": 0,
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "alignment": 2
-          }
-        },
-        "length": 1,
-        "location": 10
-      }
-    ],
-    "string": "動画メディアアプリ開発"
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGsbJYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QMgcIERIYJSYnKCk1OD5CRk5PUFFSVlpmZ2hpamtsbW5wcX1+f4SHj5CRkp6foKGipamtVSRudWxs1AkKCwwNDg8QWE5TU3RyaW5nXxAPTlNBdHRyaWJ1dGVJbmZvXE5TQXR0cmlidXRlc1YkY2xhc3OAAoAvgAOAMWtS1XU7MOEwxzCjMKIwojDXMOqVi3Z60hMMFBdaTlMub2JqZWN0c6IVFoAEgCCALtMZEwwaHyRXTlMua2V5c6QbHB0egAWABoAHgAikICEiI4AJgA2AFYAfgB5fEBBOU1BhcmFncmFwaFN0eWxlXxAfTVNBdHRyaWJ1dGVkU3RyaW5nRm9udEF0dHJpYnV0ZV8QKk1TQXR0cmlidXRlZFN0cmluZ0NvbG9yRGljdGlvbmFyeUF0dHJpYnV0ZVZOU0tlcm7WKisMLC0uLzAxMjMyWk5TVGFiU3RvcHNbTlNBbGlnbm1lbnRcTlNUZXh0QmxvY2tzXxAfTlNBbGxvd3NUaWdodGVuaW5nRm9yVHJ1bmNhdGlvbltOU1RleHRMaXN0c4AAEAKADIAKEAGACtITDDY3oIAL0jk6OzxaJGNsYXNzbmFtZVgkY2xhc3Nlc1dOU0FycmF5ojs9WE5TT2JqZWN00jk6P0BfEBdOU011dGFibGVQYXJhZ3JhcGhTdHlsZaM/QT1fEBBOU1BhcmFncmFwaFN0eWxl0gxDREVfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AUgA7TGRMMR0pNokhJgA+AEKJLTIARgBKAE18QE05TRm9udFNpemVBdHRyaWJ1dGVfEBNOU0ZvbnROYW1lQXR0cmlidXRlI0A6AAAAAAAAXxASTm90b1NhbnNDSktqcC1Cb2xk0jk6U1RfEBNOU011dGFibGVEaWN0aW9uYXJ5o1NVPVxOU0RpY3Rpb25hcnnSOTpXWF8QEE5TRm9udERlc2NyaXB0b3KiWT1fEBBOU0ZvbnREZXNjcmlwdG9y0xkTDFtgJKRcXV5fgBaAF4AYgBmkYWJjZIAagBuAHIAdgB5TcmVkVWFscGhhVGJsdWVVZ3JlZW4jP8mZmZmZmZojP/AAAAAAAAAjP8mZmZmZmZojP8mZmZmZmZrSOTpVb6JVPSM/8zMzQAAAANMZEwxydySkG3R1HoAFgCGAIoAIpHh5enuAI4AkgCmALYAeXxAfTVNBdHRyaWJ1dGVkU3RyaW5nRm9udEF0dHJpYnV0ZV8QKk1TQXR0cmlidXRlZFN0cmluZ0NvbG9yRGljdGlvbmFyeUF0dHJpYnV0ZdYqKwwsLS4vMDEyMzKAAIAMgAqACtIMQ0SGgBSAJdMZEwyIi02iiYqAJoAnokuNgBGAKIATXxATTlNGb250U2l6ZUF0dHJpYnV0ZV8QE05TRm9udE5hbWVBdHRyaWJ1dGVfEBJOb3RvU2Fuc0NKS2pwLUJvbGTTGRMMk5gkpFxdXl+AFoAXgBiAGaSZYpucgCqAG4ArgCyAHiM/yZmZmZmZmiM/yZmZmZmZmiM/yZmZmZmZmhAA0jk6o6ReTlNNdXRhYmxlQXJyYXmjozs90qYMp6hXTlMuZGF0YUQKAAEBgDDSOTqqq11OU011dGFibGVEYXRho6qsPVZOU0RhdGHSOTqur18QEk5TQXR0cmlidXRlZFN0cmluZ6KwPV8QEk5TQXR0cmlidXRlZFN0cmluZ18QD05TS2V5ZWRBcmNoaXZlctGztFRyb290gAEACAARABoAIwAtADIANwBsAHIAewCEAJYAowCqAKwArgCwALIAyQDOANkA3ADeAOAA4gDpAPEA9gD4APoA/AD+AQMBBQEHAQkBCwENASABQgFvAXYBgwGOAZoBpwHJAdUB1wHZAdsB3QHfAeEB5gHnAekB7gH5AgICCgINAhYCGwI1AjkCTAJRAm4CcAJyAnkCfAJ+AoACgwKFAocCiQKfArUCvgLTAtgC7gLyAv8DBAMXAxoDLQM0AzkDOwM9Az8DQQNGA0gDSgNMA04DUANUA1oDXwNlA24DdwOAA4kDjgORA5oDoQOmA6gDqgOsA64DswO1A7cDuQO7A70D3wQMBBkEGwQdBB8EIQQmBCgEKgQxBDQENgQ4BDsEPQQ/BEEEVwRtBIIEiQSOBJAEkgSUBJYEmwSdBJ8EoQSjBKUErgS3BMAEwgTHBNYE2gTfBOcE7ATuBPMFAQUFBQwFEQUmBSkFPgVQBVMFWAAAAAAAAAIBAAAAAAAAALUAAAAAAAAAAAAAAAAAAAVa"
+    }
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "FB886BC5-8C88-44B7-8FD9-7473C53A463D",
@@ -103,24 +51,18 @@
       "_class": "textStyle",
       "do_objectID": "D72D4962-2AE9-4610-99D6-93B19467A4E9",
       "encodedAttributes": {
-        "MSAttributedStringColorAttribute": {
-          "_class": "color",
+        "MSAttributedStringColorDictionaryAttribute": {
           "alpha": 1,
           "blue": 0.2,
           "green": 0.2,
           "red": 0.2
         },
         "MSAttributedStringFontAttribute": {
-          "_class": "fontDescriptor",
-          "attributes": {
-            "name": "NotoSansCJKjp-Bold",
-            "size": 26
-          }
+          "_archive": "YnBsaXN0MDDUAQIDBAUGJidYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKkHCA0XGBkaGyJVJG51bGzSCQoLDFYkY2xhc3NfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AIgALTDg8JEBMWV05TLmtleXNaTlMub2JqZWN0c6IREoADgASiFBWABYAGgAdfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNAOgAAAAAAAF8QEk5vdG9TYW5zQ0pLanAtQm9sZNIcHR4fWiRjbGFzc25hbWVYJGNsYXNzZXNfEBNOU011dGFibGVEaWN0aW9uYXJ5ox4gIVxOU0RpY3Rpb25hcnlYTlNPYmplY3TSHB0jJF8QEE5TRm9udERlc2NyaXB0b3KiJSFfEBBOU0ZvbnREZXNjcmlwdG9yXxAPTlNLZXllZEFyY2hpdmVy0SgpVHJvb3SAAQAIABEAGgAjAC0AMgA3AEEARwBMAFMAcAByAHQAewCDAI4AkQCTAJUAmACaAJwAngC0AMoA0wDoAO0A+AEBARcBGwEoATEBNgFJAUwBXwFxAXQBeQAAAAAAAAIBAAAAAAAAACoAAAAAAAAAAAAAAAAAAAF7"
         },
         "kerning": 1.200000047683716,
         "paragraphStyle": {
-          "_class": "paragraphStyle",
-          "alignment": 2
+          "_archive": "YnBsaXN0MDDUAQIDBAUGIyRYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKUHCBUZH1UkbnVsbNYJCgsMDQ4PEBESExJaTlNUYWJTdG9wc1tOU0FsaWdubWVudFYkY2xhc3NcTlNUZXh0QmxvY2tzXxAfTlNBbGxvd3NUaWdodGVuaW5nRm9yVHJ1bmNhdGlvbltOU1RleHRMaXN0c4AAEAKABIACEAGAAtIWCxcYWk5TLm9iamVjdHOggAPSGhscHVokY2xhc3NuYW1lWCRjbGFzc2VzV05TQXJyYXmiHB5YTlNPYmplY3TSGhsgIV8QF05TTXV0YWJsZVBhcmFncmFwaFN0eWxloyAiHl8QEE5TUGFyYWdyYXBoU3R5bGVfEA9OU0tleWVkQXJjaGl2ZXLRJSZUcm9vdIABAAgAEQAaACMALQAyADcAPQBDAFAAWwBnAG4AewCdAKkAqwCtAK8AsQCzALUAugDFAMYAyADNANgA4QDpAOwA9QD6ARQBGAErAT0BQAFFAAAAAAAAAgEAAAAAAAAAJwAAAAAAAAAAAAAAAAAAAUc="
         }
       },
       "verticalAlignment": 0

@@ -1,64 +1,10 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "attributedString",
-    "attributes": [
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0.2,
-            "green": 0.2,
-            "red": 0.2
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "YuGo-Medium",
-              "size": 28
-            }
-          },
-          "kerning": 0.7000001,
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "maximumLineHeight": 40,
-            "minimumLineHeight": 40
-          }
-        },
-        "length": 1,
-        "location": 0
-      },
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0.2,
-            "green": 0.2,
-            "red": 0.2
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "YuGo-Bold",
-              "size": 28
-            }
-          },
-          "kerning": 0.7000001,
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "maximumLineHeight": 40,
-            "minimumLineHeight": 40
-          }
-        },
-        "length": 29,
-        "location": 1
-      }
-    ],
-    "string": "　\nMonthly market vol.3を\n発行しました"
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGoqNYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QKwcIERIYJSYnKCk0Oz9HSElKS09TX2BhYmNkZWZnaWp2eYGCjo+QkZKWmp5VJG51bGzUCQoLDA0ODxBYTlNTdHJpbmdfEA9OU0F0dHJpYnV0ZUluZm9cTlNBdHRyaWJ1dGVzViRjbGFzc4ACgCiAA4AqbxAeMAAACgBNAG8AbgB0AGgAbAB5ACAAbQBhAHIAawBlAHQAIAB2AG8AbAAuADMwkgAKdnqITDBXMH4wVzBf0hMMFBdaTlMub2JqZWN0c6IVFoAEgB6AJ9MZEwwaHyRXTlMua2V5c6QbHB0egAWABoAHgAikICEiI4AJgAuAE4AdgBxfEBBOU1BhcmFncmFwaFN0eWxlXxAfTVNBdHRyaWJ1dGVkU3RyaW5nRm9udEF0dHJpYnV0ZV8QKk1TQXR0cmlidXRlZFN0cmluZ0NvbG9yRGljdGlvbmFyeUF0dHJpYnV0ZVZOU0tlcm7WKissDC0uLzAxMjMxW05TQWxpZ25tZW50Wk5TVGFiU3RvcHNfEA9OU01pbkxpbmVIZWlnaHRfEB9OU0FsbG93c1RpZ2h0ZW5pbmdGb3JUcnVuY2F0aW9uXxAPTlNNYXhMaW5lSGVpZ2h0EASAACNARAAAAAAAAIAKEAHSNTY3OFokY2xhc3NuYW1lWCRjbGFzc2VzXxAXTlNNdXRhYmxlUGFyYWdyYXBoU3R5bGWjNzk6XxAQTlNQYXJhZ3JhcGhTdHlsZVhOU09iamVjdNIMPD0+XxAaTlNGb250RGVzY3JpcHRvckF0dHJpYnV0ZXOAEoAM0xkTDEBDRqJBQoANgA6iREWAD4AQgBFfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNAPAAAAAAAAFtZdUdvLU1lZGl1bdI1NkxNXxATTlNNdXRhYmxlRGljdGlvbmFyeaNMTjpcTlNEaWN0aW9uYXJ50jU2UFFfEBBOU0ZvbnREZXNjcmlwdG9yolI6XxAQTlNGb250RGVzY3JpcHRvctMZEwxUWSSkVVZXWIAUgBWAFoAXpFpbXF2AGIAZgBqAG4AcU3JlZFVhbHBoYVRibHVlVWdyZWVuIz/JmZmZmZmaIz/wAAAAAAAAIz/JmZmZmZmaIz/JmZmZmZma0jU2TmiiTjoiPzMzNdMZEwxrcCSkGxwdHoAFgAaAB4AIpCByc3SACYAfgCKAJoAc0gw8PXiAEoAg0xkTDHp9RqJBQoANgA6iRH+AD4AhgBFZWXVHby1Cb2xk0xkTDIOIJKRVVldYgBSAFYAWgBekiVuLjIAjgBmAJIAlgBwjP8mZmZmZmZojP8mZmZmZmZojP8mZmZmZmZoiPzMzNdI1NpOUXk5TTXV0YWJsZUFycmF5o5OVOldOU0FycmF50pcMmJlXTlMuZGF0YUQBAB0BgCnSNTabnF1OU011dGFibGVEYXRho5udOlZOU0RhdGHSNTafoF8QEk5TQXR0cmlidXRlZFN0cmluZ6KhOl8QEk5TQXR0cmlidXRlZFN0cmluZ18QD05TS2V5ZWRBcmNoaXZlctGkpVRyb290gAEACAARABoAIwAtADIANwBlAGsAdAB9AI8AnACjAKUApwCpAKsA6gDvAPoA/QD/AQEBAwEKARIBFwEZARsBHQEfASQBJgEoASoBLAEuAUEBYwGQAZcBpAGwAbsBzQHvAgECAwIFAg4CEAISAhcCIgIrAkUCSQJcAmUCagKHAokCiwKSApUClwKZApwCngKgAqICuALOAtcC4wLoAv4DAgMPAxQDJwMqAz0DRANJA0sDTQNPA1EDVgNYA1oDXANeA2ADZANqA28DdQN+A4cDkAOZA54DoQOmA60DsgO0A7YDuAO6A78DwQPDA8UDxwPJA84D0APSA9kD3APeA+AD4wPlA+cD6QPzA/oD/wQBBAMEBQQHBAwEDgQQBBIEFAQWBB8EKAQxBDYEOwRKBE4EVgRbBGMEaARqBG8EfQSBBIgEjQSiBKUEugTMBM8E1AAAAAAAAAIBAAAAAAAAAKYAAAAAAAAAAAAAAAAAAATW"
+    }
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "403224ED-70FC-49D4-80F4-48BA536315B4",
@@ -119,25 +65,18 @@
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
-        "MSAttributedStringColorAttribute": {
-          "_class": "color",
+        "MSAttributedStringColorDictionaryAttribute": {
           "alpha": 1,
           "blue": 0.2,
           "green": 0.2,
           "red": 0.2
         },
         "MSAttributedStringFontAttribute": {
-          "_class": "fontDescriptor",
-          "attributes": {
-            "name": "YuGo-Medium",
-            "size": 28
-          }
+          "_archive": "YnBsaXN0MDDUAQIDBAUGJidYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKkHCA0XGBkaGyJVJG51bGzSCQoLDFYkY2xhc3NfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AIgALTDg8JEBMWV05TLmtleXNaTlMub2JqZWN0c6IREoADgASiFBWABYAGgAdfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNAPAAAAAAAAFtZdUdvLU1lZGl1bdIcHR4fWiRjbGFzc25hbWVYJGNsYXNzZXNfEBNOU011dGFibGVEaWN0aW9uYXJ5ox4gIVxOU0RpY3Rpb25hcnlYTlNPYmplY3TSHB0jJF8QEE5TRm9udERlc2NyaXB0b3KiJSFfEBBOU0ZvbnREZXNjcmlwdG9yXxAPTlNLZXllZEFyY2hpdmVy0SgpVHJvb3SAAQAIABEAGgAjAC0AMgA3AEEARwBMAFMAcAByAHQAewCDAI4AkQCTAJUAmACaAJwAngC0AMoA0wDfAOQA7wD4AQ4BEgEfASgBLQFAAUMBVgFoAWsBcAAAAAAAAAIBAAAAAAAAACoAAAAAAAAAAAAAAAAAAAFy"
         },
         "kerning": 0.7000001,
         "paragraphStyle": {
-          "_class": "paragraphStyle",
-          "maximumLineHeight": 40,
-          "minimumLineHeight": 40
+          "_archive": "YnBsaXN0MDDUAQIDBAUGGxxYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKMHCBRVJG51bGzWCQoLDA0ODxAREhMRW05TQWxpZ25tZW50Wk5TVGFiU3RvcHNfEA9OU01pbkxpbmVIZWlnaHRWJGNsYXNzXxAfTlNBbGxvd3NUaWdodGVuaW5nRm9yVHJ1bmNhdGlvbl8QD05TTWF4TGluZUhlaWdodBAEgAAjQEQAAAAAAACAAhAB0hUWFxhaJGNsYXNzbmFtZVgkY2xhc3Nlc18QF05TTXV0YWJsZVBhcmFncmFwaFN0eWxloxcZGl8QEE5TUGFyYWdyYXBoU3R5bGVYTlNPYmplY3RfEA9OU0tleWVkQXJjaGl2ZXLRHR5Ucm9vdIABAAgAEQAaACMALQAyADcAOwBBAE4AWgBlAHcAfgCgALIAtAC2AL8AwQDDAMgA0wDcAPYA+gENARYBKAErATAAAAAAAAACAQAAAAAAAAAfAAAAAAAAAAAAAAAAAAABMg=="
         }
       },
       "verticalAlignment": 0

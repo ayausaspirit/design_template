@@ -57,7 +57,7 @@
         "fillType": 4,
         "image": {
           "_class": "MSJSONFileReference",
-          "_ref": "images/7cc920d520b5dcf3f1549226491820a7c456c9e7.png",
+          "_ref": "images/7cc920d520b5dcf3f1549226491820a7c456c9e7",
           "_ref_class": "MSImageData"
         },
         "isEnabled": true,

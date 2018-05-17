@@ -1,38 +1,10 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "attributedString",
-    "attributes": [
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0.337254902,
-            "green": 0.337254902,
-            "red": 0.337254902
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "HiraginoSans-W4",
-              "size": 14
-            }
-          },
-          "kerning": -0.3575000488758087,
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "alignment": 0,
-            "maximumLineHeight": 19.6,
-            "minimumLineHeight": 19.6
-          }
-        },
-        "length": 80,
-        "location": 0
-      }
-    ],
-    "string": "当院では、長期療養型の病院なので患者様とじっくり向き合う人を募集しています。家事・育児等を両立可能しながら働き続けられる「勤務体制」「待遇」をご用意しています。"
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGdHVYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QIQcIDxAeHyAhIjAzOj1BRU1OT1BRVVllZmdoaWprbG1vcFUkbnVsbNMJCgsMDQ5YTlNTdHJpbmdWJGNsYXNzXE5TQXR0cmlidXRlc4ACgCCAA28QUF9TlmIwZzBvMAGVd2cfdkKZCleLMG51xZZiMGowbjBnYKOABWnYMGgwWDBjME8wilQRME1UCDBGTrowklLflsYwVzBmMEQwfjBZMAJbtk6LMPuAslFQe0kwkk4hestT74D9MFcwajBMMIlQzTBNfZowUTCJMIwwizAMUuRS2U9TUjYwDTAMX4WQRzANMJIwVHUoYQ8wVzBmMEQwfjBZMALTERIKExgdV05TLmtleXNaTlMub2JqZWN0c6QUFRYXgASABYAGgAekGRobHIAIgA2AFYAfgB5fEBBOU1BhcmFncmFwaFN0eWxlXxAfTVNBdHRyaWJ1dGVkU3RyaW5nRm9udEF0dHJpYnV0ZV8QKk1TQXR0cmlidXRlZFN0cmluZ0NvbG9yRGljdGlvbmFyeUF0dHJpYnV0ZVZOU0tlcm7XCiMkJSYnKCkqKywtLi9aTlNUYWJTdG9wc1tOU1RleHRMaXN0c1xOU1RleHRCbG9ja3NfEB9OU0FsbG93c1RpZ2h0ZW5pbmdGb3JUcnVuY2F0aW9uXxAPTlNNYXhMaW5lSGVpZ2h0XxAPTlNNaW5MaW5lSGVpZ2h0gAyAAIALgAkQASNAM5mZmZmZmiNAM5mZmZmZmtISCjEyoIAK0jQ1NjdaJGNsYXNzbmFtZVgkY2xhc3Nlc15OU011dGFibGVBcnJheaM2ODlXTlNBcnJheVhOU09iamVjdNISCjsyoIAK0jQ1Pj9fEBdOU011dGFibGVQYXJhZ3JhcGhTdHlsZaM+QDlfEBBOU1BhcmFncmFwaFN0eWxl0gpCQ0RfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AUgA7TERIKRklMokdIgA+AEKJKS4ARgBKAE18QE05TRm9udFNpemVBdHRyaWJ1dGVfEBNOU0ZvbnROYW1lQXR0cmlidXRlEA5fEA9IaXJhZ2lub1NhbnMtVzTSNDVSU18QE05TTXV0YWJsZURpY3Rpb25hcnmjUlQ5XE5TRGljdGlvbmFyedI0NVZXXxAQTlNGb250RGVzY3JpcHRvcqJYOV8QEE5TRm9udERlc2NyaXB0b3LTERIKWl8dpFtcXV6AFoAXgBiAGaRgYWJjgBqAG4AcgB2AHlNyZWRVYWxwaGFUYmx1ZVVncmVlbiM/1ZWVlaBdJSM/8AAAAAAAACM/1ZWVlaBdJSM/1ZWVlaBdJdI0NVRuolQ5I7/W4Ufij1wp0jQ1cXJfEBJOU0F0dHJpYnV0ZWRTdHJpbmeiczlfEBJOU0F0dHJpYnV0ZWRTdHJpbmdfEA9OU0tleWVkQXJjaGl2ZXLRdndUcm9vdIABAAgAEQAaACMALQAyADcAWwBhAGgAcQB4AIUAhwCJAIsBLgE1AT0BSAFNAU8BUQFTAVUBWgFcAV4BYAFiAWQBdwGZAcYBzQHcAecB8wIAAiICNAJGAkgCSgJMAk4CUAJZAmICZwJoAmoCbwJ6AoMCkgKWAp4CpwKsAq0CrwK0As4C0gLlAuoDBwMJAwsDEgMVAxcDGQMcAx4DIAMiAzgDTgNQA2IDZwN9A4EDjgOTA6YDqQO8A8MDyAPKA8wDzgPQA9UD1wPZA9sD3QPfA+MD6QPuA/QD/QQGBA8EGAQdBCAEKQQuBEMERgRbBG0EcAR1AAAAAAAAAgEAAAAAAAAAeAAAAAAAAAAAAAAAAAAABHc="
+    }
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "396CF184-155F-436C-8981-F2371332978E",
@@ -87,18 +59,11 @@
           "red": 0.337254902
         },
         "MSAttributedStringFontAttribute": {
-          "_class": "fontDescriptor",
-          "attributes": {
-            "name": "HiraginoSans-W4",
-            "size": 14
-          }
+          "_archive": "YnBsaXN0MDDUAQIDBAUGJidYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKkHCA0XGBkaGyJVJG51bGzSCQoLDFYkY2xhc3NfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AIgALTDg8JEBMWV05TLmtleXNaTlMub2JqZWN0c6IREoADgASiFBWABYAGgAdfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZRAOXxAPSGlyYWdpbm9TYW5zLVc00hwdHh9aJGNsYXNzbmFtZVgkY2xhc3Nlc18QE05TTXV0YWJsZURpY3Rpb25hcnmjHiAhXE5TRGljdGlvbmFyeVhOU09iamVjdNIcHSMkXxAQTlNGb250RGVzY3JpcHRvcqIlIV8QEE5TRm9udERlc2NyaXB0b3JfEA9OU0tleWVkQXJjaGl2ZXLRKClUcm9vdIABAAgAEQAaACMALQAyADcAQQBHAEwAUwBwAHIAdAB7AIMAjgCRAJMAlQCYAJoAnACeALQAygDMAN4A4wDuAPcBDQERAR4BJwEsAT8BQgFVAWcBagFvAAAAAAAAAgEAAAAAAAAAKgAAAAAAAAAAAAAAAAAAAXE="
         },
         "kerning": -0.3575000488758087,
         "paragraphStyle": {
-          "_class": "paragraphStyle",
-          "alignment": 0,
-          "maximumLineHeight": 19.6,
-          "minimumLineHeight": 19.6
+          "_archive": "YnBsaXN0MDDUAQIDBAUGKSpYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKYHCBcbIiVVJG51bGzXCQoLDA0ODxAREhMUFRZWJGNsYXNzWk5TVGFiU3RvcHNbTlNUZXh0TGlzdHNcTlNUZXh0QmxvY2tzXxAfTlNBbGxvd3NUaWdodGVuaW5nRm9yVHJ1bmNhdGlvbl8QD05TTWF4TGluZUhlaWdodF8QD05TTWluTGluZUhlaWdodIAFgACABIACEAEjQDOZmZmZmZojQDOZmZmZmZrSGAkZGlpOUy5vYmplY3RzoIAD0hwdHh9aJGNsYXNzbmFtZVgkY2xhc3Nlc15OU011dGFibGVBcnJheaMeICFXTlNBcnJheVhOU09iamVjdNIYCSMaoIAD0hwdJidfEBdOU011dGFibGVQYXJhZ3JhcGhTdHlsZaMmKCFfEBBOU1BhcmFncmFwaFN0eWxlXxAPTlNLZXllZEFyY2hpdmVy0SssVHJvb3SAAQAIABEAGgAjAC0AMgA3AD4ARABTAFoAZQBxAH4AoACyAMQAxgDIAMoAzADOANcA4ADlAPAA8QDzAPgBAwEMARsBHwEnATABNQE2ATgBPQFXAVsBbgGAAYMBiAAAAAAAAAIBAAAAAAAAAC0AAAAAAAAAAAAAAAAAAAGK"
         }
       },
       "verticalAlignment": 0

@@ -30,6 +30,43 @@
   "layerListExpandedType": 0,
   "name": "Shape sp-243-0",
   "nameIsFixed": false,
+  "path": {
+    "_class": "path",
+    "isClosed": true,
+    "pointRadiusBehaviour": 0,
+    "points": [
+      {
+        "_class": "curvePoint",
+        "cornerRadius": 0,
+        "curveFrom": "{0.52652900000000002, 0.152615}",
+        "curveMode": 1,
+        "curveTo": "{0.52652900000000002, 0.152615}",
+        "hasCurveFrom": false,
+        "hasCurveTo": false,
+        "point": "{0.52652900000000002, 0.152615}"
+      },
+      {
+        "_class": "curvePoint",
+        "cornerRadius": 0,
+        "curveFrom": "{0.92548900000000001, 0.92092099999999999}",
+        "curveMode": 1,
+        "curveTo": "{0.92548900000000001, 0.92092099999999999}",
+        "hasCurveFrom": false,
+        "hasCurveTo": false,
+        "point": "{0.92548900000000001, 0.92092099999999999}"
+      },
+      {
+        "_class": "curvePoint",
+        "cornerRadius": 0,
+        "curveFrom": "{0.127577, 0.92092099999999999}",
+        "curveMode": 1,
+        "curveTo": "{0.127577, 0.92092099999999999}",
+        "hasCurveFrom": false,
+        "hasCurveTo": false,
+        "point": "{0.127577, 0.92092099999999999}"
+      }
+    ]
+  },
   "pointRadiusBehaviour": 0,
   "points": [
     {

@@ -1,39 +1,10 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "attributedString",
-    "attributes": [
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0.3372549019607843,
-            "green": 0.3372549019607843,
-            "red": 0.3372549019607843
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "YuGo-Medium",
-              "size": 14
-            }
-          },
-          "kerning": -0.2010256,
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "alignment": 0,
-            "allowsDefaultTighteningForTruncation": 0,
-            "maximumLineHeight": 19.6,
-            "minimumLineHeight": 19.6
-          }
-        },
-        "length": 40,
-        "location": 0
-      }
-    ],
-    "string": "独自技術で日本の農業をサポート - チェンソー、芝刈り機の名門ハスクバーナ..."
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGcnNYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QIQcIDxAeHyAhIi4xODs/Q0tMTU5PU1djZGVmZ2hpamtsblUkbnVsbNMJCgsMDQ5YTlNTdHJpbmdWJGNsYXNzXE5TQXR0cmlidXRlc4ACgCCAA28QKHLsgepigIhTMGdl5WcsMG6PsmltMJIwtTDdMPwwyAAgAC0AIDDBMKcw8zC9MPwwAYKdUggwimpfMG5UDZWAMM8wuTCvMNAw/DDKAC4ALgAu0xESChMYHVdOUy5rZXlzWk5TLm9iamVjdHOkFBUWF4AEgAWABoAHpBkaGxyACIANgBWAHoAfXxAQTlNQYXJhZ3JhcGhTdHlsZV8QH01TQXR0cmlidXRlZFN0cmluZ0ZvbnRBdHRyaWJ1dGVfECpNU0F0dHJpYnV0ZWRTdHJpbmdDb2xvckRpY3Rpb25hcnlBdHRyaWJ1dGVWTlNLZXJu1iMkJSYKJygpKissLVpOU1RhYlN0b3BzW05TVGV4dExpc3RzXxAPTlNNaW5MaW5lSGVpZ2h0XE5TVGV4dEJsb2Nrc18QD05TTWF4TGluZUhlaWdodIAAgAsjQDOZmZmZmZqACYAMI0AzmZmZmZma0hIKLzCggArSMjM0NVokY2xhc3NuYW1lWCRjbGFzc2VzXk5TTXV0YWJsZUFycmF5ozQ2N1dOU0FycmF5WE5TT2JqZWN00hIKOTCggArSMjM8PV8QF05TTXV0YWJsZVBhcmFncmFwaFN0eWxlozw+N18QEE5TUGFyYWdyYXBoU3R5bGXSCkBBQl8QGk5TRm9udERlc2NyaXB0b3JBdHRyaWJ1dGVzgBSADtMREgpER0qiRUaAD4AQokhJgBGAEoATXxATTlNGb250U2l6ZUF0dHJpYnV0ZV8QE05TRm9udE5hbWVBdHRyaWJ1dGUQDltZdUdvLU1lZGl1bdIyM1BRXxATTlNNdXRhYmxlRGljdGlvbmFyeaNQUjdcTlNEaWN0aW9uYXJ50jIzVFVfEBBOU0ZvbnREZXNjcmlwdG9yolY3XxAQTlNGb250RGVzY3JpcHRvctMREgpYXUqkWVpbXIAWgBeAGIAZpF5fYGGAGoAbgByAHYATU3JlZFVhbHBoYVRibHVlVWdyZWVuIz/VlZWVlZWVEAEjP9WVlZWVlZUjP9WVlZWVlZUjv8m7NPTUUtPSMjNSbaJSN9IyM29wXxASTlNBdHRyaWJ1dGVkU3RyaW5nonE3XxASTlNBdHRyaWJ1dGVkU3RyaW5nXxAPTlNLZXllZEFyY2hpdmVy0XR1VHJvb3SAAQAIABEAGgAjAC0AMgA3AFsAYQBoAHEAeACFAIcAiQCLAN4A5QDtAPgA/QD/AQEBAwEFAQoBDAEOARABEgEUAScBSQF2AX0BigGVAaEBswHAAdIB1AHWAd8B4QHjAewB8QHyAfQB+QIEAg0CHAIgAigCMQI2AjcCOQI+AlgCXAJvAnQCkQKTApUCnAKfAqECowKmAqgCqgKsAsIC2ALaAuYC6wMBAwUDEgMXAyoDLQNAA0cDTANOA1ADUgNUA1kDWwNdA18DYQNjA2cDbQNyA3gDgQODA4wDlQOeA6MDpgOrA8ADwwPYA+oD7QPyAAAAAAAAAgEAAAAAAAAAdgAAAAAAAAAAAAAAAAAAA/Q="
+    }
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "CD92BE7D-5046-44D1-AA11-1036D1853B42",
@@ -81,27 +52,18 @@
       "_class": "textStyle",
       "do_objectID": "AB380E13-62A7-4E60-8E63-DFEA254FE48F",
       "encodedAttributes": {
-        "MSAttributedStringColorAttribute": {
-          "_class": "color",
+        "MSAttributedStringColorDictionaryAttribute": {
           "alpha": 1,
           "blue": 0.3372549019607843,
           "green": 0.3372549019607843,
           "red": 0.3372549019607843
         },
         "MSAttributedStringFontAttribute": {
-          "_class": "fontDescriptor",
-          "attributes": {
-            "name": "YuGo-Medium",
-            "size": 14
-          }
+          "_archive": "YnBsaXN0MDDUAQIDBAUGJidYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKkHCA0XGBkaGyJVJG51bGzSCQoLDFYkY2xhc3NfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AIgALTDg8JEBMWV05TLmtleXNaTlMub2JqZWN0c6IREoADgASiFBWABYAGgAdfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZRAOW1l1R28tTWVkaXVt0hwdHh9aJGNsYXNzbmFtZVgkY2xhc3Nlc18QE05TTXV0YWJsZURpY3Rpb25hcnmjHiAhXE5TRGljdGlvbmFyeVhOU09iamVjdNIcHSMkXxAQTlNGb250RGVzY3JpcHRvcqIlIV8QEE5TRm9udERlc2NyaXB0b3JfEA9OU0tleWVkQXJjaGl2ZXLRKClUcm9vdIABAAgAEQAaACMALQAyADcAQQBHAEwAUwBwAHIAdAB7AIMAjgCRAJMAlQCYAJoAnACeALQAygDMANgA3QDoAPEBBwELARgBIQEmATkBPAFPAWEBZAFpAAAAAAAAAgEAAAAAAAAAKgAAAAAAAAAAAAAAAAAAAWs="
         },
         "kerning": -0.2010256,
         "paragraphStyle": {
-          "_class": "paragraphStyle",
-          "alignment": 0,
-          "allowsDefaultTighteningForTruncation": 0,
-          "maximumLineHeight": 19.6,
-          "minimumLineHeight": 19.6
+          "_archive": "YnBsaXN0MDDUAQIDBAUGJyhYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKYHCBUZICNVJG51bGzWCQoLDA0ODxAREhMUWk5TVGFiU3RvcHNbTlNUZXh0TGlzdHNfEA9OU01pbkxpbmVIZWlnaHRcTlNUZXh0QmxvY2tzViRjbGFzc18QD05TTWF4TGluZUhlaWdodIAAgAQjQDOZmZmZmZqAAoAFI0AzmZmZmZma0hYNFxhaTlMub2JqZWN0c6CAA9IaGxwdWiRjbGFzc25hbWVYJGNsYXNzZXNeTlNNdXRhYmxlQXJyYXmjHB4fV05TQXJyYXlYTlNPYmplY3TSFg0hGKCAA9IaGyQlXxAXTlNNdXRhYmxlUGFyYWdyYXBoU3R5bGWjJCYfXxAQTlNQYXJhZ3JhcGhTdHlsZV8QD05TS2V5ZWRBcmNoaXZlctEpKlRyb290gAEACAARABoAIwAtADIANwA+AEQAUQBcAGgAegCHAI4AoACiAKQArQCvALEAugC/AMoAywDNANIA3QDmAPUA+QEBAQoBDwEQARIBFwExATUBSAFaAV0BYgAAAAAAAAIBAAAAAAAAACsAAAAAAAAAAAAAAAAAAAFk"
         }
       },
       "verticalAlignment": 0

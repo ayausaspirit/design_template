@@ -1,42 +1,10 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "attributedString",
-    "attributes": [
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0.2,
-            "green": 0.2,
-            "red": 0.2
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "KozGoPr6N-Bold",
-              "size": 18
-            }
-          },
-          "MSAttributedStringTextTransformAttribute": 0,
-          "kerning": 2.16,
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "alignment": 0,
-            "maximumLineHeight": 39.95263,
-            "minimumLineHeight": 39.95263,
-            "paragraphSpacing": 1
-          },
-          "strikethroughStyle": 0,
-          "underlineStyle": 0
-        },
-        "length": 10,
-        "location": 0
-      }
-    ],
-    "string": "Indonesia "
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGe3xYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QJAcIDxAkJSYnKCkqKy83ODk6O0JGR1NUVVZXWFlaW11sb3J2d1UkbnVsbNMJCgsMDQ5YTlNTdHJpbmdWJGNsYXNzXE5TQXR0cmlidXRlc4ACgCOAA1pJbmRvbmVzaWEg0xESChMbI1dOUy5rZXlzWk5TLm9iamVjdHOnFBUWFxgZGoAEgAWABoAHgAiACYAKpxwdHR0gISKAC4ATgBOAE4AUgB6AIoAdXxAfTVNBdHRyaWJ1dGVkU3RyaW5nRm9udEF0dHJpYnV0ZV8QD05TU3RyaWtldGhyb3VnaFtOU1VuZGVybGluZV8QKE1TQXR0cmlidXRlZFN0cmluZ1RleHRUcmFuc2Zvcm1BdHRyaWJ1dGVfECpNU0F0dHJpYnV0ZWRTdHJpbmdDb2xvckRpY3Rpb25hcnlBdHRyaWJ1dGVfEBBOU1BhcmFncmFwaFN0eWxlVk5TS2VybtIKLC0uXxAaTlNGb250RGVzY3JpcHRvckF0dHJpYnV0ZXOAEoAM0xESCjAzNqIxMoANgA6iNDWAD4AQgBFfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNAMgAAAAAAAF5Lb3pHb1ByNk4tQm9sZNI8PT4/WiRjbGFzc25hbWVYJGNsYXNzZXNfEBNOU011dGFibGVEaWN0aW9uYXJ5oz5AQVxOU0RpY3Rpb25hcnlYTlNPYmplY3TSPD1DRF8QEE5TRm9udERlc2NyaXB0b3KiRUFfEBBOU0ZvbnREZXNjcmlwdG9yEADTERIKSE0jpElKS0yAFYAWgBeAGKROT1BRgBmAGoAbgByAHVNyZWRVYWxwaGFUYmx1ZVVncmVlbiM/yZmZmZmZmiM/8AAAAAAAACM/yZmZmZmZmiM/yZmZmZmZmtI8PUBcokBB2ApeX2BhYmNkZWZnZ1hpamtaTlNUYWJTdG9wc1xOU1RleHRCbG9ja3NbTlNUZXh0TGlzdHNfEBJOU1BhcmFncmFwaFNwYWNpbmdfEB9OU0FsbG93c1RpZ2h0ZW5pbmdGb3JUcnVuY2F0aW9uXxAPTlNNYXhMaW5lSGVpZ2h0XxAPTlNNaW5MaW5lSGVpZ2h0gCGAAIAfgB8QASNAQ/nvx6OYICNAQ/nvx6OYINISCm1uoIAg0jw9cHFXTlNBcnJheaJwQdI8PXN0XxAXTlNNdXRhYmxlUGFyYWdyYXBoU3R5bGWjc3VBXxAQTlNQYXJhZ3JhcGhTdHlsZSNAAUeuFHrhSNI8PXh5XxASTlNBdHRyaWJ1dGVkU3RyaW5nonpBXxASTlNBdHRyaWJ1dGVkU3RyaW5nXxAPTlNLZXllZEFyY2hpdmVy0X1+VHJvb3SAAQAIABEAGgAjAC0AMgA3AF4AZABrAHQAewCIAIoAjACOAJkAoACoALMAuwC9AL8AwQDDAMUAxwDJANEA0wDVANcA2QDbAN0A3wDhAQMBFQEhAUwBeQGMAZMBmAG1AbcBuQHAAcMBxQHHAcoBzAHOAdAB5gH8AgUCFAIZAiQCLQJDAkcCVAJdAmICdQJ4AosCjQKUApkCmwKdAp8CoQKmAqgCqgKsAq4CsAK0AroCvwLFAs4C1wLgAukC7gLxAwIDDQMaAyYDOwNdA28DgQODA4UDhwOJA4sDlAOdA6IDowOlA6oDsgO1A7oD1APYA+sD9AP5BA4EEQQmBDgEOwRAAAAAAAAAAgEAAAAAAAAAfwAAAAAAAAAAAAAAAAAABEI="
+    }
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "D578A533-FA1C-416F-B2E3-3A759A1C8559",

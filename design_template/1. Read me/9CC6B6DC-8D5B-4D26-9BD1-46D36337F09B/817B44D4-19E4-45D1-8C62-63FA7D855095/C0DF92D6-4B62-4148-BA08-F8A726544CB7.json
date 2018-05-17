@@ -1,139 +1,10 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "attributedString",
-    "attributes": [
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0.2039215686,
-            "green": 0.1607843137,
-            "red": 0.08235294118
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "HiraginoSans-W3",
-              "size": 16
-            }
-          },
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "alignment": 0,
-            "allowsDefaultTighteningForTruncation": 0,
-            "maximumLineHeight": 24,
-            "minimumLineHeight": 24,
-            "paragraphSpacing": 10,
-            "tabStops": [
-              {
-                "_class": "textTab",
-                "alignment": 0,
-                "location": 11,
-                "options": {
-                }
-              },
-              {
-                "_class": "textTab",
-                "alignment": 0,
-                "location": 36,
-                "options": {
-                }
-              },
-              {
-                "_class": "textTab",
-                "alignment": 0,
-                "location": 56.65000152587891,
-                "options": {
-                }
-              },
-              {
-                "_class": "textTab",
-                "alignment": 0,
-                "location": 85,
-                "options": {
-                }
-              },
-              {
-                "_class": "textTab",
-                "alignment": 0,
-                "location": 113.3499984741211,
-                "options": {
-                }
-              },
-              {
-                "_class": "textTab",
-                "alignment": 0,
-                "location": 141.6999969482422,
-                "options": {
-                }
-              },
-              {
-                "_class": "textTab",
-                "alignment": 0,
-                "location": 170.0500030517578,
-                "options": {
-                }
-              },
-              {
-                "_class": "textTab",
-                "alignment": 0,
-                "location": 198.3999938964844,
-                "options": {
-                }
-              },
-              {
-                "_class": "textTab",
-                "alignment": 0,
-                "location": 226.75,
-                "options": {
-                }
-              },
-              {
-                "_class": "textTab",
-                "alignment": 0,
-                "location": 255.1000061035156,
-                "options": {
-                }
-              },
-              {
-                "_class": "textTab",
-                "alignment": 0,
-                "location": 283.4500122070312,
-                "options": {
-                }
-              },
-              {
-                "_class": "textTab",
-                "alignment": 0,
-                "location": 311.7999877929688,
-                "options": {
-                }
-              },
-              {
-                "_class": "textTab",
-                "alignment": 0,
-                "location": 340.1499938964844,
-                "options": {
-                }
-              }
-            ],
-            "textLists": [
-              {
-                "_class": "textList",
-                "listOptions": 0,
-                "markerFormat": "{decimal}."
-              }
-            ]
-          }
-        },
-        "length": 538,
-        "location": 0
-      }
-    ],
-    "string": "\t1.\tReadme: 本テンプレートの使い方説明\n\t2.\tStyle: The core visual styles of Carbon, including typography, color and more.\n\t3.\tGrid Systems: Default artboards and the Carbon grid system for responsive web design\n\t4.\tComponents: A collection of all assets that correspond to the Carbon Design System and Component Library.\n\t5.\tLayout Templates: Examples of different ways Carbon components and styles can be used in layouts.\n\t6.\tData Viz: A collection of data viz elements, styles, and examples\n\t7.\tAdd-ons: A collection of product specific components.\n"
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGs7RYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QMQcIDxAcHR4fKywtLi8wMTIzOUZWWl1gY2ZpbG9ydXh7foGEh4uPkJSYnKSlpqeoq69VJG51bGzTCQoLDA0OWE5TU3RyaW5nViRjbGFzc1xOU0F0dHJpYnV0ZXOAAoAwgANvEQIaAAkAMQAuAAkAUgBlAGEAZABtAGUAOgAgZywwxjDzMNcw7DD8MMgwbk9/MERluYqsZg4ACgAJADIALgAJAFMAdAB5AGwAZQA6ACAAVABoAGUAIABjAG8AcgBlACAAdgBpAHMAdQBhAGwAIABzAHQAeQBsAGUAcwAgAG8AZgAgAEMAYQByAGIAbwBuACwAIABpAG4AYwBsAHUAZABpAG4AZwAgAHQAeQBwAG8AZwByAGEAcABoAHkALAAgAGMAbwBsAG8AcgAgAGEAbgBkACAAbQBvAHIAZQAuAAoACQAzAC4ACQBHAHIAaQBkACAAUwB5AHMAdABlAG0AcwA6ACAARABlAGYAYQB1AGwAdAAgAGEAcgB0AGIAbwBhAHIAZABzACAAYQBuAGQAIAB0AGgAZQAgAEMAYQByAGIAbwBuACAAZwByAGkAZAAgAHMAeQBzAHQAZQBtACAAZgBvAHIAIAByAGUAcwBwAG8AbgBzAGkAdgBlACAAdwBlAGIAIABkAGUAcwBpAGcAbgAKAAkANAAuAAkAQwBvAG0AcABvAG4AZQBuAHQAcwA6ACAAQQAgAGMAbwBsAGwAZQBjAHQAaQBvAG4AIABvAGYAIABhAGwAbAAgAGEAcwBzAGUAdABzACAAdABoAGEAdAAgAGMAbwByAHIAZQBzAHAAbwBuAGQAIAB0AG8AIAB0AGgAZQAgAEMAYQByAGIAbwBuACAARABlAHMAaQBnAG4AIABTAHkAcwB0AGUAbQAgAGEAbgBkACAAQwBvAG0AcABvAG4AZQBuAHQAIABMAGkAYgByAGEAcgB5AC4ACgAJADUALgAJAEwAYQB5AG8AdQB0ACAAVABlAG0AcABsAGEAdABlAHMAOgAgAEUAeABhAG0AcABsAGUAcwAgAG8AZgAgAGQAaQBmAGYAZQByAGUAbgB0ACAAdwBhAHkAcwAgAEMAYQByAGIAbwBuACAAYwBvAG0AcABvAG4A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"
+    }
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "C0DF92D6-4B62-4148-BA08-F8A726544CB7",
@@ -180,127 +51,17 @@
       "_class": "textStyle",
       "do_objectID": "573B74E8-24C2-49EF-8E45-BC2373E9CBDD",
       "encodedAttributes": {
-        "MSAttributedStringColorAttribute": {
-          "_class": "color",
+        "MSAttributedStringColorDictionaryAttribute": {
           "alpha": 1,
           "blue": 0.2039215686,
           "green": 0.1607843137,
           "red": 0.08235294118
         },
         "MSAttributedStringFontAttribute": {
-          "_class": "fontDescriptor",
-          "attributes": {
-            "name": "HiraginoSans-W3",
-            "size": 16
-          }
+          "_archive": "YnBsaXN0MDDUAQIDBAUGJidYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKkHCA0XGBkaGyJVJG51bGzSCQoLDFYkY2xhc3NfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AIgALTDg8JEBMWV05TLmtleXNaTlMub2JqZWN0c6IREoADgASiFBWABYAGgAdfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNAMAAAAAAAAF8QD0hpcmFnaW5vU2Fucy1XM9IcHR4fWiRjbGFzc25hbWVYJGNsYXNzZXNfEBNOU011dGFibGVEaWN0aW9uYXJ5ox4gIVxOU0RpY3Rpb25hcnlYTlNPYmplY3TSHB0jJF8QEE5TRm9udERlc2NyaXB0b3KiJSFfEBBOU0ZvbnREZXNjcmlwdG9yXxAPTlNLZXllZEFyY2hpdmVy0SgpVHJvb3SAAQAIABEAGgAjAC0AMgA3AEEARwBMAFMAcAByAHQAewCDAI4AkQCTAJUAmACaAJwAngC0AMoA0wDlAOoA9QD+ARQBGAElAS4BMwFGAUkBXAFuAXEBdgAAAAAAAAIBAAAAAAAAACoAAAAAAAAAAAAAAAAAAAF4"
         },
         "paragraphStyle": {
-          "_class": "paragraphStyle",
-          "alignment": 0,
-          "allowsDefaultTighteningForTruncation": 0,
-          "maximumLineHeight": 24,
-          "minimumLineHeight": 24,
-          "paragraphSpacing": 10,
-          "tabStops": [
-            {
-              "_class": "textTab",
-              "alignment": 0,
-              "location": 11,
-              "options": {
-              }
-            },
-            {
-              "_class": "textTab",
-              "alignment": 0,
-              "location": 36,
-              "options": {
-              }
-            },
-            {
-              "_class": "textTab",
-              "alignment": 0,
-              "location": 56.65000152587891,
-              "options": {
-              }
-            },
-            {
-              "_class": "textTab",
-              "alignment": 0,
-              "location": 85,
-              "options": {
-              }
-            },
-            {
-              "_class": "textTab",
-              "alignment": 0,
-              "location": 113.3499984741211,
-              "options": {
-              }
-            },
-            {
-              "_class": "textTab",
-              "alignment": 0,
-              "location": 141.6999969482422,
-              "options": {
-              }
-            },
-            {
-              "_class": "textTab",
-              "alignment": 0,
-              "location": 170.0500030517578,
-              "options": {
-              }
-            },
-            {
-              "_class": "textTab",
-              "alignment": 0,
-              "location": 198.3999938964844,
-              "options": {
-              }
-            },
-            {
-              "_class": "textTab",
-              "alignment": 0,
-              "location": 226.75,
-              "options": {
-              }
-            },
-            {
-              "_class": "textTab",
-              "alignment": 0,
-              "location": 255.1000061035156,
-              "options": {
-              }
-            },
-            {
-              "_class": "textTab",
-              "alignment": 0,
-              "location": 283.4500122070312,
-              "options": {
-              }
-            },
-            {
-              "_class": "textTab",
-              "alignment": 0,
-              "location": 311.7999877929688,
-              "options": {
-              }
-            },
-            {
-              "_class": "textTab",
-              "alignment": 0,
-              "location": 340.1499938964844,
-              "options": {
-              }
-            }
-          ],
-          "textLists": [
-            {
-              "_class": "textList",
-              "listOptions": 0,
-              "markerFormat": "{decimal}."
-            }
-          ]
+          "_archive": "YnBsaXN0MDDUAQIDBAUGbG1YJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QGAcIFicrMTQ3Oj1AQ0ZJTE9SVVhbX2NkaFUkbnVsbNcJCgsMDQ4PEBESExQVFVYkY2xhc3NaTlNUYWJTdG9wc1xOU1RleHRCbG9ja3NbTlNUZXh0TGlzdHNfEBJOU1BhcmFncmFwaFNwYWNpbmdfEA9OU01heExpbmVIZWlnaHRfEA9OU01pbkxpbmVIZWlnaHSAF4ACgBKAEyNAJAAAAAAAACNAOAAAAAAAANIXCRgmWk5TLm9iamVjdHOtGRobHB0eHyAhIiMkJYADgAWABoAHgAiACYAKgAuADIANgA6AD4AQgBHSCSgpKlpOU0xvY2F0aW9ugAQjQCYAAAAAAADSLC0uL1okY2xhc3NuYW1lWCRjbGFzc2VzWU5TVGV4dFRhYqIuMFhOU09iamVjdNIJKCkzgAQjQEIAAAAAAADSCSgpNoAEI0BMUzNAAAAA0gkoKTmABCNAVUAAAAAAANIJKCk8gAQjQFxWZmAAAADSCSgpP4AEI0BhtmZgAAAA0gkoKUKABCNAZUGZoAAAANIJKClFgAQjQGjMzMAAAADSCSgpSIAEI0BsWAAAAAAA0gkoKUuABCNAb+MzQAAAANIJKClOgAQjQHG3M0AAAADSCSgpUYAEI0BzfMzAAAAA0gkoKVSABCNAdUJmYAAAANIsLVZXV05TQXJyYXmiVjDSFwlZJqCAEdIXCVwmoV2AFIAR0glgYWJeTlNNYXJrZXJGb3JtYXSAFoAVWntkZWNpbWFsfS7SLC1lZlpOU1RleHRMaXN0omcwWk5TVGV4dExpc3TSLC1pal8QF05TTXV0YWJsZVBhcmFncmFwaFN0eWxlo2lrMF8QEE5TUGFyYWdyYXBoU3R5bGVfEA9OU0tleWVkQXJjaGl2ZXLRbm9Ucm9vdIABAAgAEQAaACMALQAyADcAUgBYAGcAbgB5AIYAkgCnALkAywDNAM8A0QDTANwA5QDqAPUBAwEFAQcBCQELAQ0BDwERARMBFQEXARkBGwEdAR8BJAEvATEBOgE/AUoBUwFdAWABaQFuAXABeQF+AYABiQGOAZABmQGeAaABqQGuAbABuQG+AcAByQHOAdAB2QHeAeAB6QHuAfAB+QH+AgACCQIOAhACGQIeAiACKQIuAjYCOQI+Aj8CQQJGAkgCSgJMAlECYAJiAmQCbwJ0An8CggKNApICrAKwAsMC1QLYAt0AAAAAAAACAQAAAAAAAABwAAAAAAAAAAAAAAAAAAAC3w=="
         }
       },
       "verticalAlignment": 0

@@ -1,42 +1,10 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "attributedString",
-    "attributes": [
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0.752941,
-            "green": 0.752941,
-            "red": 0.752941
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "HiraKakuProN-W3",
-              "size": 12
-            }
-          },
-          "MSAttributedStringTextTransformAttribute": 0,
-          "kerning": 0,
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "alignment": 0,
-            "maximumLineHeight": 30,
-            "minimumLineHeight": 30,
-            "paragraphSpacing": 1
-          },
-          "strikethroughStyle": 0,
-          "underlineStyle": 0
-        },
-        "length": 11,
-        "location": 0
-      }
-    ],
-    "string": "（例）東京　仕事運  "
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGe3xYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QJAcIDxAkJSYnKCkqKy83ODk6O0JGR1NUVVZXWFlaW11sb3J2d1UkbnVsbNMJCgsMDQ5YTlNTdHJpbmdWJGNsYXNzXE5TQXR0cmlidXRlc4ACgCOAA2v/CE+L/wlncU6sMABO1U6LkEsgKSAp0xESChMbI1dOUy5rZXlzWk5TLm9iamVjdHOnFBUWFxgZGoAEgAWABoAHgAiACYAKpxwdHR0gISKAC4ATgBOAE4AUgB6AIoAdXxAfTVNBdHRyaWJ1dGVkU3RyaW5nRm9udEF0dHJpYnV0ZV8QD05TU3RyaWtldGhyb3VnaFtOU1VuZGVybGluZV8QKE1TQXR0cmlidXRlZFN0cmluZ1RleHRUcmFuc2Zvcm1BdHRyaWJ1dGVfECpNU0F0dHJpYnV0ZWRTdHJpbmdDb2xvckRpY3Rpb25hcnlBdHRyaWJ1dGVfEBBOU1BhcmFncmFwaFN0eWxlVk5TS2VybtIKLC0uXxAaTlNGb250RGVzY3JpcHRvckF0dHJpYnV0ZXOAEoAM0xESCjAzNqIxMoANgA6iNDWAD4AQgBFfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNAJ////////18QD0hpcmFLYWt1UHJvTi1XM9I8PT4/WiRjbGFzc25hbWVYJGNsYXNzZXNfEBNOU011dGFibGVEaWN0aW9uYXJ5oz5AQVxOU0RpY3Rpb25hcnlYTlNPYmplY3TSPD1DRF8QEE5TRm9udERlc2NyaXB0b3KiRUFfEBBOU0ZvbnREZXNjcmlwdG9yEADTERIKSE0jpElKS0yAFYAWgBeAGKROT1BRgBmAGoAbgByAHVNyZWRVYWxwaGFUYmx1ZVVncmVlbiM/6BgXuVopQSM/8AAAAAAAACM/6BgXuVopQSM/6BgXuVopQdI8PUBcokBB2ApeX2BhYmNkZWZnZ1hpamtaTlNUYWJTdG9wc1xOU1RleHRCbG9ja3NbTlNUZXh0TGlzdHNfEBJOU1BhcmFncmFwaFNwYWNpbmdfEB9OU0FsbG93c1RpZ2h0ZW5pbmdGb3JUcnVuY2F0aW9uXxAPTlNNYXhMaW5lSGVpZ2h0XxAPTlNNaW5MaW5lSGVpZ2h0gCGAAIAfgB8QASNAPf///////yNAPf///////9ISCm1uoIAg0jw9cHFXTlNBcnJheaJwQdI8PXN0XxAXTlNNdXRhYmxlUGFyYWdyYXBoU3R5bGWjc3VBXxAQTlNQYXJhZ3JhcGhTdHlsZSMAAAAAAAAAANI8PXh5XxASTlNBdHRyaWJ1dGVkU3RyaW5nonpBXxASTlNBdHRyaWJ1dGVkU3RyaW5nXxAPTlNLZXllZEFyY2hpdmVy0X1+VHJvb3SAAQAIABEAGgAjAC0AMgA3AF4AZABrAHQAewCIAIoAjACOAKUArAC0AL8AxwDJAMsAzQDPANEA0wDVAN0A3wDhAOMA5QDnAOkA6wDtAQ8BIQEtAVgBhQGYAZ8BpAHBAcMBxQHMAc8B0QHTAdYB2AHaAdwB8gIIAhECIwIoAjMCPAJSAlYCYwJsAnEChAKHApoCnAKjAqgCqgKsAq4CsAK1ArcCuQK7Ar0CvwLDAskCzgLUAt0C5gLvAvgC/QMAAxEDHAMpAzUDSgNsA34DkAOSA5QDlgOYA5oDowOsA7EDsgO0A7kDwQPEA8kD4wPnA/oEAwQIBB0EIAQ1BEcESgRPAAAAAAAAAgEAAAAAAAAAfwAAAAAAAAAAAAAAAAAABFE="
+    }
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "D35843E1-B31E-4864-BE18-77A63DF8C778",

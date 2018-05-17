@@ -1,62 +1,10 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "attributedString",
-    "attributes": [
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0.2,
-            "green": 0.2,
-            "red": 0.2
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "NotoSansCJKjp-Bold",
-              "size": 18
-            }
-          },
-          "kerning": 2,
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "alignment": 0
-          }
-        },
-        "length": 22,
-        "location": 0
-      },
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0.2,
-            "green": 0.2,
-            "red": 0.2
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "NotoSansCJKjp-Bold",
-              "size": 18
-            }
-          },
-          "kerning": 0,
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "alignment": 0
-          }
-        },
-        "length": 1,
-        "location": 22
-      }
-    ],
-    "string": "アプリ申請なしでWebメディアがアプリ化可能！"
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGmptYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QKgcIERIYJSYnKCkzNjxARExNTk9QVFhkZWZnaGlqa2xub3uHiImKi46SllUkbnVsbNQJCgsMDQ4PEFhOU1N0cmluZ18QD05TQXR0cmlidXRlSW5mb1xOU0F0dHJpYnV0ZXNWJGNsYXNzgAKAJ4ADgClvEBcwojDXMOp1M4rLMGowVzBnAFcAZQBiMOEwxzCjMKIwTDCiMNcw6lMWU++A/f8B0hMMFBdaTlMub2JqZWN0c6IVFoAEgCCAJtMZEwwaHyRXTlMua2V5c6QbHB0egAWABoAHgAikICEiI4AJgA2AFYAfgB5fEBBOU1BhcmFncmFwaFN0eWxlXxAfTVNBdHRyaWJ1dGVkU3RyaW5nRm9udEF0dHJpYnV0ZV8QKk1TQXR0cmlidXRlZFN0cmluZ0NvbG9yRGljdGlvbmFyeUF0dHJpYnV0ZVZOU0tlcm7VKgwrLC0uLzAxMFpOU1RhYlN0b3BzXE5TVGV4dEJsb2Nrc18QH05TQWxsb3dzVGlnaHRlbmluZ0ZvclRydW5jYXRpb25bTlNUZXh0TGlzdHOAAIAMgAoQAYAK0hMMNDWggAvSNzg5OlokY2xhc3NuYW1lWCRjbGFzc2VzV05TQXJyYXmiOTtYTlNPYmplY3TSNzg9Pl8QF05TTXV0YWJsZVBhcmFncmFwaFN0eWxloz0/O18QEE5TUGFyYWdyYXBoU3R5bGXSDEFCQ18QGk5TRm9udERlc2NyaXB0b3JBdHRyaWJ1dGVzgBSADtMZEwxFSEuiRkeAD4AQoklKgBGAEoATXxATTlNGb250U2l6ZUF0dHJpYnV0ZV8QE05TRm9udE5hbWVBdHRyaWJ1dGUjQDIAAAAAAABfEBJOb3RvU2Fuc0NKS2pwLUJvbGTSNzhRUl8QE05TTXV0YWJsZURpY3Rpb25hcnmjUVM7XE5TRGljdGlvbmFyedI3OFVWXxAQTlNGb250RGVzY3JpcHRvcqJXO18QEE5TRm9udERlc2NyaXB0b3LTGRMMWV4kpFpbXF2AFoAXgBiAGaRfYGFigBqAG4AcgB2AHlNyZWRVYWxwaGFUYmx1ZVVncmVlbiM/yZmZmZmZmiM/8AAAAAAAACM/yZmZmZmZmiM/yZmZmZmZmtI3OFNtolM7I0AAAAAAAAAA0xkTDHB1JKQbHB0egAWABoAHgAikICF4eYAJgA2AIYAlgB7TGRMMfIEkpFpbXF2AFoAXgBiAGaSCYISFgCKAG4AjgCSAHiM/yZmZmZmZmiM/yZmZmZmZmiM/yZmZmZmZmhAA0jc4jI1eTlNNdXRhYmxlQXJyYXmjjDk70o8MkJFXTlMuZGF0YUQWAAEBgCjSNziTlF1OU011dGFibGVEYXRho5OVO1ZOU0RhdGHSNziXmF8QEk5TQXR0cmlidXRlZFN0cmluZ6KZO18QEk5TQXR0cmlidXRlZFN0cmluZ18QD05TS2V5ZWRBcmNoaXZlctGcnVRyb290gAEACAARABoAIwAtADIANwBkAGoAcwB8AI4AmwCiAKQApgCoAKoA2wDgAOsA7gDwAPIA9AD7AQMBCAEKAQwBDgEQARUBFwEZARsBHQEfATIBVAGBAYgBkwGeAasBzQHZAdsB3QHfAeEB4wHoAekB6wHwAfsCBAIMAg8CGAIdAjcCOwJOAlMCcAJyAnQCewJ+AoACggKFAocCiQKLAqECtwLAAtUC2gLwAvQDAQMGAxkDHAMvAzYDOwM9Az8DQQNDA0gDSgNMA04DUANSA1YDXANhA2cDcAN5A4IDiwOQA5MDnAOjA6gDqgOsA64DsAO1A7cDuQO7A70DvwPGA8sDzQPPA9ED0wPYA9oD3APeA+AD4gPrA/QD/QP/BAQEEwQXBBwEJAQpBCsEMAQ+BEIESQROBGMEZgR7BI0EkASVAAAAAAAAAgEAAAAAAAAAngAAAAAAAAAAAAAAAAAABJc="
+    }
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "EFF4FF71-DB0C-4093-89CE-3159387C0C75",
@@ -103,24 +51,18 @@
       "_class": "textStyle",
       "do_objectID": "76210995-900B-4D20-835E-051C4195B970",
       "encodedAttributes": {
-        "MSAttributedStringColorAttribute": {
-          "_class": "color",
+        "MSAttributedStringColorDictionaryAttribute": {
           "alpha": 1,
           "blue": 0.2,
           "green": 0.2,
           "red": 0.2
         },
         "MSAttributedStringFontAttribute": {
-          "_class": "fontDescriptor",
-          "attributes": {
-            "name": "NotoSansCJKjp-Bold",
-            "size": 18
-          }
+          "_archive": "YnBsaXN0MDDUAQIDBAUGJidYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKkHCA0XGBkaGyJVJG51bGzSCQoLDFYkY2xhc3NfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AIgALTDg8JEBMWV05TLmtleXNaTlMub2JqZWN0c6IREoADgASiFBWABYAGgAdfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNAMgAAAAAAAF8QEk5vdG9TYW5zQ0pLanAtQm9sZNIcHR4fWiRjbGFzc25hbWVYJGNsYXNzZXNfEBNOU011dGFibGVEaWN0aW9uYXJ5ox4gIVxOU0RpY3Rpb25hcnlYTlNPYmplY3TSHB0jJF8QEE5TRm9udERlc2NyaXB0b3KiJSFfEBBOU0ZvbnREZXNjcmlwdG9yXxAPTlNLZXllZEFyY2hpdmVy0SgpVHJvb3SAAQAIABEAGgAjAC0AMgA3AEEARwBMAFMAcAByAHQAewCDAI4AkQCTAJUAmACaAJwAngC0AMoA0wDoAO0A+AEBARcBGwEoATEBNgFJAUwBXwFxAXQBeQAAAAAAAAIBAAAAAAAAACoAAAAAAAAAAAAAAAAAAAF7"
         },
         "kerning": 2,
         "paragraphStyle": {
-          "_class": "paragraphStyle",
-          "alignment": 0
+          "_archive": "YnBsaXN0MDDUAQIDBAUGISJYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKUHCBMXHVUkbnVsbNUJCgsMDQ4PEBEQWk5TVGFiU3RvcHNWJGNsYXNzXE5TVGV4dEJsb2Nrc18QH05TQWxsb3dzVGlnaHRlbmluZ0ZvclRydW5jYXRpb25bTlNUZXh0TGlzdHOAAIAEgAIQAYAC0hQKFRZaTlMub2JqZWN0c6CAA9IYGRobWiRjbGFzc25hbWVYJGNsYXNzZXNXTlNBcnJheaIaHFhOU09iamVjdNIYGR4fXxAXTlNNdXRhYmxlUGFyYWdyYXBoU3R5bGWjHiAcXxAQTlNQYXJhZ3JhcGhTdHlsZV8QD05TS2V5ZWRBcmNoaXZlctEjJFRyb290gAEACAARABoAIwAtADIANwA9AEMATgBZAGAAbQCPAJsAnQCfAKEAowClAKoAtQC2ALgAvQDIANEA2QDcAOUA6gEEAQgBGwEtATABNQAAAAAAAAIBAAAAAAAAACUAAAAAAAAAAAAAAAAAAAE3"
         }
       },
       "verticalAlignment": 0

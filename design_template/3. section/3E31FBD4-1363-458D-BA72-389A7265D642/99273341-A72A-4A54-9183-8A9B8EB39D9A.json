@@ -1,38 +1,10 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "attributedString",
-    "attributes": [
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0.1333333333,
-            "green": 0.1333333333,
-            "red": 0.1333333333
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "HiraginoSans-W3",
-              "size": 16
-            }
-          },
-          "kerning": 0.4307692,
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "alignment": 0,
-            "maximumLineHeight": 20.8,
-            "minimumLineHeight": 20.8
-          }
-        },
-        "length": 76,
-        "location": 0
-      }
-    ],
-    "string": "人工透析患者様には「食べることの楽しさ」を感じていただけるよう工夫した食事を用意しております。\n\n外来透析で通院の方には希望により食事を提供しています。"
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGc3RYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QIQcIDxAeHyAhIjAzOj1BRU1OT1BRVVllZmdoaS1qa2xtb1UkbnVsbNMJCgsMDQ5YTlNTdHJpbmdWJGNsYXNzXE5TQXR0cmlidXRlc4ACgCCAA28QTE66XeWQD2eQYKOABWnYMGswbzAMmN8weTCLMFMwaDBuaX0wVzBVMA0wkmEfMFgwZjBEMF8wYDBRMIswiDBGXeVZKzBXMF+Y306LMJJ1KGEPMFcwZjBKMIowfjBZMAIACgAKWRZnZZAPZ5AwZ5AalmIwbmW5MGswb14MZxswazCIMIqY306LMJJj0E+bMFcwZjBEMH4wWTAC0xESChMYHVdOUy5rZXlzWk5TLm9iamVjdHOkFBUWF4AEgAWABoAHpBkaGxyACIANgBWAHoAfXxAQTlNQYXJhZ3JhcGhTdHlsZV8QH01TQXR0cmlidXRlZFN0cmluZ0ZvbnRBdHRyaWJ1dGVfECpNU0F0dHJpYnV0ZWRTdHJpbmdDb2xvckRpY3Rpb25hcnlBdHRyaWJ1dGVWTlNLZXJu1wojJCUmJygpKissLS4vWk5TVGFiU3RvcHNbTlNUZXh0TGlzdHNcTlNUZXh0QmxvY2tzXxAfTlNBbGxvd3NUaWdodGVuaW5nRm9yVHJ1bmNhdGlvbl8QD05TTWF4TGluZUhlaWdodF8QD05TTWluTGluZUhlaWdodIAMgACAC4AJEAEjQDTMzMzMzM0jQDTMzMzMzM3SEgoxMqCACtI0NTY3WiRjbGFzc25hbWVYJGNsYXNzZXNeTlNNdXRhYmxlQXJyYXmjNjg5V05TQXJyYXlYTlNPYmplY3TSEgo7MqCACtI0NT4/XxAXTlNNdXRhYmxlUGFyYWdyYXBoU3R5bGWjPkA5XxAQTlNQYXJhZ3JhcGhTdHlsZdIKQkNEXxAaTlNGb250RGVzY3JpcHRvckF0dHJpYnV0ZXOAFIAO0xESCkZJTKJHSIAPgBCiSkuAEYASgBNfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZRAQXxAPSGlyYWdpbm9TYW5zLVcz0jQ1UlNfEBNOU011dGFibGVEaWN0aW9uYXJ5o1JUOVxOU0RpY3Rpb25hcnnSNDVWV18QEE5TRm9udERlc2NyaXB0b3KiWDlfEBBOU0ZvbnREZXNjcmlwdG9y0xESClpfTKRbXF1egBaAF4AYgBmkYGFiY4AagBuAHIAdgBNTcmVkVWFscGhhVGJsdWVVZ3JlZW4jP8ERERD+vdEjP8ERERD+vdEjP8ERERD+vdEjP9uRuPqH8PvSNDVUbqJUOdI0NXBxXxASTlNBdHRyaWJ1dGVkU3RyaW5nonI5XxASTlNBdHRyaWJ1dGVkU3RyaW5nXxAPTlNLZXllZEFyY2hpdmVy0XV2VHJvb3SAAQAIABEAGgAjAC0AMgA3AFsAYQBoAHEAeACFAIcAiQCLASYBLQE1AUABRQFHAUkBSwFNAVIBVAFWAVgBWgFcAW8BkQG+AcUB1AHfAesB+AIaAiwCPgJAAkICRAJGAkgCUQJaAl8CYAJiAmcCcgJ7AooCjgKWAp8CpAKlAqcCrALGAsoC3QLiAv8DAQMDAwoDDQMPAxEDFAMWAxgDGgMwA0YDSANaA18DdQN5A4YDiwOeA6EDtAO7A8ADwgPEA8YDyAPNA88D0QPTA9UD1wPbA+ED5gPsA/UD/gQHBBAEFQQYBB0EMgQ1BEoEXARfBGQAAAAAAAACAQAAAAAAAAB3AAAAAAAAAAAAAAAAAAAEZg=="
+    }
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "99273341-A72A-4A54-9183-8A9B8EB39D9A",
@@ -80,26 +52,18 @@
       "_class": "textStyle",
       "do_objectID": "9CF0E203-7F9C-4B39-B8C0-C3AC9CCC6B29",
       "encodedAttributes": {
-        "MSAttributedStringColorAttribute": {
-          "_class": "color",
+        "MSAttributedStringColorDictionaryAttribute": {
           "alpha": 1,
           "blue": 0.1333333333,
           "green": 0.1333333333,
           "red": 0.1333333333
         },
         "MSAttributedStringFontAttribute": {
-          "_class": "fontDescriptor",
-          "attributes": {
-            "name": "HiraginoSans-W3",
-            "size": 16
-          }
+          "_archive": "YnBsaXN0MDDUAQIDBAUGJidYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKkHCA0XGBkaGyJVJG51bGzSCQoLDFYkY2xhc3NfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AIgALTDg8JEBMWV05TLmtleXNaTlMub2JqZWN0c6IREoADgASiFBWABYAGgAdfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZRAQXxAPSGlyYWdpbm9TYW5zLVcz0hwdHh9aJGNsYXNzbmFtZVgkY2xhc3Nlc18QE05TTXV0YWJsZURpY3Rpb25hcnmjHiAhXE5TRGljdGlvbmFyeVhOU09iamVjdNIcHSMkXxAQTlNGb250RGVzY3JpcHRvcqIlIV8QEE5TRm9udERlc2NyaXB0b3JfEA9OU0tleWVkQXJjaGl2ZXLRKClUcm9vdIABAAgAEQAaACMALQAyADcAQQBHAEwAUwBwAHIAdAB7AIMAjgCRAJMAlQCYAJoAnACeALQAygDMAN4A4wDuAPcBDQERAR4BJwEsAT8BQgFVAWcBagFvAAAAAAAAAgEAAAAAAAAAKgAAAAAAAAAAAAAAAAAAAXE="
         },
         "kerning": 0.4307692,
         "paragraphStyle": {
-          "_class": "paragraphStyle",
-          "alignment": 0,
-          "maximumLineHeight": 20.8,
-          "minimumLineHeight": 20.8
+          "_archive": "YnBsaXN0MDDUAQIDBAUGKSpYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKYHCBcbIiVVJG51bGzXCQoLDA0ODxAREhMUFRZWJGNsYXNzWk5TVGFiU3RvcHNbTlNUZXh0TGlzdHNcTlNUZXh0QmxvY2tzXxAfTlNBbGxvd3NUaWdodGVuaW5nRm9yVHJ1bmNhdGlvbl8QD05TTWF4TGluZUhlaWdodF8QD05TTWluTGluZUhlaWdodIAFgACABIACEAEjQDTMzMzMzM0jQDTMzMzMzM3SGAkZGlpOUy5vYmplY3RzoIAD0hwdHh9aJGNsYXNzbmFtZVgkY2xhc3Nlc15OU011dGFibGVBcnJheaMeICFXTlNBcnJheVhOU09iamVjdNIYCSMaoIAD0hwdJidfEBdOU011dGFibGVQYXJhZ3JhcGhTdHlsZaMmKCFfEBBOU1BhcmFncmFwaFN0eWxlXxAPTlNLZXllZEFyY2hpdmVy0SssVHJvb3SAAQAIABEAGgAjAC0AMgA3AD4ARABTAFoAZQBxAH4AoACyAMQAxgDIAMoAzADOANcA4ADlAPAA8QDzAPgBAwEMARsBHwEnATABNQE2ATgBPQFXAVsBbgGAAYMBiAAAAAAAAAIBAAAAAAAAAC0AAAAAAAAAAAAAAAAAAAGK"
         }
       },
       "verticalAlignment": 0

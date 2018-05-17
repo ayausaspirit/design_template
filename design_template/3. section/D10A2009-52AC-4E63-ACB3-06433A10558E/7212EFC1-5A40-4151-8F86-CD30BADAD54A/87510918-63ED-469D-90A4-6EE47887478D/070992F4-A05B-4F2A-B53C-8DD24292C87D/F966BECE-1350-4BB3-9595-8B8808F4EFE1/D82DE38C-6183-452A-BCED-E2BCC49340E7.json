@@ -1,36 +1,10 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "attributedString",
-    "attributes": [
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 1,
-            "green": 1,
-            "red": 1
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "HiraginoSans-W6",
-              "size": 18
-            }
-          },
-          "kerning": 0.3599999999999999,
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "alignment": 0
-          }
-        },
-        "length": 6,
-        "location": 0
-      }
-    ],
-    "string": "お問い合わせ"
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGXl9YJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QGwcIDxAeHyAhIiguMjo7PD0+QkZSU1RVVldZWlUkbnVsbNMJCgsMDQ5YTlNTdHJpbmdWJGNsYXNzXE5TQXR0cmlidXRlc4ACgBqAA2YwSlVPMERUCDCPMFvTERIKExgdV05TLmtleXNaTlMub2JqZWN0c6QUFRYXgASABYAGgAekGRobHIAIgAqAEoAZgBhfEBBOU1BhcmFncmFwaFN0eWxlXxAfTVNBdHRyaWJ1dGVkU3RyaW5nRm9udEF0dHJpYnV0ZV8QKk1TQXR0cmlidXRlZFN0cmluZ0NvbG9yRGljdGlvbmFyeUF0dHJpYnV0ZVZOU0tlcm7TIwokJSYnXxAfTlNBbGxvd3NUaWdodGVuaW5nRm9yVHJ1bmNhdGlvblpOU1RhYlN0b3BzEAGACYAA0ikqKyxaJGNsYXNzbmFtZVgkY2xhc3Nlc18QEE5TUGFyYWdyYXBoU3R5bGWiKy1YTlNPYmplY3TSCi8wMV8QGk5TRm9udERlc2NyaXB0b3JBdHRyaWJ1dGVzgBGAC9MREgozNjmiNDWADIANojc4gA6AD4AQXxATTlNGb250U2l6ZUF0dHJpYnV0ZV8QE05TRm9udE5hbWVBdHRyaWJ1dGUjQDIAAAAAAABfEA9IaXJhZ2lub1NhbnMtVzbSKSo/QF8QE05TTXV0YWJsZURpY3Rpb25hcnmjP0EtXE5TRGljdGlvbmFyedIpKkNEXxAQTlNGb250RGVzY3JpcHRvcqJFLV8QEE5TRm9udERlc2NyaXB0b3LTERIKR0wdpEhJSkuAE4AUgBWAFqRNTU1NgBeAF4AXgBeAGFNyZWRVYWxwaGFUYmx1ZVVncmVlbiM/8AAAAAAAANIpKkFYokEtIz/XCj1wo9cI0ikqW1xfEBJOU0F0dHJpYnV0ZWRTdHJpbmeiXS1fEBJOU0F0dHJpYnV0ZWRTdHJpbmdfEA9OU0tleWVkQXJjaGl2ZXLRYGFUcm9vdIABAAgAEQAaACMALQAyADcAVQBbAGIAawByAH8AgQCDAIUAkgCZAKEArACxALMAtQC3ALkAvgDAAMIAxADGAMgA2wD9ASoBMQE4AVoBZQFnAWkBawFwAXsBhAGXAZoBowGoAcUBxwHJAdAB0wHVAdcB2gHcAd4B4AH2AgwCFQInAiwCQgJGAlMCWAJrAm4CgQKIAo0CjwKRApMClQKaApwCngKgAqICpAKoAq4CswK5AsICxwLKAtMC2ALtAvADBQMXAxoDHwAAAAAAAAIBAAAAAAAAAGIAAAAAAAAAAAAAAAAAAAMh"
+    }
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "D82DE38C-6183-452A-BCED-E2BCC49340E7",
@@ -85,16 +59,11 @@
           "red": 1
         },
         "MSAttributedStringFontAttribute": {
-          "_class": "fontDescriptor",
-          "attributes": {
-            "name": "HiraginoSans-W6",
-            "size": 18
-          }
+          "_archive": "YnBsaXN0MDDUAQIDBAUGJidYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKkHCA0XGBkaGyJVJG51bGzSCQoLDFYkY2xhc3NfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AIgALTDg8JEBMWV05TLmtleXNaTlMub2JqZWN0c6IREoADgASiFBWABYAGgAdfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZRASXxAPSGlyYWdpbm9TYW5zLVc20hwdHh9aJGNsYXNzbmFtZVgkY2xhc3Nlc18QE05TTXV0YWJsZURpY3Rpb25hcnmjHiAhXE5TRGljdGlvbmFyeVhOU09iamVjdNIcHSMkXxAQTlNGb250RGVzY3JpcHRvcqIlIV8QEE5TRm9udERlc2NyaXB0b3JfEA9OU0tleWVkQXJjaGl2ZXLRKClUcm9vdIABAAgAEQAaACMALQAyADcAQQBHAEwAUwBwAHIAdAB7AIMAjgCRAJMAlQCYAJoAnACeALQAygDMAN4A4wDuAPcBDQERAR4BJwEsAT8BQgFVAWcBagFvAAAAAAAAAgEAAAAAAAAAKgAAAAAAAAAAAAAAAAAAAXE="
         },
         "kerning": 0.3599999999999999,
         "paragraphStyle": {
-          "_class": "paragraphStyle",
-          "alignment": 0
+          "_archive": "YnBsaXN0MDDUAQIDBAUGFRZYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKMHCA9VJG51bGzTCQoLDA0OXxAfTlNBbGxvd3NUaWdodGVuaW5nRm9yVHJ1bmNhdGlvblYkY2xhc3NaTlNUYWJTdG9wcxABgAKAANIQERITWiRjbGFzc25hbWVYJGNsYXNzZXNfEBBOU1BhcmFncmFwaFN0eWxlohIUWE5TT2JqZWN0XxAPTlNLZXllZEFyY2hpdmVy0RcYVHJvb3SAAQgRGiMtMjc7QUhqcXx+gIKHkpuusbrMz9QAAAAAAAABAQAAAAAAAAAZAAAAAAAAAAAAAAAAAAAA1g=="
         }
       },
       "verticalAlignment": 0

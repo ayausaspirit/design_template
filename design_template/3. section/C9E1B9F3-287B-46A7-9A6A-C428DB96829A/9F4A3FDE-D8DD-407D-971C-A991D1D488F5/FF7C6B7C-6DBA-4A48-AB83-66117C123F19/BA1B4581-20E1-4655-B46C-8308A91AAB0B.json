@@ -1,40 +1,10 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "attributedString",
-    "attributes": [
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0.3490196078,
-            "green": 0.6509803922,
-            "red": 0
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "HiraginoSans-W6",
-              "size": 14
-            }
-          },
-          "kerning": 0.3999999761581421,
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "alignment": 0,
-            "maximumLineHeight": 15,
-            "minimumLineHeight": 15
-          },
-          "strikethroughStyle": 0,
-          "underlineStyle": 1
-        },
-        "length": 9,
-        "location": 0
-      }
-    ],
-    "string": "看護師 (正社員)"
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGentYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QJQcIDxAiIyQlJicoNDU2Nzg5Ojs8QkZOT1BRUlVZWltnam5xdXZVJG51bGzTCQoLDA0OWE5TU3RyaW5nViRjbGFzc1xOU0F0dHJpYnV0ZXOAAoAkgANpdwuLd14rACAAKGtjeT5U4QAp0xESChMaIVdOUy5rZXlzWk5TLm9iamVjdHOmFBUWFxgZgASABYAGgAeACIAJphscHR4fIIAKgBSAHIAdgB6AI4ATXxAqTVNBdHRyaWJ1dGVkU3RyaW5nQ29sb3JEaWN0aW9uYXJ5QXR0cmlidXRlXxAfTVNBdHRyaWJ1dGVkU3RyaW5nRm9udEF0dHJpYnV0ZV8QD05TU3RyaWtldGhyb3VnaFtOU1VuZGVybGluZV8QEE5TUGFyYWdyYXBoU3R5bGVWTlNLZXJu0xESCikuIaQqKywtgAuADIANgA6kLzAxMoAPgBCAEYASgBNTcmVkVWFscGhhVGJsdWVVZ3JlZW4jAAAAAAAAAAAjP/AAAAAAAAAjP9ZWVlZKetMjP+TU1NTawpfSPT4/QFokY2xhc3NuYW1lWCRjbGFzc2VzXE5TRGljdGlvbmFyeaI/QVhOU09iamVjdNIKQ0RFXxAaTlNGb250RGVzY3JpcHRvckF0dHJpYnV0ZXOAG4AV0xESCkdKTaJISYAWgBeiS0yAGIAZgBpfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZRAOXxAPSGlyYWdpbm9TYW5zLVc20j0+U1RfEBNOU011dGFibGVEaWN0aW9uYXJ5o1M/QdI9PlZXXxAQTlNGb250RGVzY3JpcHRvcqJYQV8QEE5TRm9udERlc2NyaXB0b3IQABAB1wpcXV5fYGFiY2RlWmZmWk5TVGFiU3RvcHNbTlNUZXh0TGlzdHNcTlNUZXh0QmxvY2tzXxAfTlNBbGxvd3NUaWdodGVuaW5nRm9yVHJ1bmNhdGlvbl8QD05TTWF4TGluZUhlaWdodF8QD05TTWluTGluZUhlaWdodIAigACAIYAfI0AuAAAAAAAA0hIKaGmggCDSPT5rbF5OU011dGFibGVBcnJheaNrbUFXTlNBcnJhedISCm9poIAg0j0+cnNfEBdOU011dGFibGVQYXJhZ3JhcGhTdHlsZaNydEFfEBBOU1BhcmFncmFwaFN0eWxlIz/ZmZmAAAAA0j0+d3hfEBJOU0F0dHJpYnV0ZWRTdHJpbmeieUFfEBJOU0F0dHJpYnV0ZWRTdHJpbmdfEA9OU0tleWVkQXJjaGl2ZXLRfH1Ucm9vdIABAAgAEQAaACMALQAyADcAXwBlAGwAdQB8AIkAiwCNAI8AogCpALEAvADDAMUAxwDJAMsAzQDPANYA2ADaANwA3gDgAOIA5AERATMBRQFRAWQBawFyAXcBeQF7AX0BfwGEAYYBiAGKAYwBjgGSAZgBnQGjAawBtQG+AccBzAHXAeAB7QHwAfkB/gIbAh0CHwImAikCKwItAjACMgI0AjYCTAJiAmQCdgJ7ApEClQKaAq0CsALDAsUCxwLWAuEC7QL6AxwDLgNAA0IDRANGA0gDUQNWA1cDWQNeA20DcQN5A34DfwOBA4YDoAOkA7cDwAPFA9oD3QPyBAQEBwQMAAAAAAAAAgEAAAAAAAAAfgAAAAAAAAAAAAAAAAAABA4="
+    }
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "BA1B4581-20E1-4655-B46C-8308A91AAB0B",
@@ -89,18 +59,11 @@
           "red": 0
         },
         "MSAttributedStringFontAttribute": {
-          "_class": "fontDescriptor",
-          "attributes": {
-            "name": "HiraginoSans-W6",
-            "size": 14
-          }
+          "_archive": "YnBsaXN0MDDUAQIDBAUGJidYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKkHCA0XGBkaGyJVJG51bGzSCQoLDFYkY2xhc3NfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AIgALTDg8JEBMWV05TLmtleXNaTlMub2JqZWN0c6IREoADgASiFBWABYAGgAdfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZRAOXxAPSGlyYWdpbm9TYW5zLVc20hwdHh9aJGNsYXNzbmFtZVgkY2xhc3Nlc18QE05TTXV0YWJsZURpY3Rpb25hcnmjHiAhXE5TRGljdGlvbmFyeVhOU09iamVjdNIcHSMkXxAQTlNGb250RGVzY3JpcHRvcqIlIV8QEE5TRm9udERlc2NyaXB0b3JfEA9OU0tleWVkQXJjaGl2ZXLRKClUcm9vdIABAAgAEQAaACMALQAyADcAQQBHAEwAUwBwAHIAdAB7AIMAjgCRAJMAlQCYAJoAnACeALQAygDMAN4A4wDuAPcBDQERAR4BJwEsAT8BQgFVAWcBagFvAAAAAAAAAgEAAAAAAAAAKgAAAAAAAAAAAAAAAAAAAXE="
         },
         "kerning": 0.3999999761581421,
         "paragraphStyle": {
-          "_class": "paragraphStyle",
-          "alignment": 0,
-          "maximumLineHeight": 15,
-          "minimumLineHeight": 15
+          "_archive": "YnBsaXN0MDDUAQIDBAUGKClYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKYHCBYaISRVJG51bGzXCQoLDA0ODxAREhMUFRVWJGNsYXNzWk5TVGFiU3RvcHNbTlNUZXh0TGlzdHNcTlNUZXh0QmxvY2tzXxAfTlNBbGxvd3NUaWdodGVuaW5nRm9yVHJ1bmNhdGlvbl8QD05TTWF4TGluZUhlaWdodF8QD05TTWluTGluZUhlaWdodIAFgACABIACEAEjQC4AAAAAAADSFwkYGVpOUy5vYmplY3RzoIAD0hscHR5aJGNsYXNzbmFtZVgkY2xhc3Nlc15OU011dGFibGVBcnJheaMdHyBXTlNBcnJheVhOU09iamVjdNIXCSIZoIAD0hscJSZfEBdOU011dGFibGVQYXJhZ3JhcGhTdHlsZaMlJyBfEBBOU1BhcmFncmFwaFN0eWxlXxAPTlNLZXllZEFyY2hpdmVy0SorVHJvb3SAAQAIABEAGgAjAC0AMgA3AD4ARABTAFoAZQBxAH4AoACyAMQAxgDIAMoAzADOANcA3ADnAOgA6gDvAPoBAwESARYBHgEnASwBLQEvATQBTgFSAWUBdwF6AX8AAAAAAAACAQAAAAAAAAAsAAAAAAAAAAAAAAAAAAABgQ=="
         },
         "strikethroughStyle": 0,
         "underlineStyle": 1

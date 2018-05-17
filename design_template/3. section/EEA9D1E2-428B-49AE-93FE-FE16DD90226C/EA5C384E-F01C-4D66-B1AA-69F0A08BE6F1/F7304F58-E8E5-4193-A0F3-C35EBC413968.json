@@ -1,42 +1,10 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "attributedString",
-    "attributes": [
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0.2,
-            "green": 0.2,
-            "red": 0.2
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "KozGoPr6N-Regular",
-              "size": 12
-            }
-          },
-          "MSAttributedStringTextTransformAttribute": 0,
-          "kerning": 0.3,
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "alignment": 2,
-            "maximumLineHeight": 37,
-            "minimumLineHeight": 37,
-            "paragraphSpacing": 1
-          },
-          "strikethroughStyle": 0,
-          "underlineStyle": 0
-        },
-        "length": 48,
-        "location": 0
-      }
-    ],
-    "string": "Copyright © 一般社団法人　全国防災共助協会 All Rights Reserved."
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGfH1YJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QJAcIDxAkJSYnKCkqKy83ODk6O0JGR1NUVVZXWFlaW11tcHN3eFUkbnVsbNMJCgsMDQ5YTlNTdHJpbmdWJGNsYXNzXE5TQXR0cmlidXRlc4ACgCOAA28QMABDAG8AcAB5AHIAaQBnAGgAdAAgAKkAoE4Agix5PlbjbNVOujAAUWhW/ZYycH1RcVKpU1RPGgCgAEEAbABsACAAUgBpAGcAaAB0AHMAIABSAGUAcwBlAHIAdgBlAGQALtMREgoTGyNXTlMua2V5c1pOUy5vYmplY3RzpxQVFhcYGRqABIAFgAaAB4AIgAmACqccHR0dICEigAuAE4ATgBOAFIAegCKAHV8QH01TQXR0cmlidXRlZFN0cmluZ0ZvbnRBdHRyaWJ1dGVfEA9OU1N0cmlrZXRocm91Z2hbTlNVbmRlcmxpbmVfEChNU0F0dHJpYnV0ZWRTdHJpbmdUZXh0VHJhbnNmb3JtQXR0cmlidXRlXxAqTVNBdHRyaWJ1dGVkU3RyaW5nQ29sb3JEaWN0aW9uYXJ5QXR0cmlidXRlXxAQTlNQYXJhZ3JhcGhTdHlsZVZOU0tlcm7SCiwtLl8QGk5TRm9udERlc2NyaXB0b3JBdHRyaWJ1dGVzgBKADNMREgowMzaiMTKADYAOojQ1gA+AEIARXxATTlNGb250U2l6ZUF0dHJpYnV0ZV8QE05TRm9udE5hbWVBdHRyaWJ1dGUjQCgAAAAAAABfEBFLb3pHb1ByNk4tUmVndWxhctI8PT4/WiRjbGFzc25hbWVYJGNsYXNzZXNfEBNOU011dGFibGVEaWN0aW9uYXJ5oz5AQVxOU0RpY3Rpb25hcnlYTlNPYmplY3TSPD1DRF8QEE5TRm9udERlc2NyaXB0b3KiRUFfEBBOU0ZvbnREZXNjcmlwdG9yEADTERIKSE0jpElKS0yAFYAWgBeAGKROT1BRgBmAGoAbgByAHVNyZWRVYWxwaGFUYmx1ZVVncmVlbiM/yZmZmZmZmiM/8AAAAAAAACM/yZmZmZmZmiM/yZmZmZmZmtI8PUBcokBB2QpeX2BhYmNkZWZnaGhYamtqbFpOU1RhYlN0b3BzXE5TVGV4dEJsb2Nrc1tOU1RleHRMaXN0c18QEk5TUGFyYWdyYXBoU3BhY2luZ18QD05TTWF4TGluZUhlaWdodF8QH05TQWxsb3dzVGlnaHRlbmluZ0ZvclRydW5jYXRpb25fEA9OU01pbkxpbmVIZWlnaHRbTlNBbGlnbm1lbnSAIYAAgB+AHyNAQoAAAAAAABABEALSEgpub6CAINI8PXFyV05TQXJyYXmicUHSPD10dV8QF05TTXV0YWJsZVBhcmFncmFwaFN0eWxlo3R2QV8QEE5TUGFyYWdyYXBoU3R5bGUjP9MzMzMzMzPSPD15el8QEk5TQXR0cmlidXRlZFN0cmluZ6J7QV8QEk5TQXR0cmlidXRlZFN0cmluZ18QD05TS2V5ZWRBcmNoaXZlctF+f1Ryb290gAEACAARABoAIwAtADIANwBeAGQAawB0AHsAiACKAIwAjgDxAPgBAAELARMBFQEXARkBGwEdAR8BIQEpASsBLQEvATEBMwE1ATcBOQFbAW0BeQGkAdEB5AHrAfACDQIPAhECGAIbAh0CHwIiAiQCJgIoAj4CVAJdAnECdgKBAooCoAKkArECugK/AtIC1QLoAuoC8QL2AvgC+gL8Av4DAwMFAwcDCQMLAw0DEQMXAxwDIgMrAzQDPQNGA0sDTgNhA2wDeQOFA5oDrAPOA+AD7APuA/AD8gP0A/0D/wQBBAYEBwQJBA4EFgQZBB4EOAQ8BE8EWARdBHIEdQSKBJwEnwSkAAAAAAAAAgEAAAAAAAAAgAAAAAAAAAAAAAAAAAAABKY="
+    }
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "F7304F58-E8E5-4193-A0F3-C35EBC413968",

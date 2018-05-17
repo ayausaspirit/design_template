@@ -1,74 +1,10 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "attributedString",
-    "attributes": [
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0.972549,
-            "green": 0.972549,
-            "red": 0.972549
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "KozGoPr6N-Bold",
-              "size": 13.93643905899846
-            }
-          },
-          "MSAttributedStringTextTransformAttribute": 0,
-          "kerning": 0.34808625,
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "alignment": 2,
-            "maximumLineHeight": 16.0468059660504,
-            "minimumLineHeight": 16.0468059660504,
-            "paragraphSpacing": 1
-          },
-          "strikethroughStyle": 0,
-          "underlineStyle": 0
-        },
-        "length": 3,
-        "location": 0
-      },
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0.972549,
-            "green": 0.972549,
-            "red": 0.972549
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "KozGoPr6N-Bold",
-              "size": 19.90919579590383
-            }
-          },
-          "MSAttributedStringTextTransformAttribute": 0,
-          "kerning": 0.497266,
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "alignment": 2,
-            "maximumLineHeight": 16.0468059660504,
-            "minimumLineHeight": 16.0468059660504,
-            "paragraphSpacing": 1
-          },
-          "strikethroughStyle": 0,
-          "underlineStyle": 0
-        },
-        "length": 2,
-        "location": 3
-      }
-    ],
-    "string": "特典 03"
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGystYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QOAcIERIYKywtLi8wMTI2Pj9AQUJJTU5aW1xdXl9gYWJkdXh7f4CSk5SVmKChoqOksLGys7q7vsLGVSRudWxs1AkKCwwNDg8QWE5TU3RyaW5nXxAPTlNBdHRyaWJ1dGVJbmZvXE5TQXR0cmlidXRlc1YkY2xhc3OAAoA1gAOAN2VyeVF4ICkAMAAz0hMMFBdaTlMub2JqZWN0c6IVFoAEgCSANNMZEwwaIipXTlMua2V5c6cbHB0eHyAhgAWABoAHgAiACYAKgAunIyQkJCcoKYAMgBSAFIAUgBWAH4AjgB5fEB9NU0F0dHJpYnV0ZWRTdHJpbmdGb250QXR0cmlidXRlXxAPTlNTdHJpa2V0aHJvdWdoW05TVW5kZXJsaW5lXxAoTVNBdHRyaWJ1dGVkU3RyaW5nVGV4dFRyYW5zZm9ybUF0dHJpYnV0ZV8QKk1TQXR0cmlidXRlZFN0cmluZ0NvbG9yRGljdGlvbmFyeUF0dHJpYnV0ZV8QEE5TUGFyYWdyYXBoU3R5bGVWTlNLZXJu0gwzNDVfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4ATgA3TGRMMNzo9ojg5gA6AD6I7PIAQgBGAEl8QE05TRm9udFNpemVBdHRyaWJ1dGVfEBNOU0ZvbnROYW1lQXR0cmlidXRlI0Ar33TwujDZXktvekdvUHI2Ti1Cb2xk0kNERUZaJGNsYXNzbmFtZVgkY2xhc3Nlc18QE05TTXV0YWJsZURpY3Rpb25hcnmjRUdIXE5TRGljdGlvbmFyeVhOU09iamVjdNJDREpLXxAQTlNGb250RGVzY3JpcHRvcqJMSF8QEE5TRm9udERlc2NyaXB0b3IQANMZEwxPVCqkUFFSU4AWgBeAGIAZpFVWV1iAGoAbgByAHYAeU3JlZFVhbHBoYVRibHVlVWdyZWVuIz/vHx8UmD15Iz/wAAAAAAAAIz/vHx8UmD15Iz/vHx8UmD150kNER2OiR0jZDGVmZ2hpamtsbW5vb19xcnN0Wk5TVGFiU3RvcHNcTlNUZXh0QmxvY2tzW05TVGV4dExpc3RzXxASTlNQYXJhZ3JhcGhTcGFjaW5nXxAPTlNNYXhMaW5lSGVpZ2h0XxAfTlNBbGxvd3NUaWdodGVuaW5nRm9yVHJ1bmNhdGlvbl8QD05TTWluTGluZUhlaWdodFtOU0FsaWdubWVudIAigACAIIAgI0AwC/t5zXG0EAEjQDAL+3nNcbQQAtITDHZ3oIAh0kNEeXpXTlNBcnJheaJ5SNJDRHx9XxAXTlNNdXRhYmxlUGFyYWdyYXBoU3R5bGWjfH5IXxAQTlNQYXJhZ3JhcGhTdHlsZSM/1kcLjPv8ZdMZEwyBiSqnghwdhYYgIYAlgAaAB4AmgCeACoALp4okJCSOj5CAKIAUgBSAFIAugDKAM4AeXxAfTVNBdHRyaWJ1dGVkU3RyaW5nRm9udEF0dHJpYnV0ZV8QKE1TQXR0cmlidXRlZFN0cmluZ1RleHRUcmFuc2Zvcm1BdHRyaWJ1dGVfECpNU0F0dHJpYnV0ZWRTdHJpbmdDb2xvckRpY3Rpb25hcnlBdHRyaWJ1dGXSDDM0l4ATgCnTGRMMmZw9opqbgCqAK6KdnoAsgC2AEl8QE05TRm9udFNpemVBdHRyaWJ1dGVfEBNOU0ZvbnROYW1lQXR0cmlidXRlI0Az6MEOQRFRXktvekdvUHI2Ti1Cb2xk0xkTDKWqKqRQUVJTgBaAF4AYgBmkq1atroAvgBuAMIAxgB4jP+8fHxSYPXkjP+8fHxSYPXkjP+8fHxSYPXnZDGVmZ2hpamtsbW5vb1+4crl0gCKAAIAggCAjQDAL+3nNcbQjQDAL+3nNcbQjP9/TNMXaakXSQ0S8vV5OU011dGFibGVBcnJheaO8eUjSvwzAwVdOUy5kYXRhRAMAAgGANtJDRMPEXU5TTXV0YWJsZURhdGGjw8VIVk5TRGF0YdJDRMfIXxASTlNBdHRyaWJ1dGVkU3RyaW5noslIXxASTlNBdHRyaWJ1dGVkU3RyaW5nXxAPTlNLZXllZEFyY2hpdmVy0czNVHJvb3SAAQAIABEAGgAjAC0AMgA3AHIAeACBAIoAnACpALAAsgC0ALYAuADDAMgA0wDWANgA2gDcAOMA6wDzAPUA9wD5APsA/QD/AQEBCQELAQ0BDwERARMBFQEXARkBOwFNAVkBhAGxAcQBywHQAe0B7wHxAfgB+wH9Af8CAgIEAgYCCAIeAjQCPQJMAlECXAJlAnsCfwKMApUCmgKtArACwwLFAswC0QLTAtUC1wLZAt4C4ALiAuQC5gLoAuwC8gL3Av0DBgMPAxgDIQMmAykDPANHA1QDYAN1A4cDqQO7A8cDyQPLA80DzwPYA9oD4wPlA+oD6wPtA/ID+gP9BAIEHAQgBDMEPARDBEsETQRPBFEEUwRVBFcEWQRhBGMEZQRnBGkEawRtBG8EcQSTBL4E6wTwBPIE9AT7BP4FAAUCBQUFBwUJBQsFIQU3BUAFTwVWBVsFXQVfBWEFYwVoBWoFbAVuBXAFcgV7BYQFjQWgBaIFpAWmBagFsQW6BcMFyAXXBdsF4AXoBe0F7wX0BgIGBgYNBhIGJwYqBj8GUQZUBlkAAAAAAAACAQAAAAAAAADOAAAAAAAAAAAAAAAAAAAGWw=="
+    }
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "E4ACADB5-4A45-4C67-992D-4528BA8C0FF8",

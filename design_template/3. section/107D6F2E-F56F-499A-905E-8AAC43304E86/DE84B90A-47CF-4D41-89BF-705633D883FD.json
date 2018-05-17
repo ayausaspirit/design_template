@@ -1,140 +1,10 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "attributedString",
-    "attributes": [
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0.2,
-            "green": 0.2,
-            "red": 0.2
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "LiGothicMed",
-              "size": 30
-            }
-          },
-          "kerning": 1.4,
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "alignment": 2
-          }
-        },
-        "length": 1,
-        "location": 0
-      },
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0.8549019607843137,
-            "green": 0.6156862745098037,
-            "red": 0.1529411764705882
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "LiGothicMed",
-              "size": 30
-            }
-          },
-          "kerning": 2.8,
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "alignment": 2
-          }
-        },
-        "length": 1,
-        "location": 1
-      },
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0.2,
-            "green": 0.2,
-            "red": 0.2
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "LiGothicMed",
-              "size": 30
-            }
-          },
-          "kerning": 2.8,
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "alignment": 2
-          }
-        },
-        "length": 2,
-        "location": 2
-      },
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0.8549019607843137,
-            "green": 0.6156862745098037,
-            "red": 0.1529411764705882
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "LiGothicMed",
-              "size": 30
-            }
-          },
-          "kerning": 2.8,
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "alignment": 2
-          }
-        },
-        "length": 1,
-        "location": 4
-      },
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0.2,
-            "green": 0.2,
-            "red": 0.2
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "LiGothicMed",
-              "size": 30
-            }
-          },
-          "kerning": 2.8,
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "alignment": 2
-          }
-        },
-        "length": 1,
-        "location": 5
-      }
-    ],
-    "string": "eishis"
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGubpYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QMAcIERIZJicoKSo2OT9DR09QUVJTV1tnaGlqa2xtbm9xcn6Ki4yNjpqmp6ipqq2xtVUkbnVsbNQJCgsMDQ4PEFhOU1N0cmluZ18QD05TQXR0cmlidXRlSW5mb1xOU0F0dHJpYnV0ZXNWJGNsYXNzgAKALYADgC9WZWlzaGlz0hMMFBhaTlMub2JqZWN0c6MVFheABIAggCaALNMaEwwbICVXTlMua2V5c6QcHR4fgAWABoAHgAikISIjJIAJgA2AFYAfgB5fEBBOU1BhcmFncmFwaFN0eWxlXxAfTVNBdHRyaWJ1dGVkU3RyaW5nRm9udEF0dHJpYnV0ZV8QKk1TQXR0cmlidXRlZFN0cmluZ0NvbG9yRGljdGlvbmFyeUF0dHJpYnV0ZVZOU0tlcm7WKywMLS4vMDEyMzQzWk5TVGFiU3RvcHNbTlNBbGlnbm1lbnRcTlNUZXh0QmxvY2tzXxAfTlNBbGxvd3NUaWdodGVuaW5nRm9yVHJ1bmNhdGlvbltOU1RleHRMaXN0c4AAEAKADIAKEAGACtITDDc4oIAL0jo7PD1aJGNsYXNzbmFtZVgkY2xhc3Nlc1dOU0FycmF5ojw+WE5TT2JqZWN00jo7QEFfEBdOU011dGFibGVQYXJhZ3JhcGhTdHlsZaNAQj5fEBBOU1BhcmFncmFwaFN0eWxl0gxERUZfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AUgA7TGhMMSEtOoklKgA+AEKJMTYARgBKAE18QE05TRm9udFNpemVBdHRyaWJ1dGVfEBNOU0ZvbnROYW1lQXR0cmlidXRlI0A+AAAAAAAAW0xpR290aGljTWVk0jo7VFVfEBNOU011dGFibGVEaWN0aW9uYXJ5o1RWPlxOU0RpY3Rpb25hcnnSOjtYWV8QEE5TRm9udERlc2NyaXB0b3KiWj5fEBBOU0ZvbnREZXNjcmlwdG9y0xoTDFxhJaRdXl9ggBaAF4AYgBmkYmNkZYAagBuAHIAdgB5TcmVkVWFscGhhVGJsdWVVZ3JlZW4jP8mZmZmZmZojP/AAAAAAAAAjP8mZmZmZmZojP8mZmZmZmZrSOjtWcKJWPiI/szMz0xoTDHN4JaQcHR4fgAWABoAHgAikISJ7fIAJgA2AIYAlgB7TGhMMf4QlpF1eX2CAFoAXgBiAGaSFY4eIgCKAG4AjgCSAHiM/w5OTk5OTlCM/61tbW1tbWyM/47Ozs7OzsiJAMzMz0xoTDI+UJaQcHR4fgAWABoAHgAikISKXmIAJgA2AJ4ArgB7TGhMMm6AlpF1eX2CAFoAXgBiAGaShY6OkgCiAG4ApgCqAHiM/yZmZmZmZmiM/yZmZmZmZmiM/yZmZmZmZmiJAMzMz0jo7q6xeTlNNdXRhYmxlQXJyYXmjqzw+0q4Mr7BXTlMuZGF0YUoBAAEBAgIBAQECgC7SOjuys11OU011dGFibGVEYXRho7K0PlZOU0RhdGHSOju2t18QEk5TQXR0cmlidXRlZFN0cmluZ6K4Pl8QEk5TQXR0cmlidXRlZFN0cmluZ18QD05TS2V5ZWRBcmNoaXZlctG7vFRyb290gAEACAARABoAIwAtADIANwBqAHAAeQCCAJQAoQCoAKoArACuALAAtwC8AMcAywDNAM8A0QDTANoA4gDnAOkA6wDtAO8A9AD2APgA+gD8AP4BEQEzAWABZwF0AX8BiwGYAboBxgHIAcoBzAHOAdAB0gHXAdgB2gHfAeoB8wH7Af4CBwIMAiYCKgI9AkICXwJhAmMCagJtAm8CcQJ0AnYCeAJ6ApACpgKvArsCwALWAtoC5wLsAv8DAgMVAxwDIQMjAyUDJwMpAy4DMAMyAzQDNgM4AzwDQgNHA00DVgNfA2gDcQN2A3kDfgOFA4oDjAOOA5ADkgOXA5kDmwOdA58DoQOoA60DrwOxA7MDtQO6A7wDvgPAA8IDxAPNA9YD3wPkA+sD8APyA/QD9gP4A/0D/wQBBAMEBQQHBA4EEwQVBBcEGQQbBCAEIgQkBCYEKAQqBDMEPARFBEoETwReBGIEZwRvBHoEfASBBI8EkwSaBJ8EtAS3BMwE3gThBOYAAAAAAAACAQAAAAAAAAC9AAAAAAAAAAAAAAAAAAAE6A=="
+    }
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "DE84B90A-47CF-4D41-89BF-705633D883FD",
@@ -181,24 +51,18 @@
       "_class": "textStyle",
       "do_objectID": "A5EE40E6-C3C9-4161-98B5-F1D8136BCEF8",
       "encodedAttributes": {
-        "MSAttributedStringColorAttribute": {
-          "_class": "color",
+        "MSAttributedStringColorDictionaryAttribute": {
           "alpha": 1,
           "blue": 0.2,
           "green": 0.2,
           "red": 0.2
         },
         "MSAttributedStringFontAttribute": {
-          "_class": "fontDescriptor",
-          "attributes": {
-            "name": "LiGothicMed",
-            "size": 30
-          }
+          "_archive": "YnBsaXN0MDDUAQIDBAUGJidYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKkHCA0XGBkaGyJVJG51bGzSCQoLDFYkY2xhc3NfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AIgALTDg8JEBMWV05TLmtleXNaTlMub2JqZWN0c6IREoADgASiFBWABYAGgAdfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNAPgAAAAAAAFtMaUdvdGhpY01lZNIcHR4fWiRjbGFzc25hbWVYJGNsYXNzZXNfEBNOU011dGFibGVEaWN0aW9uYXJ5ox4gIVxOU0RpY3Rpb25hcnlYTlNPYmplY3TSHB0jJF8QEE5TRm9udERlc2NyaXB0b3KiJSFfEBBOU0ZvbnREZXNjcmlwdG9yXxAPTlNLZXllZEFyY2hpdmVy0SgpVHJvb3SAAQAIABEAGgAjAC0AMgA3AEEARwBMAFMAcAByAHQAewCDAI4AkQCTAJUAmACaAJwAngC0AMoA0wDfAOQA7wD4AQ4BEgEfASgBLQFAAUMBVgFoAWsBcAAAAAAAAAIBAAAAAAAAACoAAAAAAAAAAAAAAAAAAAFy"
         },
         "kerning": 1.4,
         "paragraphStyle": {
-          "_class": "paragraphStyle",
-          "alignment": 2
+          "_archive": "YnBsaXN0MDDUAQIDBAUGIyRYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKUHCBUZH1UkbnVsbNYJCgsMDQ4PEBESExJaTlNUYWJTdG9wc1tOU0FsaWdubWVudFYkY2xhc3NcTlNUZXh0QmxvY2tzXxAfTlNBbGxvd3NUaWdodGVuaW5nRm9yVHJ1bmNhdGlvbltOU1RleHRMaXN0c4AAEAKABIACEAGAAtIWCxcYWk5TLm9iamVjdHOggAPSGhscHVokY2xhc3NuYW1lWCRjbGFzc2VzV05TQXJyYXmiHB5YTlNPYmplY3TSGhsgIV8QF05TTXV0YWJsZVBhcmFncmFwaFN0eWxloyAiHl8QEE5TUGFyYWdyYXBoU3R5bGVfEA9OU0tleWVkQXJjaGl2ZXLRJSZUcm9vdIABAAgAEQAaACMALQAyADcAPQBDAFAAWwBnAG4AewCdAKkAqwCtAK8AsQCzALUAugDFAMYAyADNANgA4QDpAOwA9QD6ARQBGAErAT0BQAFFAAAAAAAAAgEAAAAAAAAAJwAAAAAAAAAAAAAAAAAAAUc="
         }
       },
       "verticalAlignment": 0

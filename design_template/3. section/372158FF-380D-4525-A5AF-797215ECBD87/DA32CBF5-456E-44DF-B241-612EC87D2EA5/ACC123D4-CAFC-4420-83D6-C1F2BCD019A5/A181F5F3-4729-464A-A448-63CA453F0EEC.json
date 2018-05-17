@@ -1,42 +1,10 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "attributedString",
-    "attributes": [
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 1,
-            "green": 1,
-            "red": 1
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "HiraKakuProN-W6",
-              "size": 24.00131314739989
-            }
-          },
-          "MSAttributedStringTextTransformAttribute": 0,
-          "kerning": 0.6,
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "alignment": 2,
-            "maximumLineHeight": 30.00753175651812,
-            "minimumLineHeight": 30.00753175651812,
-            "paragraphSpacing": 1
-          },
-          "strikethroughStyle": 0,
-          "underlineStyle": 0
-        },
-        "length": 11,
-        "location": 0
-      }
-    ],
-    "string": "死亡見舞金　10万円 "
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGentYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QIQcIDxAkJSYnKCkqKy83ODk6O0JGR1NUVVZXWFprbnF1dlUkbnVsbNMJCgsMDQ5YTlNTdHJpbmdWJGNsYXNzXE5TQXR0cmlidXRlc4ACgCCAA2tre06hiYuCHpHRMAAAMQAwTgdRhiAp0xESChMbI1dOUy5rZXlzWk5TLm9iamVjdHOnFBUWFxgZGoAEgAWABoAHgAiACYAKpxwdHR0gISKAC4ATgBOAE4AUgBuAH4AaXxAfTVNBdHRyaWJ1dGVkU3RyaW5nRm9udEF0dHJpYnV0ZV8QD05TU3RyaWtldGhyb3VnaFtOU1VuZGVybGluZV8QKE1TQXR0cmlidXRlZFN0cmluZ1RleHRUcmFuc2Zvcm1BdHRyaWJ1dGVfECpNU0F0dHJpYnV0ZWRTdHJpbmdDb2xvckRpY3Rpb25hcnlBdHRyaWJ1dGVfEBBOU1BhcmFncmFwaFN0eWxlVk5TS2VybtIKLC0uXxAaTlNGb250RGVzY3JpcHRvckF0dHJpYnV0ZXOAEoAM0xESCjAzNqIxMoANgA6iNDWAD4AQgBFfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNAOABWDvUjKl8QD0hpcmFLYWt1UHJvTi1XNtI8PT4/WiRjbGFzc25hbWVYJGNsYXNzZXNfEBNOU011dGFibGVEaWN0aW9uYXJ5oz5AQVxOU0RpY3Rpb25hcnlYTlNPYmplY3TSPD1DRF8QEE5TRm9udERlc2NyaXB0b3KiRUFfEBBOU0ZvbnREZXNjcmlwdG9yEADTERIKSE0jpElKS0yAFYAWgBeAGKROTk5OgBmAGYAZgBmAGlNyZWRVYWxwaGFUYmx1ZVVncmVlbiM/8AAAAAAAANI8PUBZokBB2QpbXF1eX2BhYmNkZWVXZ2hpalpOU1RhYlN0b3BzXE5TVGV4dEJsb2Nrc1tOU1RleHRMaXN0c18QEk5TUGFyYWdyYXBoU3BhY2luZ18QD05TTWF4TGluZUhlaWdodF8QH05TQWxsb3dzVGlnaHRlbmluZ0ZvclRydW5jYXRpb25fEA9OU01pbkxpbmVIZWlnaHRbTlNBbGlnbm1lbnSAHoAAgByAHCNAPgHtmeftQBABI0A+Ae2Z5+1AEALSEgpsbaCAHdI8PW9wV05TQXJyYXmib0HSPD1yc18QF05TTXV0YWJsZVBhcmFncmFwaFN0eWxlo3J0QV8QEE5TUGFyYWdyYXBoU3R5bGUiPxmZmtI8PXd4XxASTlNBdHRyaWJ1dGVkU3RyaW5nonlBXxASTlNBdHRyaWJ1dGVkU3RyaW5nXxAPTlNLZXllZEFyY2hpdmVy0Xx9VHJvb3SAAQAIABEAGgAjAC0AMgA3AFsAYQBoAHEAeACFAIcAiQCLAKIAqQCxALwAxADGAMgAygDMAM4A0ADSANoA3ADeAOAA4gDkAOYA6ADqAQwBHgEqAVUBggGVAZwBoQG+AcABwgHJAcwBzgHQAdMB1QHXAdkB7wIFAg4CIAIlAjACOQJPAlMCYAJpAm4CgQKEApcCmQKgAqUCpwKpAqsCrQKyArQCtgK4AroCvALAAsYCywLRAtoC3wLiAvUDAAMNAxkDLgNAA2IDdAOAA4IDhAOGA4gDkQOTA5wDngOjA6QDpgOrA7MDtgO7A9UD2QPsA/ED9gQLBA4EIwQ1BDgEPQAAAAAAAAIBAAAAAAAAAH4AAAAAAAAAAAAAAAAAAAQ/"
+    }
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "A181F5F3-4729-464A-A448-63CA453F0EEC",
@@ -83,28 +51,19 @@
       "_class": "textStyle",
       "do_objectID": "D77C3351-2D25-4507-853F-3E00FB1C1DEB",
       "encodedAttributes": {
-        "MSAttributedStringColorAttribute": {
-          "_class": "color",
+        "MSAttributedStringColorDictionaryAttribute": {
           "alpha": 1,
           "blue": 1,
           "green": 1,
           "red": 1
         },
         "MSAttributedStringFontAttribute": {
-          "_class": "fontDescriptor",
-          "attributes": {
-            "name": "HiraKakuProN-W6",
-            "size": 24.00131314739989
-          }
+          "_archive": "YnBsaXN0MDDUAQIDBAUGJidYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKkHCA0XGBkaGyJVJG51bGzSCQoLDFYkY2xhc3NfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AIgALTDg8JEBMWV05TLmtleXNaTlMub2JqZWN0c6IREoADgASiFBWABYAGgAdfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNAOABWDvUjKl8QD0hpcmFLYWt1UHJvTi1XNtIcHR4fWiRjbGFzc25hbWVYJGNsYXNzZXNfEBNOU011dGFibGVEaWN0aW9uYXJ5ox4gIVxOU0RpY3Rpb25hcnlYTlNPYmplY3TSHB0jJF8QEE5TRm9udERlc2NyaXB0b3KiJSFfEBBOU0ZvbnREZXNjcmlwdG9yXxAPTlNLZXllZEFyY2hpdmVy0SgpVHJvb3SAAQAIABEAGgAjAC0AMgA3AEEARwBMAFMAcAByAHQAewCDAI4AkQCTAJUAmACaAJwAngC0AMoA0wDlAOoA9QD+ARQBGAElAS4BMwFGAUkBXAFuAXEBdgAAAAAAAAIBAAAAAAAAACoAAAAAAAAAAAAAAAAAAAF4"
         },
         "MSAttributedStringTextTransformAttribute": 0,
         "kerning": 0.6,
         "paragraphStyle": {
-          "_class": "paragraphStyle",
-          "alignment": 2,
-          "maximumLineHeight": 30.00753175651812,
-          "minimumLineHeight": 30.00753175651812,
-          "paragraphSpacing": 1
+          "_archive": "YnBsaXN0MDDUAQIDBAUGKSpYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKUHCBsfJVUkbnVsbNkJCgsMDQ4PEBESExQUFhcYGRpWJGNsYXNzWk5TVGFiU3RvcHNcTlNUZXh0QmxvY2tzW05TVGV4dExpc3RzXxASTlNQYXJhZ3JhcGhTcGFjaW5nXxAPTlNNYXhMaW5lSGVpZ2h0XxAfTlNBbGxvd3NUaWdodGVuaW5nRm9yVHJ1bmNhdGlvbl8QD05TTWluTGluZUhlaWdodFtOU0FsaWdubWVudIAEgACAAoACIz/wAAAAAAAAI0A+Ae2Z5+1AEAEjQD4B7Znn7UAQAtIcCR0eWk5TLm9iamVjdHOggAPSICEiI1okY2xhc3NuYW1lWCRjbGFzc2VzV05TQXJyYXmiIiRYTlNPYmplY3TSICEmJ18QF05TTXV0YWJsZVBhcmFncmFwaFN0eWxloyYoJF8QEE5TUGFyYWdyYXBoU3R5bGVfEA9OU0tleWVkQXJjaGl2ZXLRKyxUcm9vdIABAAgAEQAaACMALQAyADcAPQBDAFYAXQBoAHUAgQCWAKgAygDcAOgA6gDsAO4A8AD5AQIBBAENAQ8BFAEfASABIgEnATIBOwFDAUYBTwFUAW4BcgGFAZcBmgGfAAAAAAAAAgEAAAAAAAAALQAAAAAAAAAAAAAAAAAAAaE="
         },
         "strikethroughStyle": 0,
         "underlineStyle": 0

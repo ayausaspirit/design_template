@@ -1,106 +1,10 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "attributedString",
-    "attributes": [
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0.2,
-            "green": 0.2,
-            "red": 0.2
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "HiraKakuPro-W3",
-              "size": 15.98120051930058
-            }
-          },
-          "MSAttributedStringTextTransformAttribute": 0,
-          "kerning": 1.917726,
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "alignment": 0,
-            "maximumLineHeight": 36.95000076293945,
-            "minimumLineHeight": 36.95000076293945,
-            "paragraphSpacing": 1
-          },
-          "strikethroughStyle": 0,
-          "underlineStyle": 0
-        },
-        "length": 128,
-        "location": 0
-      },
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0.2,
-            "green": 0.2,
-            "red": 0.2
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "HiraKakuPro-W3",
-              "size": 15.98120051930058
-            }
-          },
-          "MSAttributedStringTextTransformAttribute": 0,
-          "kerning": 1.917726,
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "alignment": 0,
-            "maximumLineHeight": 23.95000076293945,
-            "minimumLineHeight": 23.95000076293945,
-            "paragraphSpacing": 1
-          },
-          "strikethroughStyle": 0,
-          "underlineStyle": 0
-        },
-        "length": 25,
-        "location": 128
-      },
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0.2,
-            "green": 0.2,
-            "red": 0.2
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "HiraKakuPro-W3",
-              "size": 15.98120051930058
-            }
-          },
-          "MSAttributedStringTextTransformAttribute": 0,
-          "kerning": 1.917726,
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "alignment": 0,
-            "maximumLineHeight": 36.95000076293945,
-            "minimumLineHeight": 36.95000076293945,
-            "paragraphSpacing": 1
-          },
-          "strikethroughStyle": 0,
-          "underlineStyle": 0
-        },
-        "length": 28,
-        "location": 153
-      }
-    ],
-    "string": "Scientific Hub Services Pte Ltd Adress: 16 Ayer Rajah Crescent #04-06C Singapore 139965 TEL: (65) 9850 2655 FAX: (65) 6640 1351 E-mail: info@sci-hub.com URL: http://www.sci-hub.com/"
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGtbZYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QLgcIERIYKywtLi8wMTI2Pj9AQUJJTU5aW1xdXl9gYWJkc3Z5fX6QnJ2en6aprbFVJG51bGzUCQoLDA0ODxBYTlNTdHJpbmdfEA9OU0F0dHJpYnV0ZUluZm9cTlNBdHRyaWJ1dGVzViRjbGFzc4ACgCuAA4AtbxC1AFMAYwBpAGUAbgB0AGkAZgBpAGMAIABIAHUAYgAgAFMAZQByAHYAaQBjAGUAcwAgAFAAdABlACAATAB0AGQgKQBBAGQAcgBlAHMAcwA6ACAAMQA2ACAAQQB5AGUAcgAgAFIAYQBqAGEAaAAgAEMAcgBlAHMAYwBlAG4AdAAgACMAMAA0AC0AMAA2AEMAIABTAGkAbgBnAGEAcABvAHIAZQAgADEAMwA5ADkANgA1ICkAVABFAEwAOgAgACgANgA1ACkAIAA5ADgANQAwACAAMgA2ADUANSApAEYAQQBYADoAIAAoADYANQApACAANgA2ADQAMAAgADEAMwA1ADEgKQBFAC0AbQBhAGkAbAA6ACAAaQBuAGYAbwBAAHMAYwBpAC0AaAB1AGIALgBjAG8AbSApAFUAUgBMADoAIABoAHQAdABwADoALwAvAHcAdwB3AC4AcwBjAGkALQBoAHUAYgAuAGMAbwBtAC/SEwwUF1pOUy5vYmplY3RzohUWgASAJIAq0xkTDBoiKldOUy5rZXlzpxscHR4fICGABYAGgAeACIAJgAqAC6cjJCQkJygpgAyAFIAUgBSAFYAfgCOAHl8QH01TQXR0cmlidXRlZFN0cmluZ0ZvbnRBdHRyaWJ1dGVfEA9OU1N0cmlrZXRocm91Z2hbTlNVbmRlcmxpbmVfEChNU0F0dHJpYnV0ZWRTdHJpbmdUZXh0VHJhbnNmb3JtQXR0cmlidXRlXxAqTVNBdHRyaWJ1dGVkU3RyaW5nQ29sb3JEaWN0aW9uYXJ5QXR0cmlidXRlXxAQTlNQYXJhZ3JhcGhTdHlsZVZOU0tlcm7SDDM0NV8QGk5TRm9udERlc2NyaXB0b3JBdHRyaWJ1dGVzgBOADdMZEww3Oj2iODmADoAPojs8gBCAEYASXxATTlNGb250U2l6ZUF0dHJpYnV0ZV8QE05TRm9udE5hbWVBdHRyaWJ1dGUjQC/2X+oabaxeSGlyYUtha3VQcm8tVzPSQ0RFRlokY2xhc3NuYW1lWCRjbGFzc2VzXxATTlNNdXRhYmxlRGljdGlvbmFyeaNFR0hcTlNEaWN0aW9uYXJ5WE5TT2JqZWN00kNESktfEBBOU0ZvbnREZXNjcmlwdG9yokxIXxAQTlNGb250RGVzY3JpcHRvchAA0xkTDE9UKqRQUVJTgBaAF4AYgBmkVVZXWIAagBuAHIAdgB5TcmVkVWFscGhhVGJsdWVVZ3JlZW4jP8mZmZmZmZojP/AAAAAAAAAjP8mZmZmZmZojP8mZmZmZmZrSQ0RHY6JHSNgMZWZnaGlqa2xtbm5fcHFyWk5TVGFiU3RvcHNcTlNUZXh0QmxvY2tzW05TVGV4dExpc3RzXxASTlNQYXJhZ3JhcGhTcGFjaW5nXxAfTlNBbGxvd3NUaWdodGVuaW5nRm9yVHJ1bmNhdGlvbl8QD05TTWF4TGluZUhlaWdodF8QD05TTWluTGluZUhlaWdodIAigACAIIAgEAEjQEJ5maAAAAAjQEJ5maAAAADSEwx0daCAIdJDRHd4V05TQXJyYXmid0jSQ0R6e18QF05TTXV0YWJsZVBhcmFncmFwaFN0eWxlo3p8SF8QEE5TUGFyYWdyYXBoU3R5bGUjP/6vAXVLBbfTGRMMf4cqpxscHR4fICGABYAGgAeACIAJgAqAC6cjJCQkjI0pgAyAFIAUgBSAJYApgCOAHtMZEwyRliqkUFFSU4AWgBeAGIAZpJdWmZqAJoAbgCeAKIAeIz/JmZmZmZmaIz/JmZmZmZmaIz/JmZmZmZma2AxlZmdoaWprbG1ubl9wpKWAIoAAgCCAICNAN/MzQAAAACNAN/MzQAAAANJDRKeoXk5TTXV0YWJsZUFycmF5o6d3SNKqDKusV05TLmRhdGFHgAEAGQEcAIAs0kNErq9dTlNNdXRhYmxlRGF0YaOusEhWTlNEYXRh0kNEsrNfEBJOU0F0dHJpYnV0ZWRTdHJpbmeitEhfEBJOU0F0dHJpYnV0ZWRTdHJpbmdfEA9OU0tleWVkQXJjaGl2ZXLRt7hUcm9vdIABAAgAEQAaACMALQAyADcAaABuAHcAgACSAJ8ApgCoAKoArACuAhsCIAIrAi4CMAIyAjQCOwJDAksCTQJPAlECUwJVAlcCWQJhAmMCZQJnAmkCawJtAm8CcQKTAqUCsQLcAwkDHAMjAygDRQNHA0kDUANTA1UDVwNaA1wDXgNgA3YDjAOVA6QDqQO0A70D0wPXA+QD7QPyBAUECAQbBB0EJAQpBCsELQQvBDEENgQ4BDoEPAQ+BEAERARKBE8EVQReBGcEcAR5BH4EgQSSBJ0EqgS2BMsE7QT/BREFEwUVBRcFGQUbBSQFLQUyBTMFNQU6BUIFRQVKBWQFaAV7BYQFiwWTBZUFlwWZBZsFnQWfBaEFqQWrBa0FrwWxBbMFtQW3BbkFwAXFBccFyQXLBc0F0gXUBdYF2AXaBdwF5QXuBfcGCAYKBgwGDgYQBhkGIgYnBjYGOgY/BkcGTwZRBlYGZAZoBm8GdAaJBowGoQazBrYGuwAAAAAAAAIBAAAAAAAAALkAAAAAAAAAAAAAAAAAAAa9"
+    }
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "747DEFDB-0E69-4F41-8092-49DE33BBF862",
@@ -147,28 +51,19 @@
       "_class": "textStyle",
       "do_objectID": "266E3DA5-3E38-4CDE-B2B1-F9F569FFB9F0",
       "encodedAttributes": {
-        "MSAttributedStringColorAttribute": {
-          "_class": "color",
+        "MSAttributedStringColorDictionaryAttribute": {
           "alpha": 1,
           "blue": 0.2,
           "green": 0.2,
           "red": 0.2
         },
         "MSAttributedStringFontAttribute": {
-          "_class": "fontDescriptor",
-          "attributes": {
-            "name": "HiraKakuPro-W3",
-            "size": 15.98120051930058
-          }
+          "_archive": "YnBsaXN0MDDUAQIDBAUGJidYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKkHCA0XGBkaGyJVJG51bGzSCQoLDFYkY2xhc3NfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AIgALTDg8JEBMWV05TLmtleXNaTlMub2JqZWN0c6IREoADgASiFBWABYAGgAdfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNAL/Zf6hptrF5IaXJhS2FrdVByby1XM9IcHR4fWiRjbGFzc25hbWVYJGNsYXNzZXNfEBNOU011dGFibGVEaWN0aW9uYXJ5ox4gIVxOU0RpY3Rpb25hcnlYTlNPYmplY3TSHB0jJF8QEE5TRm9udERlc2NyaXB0b3KiJSFfEBBOU0ZvbnREZXNjcmlwdG9yXxAPTlNLZXllZEFyY2hpdmVy0SgpVHJvb3SAAQAIABEAGgAjAC0AMgA3AEEARwBMAFMAcAByAHQAewCDAI4AkQCTAJUAmACaAJwAngC0AMoA0wDiAOcA8gD7AREBFQEiASsBMAFDAUYBWQFrAW4BcwAAAAAAAAIBAAAAAAAAACoAAAAAAAAAAAAAAAAAAAF1"
         },
         "MSAttributedStringTextTransformAttribute": 0,
         "kerning": 1.917726,
         "paragraphStyle": {
-          "_class": "paragraphStyle",
-          "alignment": 0,
-          "maximumLineHeight": 36.95000076293945,
-          "minimumLineHeight": 36.95000076293945,
-          "paragraphSpacing": 1
+          "_archive": "YnBsaXN0MDDUAQIDBAUGJyhYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKUHCBkdI1UkbnVsbNgJCgsMDQ4PEBESExMVFhcYViRjbGFzc1pOU1RhYlN0b3BzXE5TVGV4dEJsb2Nrc1tOU1RleHRMaXN0c18QEk5TUGFyYWdyYXBoU3BhY2luZ18QH05TQWxsb3dzVGlnaHRlbmluZ0ZvclRydW5jYXRpb25fEA9OU01heExpbmVIZWlnaHRfEA9OU01pbkxpbmVIZWlnaHSABIAAgAKAAiM/8AAAAAAAABABI0BCeZmgAAAAI0BCeZmgAAAA0hoJGxxaTlMub2JqZWN0c6CAA9IeHyAhWiRjbGFzc25hbWVYJGNsYXNzZXNXTlNBcnJheaIgIlhOU09iamVjdNIeHyQlXxAXTlNNdXRhYmxlUGFyYWdyYXBoU3R5bGWjJCYiXxAQTlNQYXJhZ3JhcGhTdHlsZV8QD05TS2V5ZWRBcmNoaXZlctEpKlRyb290gAEACAARABoAIwAtADIANwA9AEMAVABbAGYAcwB/AJQAtgDIANoA3ADeAOAA4gDrAO0A9gD/AQQBDwEQARIBFwEiASsBMwE2AT8BRAFeAWIBdQGHAYoBjwAAAAAAAAIBAAAAAAAAACsAAAAAAAAAAAAAAAAAAAGR"
         },
         "strikethroughStyle": 0,
         "underlineStyle": 0

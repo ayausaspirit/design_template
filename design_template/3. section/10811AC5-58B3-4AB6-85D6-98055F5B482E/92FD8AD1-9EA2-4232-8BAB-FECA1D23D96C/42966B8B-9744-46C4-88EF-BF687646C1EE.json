@@ -1,40 +1,10 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "attributedString",
-    "attributes": [
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0.3490196078,
-            "green": 0.6509803922,
-            "red": 0
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "HiraginoSans-W6",
-              "size": 14
-            }
-          },
-          "kerning": 0.3999999761581421,
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "alignment": 0,
-            "maximumLineHeight": 15,
-            "minimumLineHeight": 15
-          },
-          "strikethroughStyle": 0,
-          "underlineStyle": 1
-        },
-        "length": 13,
-        "location": 0
-      }
-    ],
-    "string": "神奈川中央交通ホームページ"
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGentYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QJQcIDxAiIyQlJicoNDU2Nzg5Ojs8QkZOT1BRUlVZWltnam5xdXZVJG51bGzTCQoLDA0OWE5TU3RyaW5nViRjbGFzc1xOU0F0dHJpYnV0ZXOAAoAkgANteV5ZSF3dTi1ZLk6kkBow2zD8MOAw2jD8MLjTERIKExohV05TLmtleXNaTlMub2JqZWN0c6YUFRYXGBmABIAFgAaAB4AIgAmmGxwdHh8ggAqAFIAcgB2AHoAjgBNfECpNU0F0dHJpYnV0ZWRTdHJpbmdDb2xvckRpY3Rpb25hcnlBdHRyaWJ1dGVfEB9NU0F0dHJpYnV0ZWRTdHJpbmdGb250QXR0cmlidXRlXxAPTlNTdHJpa2V0aHJvdWdoW05TVW5kZXJsaW5lXxAQTlNQYXJhZ3JhcGhTdHlsZVZOU0tlcm7TERIKKS4hpCorLC2AC4AMgA2ADqQvMDEygA+AEIARgBKAE1NyZWRVYWxwaGFUYmx1ZVVncmVlbiMAAAAAAAAAACM/8AAAAAAAACM/1lZWVkp60yM/5NTU1NrCl9I9Pj9AWiRjbGFzc25hbWVYJGNsYXNzZXNcTlNEaWN0aW9uYXJ5oj9BWE5TT2JqZWN00gpDREVfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AbgBXTERIKR0pNokhJgBaAF6JLTIAYgBmAGl8QE05TRm9udFNpemVBdHRyaWJ1dGVfEBNOU0ZvbnROYW1lQXR0cmlidXRlEA5fEA9IaXJhZ2lub1NhbnMtVzbSPT5TVF8QE05TTXV0YWJsZURpY3Rpb25hcnmjUz9B0j0+VldfEBBOU0ZvbnREZXNjcmlwdG9yolhBXxAQTlNGb250RGVzY3JpcHRvchAAEAHXClxdXl9gYWJjZGVaZmZaTlNUYWJTdG9wc1tOU1RleHRMaXN0c1xOU1RleHRCbG9ja3NfEB9OU0FsbG93c1RpZ2h0ZW5pbmdGb3JUcnVuY2F0aW9uXxAPTlNNYXhMaW5lSGVpZ2h0XxAPTlNNaW5MaW5lSGVpZ2h0gCKAAIAhgB8jQC4AAAAAAADSEgpoaaCAINI9PmtsXk5TTXV0YWJsZUFycmF5o2ttQVdOU0FycmF50hIKb2mggCDSPT5yc18QF05TTXV0YWJsZVBhcmFncmFwaFN0eWxlo3J0QV8QEE5TUGFyYWdyYXBoU3R5bGUjP9mZmYAAAADSPT53eF8QEk5TQXR0cmlidXRlZFN0cmluZ6J5QV8QEk5TQXR0cmlidXRlZFN0cmluZ18QD05TS2V5ZWRBcmNoaXZlctF8fVRyb290gAEACAARABoAIwAtADIANwBfAGUAbAB1AHwAiQCLAI0AjwCqALEAuQDEAMsAzQDPANEA0wDVANcA3gDgAOIA5ADmAOgA6gDsARkBOwFNAVkBbAFzAXoBfwGBAYMBhQGHAYwBjgGQAZIBlAGWAZoBoAGlAasBtAG9AcYBzwHUAd8B6AH1AfgCAQIGAiMCJQInAi4CMQIzAjUCOAI6AjwCPgJUAmoCbAJ+AoMCmQKdAqICtQK4AssCzQLPAt4C6QL1AwIDJAM2A0gDSgNMA04DUANZA14DXwNhA2YDdQN5A4EDhgOHA4kDjgOoA6wDvwPIA80D4gPlA/oEDAQPBBQAAAAAAAACAQAAAAAAAAB+AAAAAAAAAAAAAAAAAAAEFg=="
+    }
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "42966B8B-9744-46C4-88EF-BF687646C1EE",
@@ -89,18 +59,11 @@
           "red": 0
         },
         "MSAttributedStringFontAttribute": {
-          "_class": "fontDescriptor",
-          "attributes": {
-            "name": "HiraginoSans-W6",
-            "size": 14
-          }
+          "_archive": "YnBsaXN0MDDUAQIDBAUGJidYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKkHCA0XGBkaGyJVJG51bGzSCQoLDFYkY2xhc3NfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AIgALTDg8JEBMWV05TLmtleXNaTlMub2JqZWN0c6IREoADgASiFBWABYAGgAdfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZRAOXxAPSGlyYWdpbm9TYW5zLVc20hwdHh9aJGNsYXNzbmFtZVgkY2xhc3Nlc18QE05TTXV0YWJsZURpY3Rpb25hcnmjHiAhXE5TRGljdGlvbmFyeVhOU09iamVjdNIcHSMkXxAQTlNGb250RGVzY3JpcHRvcqIlIV8QEE5TRm9udERlc2NyaXB0b3JfEA9OU0tleWVkQXJjaGl2ZXLRKClUcm9vdIABAAgAEQAaACMALQAyADcAQQBHAEwAUwBwAHIAdAB7AIMAjgCRAJMAlQCYAJoAnACeALQAygDMAN4A4wDuAPcBDQERAR4BJwEsAT8BQgFVAWcBagFvAAAAAAAAAgEAAAAAAAAAKgAAAAAAAAAAAAAAAAAAAXE="
         },
         "kerning": 0.3999999761581421,
         "paragraphStyle": {
-          "_class": "paragraphStyle",
-          "alignment": 0,
-          "maximumLineHeight": 15,
-          "minimumLineHeight": 15
+          "_archive": "YnBsaXN0MDDUAQIDBAUGKClYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKYHCBYaISRVJG51bGzXCQoLDA0ODxAREhMUFRVWJGNsYXNzWk5TVGFiU3RvcHNbTlNUZXh0TGlzdHNcTlNUZXh0QmxvY2tzXxAfTlNBbGxvd3NUaWdodGVuaW5nRm9yVHJ1bmNhdGlvbl8QD05TTWF4TGluZUhlaWdodF8QD05TTWluTGluZUhlaWdodIAFgACABIACEAEjQC4AAAAAAADSFwkYGVpOUy5vYmplY3RzoIAD0hscHR5aJGNsYXNzbmFtZVgkY2xhc3Nlc15OU011dGFibGVBcnJheaMdHyBXTlNBcnJheVhOU09iamVjdNIXCSIZoIAD0hscJSZfEBdOU011dGFibGVQYXJhZ3JhcGhTdHlsZaMlJyBfEBBOU1BhcmFncmFwaFN0eWxlXxAPTlNLZXllZEFyY2hpdmVy0SorVHJvb3SAAQAIABEAGgAjAC0AMgA3AD4ARABTAFoAZQBxAH4AoACyAMQAxgDIAMoAzADOANcA3ADnAOgA6gDvAPoBAwESARYBHgEnASwBLQEvATQBTgFSAWUBdwF6AX8AAAAAAAACAQAAAAAAAAAsAAAAAAAAAAAAAAAAAAABgQ=="
         },
         "strikethroughStyle": 0,
         "underlineStyle": 1

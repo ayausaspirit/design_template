@@ -1,38 +1,10 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "attributedString",
-    "attributes": [
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0.337254902,
-            "green": 0.337254902,
-            "red": 0.337254902
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "YuGo-Medium",
-              "size": 18
-            }
-          },
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "alignment": 0,
-            "allowsDefaultTighteningForTruncation": 0,
-            "maximumLineHeight": 28.8,
-            "minimumLineHeight": 28.8
-          }
-        },
-        "length": 247,
-        "location": 0
-      }
-    ],
-    "string": "働き方や就職先に多くの選択肢がある時代、人事の方からの若年層の早期離職についての相談は後をたたない。\u000b社会人としての第一歩は「自社を好きになる」ことから始まります。\u000b就職活動を始めてから面接を繰り返し、最終面接、内定式、入社式。\u000bどんな気持ちだったのか？どんな悩みを抱えたのか？なぜこの会社に決めたのか？\u000bそれらを振り返り、昇華させた時、ジーンとする思いと共に、「この会社でがんばろう」という覚悟が醸成されます。\u000b一人でも多くの若手社員に「自ら選択して働く喜び」を伝えていきたいと思います。\r\n"
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "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"
+    }
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "3D6D3B15-836E-45B9-9601-E1754A2904CD",
@@ -88,18 +60,10 @@
           "red": 0.337254902
         },
         "MSAttributedStringFontAttribute": {
-          "_class": "fontDescriptor",
-          "attributes": {
-            "name": "YuGo-Medium",
-            "size": 18
-          }
+          "_archive": "YnBsaXN0MDDUAQIDBAUGJidYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKkHCA0XGBkaGyJVJG51bGzSCQoLDFYkY2xhc3NfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AIgALTDg8JEBMWV05TLmtleXNaTlMub2JqZWN0c6IREoADgASiFBWABYAGgAdfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZRASW1l1R28tTWVkaXVt0hwdHh9aJGNsYXNzbmFtZVgkY2xhc3Nlc18QE05TTXV0YWJsZURpY3Rpb25hcnmjHiAhXE5TRGljdGlvbmFyeVhOU09iamVjdNIcHSMkXxAQTlNGb250RGVzY3JpcHRvcqIlIV8QEE5TRm9udERlc2NyaXB0b3JfEA9OU0tleWVkQXJjaGl2ZXLRKClUcm9vdIABAAgAEQAaACMALQAyADcAQQBHAEwAUwBwAHIAdAB7AIMAjgCRAJMAlQCYAJoAnACeALQAygDMANgA3QDoAPEBBwELARgBIQEmATkBPAFPAWEBZAFpAAAAAAAAAgEAAAAAAAAAKgAAAAAAAAAAAAAAAAAAAWs="
         },
         "paragraphStyle": {
-          "_class": "paragraphStyle",
-          "alignment": 0,
-          "allowsDefaultTighteningForTruncation": 0,
-          "maximumLineHeight": 28.8,
-          "minimumLineHeight": 28.8
+          "_archive": "YnBsaXN0MDDUAQIDBAUGJyhYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKYHCBUZICNVJG51bGzWCQoLDA0ODxAREhMUWk5TVGFiU3RvcHNbTlNUZXh0TGlzdHNfEA9OU01pbkxpbmVIZWlnaHRcTlNUZXh0QmxvY2tzViRjbGFzc18QD05TTWF4TGluZUhlaWdodIAAgAQjQDzMzMzMzM2AAoAFI0A8zMzMzMzN0hYNFxhaTlMub2JqZWN0c6CAA9IaGxwdWiRjbGFzc25hbWVYJGNsYXNzZXNeTlNNdXRhYmxlQXJyYXmjHB4fV05TQXJyYXlYTlNPYmplY3TSFg0hGKCAA9IaGyQlXxAXTlNNdXRhYmxlUGFyYWdyYXBoU3R5bGWjJCYfXxAQTlNQYXJhZ3JhcGhTdHlsZV8QD05TS2V5ZWRBcmNoaXZlctEpKlRyb290gAEACAARABoAIwAtADIANwA+AEQAUQBcAGgAegCHAI4AoACiAKQArQCvALEAugC/AMoAywDNANIA3QDmAPUA+QEBAQoBDwEQARIBFwExATUBSAFaAV0BYgAAAAAAAAIBAAAAAAAAACsAAAAAAAAAAAAAAAAAAAFk"
         }
       },
       "verticalAlignment": 0

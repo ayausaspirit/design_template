@@ -22,10 +22,9 @@
   },
   "image": {
     "_class": "MSJSONFileReference",
-    "_ref": "images/a0c648247b3ea696043030fb41f92adda70efe7f.png",
+    "_ref": "images/a0c648247b3ea696043030fb41f92adda70efe7f",
     "_ref_class": "MSImageData"
   },
-  "intendedDPI": 0,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,

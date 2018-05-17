@@ -1,74 +1,10 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "attributedString",
-    "attributes": [
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0.2,
-            "green": 0.2,
-            "red": 0.2
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "KozGoPr6N-Bold",
-              "size": 18.03719845977416
-            }
-          },
-          "MSAttributedStringTextTransformAttribute": 0,
-          "kerning": 0.45027525,
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "alignment": 2,
-            "maximumLineHeight": 28.02607144364444,
-            "minimumLineHeight": 28.02607144364444,
-            "paragraphSpacing": 1
-          },
-          "strikethroughStyle": 0,
-          "underlineStyle": 0
-        },
-        "length": 15,
-        "location": 0
-      },
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0.2,
-            "green": 0.2,
-            "red": 0.2
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "KozGoPr6N-Bold",
-              "size": 18.03719845977416
-            }
-          },
-          "MSAttributedStringTextTransformAttribute": 0,
-          "kerning": 0.45027525,
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "alignment": 2,
-            "maximumLineHeight": 24.02147711734204,
-            "minimumLineHeight": 24.02147711734204,
-            "paragraphSpacing": 1
-          },
-          "strikethroughStyle": 0,
-          "underlineStyle": 0
-        },
-        "length": 15,
-        "location": 15
-      }
-    ],
-    "string": "相手の居場所を共有しながら、 チャットで連絡が取り合える！ "
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGwsNYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QMAcIERIYKywtLi8wMTI2Pj9AQUJJTU5aW1xdXl9gYWJkdXh7f4CSlZ2pqquss7a6vlUkbnVsbNQJCgsMDQ4PEFhOU1N0cmluZ18QD05TQXR0cmlidXRlSW5mb1xOU0F0dHJpYnV0ZXNWJGNsYXNzgAKALYADgC9vEB52+GJLMG5cRVg0YkAwklFxZwkwVzBqMEwwiTABICkwwTDjMMMwyDBnkCN9YTBMU9YwilQIMEgwi/8BICnSEwwUF1pOUy5vYmplY3RzohUWgASAJIAs0xkTDBoiKldOUy5rZXlzpxscHR4fICGABYAGgAeACIAJgAqAC6cjJCQkJygpgAyAFIAUgBSAFYAfgCOAHl8QH01TQXR0cmlidXRlZFN0cmluZ0ZvbnRBdHRyaWJ1dGVfEA9OU1N0cmlrZXRocm91Z2hbTlNVbmRlcmxpbmVfEChNU0F0dHJpYnV0ZWRTdHJpbmdUZXh0VHJhbnNmb3JtQXR0cmlidXRlXxAqTVNBdHRyaWJ1dGVkU3RyaW5nQ29sb3JEaWN0aW9uYXJ5QXR0cmlidXRlXxAQTlNQYXJhZ3JhcGhTdHlsZVZOU0tlcm7SDDM0NV8QGk5TRm9udERlc2NyaXB0b3JBdHRyaWJ1dGVzgBOADdMZEww3Oj2iODmADoAPojs8gBCAEYASXxATTlNGb250U2l6ZUF0dHJpYnV0ZV8QE05TRm9udE5hbWVBdHRyaWJ1dGUjQDIJhdaYMQteS296R29QcjZOLUJvbGTSQ0RFRlokY2xhc3NuYW1lWCRjbGFzc2VzXxATTlNNdXRhYmxlRGljdGlvbmFyeaNFR0hcTlNEaWN0aW9uYXJ5WE5TT2JqZWN00kNESktfEBBOU0ZvbnREZXNjcmlwdG9yokxIXxAQTlNGb250RGVzY3JpcHRvchAA0xkTDE9UKqRQUVJTgBaAF4AYgBmkVVZXWIAagBuAHIAdgB5TcmVkVWFscGhhVGJsdWVVZ3JlZW4jP8mZmZmZmZojP/AAAAAAAAAjP8mZmZmZmZojP8mZmZmZmZrSQ0RHY6JHSNkMZWZnaGlqa2xtbm9vX3Fyc3RaTlNUYWJTdG9wc1xOU1RleHRCbG9ja3NbTlNUZXh0TGlzdHNfEBJOU1BhcmFncmFwaFNwYWNpbmdfEA9OU01heExpbmVIZWlnaHRfEB9OU0FsbG93c1RpZ2h0ZW5pbmdGb3JUcnVuY2F0aW9uXxAPTlNNaW5MaW5lSGVpZ2h0W05TQWxpZ25tZW50gCKAAIAggCAjQDwGrJ49z/gQASNAPAasnj3P+BAC0hMMdneggCHSQ0R5eldOU0FycmF5onlI0kNEfH1fEBdOU011dGFibGVQYXJhZ3JhcGhTdHlsZaN8fkhfEBBOU1BhcmFncmFwaFN0eWxlIz/c0U9IPK+z0xkTDIGJKqcbHB0eHyAhgAWABoAHgAiACYAKgAuniiQkJI6PKYAlgBSAFIAUgCeAK4AjgB7SDDM0lIATgCbTGRMMlpk9ojg5gA6AD6I7PIAQgBGAEtMZEwyeoyqkUFFSU4AWgBeAGIAZpKRWpqeAKIAbgCmAKoAeIz/JmZmZmZmaIz/JmZmZmZmaIz/JmZmZmZma2QxlZmdoaWprbG1ub29fsXKydIAigACAIIAgI0A4BX+GPJiwI0A4BX+GPJiw0kNEtLVeTlNNdXRhYmxlQXJyYXmjtHlI0rcMuLlXTlMuZGF0YUQPAA8BgC7SQ0S7vF1OU011dGFibGVEYXRho7u9SFZOU0RhdGHSQ0S/wF8QEk5TQXR0cmlidXRlZFN0cmluZ6LBSF8QEk5TQXR0cmlidXRlZFN0cmluZ18QD05TS2V5ZWRBcmNoaXZlctHExVRyb290gAEACAARABoAIwAtADIANwBqAHAAeQCCAJQAoQCoAKoArACuALAA7wD0AP8BAgEEAQYBCAEPARcBHwEhASMBJQEnASkBKwEtATUBNwE5ATsBPQE/AUEBQwFFAWcBeQGFAbAB3QHwAfcB/AIZAhsCHQIkAicCKQIrAi4CMAIyAjQCSgJgAmkCeAJ9AogCkQKnAqsCuALBAsYC2QLcAu8C8QL4Av0C/wMBAwMDBQMKAwwDDgMQAxIDFAMYAx4DIwMpAzIDOwNEA00DUgNVA2gDcwOAA4wDoQOzA9UD5wPzA/UD9wP5A/sEBAQGBA8EEQQWBBcEGQQeBCYEKQQuBEgETARfBGgEbwR3BHkEewR9BH8EgQSDBIUEjQSPBJEEkwSVBJcEmQSbBJ0EogSkBKYErQSwBLIEtAS3BLkEuwS9BMQEyQTLBM0EzwTRBNYE2ATaBNwE3gTgBOkE8gT7BQ4FEAUSBRQFFgUfBSgFLQU8BUAFRQVNBVIFVAVZBWcFawVyBXcFjAWPBaQFtgW5Bb4AAAAAAAACAQAAAAAAAADGAAAAAAAAAAAAAAAAAAAFwA=="
+    }
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "70F72C2B-7548-4117-B9E6-15583D7534D9",

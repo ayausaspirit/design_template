@@ -1,66 +1,10 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "attributedString",
-    "attributes": [
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0.1333333333,
-            "green": 0.1333333333,
-            "red": 0.1333333333
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "HiraginoSans-W6",
-              "size": 16
-            }
-          },
-          "kerning": 0.4307692,
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "alignment": 0,
-            "maximumLineHeight": 22.4,
-            "minimumLineHeight": 22.4
-          }
-        },
-        "length": 3,
-        "location": 0
-      },
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0.1333333333,
-            "green": 0.1333333333,
-            "red": 0.1333333333
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "HiraginoSans-W3",
-              "size": 16
-            }
-          },
-          "kerning": 0.4307692,
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "alignment": 0,
-            "maximumLineHeight": 22.4,
-            "minimumLineHeight": 22.4
-          }
-        },
-        "length": 27,
-        "location": 3
-      }
-    ],
-    "string": "住所:\n〒259-1101　神奈川県伊勢原市日向541-1\n"
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGuLlYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QMAcIERIYJSYnKCk3OkFESExUVVZXWFxgbG1ub3BxcnN0dneDio2Qk5ucqKmqq6ywtFUkbnVsbNQJCgsMDQ4PEFhOU1N0cmluZ18QD05TQXR0cmlidXRlSW5mb1xOU0F0dHJpYnV0ZXNWJGNsYXNzgAKALYADgC9vEB5PT2JAADoACjASADIANQA5AC0AMQAxADAAMTAAeV5ZSF3ddwxPClLiU59eAmXlVBEANQA0ADEALQAxAArSEwwUF1pOUy5vYmplY3RzohUWgASAIYAL0xkTDBofJFdOUy5rZXlzpBscHR6ABYAGgAeACKQgISIjgAmADoAWgCCAH18QEE5TUGFyYWdyYXBoU3R5bGVfEB9NU0F0dHJpYnV0ZWRTdHJpbmdGb250QXR0cmlidXRlXxAqTVNBdHRyaWJ1dGVkU3RyaW5nQ29sb3JEaWN0aW9uYXJ5QXR0cmlidXRlVk5TS2VybtcMKissLS4vMDEyMzQ1NlpOU1RhYlN0b3BzW05TVGV4dExpc3RzXE5TVGV4dEJsb2Nrc18QH05TQWxsb3dzVGlnaHRlbmluZ0ZvclRydW5jYXRpb25fEA9OU01heExpbmVIZWlnaHRfEA9OU01pbkxpbmVIZWlnaHSADYAAgAyAChABI0A2ZmZmZmZmI0A2ZmZmZmZm0hMMOBeggAvSOzw9PlokY2xhc3NuYW1lWCRjbGFzc2VzXk5TTXV0YWJsZUFycmF5oz0/QFdOU0FycmF5WE5TT2JqZWN00hMMQheggAvSOzxFRl8QF05TTXV0YWJsZVBhcmFncmFwaFN0eWxlo0VHQF8QEE5TUGFyYWdyYXBoU3R5bGXSDElKS18QGk5TRm9udERlc2NyaXB0b3JBdHRyaWJ1dGVzgBWAD9MZEwxNUFOiTk+AEIARolFSgBKAE4AUXxATTlNGb250U2l6ZUF0dHJpYnV0ZV8QE05TRm9udE5hbWVBdHRyaWJ1dGUQEF8QD0hpcmFnaW5vU2Fucy1XNtI7PFlaXxATTlNNdXRhYmxlRGljdGlvbmFyeaNZW0BcTlNEaWN0aW9uYXJ50js8XV5fEBBOU0ZvbnREZXNjcmlwdG9yol9AXxAQTlNGb250RGVzY3JpcHRvctMZEwxhZiSkYmNkZYAXgBiAGYAapGdoaWqAG4AcgB2AHoAfU3JlZFVhbHBoYVRibHVlVWdyZWVuIz/BEREQ/r3RIz/wAAAAAAAAIz/BEREQ/r3RIz/BEREQ/r3R0js8W3WiW0AjP9uRuPqH8PvTGRMMeH0kpBscHR6ABYAGgAeACKR+f4CBgCKAJYAogCyAH9cMKissLS4vMDGGhzSIiYANgACAJIAjI0A2ZmZmZmZmI0A2ZmZmZmZm0hMMixeggAvSEwyOF6CAC9IMSUqSgBWAJtMZEwyUl1OiTk+AEIARolGZgBKAJ4AUXxAPSGlyYWdpbm9TYW5zLVcz0xkTDJ2iJKRiY2RlgBeAGIAZgBqko2ilpoApgByAKoArgB8jP8ERERD+vdEjP8ERERD+vdEjP8ERERD+vdEjP9uRuPqH8PvSrQyur1dOUy5kYXRhRAMAGwGALtI7PLGyXU5TTXV0YWJsZURhdGGjsbNAVk5TRGF0YdI7PLW2XxASTlNBdHRyaWJ1dGVkU3RyaW5nordAXxASTlNBdHRyaWJ1dGVkU3RyaW5nXxAPTlNLZXllZEFyY2hpdmVy0bq7VHJvb3SAAQAIABEAGgAjAC0AMgA3AGoAcAB5AIIAlAChAKgAqgCsAK4AsADvAPQA/wECAQQBBgEIAQ8BFwEcAR4BIAEiASQBKQErAS0BLwExATMBRgFoAZUBnAGrAbYBwgHPAfECAwIVAhcCGQIbAh0CHwIoAjECNgI3AjkCPgJJAlICYQJlAm0CdgJ7AnwCfgKDAp0CoQK0ArkC1gLYAtoC4QLkAuYC6ALrAu0C7wLxAwcDHQMfAzEDNgNMA1ADXQNiA3UDeAOLA5IDlwOZA5sDnQOfA6QDpgOoA6oDrAOuA7IDuAO9A8MDzAPVA94D5wPsA+8D+AP/BAQEBgQIBAoEDAQRBBMEFQQXBBkEGwQqBCwELgQwBDIEOwREBEkESgRMBFEEUgRUBFkEWwRdBGQEZwRpBGsEbgRwBHIEdASGBI0EkgSUBJYEmASaBJ8EoQSjBKUEpwSpBLIEuwTEBM0E0gTaBN8E4QTmBPQE+AT/BQQFGQUcBTEFQwVGBUsAAAAAAAACAQAAAAAAAAC8AAAAAAAAAAAAAAAAAAAFTQ=="
+    }
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "25F2BC8E-7D0F-4D6A-960A-711D9F55B66A",
@@ -116,18 +60,11 @@
           "red": 0.1333333333
         },
         "MSAttributedStringFontAttribute": {
-          "_class": "fontDescriptor",
-          "attributes": {
-            "name": "HiraginoSans-W6",
-            "size": 16
-          }
+          "_archive": "YnBsaXN0MDDUAQIDBAUGJidYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKkHCA0XGBkaGyJVJG51bGzSCQoLDFYkY2xhc3NfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AIgALTDg8JEBMWV05TLmtleXNaTlMub2JqZWN0c6IREoADgASiFBWABYAGgAdfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZRAQXxAPSGlyYWdpbm9TYW5zLVc20hwdHh9aJGNsYXNzbmFtZVgkY2xhc3Nlc18QE05TTXV0YWJsZURpY3Rpb25hcnmjHiAhXE5TRGljdGlvbmFyeVhOU09iamVjdNIcHSMkXxAQTlNGb250RGVzY3JpcHRvcqIlIV8QEE5TRm9udERlc2NyaXB0b3JfEA9OU0tleWVkQXJjaGl2ZXLRKClUcm9vdIABAAgAEQAaACMALQAyADcAQQBHAEwAUwBwAHIAdAB7AIMAjgCRAJMAlQCYAJoAnACeALQAygDMAN4A4wDuAPcBDQERAR4BJwEsAT8BQgFVAWcBagFvAAAAAAAAAgEAAAAAAAAAKgAAAAAAAAAAAAAAAAAAAXE="
         },
         "kerning": 0.4307692,
         "paragraphStyle": {
-          "_class": "paragraphStyle",
-          "alignment": 0,
-          "maximumLineHeight": 22.4,
-          "minimumLineHeight": 22.4
+          "_archive": "YnBsaXN0MDDUAQIDBAUGKSpYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKYHCBcbIiVVJG51bGzXCQoLDA0ODxAREhMUFRZWJGNsYXNzWk5TVGFiU3RvcHNbTlNUZXh0TGlzdHNcTlNUZXh0QmxvY2tzXxAfTlNBbGxvd3NUaWdodGVuaW5nRm9yVHJ1bmNhdGlvbl8QD05TTWF4TGluZUhlaWdodF8QD05TTWluTGluZUhlaWdodIAFgACABIACEAEjQDZmZmZmZmYjQDZmZmZmZmbSGAkZGlpOUy5vYmplY3RzoIAD0hwdHh9aJGNsYXNzbmFtZVgkY2xhc3Nlc15OU011dGFibGVBcnJheaMeICFXTlNBcnJheVhOU09iamVjdNIYCSMaoIAD0hwdJidfEBdOU011dGFibGVQYXJhZ3JhcGhTdHlsZaMmKCFfEBBOU1BhcmFncmFwaFN0eWxlXxAPTlNLZXllZEFyY2hpdmVy0SssVHJvb3SAAQAIABEAGgAjAC0AMgA3AD4ARABTAFoAZQBxAH4AoACyAMQAxgDIAMoAzADOANcA4ADlAPAA8QDzAPgBAwEMARsBHwEnATABNQE2ATgBPQFXAVsBbgGAAYMBiAAAAAAAAAIBAAAAAAAAAC0AAAAAAAAAAAAAAAAAAAGK"
         }
       },
       "verticalAlignment": 0

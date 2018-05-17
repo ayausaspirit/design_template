@@ -1,62 +1,10 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "attributedString",
-    "attributes": [
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0.2,
-            "green": 0.2,
-            "red": 0.2
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "HiraKakuPro-W6",
-              "size": 14
-            }
-          },
-          "kerning": 0.0700000035762787,
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "alignment": 1
-          }
-        },
-        "length": 5,
-        "location": 0
-      },
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0.2,
-            "green": 0.2,
-            "red": 0.2
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "HiraKakuPro-W3",
-              "size": 14
-            }
-          },
-          "kerning": 0.0700000035762787,
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "alignment": 1
-          }
-        },
-        "length": 7,
-        "location": 5
-      }
-    ],
-    "string": "Deal Connect"
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGsrNYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QMAcIERIYJSYnKCk0Nz5BREhQUVJTVFhcaGlqa2xtbm9wcnN/hIeKjZWWoqOkpaaqrlUkbnVsbNQJCgsMDQ4PEFhOU1N0cmluZ18QD05TQXR0cmlidXRlSW5mb1xOU0F0dHJpYnV0ZXNWJGNsYXNzgAKALYADgC9cRGVhbCBDb25uZWN00hMMFBdaTlMub2JqZWN0c6IVFoAEgCGAC9MZEwwaHyRXTlMua2V5c6QbHB0egAWABoAHgAikICEiI4AJgA6AFoAggB9fEBBOU1BhcmFncmFwaFN0eWxlXxAfTVNBdHRyaWJ1dGVkU3RyaW5nRm9udEF0dHJpYnV0ZV8QKk1TQXR0cmlidXRlZFN0cmluZ0NvbG9yRGljdGlvbmFyeUF0dHJpYnV0ZVZOU0tlcm7WKisMLC0uLzAxMjAzWk5TVGFiU3RvcHNbTlNBbGlnbm1lbnRcTlNUZXh0QmxvY2tzXxAfTlNBbGxvd3NUaWdodGVuaW5nRm9yVHJ1bmNhdGlvbltOU1RleHRMaXN0c4AAEAGADYAKgAzSEww1F6CAC9I4OTo7WiRjbGFzc25hbWVYJGNsYXNzZXNeTlNNdXRhYmxlQXJyYXmjOjw9V05TQXJyYXlYTlNPYmplY3TSEww/F6CAC9I4OUJDXxAQTlNQYXJhZ3JhcGhTdHlsZaJCPdIMRUZHXxAaTlNGb250RGVzY3JpcHRvckF0dHJpYnV0ZXOAFYAP0xkTDElMT6JKS4AQgBGiTU6AEoATgBRfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZRAOXkhpcmFLYWt1UHJvLVc20jg5VVZfEBNOU011dGFibGVEaWN0aW9uYXJ5o1VXPVxOU0RpY3Rpb25hcnnSODlZWl8QEE5TRm9udERlc2NyaXB0b3KiWz1fEBBOU0ZvbnREZXNjcmlwdG9y0xkTDF1iJKReX2BhgBeAGIAZgBqkY2RlZoAbgByAHYAegB9TcmVkVWFscGhhVGJsdWVVZ3JlZW4jP8mZmZmZmZojP/AAAAAAAAAjP8mZmZmZmZojP8mZmZmZmZrSODlXcaJXPSM/seuFLhR64tMZEwx0eSSkGxwdHoAFgAaAB4AIpHp7fH2AIoAlgCiALIAf1iorDCwtLi8wMYIwg4AAgA2AI4Ak0hMMhReggAvSEwyIF6CAC9IMRUaMgBWAJtMZEwyOkU+iSkuAEIARok2TgBKAJ4AUXkhpcmFLYWt1UHJvLVcz0xkTDJecJKReX2BhgBeAGIAZgBqknWSfoIApgByAKoArgB8jP8mZmZmZmZojP8mZmZmZmZojP8mZmZmZmZojP7HrhS4UeuLSpwyoqVdOUy5kYXRhRAUABwGALtI4OausXU5TTXV0YWJsZURhdGGjq609Vk5TRGF0YdI4Oa+wXxASTlNBdHRyaWJ1dGVkU3RyaW5norE9XxASTlNBdHRyaWJ1dGVkU3RyaW5nXxAPTlNLZXllZEFyY2hpdmVy0bS1VHJvb3SAAQAIABEAGgAjAC0AMgA3AGoAcAB5AIIAlAChAKgAqgCsAK4AsAC9AMIAzQDQANIA1ADWAN0A5QDqAOwA7gDwAPIA9wD5APsA/QD/AQEBFAE2AWMBagF3AYIBjgGbAb0ByQHLAc0BzwHRAdMB2AHZAdsB4AHrAfQCAwIHAg8CGAIdAh4CIAIlAjgCOwJAAl0CXwJhAmgCawJtAm8CcgJ0AnYCeAKOAqQCpgK1AroC0ALUAuEC5gL5AvwDDwMWAxsDHQMfAyEDIwMoAyoDLAMuAzADMgM2AzwDQQNHA1ADWQNiA2sDcANzA3wDgwOIA4oDjAOOA5ADlQOXA5kDmwOdA58DrAOuA7ADsgO0A7kDugO8A8EDwgPEA8kDywPNA9QD1wPZA9sD3gPgA+ID5APzA/oD/wQBBAMEBQQHBAwEDgQQBBIEFAQWBB8EKAQxBDoEPwRHBEwETgRTBGEEZQRsBHEEhgSJBJ4EsASzBLgAAAAAAAACAQAAAAAAAAC2AAAAAAAAAAAAAAAAAAAEug=="
+    }
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "20D69BC3-C84C-4ED4-B841-79850AA0461E",
@@ -107,16 +55,11 @@
           "red": 0.2
         },
         "MSAttributedStringFontAttribute": {
-          "_class": "fontDescriptor",
-          "attributes": {
-            "name": "HiraKakuPro-W6",
-            "size": 14
-          }
+          "_archive": "YnBsaXN0MDDUAQIDBAUGJidYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKkHCA0XGBkaGyJVJG51bGzSCQoLDFYkY2xhc3NfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AIgALTDg8JEBMWV05TLmtleXNaTlMub2JqZWN0c6IREoADgASiFBWABYAGgAdfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZRAOXkhpcmFLYWt1UHJvLVc20hwdHh9aJGNsYXNzbmFtZVgkY2xhc3Nlc18QE05TTXV0YWJsZURpY3Rpb25hcnmjHiAhXE5TRGljdGlvbmFyeVhOU09iamVjdNIcHSMkXxAQTlNGb250RGVzY3JpcHRvcqIlIV8QEE5TRm9udERlc2NyaXB0b3JfEA9OU0tleWVkQXJjaGl2ZXLRKClUcm9vdIABAAgAEQAaACMALQAyADcAQQBHAEwAUwBwAHIAdAB7AIMAjgCRAJMAlQCYAJoAnACeALQAygDMANsA4ADrAPQBCgEOARsBJAEpATwBPwFSAWQBZwFsAAAAAAAAAgEAAAAAAAAAKgAAAAAAAAAAAAAAAAAAAW4="
         },
         "kerning": 0.07000000357627871,
         "paragraphStyle": {
-          "_class": "paragraphStyle",
-          "alignment": 1
+          "_archive": "YnBsaXN0MDDUAQIDBAUGJSZYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKYHCBQYHyJVJG51bGzWCQoLDA0ODxAREhATWk5TVGFiU3RvcHNbTlNBbGlnbm1lbnRWJGNsYXNzXE5TVGV4dEJsb2Nrc18QH05TQWxsb3dzVGlnaHRlbmluZ0ZvclRydW5jYXRpb25bTlNUZXh0TGlzdHOAABABgAWAAoAE0hULFhdaTlMub2JqZWN0c6CAA9IZGhscWiRjbGFzc25hbWVYJGNsYXNzZXNeTlNNdXRhYmxlQXJyYXmjGx0eV05TQXJyYXlYTlNPYmplY3TSFQsgF6CAA9IZGiMkXxAQTlNQYXJhZ3JhcGhTdHlsZaIjHl8QD05TS2V5ZWRBcmNoaXZlctEnKFRyb290gAEACAARABoAIwAtADIANwA+AEQAUQBcAGgAbwB8AJ4AqgCsAK4AsACyALQAuQDEAMUAxwDMANcA4ADvAPMA+wEEAQkBCgEMAREBJAEnATkBPAFBAAAAAAAAAgEAAAAAAAAAKQAAAAAAAAAAAAAAAAAAAUM="
         }
       },
       "verticalAlignment": 0

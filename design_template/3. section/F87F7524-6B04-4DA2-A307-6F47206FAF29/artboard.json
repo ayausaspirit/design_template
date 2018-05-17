@@ -44,8 +44,12 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
+    {
+      "class": "bitmap",
+      "id": "F872EAE8-8F16-487C-8711-25696B4D3738"
+    },
     {
       "class": "text",
       "id": "3E80DF3E-70AD-4754-9509-3D0512D6B1CC"
@@ -147,7 +151,7 @@
   },
   "userInfo": {
     "io.magicsketch.mirror": {
-      "highestQuality": -1
+      "highestQuality": 1
     }
   },
   "verticalRulerData": {

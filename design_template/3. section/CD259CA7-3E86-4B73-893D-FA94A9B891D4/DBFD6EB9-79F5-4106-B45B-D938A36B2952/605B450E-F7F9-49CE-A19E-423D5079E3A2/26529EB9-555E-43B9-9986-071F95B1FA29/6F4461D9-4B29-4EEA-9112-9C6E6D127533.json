@@ -30,6 +30,43 @@
   "layerListExpandedType": 0,
   "name": "Shape sp-1274-0",
   "nameIsFixed": false,
+  "path": {
+    "_class": "path",
+    "isClosed": true,
+    "pointRadiusBehaviour": 0,
+    "points": [
+      {
+        "_class": "curvePoint",
+        "cornerRadius": 0,
+        "curveFrom": "{0.54139000000000004, 0.87162700000000004}",
+        "curveMode": 1,
+        "curveTo": "{0.54139000000000004, 0.87162700000000004}",
+        "hasCurveFrom": false,
+        "hasCurveTo": false,
+        "point": "{0.54139000000000004, 0.87162700000000004}"
+      },
+      {
+        "_class": "curvePoint",
+        "cornerRadius": 0,
+        "curveFrom": "{0.166467, 0.18690000000000001}",
+        "curveMode": 1,
+        "curveTo": "{0.166467, 0.18690000000000001}",
+        "hasCurveFrom": false,
+        "hasCurveTo": false,
+        "point": "{0.166467, 0.18690000000000001}"
+      },
+      {
+        "_class": "curvePoint",
+        "cornerRadius": 0,
+        "curveFrom": "{0.91631300000000004, 0.18690000000000001}",
+        "curveMode": 1,
+        "curveTo": "{0.91631300000000004, 0.18690000000000001}",
+        "hasCurveFrom": false,
+        "hasCurveTo": false,
+        "point": "{0.91631300000000004, 0.18690000000000001}"
+      }
+    ]
+  },
   "pointRadiusBehaviour": 0,
   "points": [
     {

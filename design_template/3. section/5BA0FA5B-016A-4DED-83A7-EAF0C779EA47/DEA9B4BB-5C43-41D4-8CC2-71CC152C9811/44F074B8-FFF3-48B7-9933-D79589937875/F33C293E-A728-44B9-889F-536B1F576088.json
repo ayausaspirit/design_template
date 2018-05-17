@@ -1,74 +1,10 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "attributedString",
-    "attributes": [
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0.968627,
-            "green": 0.968627,
-            "red": 0.968627
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "KozGoPr6N-Regular",
-              "size": 18.00947055738214
-            }
-          },
-          "MSAttributedStringTextTransformAttribute": 0,
-          "kerning": 0.45025,
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "alignment": 2,
-            "maximumLineHeight": 27.99917687988339,
-            "minimumLineHeight": 27.99917687988339,
-            "paragraphSpacing": 1
-          },
-          "strikethroughStyle": 0,
-          "underlineStyle": 0
-        },
-        "length": 11,
-        "location": 0
-      },
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0.968627,
-            "green": 0.968627,
-            "red": 0.968627
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "KozGoPr6N-Bold",
-              "size": 25.99923567417743
-            }
-          },
-          "MSAttributedStringTextTransformAttribute": 0,
-          "kerning": 0.65,
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "alignment": 2,
-            "maximumLineHeight": 36.99891230556019,
-            "minimumLineHeight": 36.99891230556019,
-            "paragraphSpacing": 1
-          },
-          "strikethroughStyle": 0,
-          "underlineStyle": 0
-        },
-        "length": 11,
-        "location": 11
-      }
-    ],
-    "string": "一般有料会員「絆」の お申し込みはこちらから"
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGxcZYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QMwcIERIYKywtLi8wMTI2Pj9AQUJJTU5aW1xdXl9gYWJkdXh7f4CSlZ2en6usra61trm9wVUkbnVsbNQJCgsMDQ4PEFhOU1N0cmluZ18QD05TQXR0cmlidXRlSW5mb1xOU0F0dHJpYnV0ZXNWJGNsYXNzgAKAMIADgDJvEBZOAIIsZwllmU8aVOEwDH1GMA0wbiApMEp1MzBXj7wwfzBvMFMwYTCJMEswidITDBQXWk5TLm9iamVjdHOiFRaABIAkgC/TGRMMGiIqV05TLmtleXOnGxwdHh8gIYAFgAaAB4AIgAmACoALpyMkJCQnKCmADIAUgBSAFIAVgB+AI4AeXxAfTVNBdHRyaWJ1dGVkU3RyaW5nRm9udEF0dHJpYnV0ZV8QD05TU3RyaWtldGhyb3VnaFtOU1VuZGVybGluZV8QKE1TQXR0cmlidXRlZFN0cmluZ1RleHRUcmFuc2Zvcm1BdHRyaWJ1dGVfECpNU0F0dHJpYnV0ZWRTdHJpbmdDb2xvckRpY3Rpb25hcnlBdHRyaWJ1dGVfEBBOU1BhcmFncmFwaFN0eWxlVk5TS2VybtIMMzQ1XxAaTlNGb250RGVzY3JpcHRvckF0dHJpYnV0ZXOAE4AN0xkTDDc6PaI4OYAOgA+iOzyAEIARgBJfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNAMgJsqZY7Ll8QEUtvekdvUHI2Ti1SZWd1bGFy0kNERUZaJGNsYXNzbmFtZVgkY2xhc3Nlc18QE05TTXV0YWJsZURpY3Rpb25hcnmjRUdIXE5TRGljdGlvbmFyeVhOU09iamVjdNJDREpLXxAQTlNGb250RGVzY3JpcHRvcqJMSF8QEE5TRm9udERlc2NyaXB0b3IQANMZEwxPVCqkUFFSU4AWgBeAGIAZpFVWV1iAGoAbgByAHYAeU3JlZFVhbHBoYVRibHVlVWdyZWVuIz/u/v4M4LkTIz/wAAAAAAAAIz/u/v4M4LkTIz/u/v4M4LkT0kNER2OiR0jZDGVmZ2hpamtsbW5vb19xcnN0Wk5TVGFiU3RvcHNcTlNUZXh0QmxvY2tzW05TVGV4dExpc3RzXxASTlNQYXJhZ3JhcGhTcGFjaW5nXxAPTlNNYXhMaW5lSGVpZ2h0XxAfTlNBbGxvd3NUaWdodGVuaW5nRm9yVHJ1bmNhdGlvbl8QD05TTWluTGluZUhlaWdodFtOU0FsaWdubWVudIAigACAIIAgI0A7/8oOVgS6EAEjQDv/yg5WBLoQAtITDHZ3oIAh0kNEeXpXTlNBcnJheaJ5SNJDRHx9XxAXTlNNdXRhYmxlUGFyYWdyYXBoU3R5bGWjfH5IXxAQTlNQYXJhZ3JhcGhTdHlsZSM/3NDlYEGJONMZEwyBiSqnGxwdHh8gIYAFgAaAB4AIgAmACoALp4okJCSOj5CAJYAUgBSAFIApgC2ALoAe0gwzNJSAE4Am0xkTDJaZPaI4OYAOgA+impuAJ4AogBIjQDn/zei9lq1eS296R29QcjZOLUJvbGTTGRMMoKUqpFBRUlOAFoAXgBiAGaSmVqipgCqAG4ArgCyAHiM/7v7+DOC5EyM/7v7+DOC5EyM/7v7+DOC5E9kMZWZnaGlqa2xtbm9vX7NytHSAIoAAgCCAICNAQn/cW8H5+yNAQn/cW8H5+yM/5MzMzMzMzdJDRLe4Xk5TTXV0YWJsZUFycmF5o7d5SNK6DLu8V05TLmRhdGFECwALAYAx0kNEvr9dTlNNdXRhYmxlRGF0YaO+wEhWTlNEYXRh0kNEwsNfEBJOU0F0dHJpYnV0ZWRTdHJpbmeixEhfEBJOU0F0dHJpYnV0ZWRTdHJpbmdfEA9OU0tleWVkQXJjaGl2ZXLRx8hUcm9vdIABAAgAEQAaACMALQAyADcAbQBzAHwAhQCXAKQAqwCtAK8AsQCzAOIA5wDyAPUA9wD5APsBAgEKARIBFAEWARgBGgEcAR4BIAEoASoBLAEuATABMgE0ATYBOAFaAWwBeAGjAdAB4wHqAe8CDAIOAhACFwIaAhwCHgIhAiMCJQInAj0CUwJcAnACdQKAAokCnwKjArACuQK+AtEC1ALnAukC8AL1AvcC+QL7Av0DAgMEAwYDCAMKAwwDEAMWAxsDIQMqAzMDPANFA0oDTQNgA2sDeAOEA5kDqwPNA98D6wPtA+8D8QPzA/wD/gQHBAkEDgQPBBEEFgQeBCEEJgRABEQEVwRgBGcEbwRxBHMEdQR3BHkEewR9BIUEhwSJBIsEjQSPBJEEkwSVBJoEnASeBKUEqASqBKwErwSxBLMEtQS+BM0E1ATZBNsE3QTfBOEE5gToBOoE7ATuBPAE+QUCBQsFHgUgBSIFJAUmBS8FOAVBBUYFVQVZBV4FZgVrBW0FcgWABYQFiwWQBaUFqAW9Bc8F0gXXAAAAAAAAAgEAAAAAAAAAyQAAAAAAAAAAAAAAAAAABdk="
+    }
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "F33C293E-A728-44B9-889F-536B1F576088",

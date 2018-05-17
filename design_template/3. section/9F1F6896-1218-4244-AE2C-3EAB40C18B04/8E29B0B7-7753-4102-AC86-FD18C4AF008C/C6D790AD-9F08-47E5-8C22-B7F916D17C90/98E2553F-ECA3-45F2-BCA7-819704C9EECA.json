@@ -1,42 +1,10 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "attributedString",
-    "attributes": [
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0.968627,
-            "green": 0.968627,
-            "red": 0.968627
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "TsukuBRdGothic-Bold",
-              "size": 18.01000022888184
-            }
-          },
-          "MSAttributedStringTextTransformAttribute": 0,
-          "kerning": 0.4502632,
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "alignment": 2,
-            "maximumLineHeight": 24,
-            "minimumLineHeight": 24,
-            "paragraphSpacing": 1
-          },
-          "strikethroughStyle": 0,
-          "underlineStyle": 0
-        },
-        "length": 22,
-        "location": 0
-      }
-    ],
-    "string": "一般有料会員「絆」の お申し込みはこちらから"
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGfH1YJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QJAcIDxAkJSYnKCkqKy83ODk6O0JGR1NUVVZXWFlaW11tcHN3eFUkbnVsbNMJCgsMDQ5YTlNTdHJpbmdWJGNsYXNzXE5TQXR0cmlidXRlc4ACgCOAA28QFk4AgixnCWWZTxpU4TAMfUYwDTBuICkwSnUzMFePvDB/MG8wUzBhMIkwSzCJ0xESChMbI1dOUy5rZXlzWk5TLm9iamVjdHOnFBUWFxgZGoAEgAWABoAHgAiACYAKpxwdHR0gISKAC4ATgBOAE4AUgB6AIoAdXxAfTVNBdHRyaWJ1dGVkU3RyaW5nRm9udEF0dHJpYnV0ZV8QD05TU3RyaWtldGhyb3VnaFtOU1VuZGVybGluZV8QKE1TQXR0cmlidXRlZFN0cmluZ1RleHRUcmFuc2Zvcm1BdHRyaWJ1dGVfECpNU0F0dHJpYnV0ZWRTdHJpbmdDb2xvckRpY3Rpb25hcnlBdHRyaWJ1dGVfEBBOU1BhcmFncmFwaFN0eWxlVk5TS2VybtIKLC0uXxAaTlNGb250RGVzY3JpcHRvckF0dHJpYnV0ZXOAEoAM0xESCjAzNqIxMoANgA6iNDWAD4AQgBFfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNAMgKPYAAAAF8QE1RzdWt1QlJkR290aGljLUJvbGTSPD0+P1okY2xhc3NuYW1lWCRjbGFzc2VzXxATTlNNdXRhYmxlRGljdGlvbmFyeaM+QEFcTlNEaWN0aW9uYXJ5WE5TT2JqZWN00jw9Q0RfEBBOU0ZvbnREZXNjcmlwdG9yokVBXxAQTlNGb250RGVzY3JpcHRvchAA0xESCkhNI6RJSktMgBWAFoAXgBikTk9QUYAZgBqAG4AcgB1TcmVkVWFscGhhVGJsdWVVZ3JlZW4jP+7+/gzguRMjP/AAAAAAAAAjP+7+/gzguRMjP+7+/gzguRPSPD1AXKJAQdkKXl9gYWJjZGVmZ2hoWGpramxaTlNUYWJTdG9wc1xOU1RleHRCbG9ja3NbTlNUZXh0TGlzdHNfEBJOU1BhcmFncmFwaFNwYWNpbmdfEA9OU01heExpbmVIZWlnaHRfEB9OU0FsbG93c1RpZ2h0ZW5pbmdGb3JUcnVuY2F0aW9uXxAPTlNNaW5MaW5lSGVpZ2h0W05TQWxpZ25tZW50gCGAAIAfgB8jQDgAAAAAAAAQARAC0hIKbm+ggCDSPD1xcldOU0FycmF5onFB0jw9dHVfEBdOU011dGFibGVQYXJhZ3JhcGhTdHlsZaN0dkFfEBBOU1BhcmFncmFwaFN0eWxlIj7miObSPD15el8QEk5TQXR0cmlidXRlZFN0cmluZ6J7QV8QEk5TQXR0cmlidXRlZFN0cmluZ18QD05TS2V5ZWRBcmNoaXZlctF+f1Ryb290gAEACAARABoAIwAtADIANwBeAGQAawB0AHsAiACKAIwAjgC9AMQAzADXAN8A4QDjAOUA5wDpAOsA7QD1APcA+QD7AP0A/wEBAQMBBQEnATkBRQFwAZ0BsAG3AbwB2QHbAd0B5AHnAekB6wHuAfAB8gH0AgoCIAIpAj8CRAJPAlgCbgJyAn8CiAKNAqACowK2ArgCvwLEAsYCyALKAswC0QLTAtUC1wLZAtsC3wLlAuoC8AL5AwIDCwMUAxkDHAMvAzoDRwNTA2gDegOcA64DugO8A74DwAPCA8sDzQPPA9QD1QPXA9wD5APnA+wEBgQKBB0EIgQnBDwEPwRUBGYEaQRuAAAAAAAAAgEAAAAAAAAAgAAAAAAAAAAAAAAAAAAABHA="
+    }
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "98E2553F-ECA3-45F2-BCA7-819704C9EECA",
@@ -83,28 +51,19 @@
       "_class": "textStyle",
       "do_objectID": "A54B6C7F-BBBE-4CD7-BCBC-1B24232E4803",
       "encodedAttributes": {
-        "MSAttributedStringColorAttribute": {
-          "_class": "color",
+        "MSAttributedStringColorDictionaryAttribute": {
           "alpha": 1,
           "blue": 0.968627,
           "green": 0.968627,
           "red": 0.968627
         },
         "MSAttributedStringFontAttribute": {
-          "_class": "fontDescriptor",
-          "attributes": {
-            "name": "TsukuBRdGothic-Bold",
-            "size": 18.01000022888184
-          }
+          "_archive": "YnBsaXN0MDDUAQIDBAUGJidYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKkHCA0XGBkaGyJVJG51bGzSCQoLDFYkY2xhc3NfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AIgALTDg8JEBMWV05TLmtleXNaTlMub2JqZWN0c6IREoADgASiFBWABYAGgAdfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNAMgKPYAAAAF8QE1RzdWt1QlJkR290aGljLUJvbGTSHB0eH1okY2xhc3NuYW1lWCRjbGFzc2VzXxATTlNNdXRhYmxlRGljdGlvbmFyeaMeICFcTlNEaWN0aW9uYXJ5WE5TT2JqZWN00hwdIyRfEBBOU0ZvbnREZXNjcmlwdG9yoiUhXxAQTlNGb250RGVzY3JpcHRvcl8QD05TS2V5ZWRBcmNoaXZlctEoKVRyb290gAEACAARABoAIwAtADIANwBBAEcATABTAHAAcgB0AHsAgwCOAJEAkwCVAJgAmgCcAJ4AtADKANMA6QDuAPkBAgEYARwBKQEyATcBSgFNAWABcgF1AXoAAAAAAAACAQAAAAAAAAAqAAAAAAAAAAAAAAAAAAABfA=="
         },
         "MSAttributedStringTextTransformAttribute": 0,
         "kerning": 0.4502632,
         "paragraphStyle": {
-          "_class": "paragraphStyle",
-          "alignment": 2,
-          "maximumLineHeight": 24,
-          "minimumLineHeight": 24,
-          "paragraphSpacing": 1
+          "_archive": "YnBsaXN0MDDUAQIDBAUGKClYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKUHCBoeJFUkbnVsbNkJCgsMDQ4PEBESExQUFhcYFxlWJGNsYXNzWk5TVGFiU3RvcHNcTlNUZXh0QmxvY2tzW05TVGV4dExpc3RzXxASTlNQYXJhZ3JhcGhTcGFjaW5nXxAPTlNNYXhMaW5lSGVpZ2h0XxAfTlNBbGxvd3NUaWdodGVuaW5nRm9yVHJ1bmNhdGlvbl8QD05TTWluTGluZUhlaWdodFtOU0FsaWdubWVudIAEgACAAoACIz/wAAAAAAAAI0A4AAAAAAAAEAEQAtIbCRwdWk5TLm9iamVjdHOggAPSHyAhIlokY2xhc3NuYW1lWCRjbGFzc2VzV05TQXJyYXmiISNYTlNPYmplY3TSHyAlJl8QF05TTXV0YWJsZVBhcmFncmFwaFN0eWxloyUnI18QEE5TUGFyYWdyYXBoU3R5bGVfEA9OU0tleWVkQXJjaGl2ZXLRKitUcm9vdIABAAgAEQAaACMALQAyADcAPQBDAFYAXQBoAHUAgQCWAKgAygDcAOgA6gDsAO4A8AD5AQIBBAEGAQsBFgEXARkBHgEpATIBOgE9AUYBSwFlAWkBfAGOAZEBlgAAAAAAAAIBAAAAAAAAACwAAAAAAAAAAAAAAAAAAAGY"
         },
         "strikethroughStyle": 0,
         "underlineStyle": 0

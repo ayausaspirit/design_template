@@ -1,42 +1,10 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "attributedString",
-    "attributes": [
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0.180392,
-            "green": 0.6,
-            "red": 0.27451
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "KozGoPr6N-Bold",
-              "size": 29.97625002102728
-            }
-          },
-          "MSAttributedStringTextTransformAttribute": 0,
-          "kerning": 3.601794,
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "alignment": 0,
-            "maximumLineHeight": 45.87183847685255,
-            "minimumLineHeight": 45.87183847685255,
-            "paragraphSpacing": 1
-          },
-          "strikethroughStyle": 0,
-          "underlineStyle": 0
-        },
-        "length": 33,
-        "location": 0
-      }
-    ],
-    "string": "GenCheck® Hot-Start  PCR Mix (2×)"
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGe3xYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QJAcIDxAkJSYnKCkqKy83ODk6O0JGR1NUVVZXWFlaW11sb3J2d1UkbnVsbNMJCgsMDQ5YTlNTdHJpbmdWJGNsYXNzXE5TQXR0cmlidXRlc4ACgCOAA28QIQBHAGUAbgBDAGgAZQBjAGsArgAgAEgAbwB0AC0AUwB0AGEAcgB0ACAgKQBQAEMAUgAgAE0AaQB4ACAAKAAyANcAKdMREgoTGyNXTlMua2V5c1pOUy5vYmplY3RzpxQVFhcYGRqABIAFgAaAB4AIgAmACqccHR0dICEigAuAE4ATgBOAFIAegCKAHV8QH01TQXR0cmlidXRlZFN0cmluZ0ZvbnRBdHRyaWJ1dGVfEA9OU1N0cmlrZXRocm91Z2hbTlNVbmRlcmxpbmVfEChNU0F0dHJpYnV0ZWRTdHJpbmdUZXh0VHJhbnNmb3JtQXR0cmlidXRlXxAqTVNBdHRyaWJ1dGVkU3RyaW5nQ29sb3JEaWN0aW9uYXJ5QXR0cmlidXRlXxAQTlNQYXJhZ3JhcGhTdHlsZVZOU0tlcm7SCiwtLl8QGk5TRm9udERlc2NyaXB0b3JBdHRyaWJ1dGVzgBKADNMREgowMzaiMTKADYAOojQ1gA+AEIARXxATTlNGb250U2l6ZUF0dHJpYnV0ZV8QE05TRm9udE5hbWVBdHRyaWJ1dGUjQD3564V5CA9eS296R29QcjZOLUJvbGTSPD0+P1okY2xhc3NuYW1lWCRjbGFzc2VzXxATTlNNdXRhYmxlRGljdGlvbmFyeaM+QEFcTlNEaWN0aW9uYXJ5WE5TT2JqZWN00jw9Q0RfEBBOU0ZvbnREZXNjcmlwdG9yokVBXxAQTlNGb250RGVzY3JpcHRvchAA0xESCkhNI6RJSktMgBWAFoAXgBikTk9QUYAZgBqAG4AcgB1TcmVkVWFscGhhVGJsdWVVZ3JlZW4jP9GRkmQbMosjP/AAAAAAAAAjP8cXFcY64lQjP+MzMzMzMzPSPD1AXKJAQdgKXl9gYWJjZGVmZ2dYaWprWk5TVGFiU3RvcHNcTlNUZXh0QmxvY2tzW05TVGV4dExpc3RzXxASTlNQYXJhZ3JhcGhTcGFjaW5nXxAfTlNBbGxvd3NUaWdodGVuaW5nRm9yVHJ1bmNhdGlvbl8QD05TTWF4TGluZUhlaWdodF8QD05TTWluTGluZUhlaWdodIAhgACAH4AfEAEjQEbvmGc4vPIjQEbvmGc4vPLSEgptbqCAINI8PXBxV05TQXJyYXmicEHSPD1zdF8QF05TTXV0YWJsZVBhcmFncmFwaFN0eWxlo3N1QV8QEE5TUGFyYWdyYXBoU3R5bGUjQAzQeV9nbqTSPD14eV8QEk5TQXR0cmlidXRlZFN0cmluZ6J6QV8QEk5TQXR0cmlidXRlZFN0cmluZ18QD05TS2V5ZWRBcmNoaXZlctF9flRyb290gAEACAARABoAIwAtADIANwBeAGQAawB0AHsAiACKAIwAjgDTANoA4gDtAPUA9wD5APsA/QD/AQEBAwELAQ0BDwERARMBFQEXARkBGwE9AU8BWwGGAbMBxgHNAdIB7wHxAfMB+gH9Af8CAQIEAgYCCAIKAiACNgI/Ak4CUwJeAmcCfQKBAo4ClwKcAq8CsgLFAscCzgLTAtUC1wLZAtsC4ALiAuQC5gLoAuoC7gL0AvkC/wMIAxEDGgMjAygDKwM8A0cDVANgA3UDlwOpA7sDvQO/A8EDwwPFA84D1wPcA90D3wPkA+wD7wP0BA4EEgQlBC4EMwRIBEsEYARyBHUEegAAAAAAAAIBAAAAAAAAAH8AAAAAAAAAAAAAAAAAAAR8"
+    }
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "B0FEDB53-46C7-4C25-93E5-937B2E290B0C",

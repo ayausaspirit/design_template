@@ -1,38 +1,10 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "attributedString",
-    "attributes": [
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0.2352941176,
-            "green": 0.2352941176,
-            "red": 0.2352941176
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "YuGo-Medium",
-              "size": 24
-            }
-          },
-          "kerning": 0.73,
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "allowsDefaultTighteningForTruncation": 0,
-            "maximumLineHeight": 33.59999999999999,
-            "minimumLineHeight": 33.59999999999999
-          }
-        },
-        "length": 22,
-        "location": 0
-      }
-    ],
-    "string": "元マクドナルド人事部長\nハンバーガー大学長\n"
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGdHVYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QIQcIDxAeHyAhIjAzOj1BRU1OT1BRVVllZmdoaWprbG1vcFUkbnVsbNMJCgsMDQ5YTlNTdHJpbmdWJGNsYXNzXE5TQXR0cmlidXRlc4ACgCCAA28QFlFDMN4wrzDJMMow6zDJTrpOi5DolXcACjDPMPMw0DD8MKww/FknW2aVdwAK0xESChMYHVdOUy5rZXlzWk5TLm9iamVjdHOkFBUWF4AEgAWABoAHpBkaGxyACIANgBWAH4AeXxAQTlNQYXJhZ3JhcGhTdHlsZV8QH01TQXR0cmlidXRlZFN0cmluZ0ZvbnRBdHRyaWJ1dGVfECpNU0F0dHJpYnV0ZWRTdHJpbmdDb2xvckRpY3Rpb25hcnlBdHRyaWJ1dGVWTlNLZXJu1wojJCUmJygpKissLS4vWk5TVGFiU3RvcHNcTlNUZXh0QmxvY2tzW05TVGV4dExpc3RzXxAPTlNNYXhMaW5lSGVpZ2h0XxAPTlNNaW5MaW5lSGVpZ2h0W05TQWxpZ25tZW50gAyAAIAJgAsjQEDMzMzMzMsjQEDMzMzMzMsQBNISCjEyoIAK0jQ1NjdaJGNsYXNzbmFtZVgkY2xhc3Nlc15OU011dGFibGVBcnJheaM2ODlXTlNBcnJheVhOU09iamVjdNISCjsyoIAK0jQ1Pj9fEBdOU011dGFibGVQYXJhZ3JhcGhTdHlsZaM+QDlfEBBOU1BhcmFncmFwaFN0eWxl0gpCQ0RfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AUgA7TERIKRklMokdIgA+AEKJKS4ARgBKAE18QE05TRm9udFNpemVBdHRyaWJ1dGVfEBNOU0ZvbnROYW1lQXR0cmlidXRlEBhbWXVHby1NZWRpdW3SNDVSU18QE05TTXV0YWJsZURpY3Rpb25hcnmjUlQ5XE5TRGljdGlvbmFyedI0NVZXXxAQTlNGb250RGVzY3JpcHRvcqJYOV8QEE5TRm9udERlc2NyaXB0b3LTERIKWl8dpFtcXV6AFoAXgBiAGaRgYWJjgBqAG4AcgB2AHlNyZWRVYWxwaGFUYmx1ZVVncmVlbiM/zh4eHgQ/LSM/8AAAAAAAACM/zh4eHgQ/LSM/zh4eHgQ/LdI0NVRuolQ5Iz/nXCj1wo9c0jQ1cXJfEBJOU0F0dHJpYnV0ZWRTdHJpbmeiczlfEBJOU0F0dHJpYnV0ZWRTdHJpbmdfEA9OU0tleWVkQXJjaGl2ZXLRdndUcm9vdIABAAgAEQAaACMALQAyADcAWwBhAGgAcQB4AIUAhwCJAIsAugDBAMkA1ADZANsA3QDfAOEA5gDoAOoA7ADuAPABAwElAVIBWQFoAXMBgAGMAZ4BsAG8Ab4BwAHCAcQBzQHWAdgB3QHeAeAB5QHwAfkCCAIMAhQCHQIiAiMCJQIqAkQCSAJbAmACfQJ/AoECiAKLAo0CjwKSApQClgKYAq4CxALGAtIC1wLtAvEC/gMDAxYDGQMsAzMDOAM6AzwDPgNAA0UDRwNJA0sDTQNPA1MDWQNeA2QDbQN2A38DiAONA5ADmQOeA7MDtgPLA90D4APlAAAAAAAAAgEAAAAAAAAAeAAAAAAAAAAAAAAAAAAAA+c="
+    }
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "F8DAED95-C60C-458D-996E-0B6F6F236B39",
@@ -88,18 +60,11 @@
           "red": 0.2352941176
         },
         "MSAttributedStringFontAttribute": {
-          "_class": "fontDescriptor",
-          "attributes": {
-            "name": "YuGo-Medium",
-            "size": 24
-          }
+          "_archive": "YnBsaXN0MDDUAQIDBAUGJidYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKkHCA0XGBkaGyJVJG51bGzSCQoLDFYkY2xhc3NfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AIgALTDg8JEBMWV05TLmtleXNaTlMub2JqZWN0c6IREoADgASiFBWABYAGgAdfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZRAYW1l1R28tTWVkaXVt0hwdHh9aJGNsYXNzbmFtZVgkY2xhc3Nlc18QE05TTXV0YWJsZURpY3Rpb25hcnmjHiAhXE5TRGljdGlvbmFyeVhOU09iamVjdNIcHSMkXxAQTlNGb250RGVzY3JpcHRvcqIlIV8QEE5TRm9udERlc2NyaXB0b3JfEA9OU0tleWVkQXJjaGl2ZXLRKClUcm9vdIABAAgAEQAaACMALQAyADcAQQBHAEwAUwBwAHIAdAB7AIMAjgCRAJMAlQCYAJoAnACeALQAygDMANgA3QDoAPEBBwELARgBIQEmATkBPAFPAWEBZAFpAAAAAAAAAgEAAAAAAAAAKgAAAAAAAAAAAAAAAAAAAWs="
         },
         "kerning": 0.73,
         "paragraphStyle": {
-          "_class": "paragraphStyle",
-          "allowsDefaultTighteningForTruncation": 0,
-          "maximumLineHeight": 33.59999999999999,
-          "minimumLineHeight": 33.59999999999999
+          "_archive": "YnBsaXN0MDDUAQIDBAUGKSpYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKYHCBcbIiVVJG51bGzXCQoLDA0ODxAREhMUFRZWJGNsYXNzWk5TVGFiU3RvcHNcTlNUZXh0QmxvY2tzW05TVGV4dExpc3RzXxAPTlNNYXhMaW5lSGVpZ2h0XxAPTlNNaW5MaW5lSGVpZ2h0W05TQWxpZ25tZW50gAWAAIACgAQjQEDMzMzMzMsjQEDMzMzMzMsQBNIYCRkaWk5TLm9iamVjdHOggAPSHB0eH1okY2xhc3NuYW1lWCRjbGFzc2VzXk5TTXV0YWJsZUFycmF5ox4gIVdOU0FycmF5WE5TT2JqZWN00hgJIxqggAPSHB0mJ18QF05TTXV0YWJsZVBhcmFncmFwaFN0eWxloyYoIV8QEE5TUGFyYWdyYXBoU3R5bGVfEA9OU0tleWVkQXJjaGl2ZXLRKyxUcm9vdIABAAgAEQAaACMALQAyADcAPgBEAFMAWgBlAHIAfgCQAKIArgCwALIAtAC2AL8AyADKAM8A2gDbAN0A4gDtAPYBBQEJAREBGgEfASABIgEnAUEBRQFYAWoBbQFyAAAAAAAAAgEAAAAAAAAALQAAAAAAAAAAAAAAAAAAAXQ="
         }
       },
       "verticalAlignment": 0
