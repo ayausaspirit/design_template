@@ -1,10 +1,42 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "MSAttributedString",
-    "archivedAttributedString": {
-      "_archive": "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"
-    }
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.2,
+            "green": 0.2,
+            "red": 0.2
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "KozGoPr6N-Regular",
+              "size": 13.99275805814064
+            }
+          },
+          "MSAttributedStringTextTransformAttribute": 0,
+          "kerning": 0.35,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "maximumLineHeight": 23.99363211297337,
+            "minimumLineHeight": 23.99363211297337,
+            "paragraphSpacing": 1
+          },
+          "strikethroughStyle": 0,
+          "underlineStyle": 0
+        },
+        "length": 222,
+        "location": 0
+      }
+    ],
+    "string": " 地図をオンにすることで、自分の現在地を相手にお知らせすることができるので、災害時に家族や友人に自分 のいる場所や安否を明確に伝えることができます。また、LINEやFACEBOOKメッセンジャーのよう、相手がメッセージを読んだかどうかがわかり、チャットワー クやスカイプのようにメッセージを削除した際に相手方の情報からも削除がされる、有名なチャットアプリの 良いところを集めたチャットシステムになっているので災害時以外でも大変便利がツールです。"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "481A18A4-1466-4FC7-A05D-A4A3791B2A18",

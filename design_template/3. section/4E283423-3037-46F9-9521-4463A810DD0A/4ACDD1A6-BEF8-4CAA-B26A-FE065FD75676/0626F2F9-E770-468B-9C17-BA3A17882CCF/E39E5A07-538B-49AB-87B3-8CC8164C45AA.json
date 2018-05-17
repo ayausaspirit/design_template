@@ -1,10 +1,74 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "MSAttributedString",
-    "archivedAttributedString": {
-      "_archive": "YnBsaXN0MDDUAQIDBAUGwsNYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QMwcIERIYKywtLi8wMTI2Pj9AQUJJTU5PW1xdXl9gYWJjZXN2eX1+kJObnJ2pqquss7a6vlUkbnVsbNQJCgsMDQ4PEFhOU1N0cmluZ18QD05TQXR0cmlidXRlSW5mb1xOU0F0dHJpYnV0ZXNWJGNsYXNzgAKAMIADgDJvEDll5YxKbXdcuDD7MEpQCTCxbVwgKVuuXQ53DAAgAHwAIGXlUUleAoyhUUlb+gAg/whtRFMWMPsw0jD8MOow8zCwMPt2UjBX/wkAIAAgACAAIAAgACAAIAAgACAAIAAgACAAIAAgACAAIAAgACAAIAAgACDSEwwUF1pOUy5vYmplY3RzohUWgASAJYAv0xkTDBoiKldOUy5rZXlzpxscHR4fICGABYAGgAeACIAJgAqAC6cjJCUkJygpgAyAFIAVgBSAFoAggCSAH18QH01TQXR0cmlidXRlZFN0cmluZ0ZvbnRBdHRyaWJ1dGVfEA9OU1N0cmlrZXRocm91Z2hbTlNVbmRlcmxpbmVfEChNU0F0dHJpYnV0ZWRTdHJpbmdUZXh0VHJhbnNmb3JtQXR0cmlidXRlXxAqTVNBdHRyaWJ1dGVkU3RyaW5nQ29sb3JEaWN0aW9uYXJ5QXR0cmlidXRlXxAQTlNQYXJhZ3JhcGhTdHlsZVZOU0tlcm7SDDM0NV8QGk5TRm9udERlc2NyaXB0b3JBdHRyaWJ1dGVzgBOADdMZEww3Oj2iODmADoAPojs8gBCAEYASXxATTlNGb250U2l6ZUF0dHJpYnV0ZV8QE05TRm9udE5hbWVBdHRyaWJ1dGUjQCvsAaJtx3ZfEA9IaXJhS2FrdVByb04tVzbSQ0RFRlokY2xhc3NuYW1lWCRjbGFzc2VzXxATTlNNdXRhYmxlRGljdGlvbmFyeaNFR0hcTlNEaWN0aW9uYXJ5WE5TT2JqZWN00kNESktfEBBOU0ZvbnREZXNjcmlwdG9yokxIXxAQTlNGb250RGVzY3JpcHRvchAAEAHTGRMMUFUqpFFSU1SAF4AYgBmAGqRWV1hZgBuAHIAdgB6AH1NyZWRVYWxwaGFUYmx1ZVVncmVlbiM/7h4dIXj2jCM/8AAAAAAAACM/zh4dIXj2jCM/zh4dIXj2jNJDREdkokdI2AxmZ2hpamtsbW5vb2BOcXJaTlNUYWJTdG9wc1xOU1RleHRCbG9ja3NbTlNUZXh0TGlzdHNfEBJOU1BhcmFncmFwaFNwYWNpbmdfEB9OU0FsbG93c1RpZ2h0ZW5pbmdGb3JUcnVuY2F0aW9uXxAPTlNNYXhMaW5lSGVpZ2h0XxAPTlNNaW5MaW5lSGVpZ2h0gCOAAIAhgCEjQDPxuAZOaecjQDPxuAZOaefSEwx0daCAItJDRHd4V05TQXJyYXmid0jSQ0R6e18QF05TTXV0YWJsZVBhcmFncmFwaFN0eWxlo3p8SF8QEE5TUGFyYWdyYXBoU3R5bGUjAAAAAAAAAADTGRMMf4cqpxscHR4fICGABYAGgAeACIAJgAqAC6eIJCQkjI0pgCaAFIAUgBSAKoAugCSAH9IMMzSSgBOAJ9MZEwyUlz2iODmADoAPopiZgCiAKYASI0Aj8bgGTmnnXxAPSGlyYUtha3VQcm9OLVcz0xkTDJ6jKqRRUlNUgBeAGIAZgBqkpFemp4ArgByALIAtgB8jP+S0tRNyo4wjP+SUlAu7HyUjP+SUlAu7HyXYDGZnaGlqa2xtbm9vYE6xsoAjgACAIYAhI0Ar7AGibcd2I0Ar7AGibcd20kNEtLVeTlNNdXRhYmxlQXJyYXmjtHdI0rcMuLlXTlMuZGF0YUQKAC8BgDHSQ0S7vF1OU011dGFibGVEYXRho7u9SFZOU0RhdGHSQ0S/wF8QEk5TQXR0cmlidXRlZFN0cmluZ6LBSF8QEk5TQXR0cmlidXRlZFN0cmluZ18QD05TS2V5ZWRBcmNoaXZlctHExVRyb290gAEACAARABoAIwAtADIANwBtAHMAfACFAJcApACrAK0ArwCxALMBKAEtATgBOwE9AT8BQQFIAVABWAFaAVwBXgFgAWIBZAFmAW4BcAFyAXQBdgF4AXoBfAF+AaABsgG+AekCFgIpAjACNQJSAlQCVgJdAmACYgJkAmcCaQJrAm0CgwKZAqICtAK5AsQCzQLjAucC9AL9AwIDFQMYAysDLQMvAzYDOwM9Az8DQQNDA0gDSgNMA04DUANSA1YDXANhA2cDcAN5A4IDiwOQA5MDpAOvA7wDyAPdA/8EEQQjBCUEJwQpBCsENAQ9BEIEQwRFBEoEUgRVBFoEdAR4BIsElASbBKMEpQSnBKkEqwStBK8EsQS5BLsEvQS/BMEEwwTFBMcEyQTOBNAE0gTZBNwE3gTgBOME5QTnBOkE8gUEBQsFEAUSBRQFFgUYBR0FHwUhBSMFJQUnBTAFOQVCBVMFVQVXBVkFWwVkBW0FcgWBBYUFigWSBZcFmQWeBawFsAW3BbwF0QXUBekF+wX+BgMAAAAAAAACAQAAAAAAAADGAAAAAAAAAAAAAAAAAAAGBQ=="
-    }
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.235294,
+            "green": 0.235294,
+            "red": 0.941176
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "HiraKakuProN-W6",
+              "size": 13.96094997015073
+            }
+          },
+          "MSAttributedStringTextTransformAttribute": 0,
+          "kerning": 0,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "maximumLineHeight": 19.94421424307248,
+            "minimumLineHeight": 19.94421424307248,
+            "paragraphSpacing": 1
+          },
+          "strikethroughStyle": 0,
+          "underlineStyle": 1
+        },
+        "length": 10,
+        "location": 0
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.643137,
+            "green": 0.643137,
+            "red": 0.647059
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "HiraKakuProN-W3",
+              "size": 9.972107121536238
+            }
+          },
+          "MSAttributedStringTextTransformAttribute": 0,
+          "kerning": 0,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "maximumLineHeight": 13.96094997015073,
+            "minimumLineHeight": 13.96094997015073,
+            "paragraphSpacing": 1
+          },
+          "strikethroughStyle": 0,
+          "underlineStyle": 0
+        },
+        "length": 47,
+        "location": 10
+      }
+    ],
+    "string": "日豊海岸・お倉ケ浜 宮崎県 | 日光市財光寺 （浄化・ヒーリング・癒し）                     "
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "E39E5A07-538B-49AB-87B3-8CC8164C45AA",

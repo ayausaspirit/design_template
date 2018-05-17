@@ -1,10 +1,38 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "MSAttributedString",
-    "archivedAttributedString": {
-      "_archive": "YnBsaXN0MDDUAQIDBAUGdHVYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QIQcIDxAeHyAhIjE0Oz5CRk5PUFFSVlpmZ2hpai5rbG1ucFUkbnVsbNMJCgsMDQ5YTlNTdHJpbmdWJGNsYXNzXE5TQXR0cmlidXRlc4ACgCCAA28QYV9TlmIwb5zlMG4wVTBIMFowijBMgF4wUzBIMIswAVknXHEwboxKMEswaoHqcTYwa1byMH4wjDBfdkKZCleLdcWWYjBnMFkwAgAKVttbYzBuMKQw2TDzMMgwhDDcMOkw8zDGMKMwojBuZbkwBTBuUKwwV3JpMGowaTABlXdnH1FllmJgo4AFadgwTFwRMFcwZzCCAAowVFu2Xq0wbnSwWIMwa4/RMGUwUTCLMFMwaDCSdu5jBzBXMGYwSjCKMH4wWTAC0xESChMYHVdOUy5rZXlzWk5TLm9iamVjdHOkFBUWF4AEgAWABoAHpBkaGxyACIANgBWAHoAfXxAQTlNQYXJhZ3JhcGhTdHlsZV8QH01TQXR0cmlidXRlZFN0cmluZ0ZvbnRBdHRyaWJ1dGVfECpNU0F0dHJpYnV0ZWRTdHJpbmdDb2xvckRpY3Rpb25hcnlBdHRyaWJ1dGVWTlNLZXJu2AojJCUmJygpKissLS4vLzBaTlNUYWJTdG9wc1xOU1RleHRCbG9ja3NbTlNUZXh0TGlzdHNfEB9OU0FsbG93c1RpZ2h0ZW5pbmdGb3JUcnVuY2F0aW9uXxAPTlNNYXhMaW5lSGVpZ2h0XxAPTlNNaW5MaW5lSGVpZ2h0W05TQWxpZ25tZW50gAyAAIAJgAsQASNAOAAAAAAAABAC0hIKMjOggArSNTY3OFokY2xhc3NuYW1lWCRjbGFzc2VzXk5TTXV0YWJsZUFycmF5ozc5OldOU0FycmF5WE5TT2JqZWN00hIKPDOggArSNTY/QF8QF05TTXV0YWJsZVBhcmFncmFwaFN0eWxloz9BOl8QEE5TUGFyYWdyYXBoU3R5bGXSCkNERV8QGk5TRm9udERlc2NyaXB0b3JBdHRyaWJ1dGVzgBSADtMREgpHSk2iSEmAD4AQoktMgBGAEoATXxATTlNGb250U2l6ZUF0dHJpYnV0ZV8QE05TRm9udE5hbWVBdHRyaWJ1dGUQEl8QD0hpcmFnaW5vU2Fucy1XNNI1NlNUXxATTlNNdXRhYmxlRGljdGlvbmFyeaNTVTpcTlNEaWN0aW9uYXJ50jU2V1hfEBBOU0ZvbnREZXNjcmlwdG9yolk6XxAQTlNGb250RGVzY3JpcHRvctMREgpbYE2kXF1eX4AWgBeAGIAZpGFiY2SAGoAbgByAHYATU3JlZFVhbHBoYVRibHVlVWdyZWVuIz/VlZWVoF0lIz/VlZWVoF0lIz/VlZWVoF0lI7/aJgkTpPhy0jU2VW+iVTrSNTZxcl8QEk5TQXR0cmlidXRlZFN0cmluZ6JzOl8QEk5TQXR0cmlidXRlZFN0cmluZ18QD05TS2V5ZWRBcmNoaXZlctF2d1Ryb290gAEACAARABoAIwAtADIANwBbAGEAaABxAHgAhQCHAIkAiwFQAVcBXwFqAW8BcQFzAXUBdwF8AX4BgAGCAYQBhgGZAbsB6AHvAgACCwIYAiQCRgJYAmoCdgJ4AnoCfAJ+AoACiQKLApACkQKTApgCowKsArsCvwLHAtAC1QLWAtgC3QL3AvsDDgMTAzADMgM0AzsDPgNAA0IDRQNHA0kDSwNhA3cDeQOLA5ADpgOqA7cDvAPPA9ID5QPsA/ED8wP1A/cD+QP+BAAEAgQEBAYECAQMBBIEFwQdBCYELwQ4BEEERgRJBE4EYwRmBHsEjQSQBJUAAAAAAAACAQAAAAAAAAB4AAAAAAAAAAAAAAAAAAAElw=="
-    }
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.337254902,
+            "green": 0.337254902,
+            "red": 0.337254902
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "HiraginoSans-W4",
+              "size": 18
+            }
+          },
+          "kerning": -0.4085715,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 2,
+            "maximumLineHeight": 24,
+            "minimumLineHeight": 24
+          }
+        },
+        "length": 97,
+        "location": 0
+      }
+    ],
+    "string": "当院は鳥のさえずりが聞こえる、大山の豊かな自然に囲まれた療養型病院です。\n四季のイベントやボランティアの方々の催し物など、長期入院患者様が少しでも\nご家庭の環境に近づけることを目指しております。"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "F8446CD7-2AEC-4BDD-8A27-A59CFE216CF4",
@@ -51,18 +79,26 @@
       "_class": "textStyle",
       "do_objectID": "F3D529B7-C7CA-4217-8B0C-B74A7064304E",
       "encodedAttributes": {
-        "MSAttributedStringColorDictionaryAttribute": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
           "alpha": 1,
           "blue": 0.337254902,
           "green": 0.337254902,
           "red": 0.337254902
         },
         "MSAttributedStringFontAttribute": {
-          "_archive": "YnBsaXN0MDDUAQIDBAUGJidYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKkHCA0XGBkaGyJVJG51bGzSCQoLDFYkY2xhc3NfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AIgALTDg8JEBMWV05TLmtleXNaTlMub2JqZWN0c6IREoADgASiFBWABYAGgAdfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZRASXxAPSGlyYWdpbm9TYW5zLVc00hwdHh9aJGNsYXNzbmFtZVgkY2xhc3Nlc18QE05TTXV0YWJsZURpY3Rpb25hcnmjHiAhXE5TRGljdGlvbmFyeVhOU09iamVjdNIcHSMkXxAQTlNGb250RGVzY3JpcHRvcqIlIV8QEE5TRm9udERlc2NyaXB0b3JfEA9OU0tleWVkQXJjaGl2ZXLRKClUcm9vdIABAAgAEQAaACMALQAyADcAQQBHAEwAUwBwAHIAdAB7AIMAjgCRAJMAlQCYAJoAnACeALQAygDMAN4A4wDuAPcBDQERAR4BJwEsAT8BQgFVAWcBagFvAAAAAAAAAgEAAAAAAAAAKgAAAAAAAAAAAAAAAAAAAXE="
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "HiraginoSans-W4",
+            "size": 18
+          }
         },
         "kerning": -0.4085715,
         "paragraphStyle": {
-          "_archive": "YnBsaXN0MDDUAQIDBAUGKitYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKYHCBgcIyZVJG51bGzYCQoLDA0ODxAREhMUFRYWF1YkY2xhc3NaTlNUYWJTdG9wc1xOU1RleHRCbG9ja3NbTlNUZXh0TGlzdHNfEB9OU0FsbG93c1RpZ2h0ZW5pbmdGb3JUcnVuY2F0aW9uXxAPTlNNYXhMaW5lSGVpZ2h0XxAPTlNNaW5MaW5lSGVpZ2h0W05TQWxpZ25tZW50gAWAAIACgAQQASNAOAAAAAAAABAC0hkJGhtaTlMub2JqZWN0c6CAA9IdHh8gWiRjbGFzc25hbWVYJGNsYXNzZXNeTlNNdXRhYmxlQXJyYXmjHyEiV05TQXJyYXlYTlNPYmplY3TSGQkkG6CAA9IdHicoXxAXTlNNdXRhYmxlUGFyYWdyYXBoU3R5bGWjJykiXxAQTlNQYXJhZ3JhcGhTdHlsZV8QD05TS2V5ZWRBcmNoaXZlctEsLVRyb290gAEACAARABoAIwAtADIANwA+AEQAVQBcAGcAdACAAKIAtADGANIA1ADWANgA2gDcAOUA5wDsAPcA+AD6AP8BCgETASIBJgEuATcBPAE9AT8BRAFeAWIBdQGHAYoBjwAAAAAAAAIBAAAAAAAAAC4AAAAAAAAAAAAAAAAAAAGR"
+          "_class": "paragraphStyle",
+          "alignment": 2,
+          "maximumLineHeight": 24,
+          "minimumLineHeight": 24
         }
       },
       "verticalAlignment": 0

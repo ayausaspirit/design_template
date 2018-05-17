@@ -1,10 +1,152 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "MSAttributedString",
-    "archivedAttributedString": {
-      "_archive": "YnBsaXN0MDDUAQIDBAUG8/RYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QPgcIERIZJicoKSo4O0JFSU1VVldYWV1hbW5vcHE1cnN0dXeHiImVlpeYm6Okq66xsr7FyMvO1tfj5OXm5+vvVSRudWxs1AkKCwwNDg8QWE5TU3RyaW5nXxAPTlNBdHRyaWJ1dGVJbmZvXE5TQXR0cmlidXRlc1YkY2xhc3OAAoA7gAOAPW8QSGOhdSgwa5WiMFkwizBKVU8wRFQIMI8wWzBvMEpVTzBEVAgwjzBbMNUwqTD8MOAwSzCJMAEwVJAjfWEwTzBgMFUwRDACAAowfjBfMAGW+4px/wgAVABFAEwAOgAgADAANAA2ADMALQA5ADYALQAxADEAMAAw/wkwSzCJMIIwVJAjfWEwRDBfMGAwUTB+MFkwAtITDBQYWk5TLm9iamVjdHOjFRYXgASAIYAvgAvTGhMMGyAlV05TLmtleXOkHB0eH4AFgAaAB4AIpCEiIySACYAOgBaAH4AgXxAQTlNQYXJhZ3JhcGhTdHlsZV8QH01TQXR0cmlidXRlZFN0cmluZ0ZvbnRBdHRyaWJ1dGVfECpNU0F0dHJpYnV0ZWRTdHJpbmdDb2xvckRpY3Rpb25hcnlBdHRyaWJ1dGVWTlNLZXJu1wwrLC0uLzAxMjM0NTY3Wk5TVGFiU3RvcHNbTlNUZXh0TGlzdHNcTlNUZXh0QmxvY2tzXxAfTlNBbGxvd3NUaWdodGVuaW5nRm9yVHJ1bmNhdGlvbl8QD05TTWF4TGluZUhlaWdodF8QD05TTWluTGluZUhlaWdodIANgACADIAKEAEjQDmZmZmZmZojQDmZmZmZmZrSEww5GKCAC9I8PT4/WiRjbGFzc25hbWVYJGNsYXNzZXNeTlNNdXRhYmxlQXJyYXmjPkBBV05TQXJyYXlYTlNPYmplY3TSEwxDGKCAC9I8PUZHXxAXTlNNdXRhYmxlUGFyYWdyYXBoU3R5bGWjRkhBXxAQTlNQYXJhZ3JhcGhTdHlsZdIMSktMXxAaTlNGb250RGVzY3JpcHRvckF0dHJpYnV0ZXOAFYAP0xoTDE5RVKJPUIAQgBGiUlOAEoATgBRfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZRAQXxAPSGlyYWdpbm9TYW5zLVcz0jw9WltfEBNOU011dGFibGVEaWN0aW9uYXJ5o1pcQVxOU0RpY3Rpb25hcnnSPD1eX18QEE5TRm9udERlc2NyaXB0b3KiYEFfEBBOU0ZvbnREZXNjcmlwdG9y0xoTDGJnVKRjZGVmgBeAGIAZgBqkaGlqa4AbgByAHYAegBRTcmVkVWFscGhhVGJsdWVVZ3JlZW4jP8ERERD+vdEjP8ERERD+vdEjP8ERERD+vdEjP9uRuPqH8PvSPD1cdqJcQdMaEwx4fyWmHh17fBwfgAeABoAigCOABYAIpoCBgmmEhYAkgCiAKoAcgCuALoAgXxAPTlNTdHJpa2V0aHJvdWdoW05TVW5kZXJsaW5l0xoTDIqPVKRjZGVmgBeAGIAZgBqkkGmSk4AlgByAJoAngBQjP6oaGhohADgjP9mZmZmZmZojP+XV1dXZEbTSDEpLmoAVgCnTGhMMnJ9Uok9QgBCAEaJSU4ASgBOAFBAA1wwrLC0uLzAxMqeoNamqgA2AAIAtgCwjQDmZmZmZmZojQDmZmZmZmZrSEwysGKCAC9ITDK8YoIALIz/bkbj6h/D70xoTDLO4JaQcHR4fgAWABoAHgAikubq7vIAwgDOANoA6gCDXDCssLS4vMDEywcI1w8SADYAAgDKAMSNAOZmZmZmZmiNAOZmZmZmZmtITDMYYoIAL0hMMyRiggAvSDEpLzYAVgDTTGhMMz9JUok9QgBCAEaJS1IASgDWAFF8QD0hpcmFnaW5vU2Fucy1XNtMaEwzY3VSkY2RlZoAXgBiAGYAapN5p4OGAN4AcgDiAOYAUIz/BEREQ/r3RIz/BEREQ/r3RIz/BEREQ/r3RIz/bkbj6h/D70ugM6epXTlMuZGF0YUoNAAoBFwAMAg4AgDzSPD3s7V1OU011dGFibGVEYXRho+zuQVZOU0RhdGHSPD3w8V8QEk5TQXR0cmlidXRlZFN0cmluZ6LyQV8QEk5TQXR0cmlidXRlZFN0cmluZ18QD05TS2V5ZWRBcmNoaXZlctH19lRyb290gAEACAARABoAIwAtADIANwB4AH4AhwCQAKIArwC2ALgAugC8AL4BUQFWAWEBZQFnAWkBawFtAXQBfAGBAYMBhQGHAYkBjgGQAZIBlAGWAZgBqwHNAfoCAQIQAhsCJwI0AlYCaAJ6AnwCfgKAAoIChAKNApYCmwKcAp4CowKuArcCxgLKAtIC2wLgAuEC4wLoAwIDBgMZAx4DOwM9Az8DRgNJA0sDTQNQA1IDVANWA2wDggOEA5YDmwOxA7UDwgPHA9oD3QPwA/cD/AP+BAAEAgQEBAkECwQNBA8EEQQTBBcEHQQiBCgEMQQ6BEMETARRBFQEWwRiBGQEZgRoBGoEbARuBHUEdwR5BHsEfQR/BIEEgwSVBKEEqAStBK8EsQSzBLUEugS8BL4EwATCBMQEzQTWBN8E5ATmBOgE7wTyBPQE9gT5BPsE/QT/BQEFEAUSBRQFFgUYBSEFKgUvBTAFMgU3BTgFOgVDBUoFTwVRBVMFVQVXBVwFXgVgBWIFZAVmBXUFdwV5BXsFfQWGBY8FlAWVBZcFnAWdBZ8FpAWmBagFrwWyBbQFtgW5BbsFvQW/BdEF2AXdBd8F4QXjBeUF6gXsBe4F8AXyBfQF/QYGBg8GGAYdBiUGMAYyBjcGRQZJBlAGVQZqBm0GggaUBpcGnAAAAAAAAAIBAAAAAAAAAPcAAAAAAAAAAAAAAAAAAAae"
-    }
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.1333333333,
+            "green": 0.1333333333,
+            "red": 0.1333333333
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "HiraginoSans-W3",
+              "size": 16
+            }
+          },
+          "kerning": 0.4307692,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "maximumLineHeight": 25.6,
+            "minimumLineHeight": 25.6
+          }
+        },
+        "length": 13,
+        "location": 0
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.4,
+            "green": 0.6823529412,
+            "red": 0.05098039216
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "HiraginoSans-W3",
+              "size": 16
+            }
+          },
+          "kerning": 0.4307692,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "maximumLineHeight": 25.6,
+            "minimumLineHeight": 25.6
+          },
+          "strikethroughStyle": 0,
+          "underlineStyle": 1
+        },
+        "length": 10,
+        "location": 13
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.1333333333,
+            "green": 0.1333333333,
+            "red": 0.1333333333
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "HiraginoSans-W3",
+              "size": 16
+            }
+          },
+          "kerning": 0.4307692,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "maximumLineHeight": 25.6,
+            "minimumLineHeight": 25.6
+          }
+        },
+        "length": 23,
+        "location": 23
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.1333333333,
+            "green": 0.1333333333,
+            "red": 0.1333333333
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "HiraginoSans-W6",
+              "size": 16
+            }
+          },
+          "kerning": 0.4307692,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "maximumLineHeight": 25.6,
+            "minimumLineHeight": 25.6
+          }
+        },
+        "length": 12,
+        "location": 46
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.1333333333,
+            "green": 0.1333333333,
+            "red": 0.1333333333
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "HiraginoSans-W3",
+              "size": 16
+            }
+          },
+          "kerning": 0.4307692,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "maximumLineHeight": 25.6,
+            "minimumLineHeight": 25.6
+          }
+        },
+        "length": 14,
+        "location": 58
+      }
+    ],
+    "string": "採用に関するお問い合わせはお問い合わせフォームから、ご連絡ください。\nまた、電話（TEL: 0463-96-1100）からもご連絡いただけます。"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "154B92A8-07B3-466C-95DF-05A831BFCD3C",
@@ -75,11 +217,18 @@
           "red": 0.1333333333
         },
         "MSAttributedStringFontAttribute": {
-          "_archive": "YnBsaXN0MDDUAQIDBAUGJidYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKkHCA0XGBkaGyJVJG51bGzSCQoLDFYkY2xhc3NfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AIgALTDg8JEBMWV05TLmtleXNaTlMub2JqZWN0c6IREoADgASiFBWABYAGgAdfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZRAQXxAPSGlyYWdpbm9TYW5zLVcz0hwdHh9aJGNsYXNzbmFtZVgkY2xhc3Nlc18QE05TTXV0YWJsZURpY3Rpb25hcnmjHiAhXE5TRGljdGlvbmFyeVhOU09iamVjdNIcHSMkXxAQTlNGb250RGVzY3JpcHRvcqIlIV8QEE5TRm9udERlc2NyaXB0b3JfEA9OU0tleWVkQXJjaGl2ZXLRKClUcm9vdIABAAgAEQAaACMALQAyADcAQQBHAEwAUwBwAHIAdAB7AIMAjgCRAJMAlQCYAJoAnACeALQAygDMAN4A4wDuAPcBDQERAR4BJwEsAT8BQgFVAWcBagFvAAAAAAAAAgEAAAAAAAAAKgAAAAAAAAAAAAAAAAAAAXE="
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "HiraginoSans-W3",
+            "size": 16
+          }
         },
         "kerning": 0.4307692,
         "paragraphStyle": {
-          "_archive": "YnBsaXN0MDDUAQIDBAUGKSpYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKYHCBcbIiVVJG51bGzXCQoLDA0ODxAREhMUFRZWJGNsYXNzWk5TVGFiU3RvcHNbTlNUZXh0TGlzdHNcTlNUZXh0QmxvY2tzXxAfTlNBbGxvd3NUaWdodGVuaW5nRm9yVHJ1bmNhdGlvbl8QD05TTWF4TGluZUhlaWdodF8QD05TTWluTGluZUhlaWdodIAFgACABIACEAEjQDmZmZmZmZojQDmZmZmZmZrSGAkZGlpOUy5vYmplY3RzoIAD0hwdHh9aJGNsYXNzbmFtZVgkY2xhc3Nlc15OU011dGFibGVBcnJheaMeICFXTlNBcnJheVhOU09iamVjdNIYCSMaoIAD0hwdJidfEBdOU011dGFibGVQYXJhZ3JhcGhTdHlsZaMmKCFfEBBOU1BhcmFncmFwaFN0eWxlXxAPTlNLZXllZEFyY2hpdmVy0SssVHJvb3SAAQAIABEAGgAjAC0AMgA3AD4ARABTAFoAZQBxAH4AoACyAMQAxgDIAMoAzADOANcA4ADlAPAA8QDzAPgBAwEMARsBHwEnATABNQE2ATgBPQFXAVsBbgGAAYMBiAAAAAAAAAIBAAAAAAAAAC0AAAAAAAAAAAAAAAAAAAGK"
+          "_class": "paragraphStyle",
+          "alignment": 0,
+          "maximumLineHeight": 25.6,
+          "minimumLineHeight": 25.6
         }
       },
       "verticalAlignment": 0

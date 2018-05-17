@@ -1,10 +1,42 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "MSAttributedString",
-    "archivedAttributedString": {
-      "_archive": "YnBsaXN0MDDUAQIDBAUGe3xYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QJAcIDxAkJSYnKCkqKy83ODk6O0JGR1NUVVZXWFlaW11sb3J2d1UkbnVsbNMJCgsMDQ5YTlNTdHJpbmdWJGNsYXNzXE5TQXR0cmlidXRlc4ACgCOAA2VVRlTBMLMw/DDJ0xESChMbI1dOUy5rZXlzWk5TLm9iamVjdHOnFBUWFxgZGoAEgAWABoAHgAiACYAKpxwdHR0gISKAC4ATgBOAE4AUgB6AIoAdXxAfTVNBdHRyaWJ1dGVkU3RyaW5nRm9udEF0dHJpYnV0ZV8QD05TU3RyaWtldGhyb3VnaFtOU1VuZGVybGluZV8QKE1TQXR0cmlidXRlZFN0cmluZ1RleHRUcmFuc2Zvcm1BdHRyaWJ1dGVfECpNU0F0dHJpYnV0ZWRTdHJpbmdDb2xvckRpY3Rpb25hcnlBdHRyaWJ1dGVfEBBOU1BhcmFncmFwaFN0eWxlVk5TS2VybtIKLC0uXxAaTlNGb250RGVzY3JpcHRvckF0dHJpYnV0ZXOAEoAM0xESCjAzNqIxMoANgA6iNDWAD4AQgBFfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNAN/gUBGQydl8QEUtvekdvUHI2Ti1SZWd1bGFy0jw9Pj9aJGNsYXNzbmFtZVgkY2xhc3Nlc18QE05TTXV0YWJsZURpY3Rpb25hcnmjPkBBXE5TRGljdGlvbmFyeVhOU09iamVjdNI8PUNEXxAQTlNGb250RGVzY3JpcHRvcqJFQV8QEE5TRm9udERlc2NyaXB0b3IQANMREgpITSOkSUpLTIAVgBaAF4AYpE5PUFGAGYAagBuAHIAdU3JlZFVhbHBoYVRibHVlVWdyZWVuIz/Lm5lOGj9GIz/wAAAAAAAAIz/Lm5lOGj9GIz/Lm5lOGj9G0jw9QFyiQEHYCl5fYGFiY2RlZmdnWGlqa1pOU1RhYlN0b3BzXE5TVGV4dEJsb2Nrc1tOU1RleHRMaXN0c18QEk5TUGFyYWdyYXBoU3BhY2luZ18QH05TQWxsb3dzVGlnaHRlbmluZ0ZvclRydW5jYXRpb25fEA9OU01heExpbmVIZWlnaHRfEA9OU01pbkxpbmVIZWlnaHSAIYAAgB+AHxABI0BI97+EkwnlI0BI97+Ekwnl0hIKbW6ggCDSPD1wcVdOU0FycmF5onBB0jw9c3RfEBdOU011dGFibGVQYXJhZ3JhcGhTdHlsZaNzdUFfEBBOU1BhcmFncmFwaFN0eWxlI0AHCj1wo9cK0jw9eHlfEBJOU0F0dHJpYnV0ZWRTdHJpbmeiekFfEBJOU0F0dHJpYnV0ZWRTdHJpbmdfEA9OU0tleWVkQXJjaGl2ZXLRfX5Ucm9vdIABAAgAEQAaACMALQAyADcAXgBkAGsAdAB7AIgAigCMAI4AmQCgAKgAswC7AL0AvwDBAMMAxQDHAMkA0QDTANUA1wDZANsA3QDfAOEBAwEVASEBTAF5AYwBkwGYAbUBtwG5AcABwwHFAccBygHMAc4B0AHmAfwCBQIZAh4CKQIyAkgCTAJZAmICZwJ6An0CkAKSApkCngKgAqICpAKmAqsCrQKvArECswK1ArkCvwLEAsoC0wLcAuUC7gLzAvYDBwMSAx8DKwNAA2IDdAOGA4gDigOMA44DkAOZA6IDpwOoA6oDrwO3A7oDvwPZA90D8AP5A/4EEwQWBCsEPQRABEUAAAAAAAACAQAAAAAAAAB/AAAAAAAAAAAAAAAAAAAERw=="
-    }
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.215686,
+            "green": 0.215686,
+            "red": 0.215686
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "KozGoPr6N-Regular",
+              "size": 23.96905543752879
+            }
+          },
+          "MSAttributedStringTextTransformAttribute": 0,
+          "kerning": 2.88,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "maximumLineHeight": 49.9355321615183,
+            "minimumLineHeight": 49.9355321615183,
+            "paragraphSpacing": 1
+          },
+          "strikethroughStyle": 0,
+          "underlineStyle": 0
+        },
+        "length": 5,
+        "location": 0
+      }
+    ],
+    "string": "商品コード"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "1AAF7C53-201E-4DBF-8BD5-BB16F0099C8F",

@@ -1,10 +1,62 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "MSAttributedString",
-    "archivedAttributedString": {
-      "_archive": "YnBsaXN0MDDUAQIDBAUGnJ1YJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QKgcIERIYJSYnKCk1OD5CRk5PUFFSVlpmZ2hpamtsbW5wcX2JiouMjZCUmFUkbnVsbNQJCgsMDQ4PEFhOU1N0cmluZ18QD05TQXR0cmlidXRlSW5mb1xOU0F0dHJpYnV0ZXNWJGNsYXNzgAKAJ4ADgClXUFdBIExhYtITDBQXWk5TLm9iamVjdHOiFRaABIAggCbTGRMMGh8kV05TLmtleXOkGxwdHoAFgAaAB4AIpCAhIiOACYANgBWAH4AeXxAQTlNQYXJhZ3JhcGhTdHlsZV8QH01TQXR0cmlidXRlZFN0cmluZ0ZvbnRBdHRyaWJ1dGVfECpNU0F0dHJpYnV0ZWRTdHJpbmdDb2xvckRpY3Rpb25hcnlBdHRyaWJ1dGVWTlNLZXJu1iorDCwtLi8wMTIzMlpOU1RhYlN0b3BzW05TQWxpZ25tZW50XE5TVGV4dEJsb2Nrc18QH05TQWxsb3dzVGlnaHRlbmluZ0ZvclRydW5jYXRpb25bTlNUZXh0TGlzdHOAABACgAyAChABgArSEww2N6CAC9I5Ojs8WiRjbGFzc25hbWVYJGNsYXNzZXNXTlNBcnJheaI7PVhOU09iamVjdNI5Oj9AXxAXTlNNdXRhYmxlUGFyYWdyYXBoU3R5bGWjP0E9XxAQTlNQYXJhZ3JhcGhTdHlsZdIMQ0RFXxAaTlNGb250RGVzY3JpcHRvckF0dHJpYnV0ZXOAFIAO0xkTDEdKTaJISYAPgBCiS0yAEYASgBNfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNARAAAAAAAAFtMaUdvdGhpY01lZNI5OlNUXxATTlNNdXRhYmxlRGljdGlvbmFyeaNTVT1cTlNEaWN0aW9uYXJ50jk6V1hfEBBOU0ZvbnREZXNjcmlwdG9yolk9XxAQTlNGb250RGVzY3JpcHRvctMZEwxbYCSkXF1eX4AWgBeAGIAZpGFiY2SAGoAbgByAHYAeU3JlZFVhbHBoYVRibHVlVWdyZWVuIz/JmZmZmZmaIz/wAAAAAAAAIz/JmZmZmZmaIz/JmZmZmZma0jk6VW+iVT0jv/5mZmAAAADTGRMMcnckpBscHR6ABYAGgAeACKQgIXp7gAmADYAhgCWAHtMZEwx+gySkXF1eX4AWgBeAGIAZpIRihoeAIoAbgCOAJIAeIz/JmZmZmZmaIz/JmZmZmZmaIz/JmZmZmZmaIwAAAAAAAAAA0jk6jo9eTlNNdXRhYmxlQXJyYXmjjjs90pEMkpNXTlMuZGF0YUQGAAEBgCjSOTqVll1OU011dGFibGVEYXRho5WXPVZOU0RhdGHSOTqZml8QEk5TQXR0cmlidXRlZFN0cmluZ6KbPV8QEk5TQXR0cmlidXRlZFN0cmluZ18QD05TS2V5ZWRBcmNoaXZlctGen1Ryb290gAEACAARABoAIwAtADIANwBkAGoAcwB8AI4AmwCiAKQApgCoAKoAsgC3AMIAxQDHAMkAywDSANoA3wDhAOMA5QDnAOwA7gDwAPIA9AD2AQkBKwFYAV8BbAF3AYMBkAGyAb4BwAHCAcQBxgHIAcoBzwHQAdIB1wHiAesB8wH2Af8CBAIeAiICNQI6AlcCWQJbAmICZQJnAmkCbAJuAnACcgKIAp4CpwKzArgCzgLSAt8C5AL3AvoDDQMUAxkDGwMdAx8DIQMmAygDKgMsAy4DMAM0AzoDPwNFA04DVwNgA2kDbgNxA3oDgQOGA4gDigOMA44DkwOVA5cDmQObA50DpAOpA6sDrQOvA7EDtgO4A7oDvAO+A8ADyQPSA9sD5APpA/gD/AQBBAkEDgQQBBUEIwQnBC4EMwRIBEsEYARyBHUEegAAAAAAAAIBAAAAAAAAAKAAAAAAAAAAAAAAAAAAAAR8"
-    }
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.2,
+            "green": 0.2,
+            "red": 0.2
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "LiGothicMed",
+              "size": 40
+            }
+          },
+          "kerning": -1.899999976158142,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 2
+          }
+        },
+        "length": 6,
+        "location": 0
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.2,
+            "green": 0.2,
+            "red": 0.2
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "LiGothicMed",
+              "size": 40
+            }
+          },
+          "kerning": 0,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 2
+          }
+        },
+        "length": 1,
+        "location": 6
+      }
+    ],
+    "string": "PWA Lab"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "18EA19ED-2014-472F-878B-F61B44BC3E61",
@@ -51,18 +103,24 @@
       "_class": "textStyle",
       "do_objectID": "EAE92AE3-376C-47AD-AA05-0DCE5AE2D730",
       "encodedAttributes": {
-        "MSAttributedStringColorDictionaryAttribute": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
           "alpha": 1,
           "blue": 0.2,
           "green": 0.2,
           "red": 0.2
         },
         "MSAttributedStringFontAttribute": {
-          "_archive": "YnBsaXN0MDDUAQIDBAUGJidYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKkHCA0XGBkaGyJVJG51bGzSCQoLDFYkY2xhc3NfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AIgALTDg8JEBMWV05TLmtleXNaTlMub2JqZWN0c6IREoADgASiFBWABYAGgAdfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNARAAAAAAAAFtMaUdvdGhpY01lZNIcHR4fWiRjbGFzc25hbWVYJGNsYXNzZXNfEBNOU011dGFibGVEaWN0aW9uYXJ5ox4gIVxOU0RpY3Rpb25hcnlYTlNPYmplY3TSHB0jJF8QEE5TRm9udERlc2NyaXB0b3KiJSFfEBBOU0ZvbnREZXNjcmlwdG9yXxAPTlNLZXllZEFyY2hpdmVy0SgpVHJvb3SAAQAIABEAGgAjAC0AMgA3AEEARwBMAFMAcAByAHQAewCDAI4AkQCTAJUAmACaAJwAngC0AMoA0wDfAOQA7wD4AQ4BEgEfASgBLQFAAUMBVgFoAWsBcAAAAAAAAAIBAAAAAAAAACoAAAAAAAAAAAAAAAAAAAFy"
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "LiGothicMed",
+            "size": 40
+          }
         },
         "kerning": -1.899999976158142,
         "paragraphStyle": {
-          "_archive": "YnBsaXN0MDDUAQIDBAUGIyRYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKUHCBUZH1UkbnVsbNYJCgsMDQ4PEBESExJaTlNUYWJTdG9wc1tOU0FsaWdubWVudFYkY2xhc3NcTlNUZXh0QmxvY2tzXxAfTlNBbGxvd3NUaWdodGVuaW5nRm9yVHJ1bmNhdGlvbltOU1RleHRMaXN0c4AAEAKABIACEAGAAtIWCxcYWk5TLm9iamVjdHOggAPSGhscHVokY2xhc3NuYW1lWCRjbGFzc2VzV05TQXJyYXmiHB5YTlNPYmplY3TSGhsgIV8QF05TTXV0YWJsZVBhcmFncmFwaFN0eWxloyAiHl8QEE5TUGFyYWdyYXBoU3R5bGVfEA9OU0tleWVkQXJjaGl2ZXLRJSZUcm9vdIABAAgAEQAaACMALQAyADcAPQBDAFAAWwBnAG4AewCdAKkAqwCtAK8AsQCzALUAugDFAMYAyADNANgA4QDpAOwA9QD6ARQBGAErAT0BQAFFAAAAAAAAAgEAAAAAAAAAJwAAAAAAAAAAAAAAAAAAAUc="
+          "_class": "paragraphStyle",
+          "alignment": 2
         }
       },
       "verticalAlignment": 0

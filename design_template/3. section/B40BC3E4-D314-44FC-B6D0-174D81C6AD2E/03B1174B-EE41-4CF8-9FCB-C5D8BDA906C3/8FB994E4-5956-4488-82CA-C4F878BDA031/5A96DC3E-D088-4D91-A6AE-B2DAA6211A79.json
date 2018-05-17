@@ -1,10 +1,42 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "MSAttributedString",
-    "archivedAttributedString": {
-      "_archive": "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"
-    }
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.082353,
+            "green": 0.094118,
+            "red": 0.121569
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "KozGoPr6N-Regular",
+              "size": 14.00838952371632
+            }
+          },
+          "MSAttributedStringTextTransformAttribute": 0,
+          "kerning": 1.68,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "maximumLineHeight": 24.01438204065655,
+            "minimumLineHeight": 24.01438204065655,
+            "paragraphSpacing": 1
+          },
+          "strikethroughStyle": 0,
+          "underlineStyle": 0
+        },
+        "length": 127,
+        "location": 0
+      }
+    ],
+    "string": "上清600μl 1.RNase(100mg/mL)2μl 2.10分間, 37℃ 3.Purigication solution 400μl 4.十分に混合する 5.クロロホルム600μl 6.15秒間ボルテックス 7.20,000×g,15分間,室温 "
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "5A96DC3E-D088-4D91-A6AE-B2DAA6211A79",

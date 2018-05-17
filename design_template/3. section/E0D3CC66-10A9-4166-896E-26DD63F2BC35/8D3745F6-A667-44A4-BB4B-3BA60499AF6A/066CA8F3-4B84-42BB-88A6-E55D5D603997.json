@@ -1,10 +1,42 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "MSAttributedString",
-    "archivedAttributedString": {
-      "_archive": "YnBsaXN0MDDUAQIDBAUGe3xYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QJAcIDxAkJSYnKCkqKy83ODk6O0JGR1NUVVZXWFlaW11sb3J2d1UkbnVsbNMJCgsMDQ5YTlNTdHJpbmdWJGNsYXNzXE5TQXR0cmlidXRlc4ACgCOAA28QLWgqXw9PGnk+MNUwoTC5MN4wwzCvMACQek8dW1BpHGf7TotpbZDoICkwEgAyADQAMwAtADAAMAA0ADEwAHleWUhd3XcMU5pnKF4CfdEw9k4YADUALQAxAC0AM9MREgoTGyNXTlMua2V5c1pOUy5vYmplY3RzpxQVFhcYGRqABIAFgAaAB4AIgAmACqccHR0dICEigAuAE4ATgBOAFIAegCKAHV8QH01TQXR0cmlidXRlZFN0cmluZ0ZvbnRBdHRyaWJ1dGVfEA9OU1N0cmlrZXRocm91Z2hbTlNVbmRlcmxpbmVfEChNU0F0dHJpYnV0ZWRTdHJpbmdUZXh0VHJhbnNmb3JtQXR0cmlidXRlXxAqTVNBdHRyaWJ1dGVkU3RyaW5nQ29sb3JEaWN0aW9uYXJ5QXR0cmlidXRlXxAQTlNQYXJhZ3JhcGhTdHlsZVZOU0tlcm7SCiwtLl8QGk5TRm9udERlc2NyaXB0b3JBdHRyaWJ1dGVzgBKADNMREgowMzaiMTKADYAOojQ1gA+AEIARXxATTlNGb250U2l6ZUF0dHJpYnV0ZV8QE05TRm9udE5hbWVBdHRyaWJ1dGUjQCv4LS2eBZxfEBFLb3pHb1ByNk4tUmVndWxhctI8PT4/WiRjbGFzc25hbWVYJGNsYXNzZXNfEBNOU011dGFibGVEaWN0aW9uYXJ5oz5AQVxOU0RpY3Rpb25hcnlYTlNPYmplY3TSPD1DRF8QEE5TRm9udERlc2NyaXB0b3KiRUFfEBBOU0ZvbnREZXNjcmlwdG9yEADTERIKSE0jpElKS0yAFYAWgBeAGKROT1BRgBmAGoAbgByAHVNyZWRVYWxwaGFUYmx1ZVVncmVlbiM/7n5+H8CPqCM/8AAAAAAAACM/7n5+H8CPqCM/7n5+H8CPqNI8PUBcokBB2ApeX2BhYmNkZWZnZ1hpamtaTlNUYWJTdG9wc1xOU1RleHRCbG9ja3NbTlNUZXh0TGlzdHNfEBJOU1BhcmFncmFwaFNwYWNpbmdfEB9OU0FsbG93c1RpZ2h0ZW5pbmdGb3JUcnVuY2F0aW9uXxAPTlNNYXhMaW5lSGVpZ2h0XxAPTlNNaW5MaW5lSGVpZ2h0gCGAAIAfgB8QASNAO/gtLZ4FnCNAO/gtLZ4FnNISCm1uoIAg0jw9cHFXTlNBcnJheaJwQdI8PXN0XxAXTlNNdXRhYmxlUGFyYWdyYXBoU3R5bGWjc3VBXxAQTlNQYXJhZ3JhcGhTdHlsZSM/+uFHrhR64dI8PXh5XxASTlNBdHRyaWJ1dGVkU3RyaW5nonpBXxASTlNBdHRyaWJ1dGVkU3RyaW5nXxAPTlNLZXllZEFyY2hpdmVy0X1+VHJvb3SAAQAIABEAGgAjAC0AMgA3AF4AZABrAHQAewCIAIoAjACOAOsA8gD6AQUBDQEPAREBEwEVARcBGQEbASMBJQEnASkBKwEtAS8BMQEzAVUBZwFzAZ4BywHeAeUB6gIHAgkCCwISAhUCFwIZAhwCHgIgAiICOAJOAlcCawJwAnsChAKaAp4CqwK0ArkCzALPAuIC5ALrAvAC8gL0AvYC+AL9Av8DAQMDAwUDBwMLAxEDFgMcAyUDLgM3A0ADRQNIA1kDZANxA30DkgO0A8YD2APaA9wD3gPgA+ID6wP0A/kD+gP8BAEECQQMBBEEKwQvBEIESwRQBGUEaAR9BI8EkgSXAAAAAAAAAgEAAAAAAAAAfwAAAAAAAAAAAAAAAAAABJk="
-    }
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.952941,
+            "green": 0.952941,
+            "red": 0.952941
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "KozGoPr6N-Regular",
+              "size": 13.98471968225459
+            }
+          },
+          "MSAttributedStringTextTransformAttribute": 0,
+          "kerning": 1.68,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "maximumLineHeight": 27.96943936450917,
+            "minimumLineHeight": 27.96943936450917,
+            "paragraphSpacing": 1
+          },
+          "strikethroughStyle": 0,
+          "underlineStyle": 0
+        },
+        "length": 45,
+        "location": 0
+      }
+    ],
+    "string": "株式会社ファスマック　遺伝子検査事業部 〒243-0041　神奈川県厚木市緑ヶ丘5-1-3"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "066CA8F3-4B84-42BB-88A6-E55D5D603997",

@@ -1,10 +1,42 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "MSAttributedString",
-    "archivedAttributedString": {
-      "_archive": "YnBsaXN0MDDUAQIDBAUGe3xYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QJAcIDxAkJSYnKCkqKy83ODk6O0JGR1NUVVZXWFlaW11sb3J2d1UkbnVsbNMJCgsMDQ5YTlNTdHJpbmdWJGNsYXNzXE5TQXR0cmlidXRlc4ACgCOAA28QWv8IADH/CYpmZZkAMQAwAG0AZ/8LZyyI/VTBADEAMAAwA7wAbCAp/wgAMv8JMNww6zDGMMMwrzC5MGdkuWLMICn/CAAz/wkAMQAwADAhAzBnADEAMFIGlZNSoG4pICn/CAA0/wlsN04tMGcAMVIGlZNRt1N0ICn/CAA1/wkAMQA1ACwAMAAwADAA1wBnMAEAMVIGlZMwAVukbikwZ5BgX8MgKf8IADb/CU4Kb4QwfzCSVt5TztMREgoTGyNXTlMua2V5c1pOUy5vYmplY3RzpxQVFhcYGRqABIAFgAaAB4AIgAmACqccHR0dICEigAuAE4ATgBOAFIAegCKAHV8QH01TQXR0cmlidXRlZFN0cmluZ0ZvbnRBdHRyaWJ1dGVfEA9OU1N0cmlrZXRocm91Z2hbTlNVbmRlcmxpbmVfEChNU0F0dHJpYnV0ZWRTdHJpbmdUZXh0VHJhbnNmb3JtQXR0cmlidXRlXxAqTVNBdHRyaWJ1dGVkU3RyaW5nQ29sb3JEaWN0aW9uYXJ5QXR0cmlidXRlXxAQTlNQYXJhZ3JhcGhTdHlsZVZOU0tlcm7SCiwtLl8QGk5TRm9udERlc2NyaXB0b3JBdHRyaWJ1dGVzgBKADNMREgowMzaiMTKADYAOojQ1gA+AEIARXxATTlNGb250U2l6ZUF0dHJpYnV0ZV8QE05TRm9udE5hbWVBdHRyaWJ1dGUjQCwADMqj8ytfEBFLb3pHb1ByNk4tUmVndWxhctI8PT4/WiRjbGFzc25hbWVYJGNsYXNzZXNfEBNOU011dGFibGVEaWN0aW9uYXJ5oz5AQVxOU0RpY3Rpb25hcnlYTlNPYmplY3TSPD1DRF8QEE5TRm9udERlc2NyaXB0b3KiRUFfEBBOU0ZvbnREZXNjcmlwdG9yEADTERIKSE0jpElKS0yAFYAWgBeAGKROT1BRgBmAGoAbgByAHVNyZWRVYWxwaGFUYmx1ZVVncmVlbiM/vx8lXzUZvSM/8AAAAAAAACM/tRUWEbo8pyM/uBgeA/cFhdI8PUBcokBB2ApeX2BhYmNkZWZnZ1hpamtaTlNUYWJTdG9wc1xOU1RleHRCbG9ja3NbTlNUZXh0TGlzdHNfEBJOU1BhcmFncmFwaFNwYWNpbmdfEB9OU0FsbG93c1RpZ2h0ZW5pbmdGb3JUcnVuY2F0aW9uXxAPTlNNYXhMaW5lSGVpZ2h0XxAPTlNNaW5MaW5lSGVpZ2h0gCGAAIAfgB8QASNAOAMD16uThyNAOAMD16uTh9ISCm1uoIAg0jw9cHFXTlNBcnJheaJwQdI8PXN0XxAXTlNNdXRhYmxlUGFyYWdyYXBoU3R5bGWjc3VBXxAQTlNQYXJhZ3JhcGhTdHlsZSM/+uFHrhR64dI8PXh5XxASTlNBdHRyaWJ1dGVkU3RyaW5nonpBXxASTlNBdHRyaWJ1dGVkU3RyaW5nXxAPTlNLZXllZEFyY2hpdmVy0X1+VHJvb3SAAQAIABEAGgAjAC0AMgA3AF4AZABrAHQAewCIAIoAjACOAUUBTAFUAV8BZwFpAWsBbQFvAXEBcwF1AX0BfwGBAYMBhQGHAYkBiwGNAa8BwQHNAfgCJQI4Aj8CRAJhAmMCZQJsAm8CcQJzAnYCeAJ6AnwCkgKoArECxQLKAtUC3gL0AvgDBQMOAxMDJgMpAzwDPgNFA0oDTANOA1ADUgNXA1kDWwNdA18DYQNlA2sDcAN2A38DiAORA5oDnwOiA7MDvgPLA9cD7AQOBCAEMgQ0BDYEOAQ6BDwERQROBFMEVARWBFsEYwRmBGsEhQSJBJwEpQSqBL8EwgTXBOkE7ATxAAAAAAAAAgEAAAAAAAAAfwAAAAAAAAAAAAAAAAAABPM="
-    }
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.082353,
+            "green": 0.094118,
+            "red": 0.121569
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "KozGoPr6N-Regular",
+              "size": 14.00009759188977
+            }
+          },
+          "MSAttributedStringTextTransformAttribute": 0,
+          "kerning": 1.68,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "maximumLineHeight": 24.01177738131403,
+            "minimumLineHeight": 24.01177738131403,
+            "paragraphSpacing": 1
+          },
+          "strikethroughStyle": 0,
+          "underlineStyle": 0
+        },
+        "length": 90,
+        "location": 0
+      }
+    ],
+    "string": "（1）試料10mg＋本製品100μl （2）ボルテックスで撹拌 （3）100℃で10分間加温 （4）氷中で1分間冷却 （5）15,000×g、1分間、室温で遠心 （6）上澄みを回収"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "F8278C55-3F55-42CC-9838-7D0A5AE7B1CF",

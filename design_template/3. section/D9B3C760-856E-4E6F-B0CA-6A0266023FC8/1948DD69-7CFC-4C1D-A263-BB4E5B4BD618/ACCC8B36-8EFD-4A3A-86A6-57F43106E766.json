@@ -1,10 +1,42 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "MSAttributedString",
-    "archivedAttributedString": {
-      "_archive": "YnBsaXN0MDDUAQIDBAUGentYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QJAcIDxAkJSYnKCkqKy83ODk6O0JGR1NUVVZXWFlaW11rbnF1dlUkbnVsbNMJCgsMDQ5YTlNTdHJpbmdWJGNsYXNzXE5TQXR0cmlidXRlc4ACgCOAA28QEVSMa0xccXcM/x55Xnk+MPtb+pZi/x5xipHOkB9ziVkneT7TERIKExsjV05TLmtleXNaTlMub2JqZWN0c6cUFRYXGBkagASABYAGgAeACIAJgAqnHB0dHSAhIoALgBOAE4ATgBSAHoAigB1fEB9NU0F0dHJpYnV0ZWRTdHJpbmdGb250QXR0cmlidXRlXxAPTlNTdHJpa2V0aHJvdWdoW05TVW5kZXJsaW5lXxAoTVNBdHRyaWJ1dGVkU3RyaW5nVGV4dFRyYW5zZm9ybUF0dHJpYnV0ZV8QKk1TQXR0cmlidXRlZFN0cmluZ0NvbG9yRGljdGlvbmFyeUF0dHJpYnV0ZV8QEE5TUGFyYWdyYXBoU3R5bGVWTlNLZXJu0gosLS5fEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4ASgAzTERIKMDM2ojEygA2ADqI0NYAPgBCAEV8QE05TRm9udFNpemVBdHRyaWJ1dGVfEBNOU0ZvbnROYW1lQXR0cmlidXRlI0AsAAAAAAAAXxAPSGlyYUtha3VQcm9OLVcz0jw9Pj9aJGNsYXNzbmFtZVgkY2xhc3Nlc18QE05TTXV0YWJsZURpY3Rpb25hcnmjPkBBXE5TRGljdGlvbmFyeVhOU09iamVjdNI8PUNEXxAQTlNGb250RGVzY3JpcHRvcqJFQV8QEE5TRm9udERlc2NyaXB0b3IQANMREgpITSOkSUpLTIAVgBaAF4AYpE5PUFGAGYAagBuAHIAdU3JlZFVhbHBoYVRibHVlVWdyZWVuIz/g8PFvQ4S6Iz/wAAAAAAAAIz/gkJBw++ueIz/gkJBw++ue0jw9QFyiQEHYCl5fYGFiY2RlZmdnWGlqalpOU1RhYlN0b3BzXE5TVGV4dEJsb2Nrc1tOU1RleHRMaXN0c18QEk5TUGFyYWdyYXBoU3BhY2luZ18QH05TQWxsb3dzVGlnaHRlbmluZ0ZvclRydW5jYXRpb25fEA9OU01heExpbmVIZWlnaHRfEA9OU01pbkxpbmVIZWlnaHSAIYAAgB+AHxABI0BCAAAAAAAA0hIKbG2ggCDSPD1vcFdOU0FycmF5om9B0jw9cnNfEBdOU011dGFibGVQYXJhZ3JhcGhTdHlsZaNydEFfEBBOU1BhcmFncmFwaFN0eWxlIwAAAAAAAAAA0jw9d3hfEBJOU0F0dHJpYnV0ZWRTdHJpbmeieUFfEBJOU0F0dHJpYnV0ZWRTdHJpbmdfEA9OU0tleWVkQXJjaGl2ZXLRfH1Ucm9vdIABAAgAEQAaACMALQAyADcAXgBkAGsAdAB7AIgAigCMAI4AswC6AMIAzQDVANcA2QDbAN0A3wDhAOMA6wDtAO8A8QDzAPUA9wD5APsBHQEvATsBZgGTAaYBrQGyAc8B0QHTAdoB3QHfAeEB5AHmAegB6gIAAhYCHwIxAjYCQQJKAmACZAJxAnoCfwKSApUCqAKqArECtgK4AroCvAK+AsMCxQLHAskCywLNAtEC1wLcAuIC6wL0Av0DBgMLAw4DHwMqAzcDQwNYA3oDjAOeA6ADogOkA6YDqAOxA7YDtwO5A74DxgPJA84D6APsA/8ECAQNBCIEJQQ6BEwETwRUAAAAAAAAAgEAAAAAAAAAfgAAAAAAAAAAAAAAAAAABFY="
-    }
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.517647,
+            "green": 0.517647,
+            "red": 0.529412
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "HiraKakuProN-W3",
+              "size": 14
+            }
+          },
+          "MSAttributedStringTextTransformAttribute": 0,
+          "kerning": 0,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "maximumLineHeight": 36,
+            "minimumLineHeight": 36,
+            "paragraphSpacing": 1
+          },
+          "strikethroughStyle": 0,
+          "underlineStyle": 0
+        },
+        "length": 17,
+        "location": 0
+      }
+    ],
+    "string": "和歌山県＞神社・寺院＞熊野速玉大社"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "ACCC8B36-8EFD-4A3A-86A6-57F43106E766",

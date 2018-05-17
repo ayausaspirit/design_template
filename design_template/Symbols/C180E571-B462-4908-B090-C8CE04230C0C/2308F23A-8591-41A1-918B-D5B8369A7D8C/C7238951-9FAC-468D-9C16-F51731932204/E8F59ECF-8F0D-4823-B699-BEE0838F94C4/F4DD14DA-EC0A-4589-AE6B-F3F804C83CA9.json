@@ -1,10 +1,88 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "MSAttributedString",
-    "archivedAttributedString": {
-      "_archive": "YnBsaXN0MDDUAQIDBAUGxMVYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QMQcIERIZJCUmJzM0NTY3ODk6O0FFTU5PUFFUWGNncX1+f4CDi4yPmaWmp6irs7S4vMBVJG51bGzUCQoLDA0ODxBYTlNTdHJpbmdfEA9OU0F0dHJpYnV0ZUluZm9cTlNBdHRyaWJ1dGVzViRjbGFzc4ACgC6AA4AwbAAyADAAMQA3AC0AMAAyAC0AMAA1MAAACtITDBQYWk5TLm9iamVjdHOjFRYXgASAHIAlgC3TGhMMGx8jV05TLmtleXOjHB0egAWABoAHoyAhIoAIgBKAGoARXxAqTVNBdHRyaWJ1dGVkU3RyaW5nQ29sb3JEaWN0aW9uYXJ5QXR0cmlidXRlXxAfTVNBdHRyaWJ1dGVkU3RyaW5nRm9udEF0dHJpYnV0ZV8QEE5TUGFyYWdyYXBoU3R5bGXTGhMMKC0jpCkqKyyACYAKgAuADKQuLzAxgA2ADoAPgBCAEVNyZWRVYWxwaGFUYmx1ZVVncmVlbiM/5PT09PT09SM/8AAAAAAAACM/5TU1NTU1NSM/5PT09PT09dI8PT4/WiRjbGFzc25hbWVYJGNsYXNzZXNcTlNEaWN0aW9uYXJ5oj5AWE5TT2JqZWN00gxCQ0RfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AZgBPTGhMMRklMokdIgBSAFaJKS4AWgBeAGF8QE05TRm9udFNpemVBdHRyaWJ1dGVfEBNOU0ZvbnROYW1lQXR0cmlidXRlI0AoAAAAAAAAW1l1R28tTWVkaXVt0jw9UlNfEBNOU011dGFibGVEaWN0aW9uYXJ5o1I+QNI8PVVWXxAQTlNGb250RGVzY3JpcHRvcqJXQF8QEE5TRm9udERlc2NyaXB0b3LWWVpbDFxdXl9gYWJgW05TQWxpZ25tZW50Wk5TVGFiU3RvcHNfEA9OU01pbkxpbmVIZWlnaHRfEB9OU0FsbG93c1RpZ2h0ZW5pbmdGb3JUcnVuY2F0aW9uXxAPTlNNYXhMaW5lSGVpZ2h0EASAACNANAAAAAAAAIAbEAHSPD1kZV8QF05TTXV0YWJsZVBhcmFncmFwaFN0eWxlo2RmQF8QEE5TUGFyYWdyYXBoU3R5bGXTGhMMaGwjoxwdHoAFgAaAB6Ntbm+AHYAhgCSAEdMaEwxydyOkKSorLIAJgAqAC4AMpHgvenuAHoAOgB+AIIARIz/k9PT09PT1Iz/lNTU1NTU1Iz/k9PT09PT10gxCQ4KAGYAi0xoTDISHTKJHSIAUgBWiSomAFoAjgBhfEA9IaXJhZ2lub1NhbnMtVzPWWVpbDFxdXl9gYWJggACAG9MaEwyQlCOjHB0egAWABoAHo5WWb4AmgCqAJIAR0xoTDJqfI6QpKissgAmACoALgAykoC+io4AngA6AKIApgBEjP8mZmZmZmZojP8mZmZmZmZojP8mZmZmZmZrSDEJDqoAZgCvTGhMMrK9MokdIgBSAFaJKsYAWgCyAGFlZdUdvLUJvbGTSPD21tl5OU011dGFibGVBcnJheaO1t0BXTlNBcnJhedK5DLq7V05TLmRhdGFGCgABAQECgC/SPD29vl1OU011dGFibGVEYXRho72/QFZOU0RhdGHSPD3Bwl8QEk5TQXR0cmlidXRlZFN0cmluZ6LDQF8QEk5TQXR0cmlidXRlZFN0cmluZ18QD05TS2V5ZWRBcmNoaXZlctHGx1Ryb290gAEACAARABoAIwAtADIANwBrAHEAegCDAJUAogCpAKsArQCvALEAygDPANoA3gDgAOIA5ADmAO0A9QD5APsA/QD/AQMBBQEHAQkBCwE4AVoBbQF0AXkBewF9AX8BgQGGAYgBigGMAY4BkAGUAZoBnwGlAa4BtwHAAckBzgHZAeIB7wHyAfsCAAIdAh8CIQIoAisCLQIvAjICNAI2AjgCTgJkAm0CeQJ+ApQCmAKdArACswLGAtMC3wLqAvwDHgMwAzIDNAM9Az8DQQNGA2ADZAN3A34DggOEA4YDiAOMA44DkAOSA5QDmwOgA6IDpAOmA6gDrQOvA7EDswO1A7cDwAPJA9ID1wPZA9sD4gPlA+cD6QPsA+4D8APyBAQEEQQTBBUEHAQgBCIEJAQmBCoELAQuBDAEMgQ5BD4EQARCBEQERgRLBE0ETwRRBFMEVQReBGcEcAR1BHcEeQSABIMEhQSHBIoEjASOBJAEmgSfBK4EsgS6BL8ExwTOBNAE1QTjBOcE7gTzBQgFCwUgBTIFNQU6AAAAAAAAAgEAAAAAAAAAyAAAAAAAAAAAAAAAAAAABTw="
-    }
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.6627450980392157,
+            "green": 0.6549019607843137,
+            "red": 0.6549019607843137
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "YuGo-Medium",
+              "size": 12
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "maximumLineHeight": 20,
+            "minimumLineHeight": 20
+          }
+        },
+        "length": 10,
+        "location": 0
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.6627450980392157,
+            "green": 0.6549019607843137,
+            "red": 0.6549019607843137
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "HiraginoSans-W3",
+              "size": 12
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "maximumLineHeight": 20,
+            "minimumLineHeight": 20
+          }
+        },
+        "length": 1,
+        "location": 10
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.2,
+            "green": 0.2,
+            "red": 0.2
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "YuGo-Bold",
+              "size": 12
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "maximumLineHeight": 20,
+            "minimumLineHeight": 20
+          }
+        },
+        "length": 1,
+        "location": 11
+      }
+    ],
+    "string": "2017-02-05　\n"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "F4DD14DA-EC0A-4589-AE6B-F3F804C83CA9",
@@ -65,17 +143,24 @@
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
-        "MSAttributedStringColorDictionaryAttribute": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
           "alpha": 1,
           "blue": 0.6627450980392157,
           "green": 0.6549019607843137,
           "red": 0.6549019607843137
         },
         "MSAttributedStringFontAttribute": {
-          "_archive": "YnBsaXN0MDDUAQIDBAUGJidYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKkHCA0XGBkaGyJVJG51bGzSCQoLDFYkY2xhc3NfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AIgALTDg8JEBMWV05TLmtleXNaTlMub2JqZWN0c6IREoADgASiFBWABYAGgAdfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNAKAAAAAAAAFtZdUdvLU1lZGl1bdIcHR4fWiRjbGFzc25hbWVYJGNsYXNzZXNfEBNOU011dGFibGVEaWN0aW9uYXJ5ox4gIVxOU0RpY3Rpb25hcnlYTlNPYmplY3TSHB0jJF8QEE5TRm9udERlc2NyaXB0b3KiJSFfEBBOU0ZvbnREZXNjcmlwdG9yXxAPTlNLZXllZEFyY2hpdmVy0SgpVHJvb3SAAQAIABEAGgAjAC0AMgA3AEEARwBMAFMAcAByAHQAewCDAI4AkQCTAJUAmACaAJwAngC0AMoA0wDfAOQA7wD4AQ4BEgEfASgBLQFAAUMBVgFoAWsBcAAAAAAAAAIBAAAAAAAAACoAAAAAAAAAAAAAAAAAAAFy"
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "YuGo-Medium",
+            "size": 12
+          }
         },
         "paragraphStyle": {
-          "_archive": "YnBsaXN0MDDUAQIDBAUGGxxYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKMHCBRVJG51bGzWCQoLDA0ODxAREhMRW05TQWxpZ25tZW50Wk5TVGFiU3RvcHNfEA9OU01pbkxpbmVIZWlnaHRWJGNsYXNzXxAfTlNBbGxvd3NUaWdodGVuaW5nRm9yVHJ1bmNhdGlvbl8QD05TTWF4TGluZUhlaWdodBAEgAAjQDQAAAAAAACAAhAB0hUWFxhaJGNsYXNzbmFtZVgkY2xhc3Nlc18QF05TTXV0YWJsZVBhcmFncmFwaFN0eWxloxcZGl8QEE5TUGFyYWdyYXBoU3R5bGVYTlNPYmplY3RfEA9OU0tleWVkQXJjaGl2ZXLRHR5Ucm9vdIABAAgAEQAaACMALQAyADcAOwBBAE4AWgBlAHcAfgCgALIAtAC2AL8AwQDDAMgA0wDcAPYA+gENARYBKAErATAAAAAAAAACAQAAAAAAAAAfAAAAAAAAAAAAAAAAAAABMg=="
+          "_class": "paragraphStyle",
+          "maximumLineHeight": 20,
+          "minimumLineHeight": 20
         }
       },
       "verticalAlignment": 0

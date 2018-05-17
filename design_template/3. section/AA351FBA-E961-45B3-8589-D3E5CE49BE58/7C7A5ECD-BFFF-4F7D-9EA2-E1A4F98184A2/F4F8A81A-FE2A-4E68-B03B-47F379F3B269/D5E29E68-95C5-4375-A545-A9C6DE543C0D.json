@@ -1,10 +1,202 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "MSAttributedString",
-    "archivedAttributedString": {
-      "_archive": "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7AMCAwsDGgMjAy4DNwNNA1QDYQNqA3MDhgOLA54DoAOtA7YDuAO6A7wDvgPHA8kDywPNA88D0QPVA9sD4APmA+8D+AQBBAoEEwQYBD0ESARVBGEEdgSIBKoEvATIBMoEzATOBNAE2QTbBOQE5gTvBPAE8gT7BQMFCAURBSsFMgVFBU4FWwVqBWwFbgVwBXIFdAV2BXgFhwWJBYsFjQWPBZEFkwWVBZcFoAWiBaQFsQW2BbgFugW/BcEFwwXFBc4F2wXkBeYF6AXqBewF9QX3BfkF+wX9Bf8GCAYRBhoGPwZBBkMGRQZHBlAGWQZiBm8GfgaABoIGhAaGBogGigaMBpsGnQafBqEGowalBqcGqQarBrQGtga4BsUGygbMBs4G0wbVBtcG2QbmBu8G8QbzBvUG9wcABwIHBAcGBwgHCgcTBxwHQQdDB0UHRwdJB1IHWwdoB3cHeQd7B30HfweBB4MHhQeUB5YHmAeaB5wHngegB6IHpAetB68HsQe+B8MHxQfHB8wHzgfQB9IH3wfoB+oH7AfuB/AH+Qf7B/0H/wgBCAMIDAgxCDMINQg3CDkIQghLCFgIZwhpCGsIbQhvCHEIcwh1CIQIhgiICIoIjAiOCJAIkgiUCJ0InwihCK4Iswi1CLcIvAi+CMAIwgjPCNgI2gjcCN4I4AjpCOsI7QjvCPEI8wj8CQUJDgkzCTUJNwk5CTsJRAlNCVYJZQlsCXUJfQmKCYwJlQmjCaoJsQm6Cc8J1AnpCfsKAAoFAAAAAAAAAgIAAAAAAAABYQAAAAAAAAAAAAAAAAAACgc="
-    }
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.2,
+            "green": 0.2,
+            "red": 0.2
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "KozGoPr6N-Bold",
+              "size": 20.01233470947009
+            }
+          },
+          "MSAttributedStringTextTransformAttribute": 0,
+          "kerning": 0.50027475,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 2,
+            "maximumLineHeight": 28.01727259352693,
+            "minimumLineHeight": 28.01727259352693,
+            "paragraphSpacing": 1
+          },
+          "strikethroughStyle": 0,
+          "underlineStyle": 0
+        },
+        "length": 5,
+        "location": 0
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.2,
+            "green": 0.2,
+            "red": 0.2
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "KozGoPr6N-Bold",
+              "size": 16.00987576811366
+            }
+          },
+          "MSAttributedStringTextTransformAttribute": 0,
+          "kerning": 0.40022,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 2,
+            "maximumLineHeight": 28.01727259352693,
+            "minimumLineHeight": 28.01727259352693,
+            "paragraphSpacing": 1
+          },
+          "strikethroughStyle": 0,
+          "underlineStyle": 0
+        },
+        "length": 10,
+        "location": 5
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.2,
+            "green": 0.2,
+            "red": 0.2
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "KozGoPr6N-Bold",
+              "size": 20.01233470947009
+            }
+          },
+          "MSAttributedStringTextTransformAttribute": 0,
+          "kerning": 0.50027475,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 2,
+            "maximumLineHeight": 28.01727259352693,
+            "minimumLineHeight": 28.01727259352693,
+            "paragraphSpacing": 1
+          },
+          "strikethroughStyle": 0,
+          "underlineStyle": 0
+        },
+        "length": 4,
+        "location": 15
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0,
+            "green": 0,
+            "red": 0.941176
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "KozGoPr6N-Bold",
+              "size": 20.01233470947009
+            }
+          },
+          "MSAttributedStringTextTransformAttribute": 0,
+          "kerning": 0.50027475,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 2,
+            "maximumLineHeight": 28.01727259352693,
+            "minimumLineHeight": 28.01727259352693,
+            "paragraphSpacing": 1
+          },
+          "strikethroughStyle": 0,
+          "underlineStyle": 0
+        },
+        "length": 7,
+        "location": 19
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0,
+            "green": 0,
+            "red": 0.941176
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "KozGoPr6N-Bold",
+              "size": 20.01233470947009
+            }
+          },
+          "MSAttributedStringTextTransformAttribute": 0,
+          "kerning": 0.50027475,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 2,
+            "maximumLineHeight": 22.98745461977422,
+            "minimumLineHeight": 22.98745461977422,
+            "paragraphSpacing": 1
+          },
+          "strikethroughStyle": 0,
+          "underlineStyle": 0
+        },
+        "length": 3,
+        "location": 26
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.2,
+            "green": 0.2,
+            "red": 0.2
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "KozGoPr6N-Bold",
+              "size": 20.01233470947009
+            }
+          },
+          "MSAttributedStringTextTransformAttribute": 0,
+          "kerning": 0.50027475,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 2,
+            "maximumLineHeight": 22.98745461977422,
+            "minimumLineHeight": 22.98745461977422,
+            "paragraphSpacing": 1
+          },
+          "strikethroughStyle": 0,
+          "underlineStyle": 0
+        },
+        "length": 1,
+        "location": 29
+      }
+    ],
+    "string": "防災グッツ等や 当協会が主催のイベント 特別価格にてご提供 "
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "D5E29E68-95C5-4375-A545-A9C6DE543C0D",

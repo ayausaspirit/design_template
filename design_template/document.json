@@ -16,7 +16,11 @@
   },
   "colorSpace": 0,
   "do_objectID": "6b596760-58e0-11e8-a612-6569d69f652b",
+  "foreignLayerStyles": [
+  ],
   "foreignSymbols": [
+  ],
+  "foreignTextStyles": [
   ],
   "layerSymbols": {
     "_class": "symbolContainer",
@@ -24,9 +28,9 @@
     ]
   },
   "meta": {
-    "appVersion": "49.3",
-    "build": 51167,
-    "version": 101
+    "appVersion": "50",
+    "build": 54983,
+    "version": 103
   },
   "pages": [
     "1. Read me",

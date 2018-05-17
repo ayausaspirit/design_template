@@ -1,10 +1,42 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "MSAttributedString",
-    "archivedAttributedString": {
-      "_archive": "YnBsaXN0MDDUAQIDBAUGfH1YJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QJAcIDxAkJSYnKCkqKy83ODk6O0JGR1NUVVZXWFlaW11tcHN3eFUkbnVsbNMJCgsMDQ5YTlNTdHJpbmdWJGNsYXNzXE5TQXR0cmlidXRlc4ACgCOAA28QGmnYMAUwaopmZZkwSzCJfCFTWDBrICkARABOAEEwkmK9UfowWTCLimaFrDCtMMMwyCApICnTERIKExsjV05TLmtleXNaTlMub2JqZWN0c6cUFRYXGBkagASABYAGgAeACIAJgAqnHB0dHSAhIoALgBOAE4ATgBSAHoAigB1fEB9NU0F0dHJpYnV0ZWRTdHJpbmdGb250QXR0cmlidXRlXxAPTlNTdHJpa2V0aHJvdWdoW05TVW5kZXJsaW5lXxAoTVNBdHRyaWJ1dGVkU3RyaW5nVGV4dFRyYW5zZm9ybUF0dHJpYnV0ZV8QKk1TQXR0cmlidXRlZFN0cmluZ0NvbG9yRGljdGlvbmFyeUF0dHJpYnV0ZV8QEE5TUGFyYWdyYXBoU3R5bGVWTlNLZXJu0gosLS5fEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4ASgAzTERIKMDM2ojEygA2ADqI0NYAPgBCAEV8QE05TRm9udFNpemVBdHRyaWJ1dGVfEBNOU0ZvbnROYW1lQXR0cmlidXRlI0A+AAAAAAAAXxARS296R29QcjZOLVJlZ3VsYXLSPD0+P1okY2xhc3NuYW1lWCRjbGFzc2VzXxATTlNNdXRhYmxlRGljdGlvbmFyeaM+QEFcTlNEaWN0aW9uYXJ5WE5TT2JqZWN00jw9Q0RfEBBOU0ZvbnREZXNjcmlwdG9yokVBXxAQTlNGb250RGVzY3JpcHRvchAA0xESCkhNI6RJSktMgBWAFoAXgBikTk9QUYAZgBqAG4AcgB1TcmVkVWFscGhhVGJsdWVVZ3JlZW4jP8mZmZmZmZojP/AAAAAAAAAjP8mZmZmZmZojP8mZmZmZmZrSPD1AXKJAQdkKXl9gYWJjZGVmZ2hoWGpramxaTlNUYWJTdG9wc1xOU1RleHRCbG9ja3NbTlNUZXh0TGlzdHNfEBJOU1BhcmFncmFwaFNwYWNpbmdfEA9OU01heExpbmVIZWlnaHRfEB9OU0FsbG93c1RpZ2h0ZW5pbmdGb3JUcnVuY2F0aW9uXxAPTlNNaW5MaW5lSGVpZ2h0W05TQWxpZ25tZW50gCGAAIAfgB8jQEQAAAAAAAAQARAC0hIKbm+ggCDSPD1xcldOU0FycmF5onFB0jw9dHVfEBdOU011dGFibGVQYXJhZ3JhcGhTdHlsZaN0dkFfEBBOU1BhcmFncmFwaFN0eWxlI0AMzMzMzMzN0jw9eXpfEBJOU0F0dHJpYnV0ZWRTdHJpbmeie0FfEBJOU0F0dHJpYnV0ZWRTdHJpbmdfEA9OU0tleWVkQXJjaGl2ZXLRfn9Ucm9vdIABAAgAEQAaACMALQAyADcAXgBkAGsAdAB7AIgAigCMAI4AxQDMANQA3wDnAOkA6wDtAO8A8QDzAPUA/QD/AQEBAwEFAQcBCQELAQ0BLwFBAU0BeAGlAbgBvwHEAeEB4wHlAewB7wHxAfMB9gH4AfoB/AISAigCMQJFAkoCVQJeAnQCeAKFAo4CkwKmAqkCvAK+AsUCygLMAs4C0ALSAtcC2QLbAt0C3wLhAuUC6wLwAvYC/wMIAxEDGgMfAyIDNQNAA00DWQNuA4ADogO0A8ADwgPEA8YDyAPRA9MD1QPaA9sD3QPiA+oD7QPyBAwEEAQjBCwEMQRGBEkEXgRwBHMEeAAAAAAAAAIBAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAR6"
-    }
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.2,
+            "green": 0.2,
+            "red": 0.2
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "KozGoPr6N-Regular",
+              "size": 30
+            }
+          },
+          "MSAttributedStringTextTransformAttribute": 0,
+          "kerning": 3.6,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 2,
+            "maximumLineHeight": 40,
+            "minimumLineHeight": 40,
+            "paragraphSpacing": 1
+          },
+          "strikethroughStyle": 0,
+          "underlineStyle": 0
+        },
+        "length": 26,
+        "location": 0
+      }
+    ],
+    "string": "様々な試料から簡単に DNAを抽出する試薬キット  "
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "CD0C0420-4935-46C6-A849-D7C25A241461",
